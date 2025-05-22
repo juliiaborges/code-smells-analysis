@@ -7,7 +7,7 @@ import logging
 from datetime import datetime
 
 # Configurações
-GITHUB_TOKEN = "SUA_CHAVE_API_GITHUB_AQUI"  # Substitua pela sua chave API GitHub
+GITHUB_TOKEN = "COLOCA_O_TOKEN_ARROMBADO"  # Substitua pela sua chave API GitHub
 REPOS_DIR = "../data/repositories"
 LOGS_DIR = "../data/clone_logs"
 NUM_REPOS_TO_CLONE = 10

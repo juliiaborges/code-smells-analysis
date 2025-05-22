@@ -1,0 +1,15 @@
+{
+  "repository": "TheAlgorithms_Java",
+  "code_smells": {
+    "God Class": 1,
+    "Long Method": 2,
+    "Feature Envy": 0,
+    "Data Class": 0,
+    "Duplicated Code": 0,
+    "Primitive Obsession": 0,
+    "Long Parameter List": 0,
+    "Shotgun Surgery": 0,
+    "Speculative Generality": 0
+  },
+  "total_smells": 3
+}
