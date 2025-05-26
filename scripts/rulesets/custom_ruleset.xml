@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ruleset name="Custom Ruleset"
+         xmlns="https://pmd.github.io/pmd-7.0.0/ruleset"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://pmd.github.io/pmd-7.0.0/ruleset
+                             https://pmd.github.io/pmd-7.0.0/ruleset_7_0_0.xsd">
+
+    <description>
+        Custom ruleset for Java code smell analysis in academic project.
+    </description>
+
+
+    <!-- Empty Catch Block -->
+    <rule ref="category/java/errorprone.xml/EmptyCatchBlock" />
+
+    <!-- Unused Imports -->
+    <rule ref="category/java/codestyle.xml/UnnecessaryImport" />
+
+    <!-- Unused Local Variables --> 
+    <rule ref="category/java/codestyle.xml/UnnecessaryLocalBeforeReturn" />
+
+    <!-- Cyclomatic Complexity -->
+    <rule ref="category/java/design.xml/CyclomaticComplexity" />
+
+    <!-- God Class -->
+    <rule ref="category/java/design.xml/GodClass" />
+
+    <!-- Naming Conventions -->
+    <rule ref="category/java/codestyle.xml/ClassNamingConventions" />
+
+    <!-- Empty Control Statement -->
+    <rule ref="category/java/codestyle.xml/EmptyControlStatement" />
+
+    <!-- Too Many Fields -->
+    <rule ref="category/java/design.xml/TooManyFields" />
+
+    <!-- Too Many Methods -->
+    <rule ref="category/java/design.xml/TooManyMethods" />
+
+</ruleset>

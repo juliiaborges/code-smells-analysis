@@ -1,0 +1,15 @@
+{
+  "repository": "spring-projects_spring-boot",
+  "code_smells": {
+    "Empty Catch Block": 45,
+    "Unnecessary Import (Unused Imports)": 0,
+    "Unnecessary Local Before Return (Unused Local Variables)": 0,
+    "Cyclomatic Complexity": 11,
+    "God Class": 14,
+    "Class Naming Conventions": 0,
+    "Empty Control Statement": 0,
+    "Too Many Fields": 5,
+    "Too Many Methods": 234
+  },
+  "total_smells": 309
+}
