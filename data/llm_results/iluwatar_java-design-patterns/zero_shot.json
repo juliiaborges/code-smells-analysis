@@ -1,0 +1,15 @@
+{
+  "repository": "iluwatar_java-design-patterns",
+  "code_smells": {
+    "Empty Catch Block": 0,
+    "Unnecessary Import (Unused Imports)": 0,
+    "Unnecessary Local Before Return (Unused Local Variables)": 57,
+    "Cyclomatic Complexity": 2952,
+    "God Class": 1,
+    "Class Naming Conventions": 298,
+    "Empty Control Statement": 0,
+    "Too Many Fields": 0,
+    "Too Many Methods": 1
+  },
+  "total_smells": 3309
+}

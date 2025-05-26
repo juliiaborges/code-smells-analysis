@@ -1,0 +1,15 @@
+{
+  "repository": "dbeaver_dbeaver",
+  "code_smells": {
+    "Empty Catch Block": 20,
+    "Unnecessary Import (Unused Imports)": 0,
+    "Unnecessary Local Before Return (Unused Local Variables)": 1181,
+    "Cyclomatic Complexity": 58707,
+    "God Class": 466,
+    "Class Naming Conventions": 200,
+    "Empty Control Statement": 9,
+    "Too Many Fields": 1498,
+    "Too Many Methods": 483
+  },
+  "total_smells": 62564
+}

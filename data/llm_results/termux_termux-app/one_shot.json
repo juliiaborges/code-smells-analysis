@@ -1,0 +1,15 @@
+{
+  "repository": "termux_termux-app",
+  "code_smells": {
+    "Empty Catch Block": 4,
+    "Unnecessary Import (Unused Imports)": 0,
+    "Unnecessary Local Before Return (Unused Local Variables)": 34,
+    "Cyclomatic Complexity": 6118,
+    "God Class": 27,
+    "Class Naming Conventions": 55,
+    "Empty Control Statement": 0,
+    "Too Many Fields": 77,
+    "Too Many Methods": 29
+  },
+  "total_smells": 6344
+}
