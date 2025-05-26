@@ -1,0 +1,1374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.23.1">
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\bytes\BytesArrayReadLongBenchmark.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\bytes\BytesArrayReadVLongBenchmark.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\bytes\PagedBytesReferenceReadLongBenchmark.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\bytes\PagedBytesReferenceReadVIntBenchmark.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\bytes\PagedBytesReferenceReadVLongBenchmark.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\common\util\IntArrayBenchmark.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\compute\operator\AggregatorBenchmark.java">
+<error line="66" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 20 classes [AggregationOperator, AssertionError, Block, BlockHash.GroupSpec, BytesRef, CountDistinctDoubleAggregatorFunctionSupplier, CountDistinctLongAggregatorFunctionSupplier, DriverContext, EvalOperator.ExpressionEvaluator, FilteredAggregatorFunctionSupplier, HashAggregationOperator, MaxDoubleAggregatorFunctionSupplier, MaxLongAggregatorFunctionSupplier, MinDoubleAggregatorFunctionSupplier, MinLongAggregatorFunctionSupplier, NoopCircuitBreaker, OrdinalBytesRefVector, Page, SumDoubleAggregatorFunctionSupplier, SumLongAggregatorFunctionSupplier] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="66" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 44 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="163" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="200" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="248" column="5" severity="warning" message="A complexidade ciclomática é de 37 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="384" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="433" column="5" severity="warning" message="A complexidade ciclomática é de 20 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="560" column="5" severity="warning" message="A complexidade ciclomática é de 22 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\compute\operator\BlockBenchmark.java">
+<error line="42" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 15 classes [BitArray, BitSet, Block, BooleanBigArrayBlock, BooleanBigArrayVector, BytesRef, BytesRefArray, DoubleBigArrayBlock, DoubleBigArrayVector, IntBigArrayBlock, IntBigArrayVector, LongBigArrayBlock, LongBigArrayVector, NoopCircuitBreaker, Random] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="42" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 24 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="94" column="5" severity="warning" message="A complexidade ciclomática é de 63 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\compute\operator\BlockKeepMaskBenchmark.java">
+<error line="37" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="73" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\compute\operator\BlockReadBenchmark.java">
+<error line="21" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="72" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="112" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\compute\operator\EvalBenchmark.java">
+<error line="80" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 25 classes [Abs, Add, AssertionError, BytesRef, Case, Coalesce, Configuration, DateTrunc, DriverContext, Equals, EsField, EvalOperator, FieldAttribute, Layout.Builder, LessThan, Literal, MvMin, NoopCircuitBreaker, OrdinalBytesRefVector, Page, RLike, RLikePattern, RoundTo, ToLower, ToUpper] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="80" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 47 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="150" column="5" severity="warning" message="A complexidade ciclomática é de 28 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="362" column="5" severity="warning" message="A complexidade ciclomática é de 63 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="580" column="5" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\compute\operator\MultivalueDedupeBenchmark.java">
+<error line="65" column="5" severity="warning" message="A complexidade ciclomática é de 31 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\compute\operator\ParseIpBenchmark.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\compute\operator\TopNBenchmark.java">
+<error line="47" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 24 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="93" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="147" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\compute\operator\ValuesAggregatorBenchmark.java">
+<error line="60" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 12 classes [AggregationOperator, AssertionError, BlockHash.GroupSpec, BytesRef, DriverContext, HashAggregationOperator, NoopCircuitBreaker, OrdinalBytesRefVector, Page, ValuesBytesRefAggregatorFunctionSupplier, ValuesIntAggregatorFunctionSupplier, ValuesLongAggregatorFunctionSupplier] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="60" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 34 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="153" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\compute\operator\ValuesSourceReaderBenchmark.java">
+<error line="79" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 22 classes [AssertionError, ByteBuffersDirectory, BytesRef, BytesRefVector, DocVector, FieldType, IndexWriter, IndexWriterConfig, ItrAndOrd, KeywordFieldMapper.Builder, KeywordFieldMapper.KeywordField, KeywordFieldMapper.KeywordFieldType, MappedFieldType.BlockLoaderContext, NoopCircuitBreaker, NumberFieldMapper.NumberFieldType, NumericDocValuesField, Page, StoredField, ValuesSourceReaderOperator, ValuesSourceReaderOperator.FieldInfo, ValuesSourceReaderOperator.ShardContext, WhereAndBaseName] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="79" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 54 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="332" column="5" severity="warning" message="A complexidade ciclomática é de 23 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="465" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\esql\QueryPlanningBenchmark.java">
+<error line="57" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 16 classes [Analyzer, AnalyzerContext, Configuration, EnrichResolution, EsField, EsIndex, EsqlFunctionRegistry, EsqlParser, LogicalOptimizerContext, LogicalPlanOptimizer, Metrics, PlanTelemetry, QueryParams, QueryPragmas, Verifier, XPackLicenseState] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="57" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 26 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\fs\AvailableIndexFoldersBenchmark.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\h3\H3Benchmark.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\h3\H3State.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\index\codec\tsdb\DecodeConstantIntegerBenchmark.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\index\codec\tsdb\DecodeDecreasingIntegerBenchmark.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\index\codec\tsdb\DecodeIncreasingIntegerBenchmark.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\index\codec\tsdb\DecodeNonSortedIntegerBenchmark.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\index\codec\tsdb\EncodeConstantIntegerBenchmark.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\index\codec\tsdb\EncodeDecreasingIntegerBenchmark.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\index\codec\tsdb\EncodeIncreasingIntegerBenchmark.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\index\codec\tsdb\EncodeNonSortedIntegerBenchmark.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\index\codec\tsdb\internal\AbstractDocValuesForUtilBenchmark.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\index\codec\tsdb\internal\AbstractLongArraySupplier.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\index\codec\tsdb\internal\ConstantIntegerSupplier.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\index\codec\tsdb\internal\DecodeBenchmark.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\index\codec\tsdb\internal\DecreasingIntegerSupplier.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\index\codec\tsdb\internal\EncodeBenchmark.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\index\codec\tsdb\internal\IncreasingIntegerSupplier.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\index\codec\tsdb\internal\NonSortedIntegerSupplier.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\index\codec\tsdb\TSDBDocValuesMergeBenchmark.java">
+<error line="56" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 17 classes [BytesRef, Document, ES819TSDBDocValuesFormat, Elasticsearch900Lucene101Codec, IndexWriter, IndexWriterConfig, LogByteSizeMergePolicy, OptionsBuilder, Random, Runner, Sort, SortField, SortedDocValuesField, SortedNumericDocValuesField, SortedNumericSortField, SortedSetDocValuesField, StandardAnalyzer] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="56" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 34 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="202" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\index\mapper\BeatsMapperBenchmark.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\index\mapper\DynamicMapperBenchmark.java">
+<error line="72" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\index\mapper\KeywordFieldMapperBenchmark.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\index\mapper\MapperServiceFactory.java">
+<error line="43" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 13 classes [BitsetFilterCache, CompressedXContent, IndexSettings, IndicesModule, LowercaseNormalizer, MapperService, NamedAnalyzer, NamedXContentRegistry, ProvidedIdFieldMapper, ScriptCompiler, SimilarityService, StandardAnalyzer, UncheckedIOException] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\indices\breaker\MemoryStatsBenchmark.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\indices\common\RoundingBenchmark.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\indices\resolution\IndexNameExpressionResolverBenchmark.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\routing\allocation\AllocationBenchmark.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\routing\allocation\Allocators.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\routing\allocation\ShardsAvailabilityHealthIndicatorBenchmark.java">
+<error line="61" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 29 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\routing\allocation\TestShardRoutingRoleStrategies.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\script\ScriptScoreBenchmark.java">
+<error line="72" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 16 classes [AssertionError, IndexFieldDataCache.None, IndexSearcher, IndexWriter, IndexWriterConfig, MMapDirectory, MatchAllDocsQuery, NoneCircuitBreakerService, NumberFieldType, PluginsService, ScoreScript, ScoreScript.LeafFactory, ScriptModule, ScriptScoreQuery, SearchLookup, SortedNumericDocValuesField] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="72" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 41 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\search\aggregations\AggConstructionContentionBenchmark.java">
+<error line="85" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 13 classes [AggregatorFactories.Builder, BigArrays, ClusterSettings, DummyAggregationContext, HierarchyCircuitBreakerService, Index, IndexFieldDataCache.Listener, IndicesFieldDataCache, NoneCircuitBreakerService, PageCacheRecycler, SearchModule, SumAggregationBuilder, TermsAggregationBuilder] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="85" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="155" column="5" severity="warning" message="A complexidade Fan-Out da classe é de 33 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\search\aggregations\bucket\terms\LongKeyedBucketOrdsBenchmark.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\search\aggregations\bucket\terms\StringTermsSerializationBenchmark.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\search\aggregations\TermsReduceBenchmark.java">
+<error line="62" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 22 classes [AggregationReduceContext.Builder, AggregationReduceContext.ForFinal, AggregationReduceContext.ForPartial, AtomicBoolean, CountDownLatch, DocValueFormat, Index, MultiBucketConsumerService.MultiBucketConsumer, NoneCircuitBreakerService, NoopCircuitBreaker, QueryPhaseResultConsumer, QuerySearchResult, ScoreDoc, SearchPhaseController, SearchRequest, SearchShardTarget, SearchSourceBuilder, ShardId, TermsAggregationBuilder, TopDocs, TopDocsAndMaxScore, TotalHits] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="62" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 34 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\search\fetch\subphase\FetchSourcePhaseBenchmark.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\search\fetch\subphase\SourceFilteringBenchmark.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\search\query\range\DateFieldMapperDocValuesSkipperBenchmark.java">
+<error line="102" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 18 classes [BytesRef, Document, IndexOrDocValuesQuery, IndexSearcher, IndexSortSortedNumericDocValuesRangeQuery, IndexWriter, IndexWriterConfig, LongPoint, OptionsBuilder, Random, Runner, Sort, SortField, SortedDocValuesField, SortedNumericDocValuesField, SortedNumericSortField, StandardAnalyzer, StringField] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="102" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 38 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\search\QueryParserHelperBenchmark.java">
+<error line="71" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 19 classes [ByteBuffersDirectory, BytesArray, CompressedXContent, IndexFieldDataCache.None, IndexSearcher, IndexSettings, IndexWriter, IndexWriterConfig, IndicesModule, MapperService, NamedWriteableRegistry, NamedXContentRegistry, NoneCircuitBreakerService, ProvidedIdFieldMapper, ScriptCompiler, SearchExecutionContext, SimilarityService, SourceToParse, UncheckedIOException] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="71" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 38 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\spatial\GeometrySimplificationBenchmark.java">
+<error line="38" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\tdigest\SortBench.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\tdigest\TDigestBench.java">
+<error line="52" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\time\DateFormatterFromBenchmark.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\vector\DistanceFunctionBenchmark.java">
+<error line="47" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="144" column="5" severity="warning" message="A complexidade ciclomática é de 34 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\vector\OptimizedScalarQuantizerBenchmark.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\vector\OSQScorerBenchmark.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\vector\VectorScorerBenchmark.java">
+<error line="49" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\main\java\org\elasticsearch\benchmark\xcontent\FilterContentBenchmark.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\test\java\org\elasticsearch\benchmark\compute\operator\AggregatorBenchmarkTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\test\java\org\elasticsearch\benchmark\compute\operator\BlockKeepMaskBenchmarkTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\test\java\org\elasticsearch\benchmark\compute\operator\BlockReadBenchmarkTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\test\java\org\elasticsearch\benchmark\compute\operator\EvalBenchmarkTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\test\java\org\elasticsearch\benchmark\compute\operator\TopNBenchmarkTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\test\java\org\elasticsearch\benchmark\compute\operator\ValuesAggregatorBenchmarkTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\benchmarks\src\test\java\org\elasticsearch\benchmark\compute\operator\ValuesSourceReaderBenchmarkTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-conventions\src\main\java\org\elasticsearch\gradle\internal\checkstyle\AstUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-conventions\src\main\java\org\elasticsearch\gradle\internal\checkstyle\HiddenFieldCheck.java">
+<error line="228" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-conventions\src\main\java\org\elasticsearch\gradle\internal\checkstyle\MissingJavadocTypeCheck.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-conventions\src\main\java\org\elasticsearch\gradle\internal\checkstyle\SnippetLengthCheck.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-conventions\src\main\java\org\elasticsearch\gradle\internal\checkstyle\StringFormattingCheck.java">
+<error line="59" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-conventions\src\main\java\org\elasticsearch\gradle\internal\checkstyle\SwitchBetweenCheck.java">
+<error line="59" column="5" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-conventions\src\main\java\org\elasticsearch\gradle\internal\conventions\BuildToolsConventionsPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-conventions\src\main\java\org\elasticsearch\gradle\internal\conventions\EclipseConventionPlugin.java">
+<error line="39" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-conventions\src\main\java\org\elasticsearch\gradle\internal\conventions\GitInfoPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-conventions\src\main\java\org\elasticsearch\gradle\internal\conventions\GUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-conventions\src\main\java\org\elasticsearch\gradle\internal\conventions\info\GitInfo.java">
+<error line="50" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-conventions\src\main\java\org\elasticsearch\gradle\internal\conventions\info\GitInfoValueSource.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-conventions\src\main\java\org\elasticsearch\gradle\internal\conventions\info\ParallelDetector.java">
+<error line="12" column="8" severity="warning" message="Importação não utilizada - org.gradle.api.Action." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="17" column="8" severity="warning" message="Importação não utilizada - org.gradle.process.ExecSpec." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="20" column="8" severity="warning" message="Importação não utilizada - java.io.ByteArrayOutputStream." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="38" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-conventions\src\main\java\org\elasticsearch\gradle\internal\conventions\LicensingPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-conventions\src\main\java\org\elasticsearch\gradle\internal\conventions\precommit\FormattingPrecommitPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-conventions\src\main\java\org\elasticsearch\gradle\internal\conventions\precommit\LicenseHeadersPrecommitPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-conventions\src\main\java\org\elasticsearch\gradle\internal\conventions\precommit\LicenseHeadersTask.java">
+<error line="64" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 13 classes [BufferedWriter, ClaimStatistic, FileDocument, FileWriter, GradleException, HeaderMatcherMultiplexer, IHeaderMatcher, License, ReportConfiguration, SimpleLicenseFamily, SubstringLicenseMatcher, SubstringLicenseMatcher.Pattern, XmlWriter] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="64" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 39 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-conventions\src\main\java\org\elasticsearch\gradle\internal\conventions\precommit\PomValidationPrecommitPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-conventions\src\main\java\org\elasticsearch\gradle\internal\conventions\precommit\PomValidationTask.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-conventions\src\main\java\org\elasticsearch\gradle\internal\conventions\precommit\PrecommitPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-conventions\src\main\java\org\elasticsearch\gradle\internal\conventions\precommit\PrecommitTask.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-conventions\src\main\java\org\elasticsearch\gradle\internal\conventions\precommit\PrecommitTaskPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-conventions\src\main\java\org\elasticsearch\gradle\internal\conventions\PublishPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-conventions\src\main\java\org\elasticsearch\gradle\internal\conventions\util\Util.java">
+<error line="17" column="8" severity="warning" message="Importação não utilizada - org.gradle.api.internal.GradleInternal." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-conventions\src\main\java\org\elasticsearch\gradle\internal\conventions\VersionPropertiesBuildService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-conventions\src\main\java\org\elasticsearch\gradle\internal\conventions\VersionPropertiesLoader.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-conventions\src\main\java\org\elasticsearch\gradle\internal\conventions\VersionPropertiesPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\reaper\src\main\java\org\elasticsearch\gradle\reaper\Reaper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\AbstractLazyPropertyCollection.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\Architecture.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\dependencies\CompileOnlyResolvePlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\distribution\ArchiveElasticsearchDistributionType.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\distribution\ElasticsearchDistributionTypes.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\distribution\IntegTestZipElasticsearchDistributionType.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\DistributionDependency.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\DistributionDownloadPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\DistributionResolution.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\ElasticsearchDistribution.java">
+<error line="214" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\ElasticsearchDistributionType.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\FileSupplier.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\FileSystemOperationsAware.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\jarhell\JarHellPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\jarhell\JarHellTask.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\LazyFileOutputStream.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\LazyPropertyList.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\LazyPropertyMap.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\LoggedExec.java">
+<error line="55" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 31 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="147" column="5" severity="warning" message="A complexidade ciclomática é de 19 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\NamedComponentScannerMock.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\OS.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\plugin\BasePluginBuildPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\plugin\GenerateNamedComponentsTask.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\plugin\GeneratePluginPropertiesTask.java">
+<error line="45" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\plugin\GenerateTestBuildInfoTask.java">
+<error line="61" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 29 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\plugin\PluginBuildPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\plugin\PluginPropertiesExtension.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\plugin\StablePluginBuildPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\PropertyNormalization.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\ReaperPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\ReaperService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\test\GradleTestPolicySetupPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\test\JavaRestTestPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\test\SystemPropertyCommandLineArgumentProvider.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\test\TestBuildInfoPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\test\YamlRestTestPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\testclusters\DefaultTestClustersTask.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\testclusters\ElasticsearchCluster.java">
+<error line="63" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 37 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\testclusters\ElasticsearchNode.java">
+<error line="98" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 17 classes [AtomicBoolean, ByteArrayInputStream, CliEntry, FeatureFlag, FileEntry, IOException, LazyPropertyList, LazyPropertyMap, LineNumberReader, LinkCreationException, PrintWriter, ProcessBuilder, ReplacementKey, SimpleFileVisitor, StringWriter, TestClustersException, UncheckedIOException] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="98" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 61 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="450" column="5" severity="warning" message="A complexidade ciclomática é de 19 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="790" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="972" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1073" column="5" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1347" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\testclusters\MockApmServer.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\testclusters\RunTask.java">
+<error line="180" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="263" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\testclusters\SslTrustResolver.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\testclusters\StandaloneRestIntegTestTask.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\testclusters\TestClusterConfiguration.java">
+<error line="131" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\testclusters\TestClusterInfo.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\testclusters\TestClustersAware.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\testclusters\TestClustersException.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\testclusters\TestClustersPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\testclusters\TestClustersRegistry.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\testclusters\TestClustersThrottle.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\testclusters\TestClusterValueSource.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\testclusters\TestDistribution.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\testclusters\WaitForHttpResource.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\transform\FilteringJarTransform.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\transform\SymbolicLinkPreservingUntarTransform.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\transform\UnpackTransform.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\transform\UnzipTransform.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\util\FileUtils.java">
+<error line="27" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\util\GradleUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\util\Pair.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\util\PermissionUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\util\PlatformUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\Version.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\main\java\org\elasticsearch\gradle\VersionProperties.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\testFixtures\java\org\elasticsearch\gradle\internal\test\BuildConfigurationAwareGradleRunner.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\testFixtures\java\org\elasticsearch\gradle\internal\test\InMemoryJavaCompiler.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\testFixtures\java\org\elasticsearch\gradle\internal\test\InternalAwareGradleRunner.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\testFixtures\java\org\elasticsearch\gradle\internal\test\JarUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\testFixtures\java\org\elasticsearch\gradle\internal\test\NormalizeOutputGradleRunner.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\testFixtures\java\org\elasticsearch\gradle\internal\test\StableApiJarMocks.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\testFixtures\java\org\elasticsearch\gradle\internal\test\TestResultExtension.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\testFixtures\java\org\elasticsearch\gradle\internal\test\TestUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\testFixtures\java\org\elasticsearch\plugin\Extensible.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\testFixtures\java\org\elasticsearch\plugin\NamedComponent.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\testFixtures\java\org\elasticsearch\plugin\scanner\test_classes\ExtensibleClass.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\testFixtures\java\org\elasticsearch\plugin\scanner\test_classes\ExtensibleInterface.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\testFixtures\java\org\elasticsearch\plugin\scanner\test_classes\ImplementingExtensible.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\testFixtures\java\org\elasticsearch\plugin\scanner\test_classes\SubClass.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools\src\testFixtures\java\org\elasticsearch\plugin\scanner\test_classes\TestNamedComponent.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\performance\test-files\BenchmarkingTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\BaseInternalPluginBuildPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\BuildPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\BwcGitExtension.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\BwcSetupExtension.java">
+<error line="91" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\BwcVersions.java">
+<error line="141" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\ConcatFilesTask.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\dependencies\patches\awsv2sdk\Awsv2ClassPatcher.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\dependencies\patches\awsv2sdk\StringFormatInPathResolverPatcher.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\dependencies\patches\hdfs\HdfsClassPatcher.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\dependencies\patches\hdfs\MethodReplacement.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\dependencies\patches\hdfs\ShellPatcher.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\dependencies\patches\hdfs\ShutdownHookManagerPatcher.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\dependencies\patches\hdfs\SubjectGetSubjectPatcher.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\dependencies\patches\PatcherInfo.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\dependencies\patches\Utils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\DependenciesInfoPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\DependenciesInfoTask.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\distribution\DebElasticsearchDistributionType.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\distribution\DockerCloudEssElasticsearchDistributionType.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\distribution\DockerElasticsearchDistributionType.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\distribution\DockerFipsElasticsearchDistributionType.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\distribution\DockerIronBankElasticsearchDistributionType.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\distribution\DockerWolfiElasticsearchDistributionType.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\distribution\ElasticsearchDistributionExtension.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\distribution\ElasticsearchDistributionPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\distribution\InternalElasticsearchDistributionTypes.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\distribution\RpmElasticsearchDistributionType.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\DistributionArchive.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\DistributionArchiveCheckExtension.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\doc\AsciidocSnippetParser.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\doc\DocSnippetTask.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\doc\DocsTestPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\doc\MdxSnippetParser.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\doc\ParsingUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\doc\RestTestsFromDocSnippetTask.java">
+<error line="201" column="9" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="238" column="9" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="323" column="9" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\doc\Snippet.java">
+<error line="37" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\doc\SnippetBuilder.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\doc\SnippetParser.java">
+<error line="175" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\doc\SnippetParserException.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\doc\Source.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\docker\DockerBuildTask.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\docker\DockerResult.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\docker\DockerSupportPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\docker\DockerSupportService.java">
+<error line="75" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\docker\DockerValueSource.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\docker\ShellRetry.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\docker\TransformLog4jConfigFilter.java">
+<error line="55" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\DockerBase.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\dra\DraResolvePlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\ElasticsearchBuildCompletePlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\ElasticsearchJavaBasePlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\ElasticsearchJavadocPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\ElasticsearchJavaModulePathPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\ElasticsearchJavaPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\ElasticsearchTestBasePlugin.java">
+<error line="54" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\EmbeddedProviderExtension.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\EmbeddedProviderPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\EmptyDirTask.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\ExportElasticsearchBuildResourcesTask.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\FixtureStop.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\GenerateProviderManifest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\idea\EnablePreviewFeaturesTask.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\idea\IdeaXmlUtil.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\info\BuildParameterExtension.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\info\BuildParameterService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\info\DefaultBuildParameterExtension.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\info\GlobalBuildInfoPlugin.java">
+<error line="67" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 12 classes [AtomicReference, BufferedReader, BwcVersions, ErrorTraceMetadataDetector, File, FileInputStream, GradleException, InputStreamReader, MetadataBasedToolChainMatcher, ObjectMapper, Random, UncheckedIOException] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="67" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 34 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\info\JavaHome.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\InternalAvailableTcpPortProviderPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\InternalBwcGitPlugin.java">
+<error line="43" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\InternalDistributionArchiveCheckPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\InternalDistributionArchiveSetupPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\InternalDistributionBwcSetupPlugin.java">
+<error line="52" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="286" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\InternalDistributionDownloadPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\InternalDistributionModuleCheckTaskProvider.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\InternalPluginBuildPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\InternalReaperPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\InternalTestArtifactBasePlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\InternalTestArtifactExtension.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\InternalTestArtifactPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\InternalTestClustersPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\JarApiComparisonTask.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\JavaClassPublicifier.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\Jdk.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\JdkDownloadPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\LoggingOutputStream.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\MrjarPlugin.java">
+<error line="55" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\NoticeTask.java">
+<error line="100" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\packer\CacheCacheableTestFixtures.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\packer\CacheTestFixtureResourcesPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\precommit\CheckForbiddenApisTask.java">
+<error line="81" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 29 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="419" column="9" severity="warning" message="A complexidade ciclomática é de 20 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\precommit\CheckstylePrecommitPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\precommit\CopyCheckStyleConfTask.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\precommit\DependencyLicensesPrecommitPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\precommit\DependencyLicensesTask.java">
+<error line="96" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 24 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="201" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\precommit\FilePermissionsPrecommitPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\precommit\FilePermissionsTask.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\precommit\ForbiddenApisPrecommitPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\precommit\ForbiddenPatternsPrecommitPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\precommit\ForbiddenPatternsTask.java">
+<error line="55" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\precommit\InternalPrecommitTasks.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\precommit\JarHellPrecommitPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\precommit\JavaModulePrecommitPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\precommit\JavaModulePrecommitTask.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\precommit\LicenseAnalyzer.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\precommit\LoggerUsagePrecommitPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\precommit\LoggerUsageTask.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\precommit\SplitPackagesAuditPrecommitPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\precommit\SplitPackagesAuditTask.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\precommit\TestingConventionsCheckTask.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\precommit\TestingConventionsPrecommitPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\precommit\ThirdPartyAuditPrecommitPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\precommit\ThirdPartyAuditTask.java">
+<error line="65" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 29 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="201" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="338" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\precommit\ValidateJsonAgainstSchemaTask.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\precommit\ValidateJsonNoKeywordsTask.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\precommit\ValidateRestSpecPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\precommit\ValidateYamlAgainstSchemaTask.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\release\AbstractVersionsTask.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\release\BreakingChangesGenerator.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\release\ChangelogEntry.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\release\ExtractCurrentVersionsTask.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\release\GenerateReleaseNotesTask.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\release\GitWrapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\release\MigrationIndexGenerator.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\release\MinorVersion.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\release\PruneChangelogsTask.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\release\QualifiedVersion.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\release\ReleaseHighlightsGenerator.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\release\ReleaseNotesGenerator.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\release\ReleaseNotesIndexGenerator.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\release\ReleaseToolsPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\release\SetCompatibleVersionsTask.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\release\TagVersionsTask.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\release\TemplateUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\release\UpdateVersionsTask.java">
+<error line="45" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="97" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\RepositoriesSetupPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\ResolveAllDependencies.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\RestrictedBuildApiService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\shadow\XmlClassRelocationTransformer.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\snyk\GenerateSnykDependencyGraph.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\snyk\SnykDependencyGraph.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\snyk\SnykDependencyGraphBuilder.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\snyk\SnykDependencyMonitoringGradlePlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\snyk\UploadSnykDependenciesGraph.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\StringTemplatePlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\StringTemplateTask.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\SymbolicLinkPreservingTar.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\ClusterFeaturesMetadataPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\ClusterFeaturesMetadataTask.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\DistroTestPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\ErrorReportingTestListener.java">
+<error line="84" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\InternalClusterTestPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\LegacyRestTestBasePlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\MutedTestPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\MutedTestsBuildService.java">
+<error line="52" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rerun\executer\RerunTestExecuter.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rerun\executer\RerunTestResultProcessor.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rerun\TestRerunPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rerun\TestRerunTaskExtension.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rerun\TestTaskConfigurer.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\compat\compat\AbstractYamlRestCompatTestPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\compat\compat\LegacyYamlRestCompatTestPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\compat\compat\RestCompatTestTransformTask.java">
+<error line="81" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 20 classes [AddMatch, File, InjectAllowedWarnings, InjectHeaders, InjectWarnings, ObjectMapper, RemoveMatch, RemoveWarnings, ReplaceIsFalse, ReplaceIsTrue, ReplaceKeyInDo, ReplaceKeyInLength, ReplaceKeyInMatch, ReplaceTextual, ReplaceValueInCloseTo, ReplaceValueInLength, ReplaceValueInMatch, RestTestTransformer, Skip, YAMLFactory] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="81" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 45 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\compat\compat\YamlRestCompatTestPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\CopyRestApiTask.java">
+<error line="46" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\CopyRestTestsTask.java">
+<error line="49" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\InternalJavaRestTestPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\InternalYamlRestTestPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\LegacyJavaRestTestPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\LegacyYamlRestTestPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\RestResourcesExtension.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\RestResourcesPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\RestTestBasePlugin.java">
+<error line="66" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\RestTestUtil.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\transform\close_to\ReplaceValueInCloseTo.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\transform\do_\ReplaceKeyInDo.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\transform\feature\FeatureInjector.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\transform\headers\InjectHeaders.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\transform\length\ReplaceKeyInLength.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\transform\length\ReplaceValueInLength.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\transform\match\AddMatch.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\transform\match\RemoveMatch.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\transform\match\ReplaceKeyInMatch.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\transform\match\ReplaceValueInMatch.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\transform\ReplaceByKey.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\transform\RestTestContext.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\transform\RestTestTransform.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\transform\RestTestTransformByParentArray.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\transform\RestTestTransformByParentObject.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\transform\RestTestTransformer.java">
+<error line="34" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="116" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\transform\RestTestTransformGlobalSetup.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\transform\RestTestTransformGlobalTeardown.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\transform\skip\Skip.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\transform\text\ReplaceIsFalse.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\transform\text\ReplaceIsTrue.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\transform\text\ReplaceTextual.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\transform\warnings\InjectAllowedWarnings.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\transform\warnings\InjectWarnings.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\rest\transform\warnings\RemoveWarnings.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\RestIntegTestTask.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\SimpleCommandLineArgumentProvider.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\StandaloneRestTestPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\StandaloneTestPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\TestUtil.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\TestWithDependenciesPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\test\TestWithSslPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\testfixtures\DockerComposeThrottle.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\testfixtures\TestFixtureDeployment.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\testfixtures\TestFixturesDeployPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\testfixtures\TestFixturesPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\testfixtures\TestFixtureTask.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\toolchain\AbstractCustomJavaToolchainResolver.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\toolchain\AdoptiumJdkToolchainResolver.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\toolchain\ArchivedOracleJdkToolchainResolver.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\toolchain\JavaToolChainResolverPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\toolchain\OracleOpenJdkToolchainResolver.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\util\CiUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\util\DependenciesUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\util\ParamsUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\util\ports\AvailablePortAllocator.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\util\ports\DefaultPortDetector.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\util\ports\DefaultReservedPortRangeFactory.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\util\ports\PortDetector.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\util\ports\ReservedPortRange.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\util\ports\ReservedPortRangeFactory.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\util\SerializableFunction.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\main\java\org\elasticsearch\gradle\internal\util\SourceDirectoryCommandLineArgumentProvider.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\AbstractDistributionDownloadPluginTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\checkstyle\SnipptLengthCheckTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\ConcatFilesTaskTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\docker\DockerSupportServiceTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\docker\TransformLog4jConfigFilterTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\EmptyDirTaskTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\InternalDistributionDownloadPluginTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\JdkDownloadPluginTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\precommit\DependencyLicensesTaskTests.java">
+<error line="27" column="8" severity="warning" message="Importação não utilizada - java.nio.charset.StandardCharsets." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\precommit\FilePermissionsTaskTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\precommit\ForbiddenPatternsTaskTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\release\BreakingChangesGeneratorTest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\release\ExtractCurrentVersionsTaskTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\release\GenerateReleaseNotesTaskTest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\release\PruneChangelogsTaskTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\release\ReleaseHighlightsGeneratorTest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\release\ReleaseNotesGeneratorTest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\release\ReleaseNotesIndexGeneratorTest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\release\SetCompatibleVersionsTaskTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\release\TagVersionsTaskTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\release\UpdateVersionsTaskTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\test\rest\transform\AssertObjectNodes.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\test\rest\transform\close_to\ReplaceValueInCloseToTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\test\rest\transform\do_\ReplaceKeyInDoTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\test\rest\transform\feature\InjectFeatureTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\test\rest\transform\header\InjectHeaderTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\test\rest\transform\length\ReplaceKeyInLengthTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\test\rest\transform\length\ReplaceValueInLengthTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\test\rest\transform\match\AddMatchTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\test\rest\transform\match\RemoveMatchTests.java">
+<error line="51" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\test\rest\transform\match\ReplaceKeyInMatchTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\test\rest\transform\match\ReplaceValueInMatchTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\test\rest\transform\skip\SkipTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\test\rest\transform\text\ReplaceTextualTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\test\rest\transform\TransformTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\test\rest\transform\warnings\InjectAllowedWarningsRegexTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\test\rest\transform\warnings\InjectAllowedWarningsTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\test\rest\transform\warnings\InjectWarningsRegexTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\test\rest\transform\warnings\InjectWarningsTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\build-tools-internal\src\test\java\org\elasticsearch\gradle\internal\test\rest\transform\warnings\RemoveWarningsTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\benchmark\src\main\java\org\elasticsearch\client\benchmark\AbstractBenchmark.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\benchmark\src\main\java\org\elasticsearch\client\benchmark\BenchmarkMain.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\benchmark\src\main\java\org\elasticsearch\client\benchmark\BenchmarkRunner.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\benchmark\src\main\java\org\elasticsearch\client\benchmark\BenchmarkTask.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\benchmark\src\main\java\org\elasticsearch\client\benchmark\metrics\Metrics.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\benchmark\src\main\java\org\elasticsearch\client\benchmark\metrics\MetricsCalculator.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\benchmark\src\main\java\org\elasticsearch\client\benchmark\metrics\Sample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\benchmark\src\main\java\org\elasticsearch\client\benchmark\metrics\SampleRecorder.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\benchmark\src\main\java\org\elasticsearch\client\benchmark\ops\bulk\BulkBenchmarkTask.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\benchmark\src\main\java\org\elasticsearch\client\benchmark\ops\bulk\BulkRequestExecutor.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\benchmark\src\main\java\org\elasticsearch\client\benchmark\ops\search\SearchBenchmarkTask.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\benchmark\src\main\java\org\elasticsearch\client\benchmark\ops\search\SearchRequestExecutor.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\benchmark\src\main\java\org\elasticsearch\client\benchmark\rest\RestClientBenchmark.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\client-benchmark-noop-api-plugin\src\main\java\org\elasticsearch\plugin\noop\action\bulk\RestNoopBulkAction.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\client-benchmark-noop-api-plugin\src\main\java\org\elasticsearch\plugin\noop\action\bulk\TransportNoopBulkAction.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\client-benchmark-noop-api-plugin\src\main\java\org\elasticsearch\plugin\noop\action\search\RestNoopSearchAction.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\client-benchmark-noop-api-plugin\src\main\java\org\elasticsearch\plugin\noop\action\search\TransportNoopSearchAction.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\client-benchmark-noop-api-plugin\src\main\java\org\elasticsearch\plugin\noop\NoopPlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\main\java\org\elasticsearch\client\Cancellable.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\main\java\org\elasticsearch\client\DeadHostState.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\main\java\org\elasticsearch\client\HasAttributeNodeSelector.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\main\java\org\elasticsearch\client\HeapBufferedAsyncResponseConsumer.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\main\java\org\elasticsearch\client\HttpAsyncResponseConsumerFactory.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\main\java\org\elasticsearch\client\HttpDeleteWithEntity.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\main\java\org\elasticsearch\client\HttpGetWithEntity.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\main\java\org\elasticsearch\client\LanguageRuntimeVersions.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\main\java\org\elasticsearch\client\Node.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\main\java\org\elasticsearch\client\NodeSelector.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\main\java\org\elasticsearch\client\PersistentCredentialsAuthenticationStrategy.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\main\java\org\elasticsearch\client\PreferHasAttributeNodeSelector.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\main\java\org\elasticsearch\client\Request.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\main\java\org\elasticsearch\client\RequestLogger.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\main\java\org\elasticsearch\client\RequestOptions.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\main\java\org\elasticsearch\client\Response.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\main\java\org\elasticsearch\client\ResponseException.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\main\java\org\elasticsearch\client\ResponseListener.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\main\java\org\elasticsearch\client\RestClient.java">
+<error line="109" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 35 classes [AtomicInteger, BasicAuthCache, BasicScheme, ConcurrentHashMap, ConnectException, ConnectTimeoutException, ConnectionClosedException, ContentCompressingEntity, DeadHostState, DeadNode, DeadNodeIteratorAdapter, FailureTrackingResponseListener, FutureCallback, GzipDecompressingEntity, HttpDeleteWithEntity, HttpGetWithEntity, HttpHead, HttpHost, HttpOptions, HttpPatch, HttpPost, HttpPut, HttpTrace, IOException, InternalRequest, Node, NodeTuple, Response, ResponseException, ResponseOrResponseException, RestClientBuilder, SSLHandshakeException, SocketTimeoutException, URIBuilder, WarningFailureException] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="109" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 62 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="900" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\main\java\org\elasticsearch\client\RestClientBuilder.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\main\java\org\elasticsearch\client\WarningFailureException.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\main\java\org\elasticsearch\client\WarningsHandler.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\test\java\org\elasticsearch\client\DeadHostStateTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\test\java\org\elasticsearch\client\documentation\RestClientDocumentation.java">
+<error line="83" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 15 classes [BasicCredentialsProvider, BasicHeader, CountDownLatch, Header, HttpAsyncResponseConsumerFactory.HeapBufferedResponseConsumerFactory, HttpClientConfigCallback, HttpEntity, HttpHost, NStringEntity, NodeSelector, Request, ResponseListener, RestClient.FailureListener, RestClientBuilder.RequestConfigCallback, UsernamePasswordCredentials] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="83" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 38 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\test\java\org\elasticsearch\client\FailureTrackingResponseListenerTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\test\java\org\elasticsearch\client\HasAttributeNodeSelectorTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\test\java\org\elasticsearch\client\HeapBufferedAsyncResponseConsumerTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\test\java\org\elasticsearch\client\HostsTrackingFailureListener.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\test\java\org\elasticsearch\client\NodeSelectorTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\test\java\org\elasticsearch\client\NodeTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\test\java\org\elasticsearch\client\PreferHasAttributeNodeSelectorTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\test\java\org\elasticsearch\client\RequestLoggerTests.java">
+<error line="55" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 20 classes [BasicHeader, BasicHttpResponse, BasicStatusLine, ByteArrayInputStream, Header, HttpDeleteWithEntity, HttpGetWithEntity, HttpHead, HttpHost, HttpOptions, HttpPatch, HttpPost, HttpPut, HttpTrace, InputStreamEntity, NByteArrayEntity, NStringEntity, ProtocolVersion, StringEntity, URI] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="55" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 27 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="56" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\test\java\org\elasticsearch\client\RequestOptionsTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\test\java\org\elasticsearch\client\RequestTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\test\java\org\elasticsearch\client\ResponseExceptionTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\test\java\org\elasticsearch\client\RestClientBuilderIntegTests.java">
+<error line="65" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\test\java\org\elasticsearch\client\RestClientBuilderTests.java">
+<error line="40" column="5" severity="warning" message="A complexidade ciclomática é de 22 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\test\java\org\elasticsearch\client\RestClientGzipCompressionTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\test\java\org\elasticsearch\client\RestClientMultipleHostsIntegTests.java">
+<error line="61" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 14 classes [AtomicInteger, CopyOnWriteArrayList, CountDownLatch, HeapBufferedAsyncResponseConsumer, HttpHost, HttpServer, InetSocketAddress, Request, ResponseHandler, ResponseHandlerWithContent, ResponseListener, RestClient.FailureListener, TestResponse, WaitForCancelHandler] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="61" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 30 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="145" column="51" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\test\java\org\elasticsearch\client\RestClientMultipleHostsTests.java">
+<error line="137" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\test\java\org\elasticsearch\client\RestClientSingleHostIntegTests.java">
+<error line="82" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 18 classes [AssertionError, AtomicReference, BasicCredentialsProvider, BasicHeader, CopyOnWriteArrayList, CountDownLatch, Header, HttpGet, HttpHost, InetSocketAddress, NStringEntity, Request, ResponseHandler, ResponseListener, RestClientBuilder.HttpClientConfigCallback, TargetAuthenticationStrategy, UsernamePasswordCredentials, WaitForCancelHandler] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="82" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 33 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="122" column="51" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\test\java\org\elasticsearch\client\RestClientSingleHostTests.java">
+<error line="103" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 30 classes [AtomicReference, BasicHttpResponse, BasicStatusLine, ConnectTimeoutException, ConnectionClosedException, CountDownLatch, HostsTrackingFailureListener, HttpDeleteWithEntity, HttpGetWithEntity, HttpHead, HttpHost, HttpOptions, HttpPatch, HttpPost, HttpPut, HttpTrace, IOException, Node, PrintWriter, ProtocolVersion, Request, RequestOptions.ReqHeader, ResponseListener, RestClient, SSLHandshakeException, SocketTimeoutException, StringEntity, StringWriter, URIBuilder, URISyntaxException] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="103" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 53 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="255" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="553" column="5" severity="warning" message="A complexidade ciclomática é de 20 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\rest\src\test\java\org\elasticsearch\client\RestClientTests.java">
+<error line="58" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 15 classes [AssertionError, AtomicInteger, AtomicLong, BasicAuthCache, BasicScheme, CountDownLatch, DeadHostState, Header, HttpHost, Node, NodeSelector, NodeTuple, Request, ResponseListener, RestClient] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="58" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 24 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\sniffer\src\main\java\org\elasticsearch\client\sniff\ElasticsearchNodesSniffer.java">
+<error line="138" column="5" severity="warning" message="A complexidade ciclomática é de 36 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\sniffer\src\main\java\org\elasticsearch\client\sniff\NodesSniffer.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\sniffer\src\main\java\org\elasticsearch\client\sniff\Sniffer.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\sniffer\src\main\java\org\elasticsearch\client\sniff\SnifferBuilder.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\sniffer\src\main\java\org\elasticsearch\client\sniff\SniffOnFailureListener.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\sniffer\src\test\java\org\elasticsearch\client\sniff\documentation\SnifferDocumentation.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\sniffer\src\test\java\org\elasticsearch\client\sniff\ElasticsearchNodesSnifferParseTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\sniffer\src\test\java\org\elasticsearch\client\sniff\ElasticsearchNodesSnifferTests.java">
+<error line="183" column="5" severity="warning" message="A complexidade ciclomática é de 44 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\sniffer\src\test\java\org\elasticsearch\client\sniff\MockNodesSniffer.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\sniffer\src\test\java\org\elasticsearch\client\sniff\SnifferBuilderTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\sniffer\src\test\java\org\elasticsearch\client\sniff\SnifferTests.java">
+<error line="72" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 17 classes [Answer, AtomicBoolean, AtomicInteger, AtomicReference, CopyOnWriteArraySet, CountDownLatch, CountingNodesSniffer, DefaultScheduler, HttpHost, MockNodesSniffer, Node, Runnable, Scheduler, Sniffer, Sniffer.ScheduledTask, Task, TaskWrapper] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="72" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 32 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="431" column="52" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\sniffer\src\test\java\org\elasticsearch\client\sniff\SniffOnFailureListenerTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\test\src\main\java\org\elasticsearch\client\ClientsGraalVMThreadsFilter.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\test\src\main\java\org\elasticsearch\client\RestClientTestCase.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\client\test\src\main\java\org\elasticsearch\client\RestClientTestUtil.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\archives\integ-test-zip\src\javaRestTest\java\org\elasticsearch\test\rest\CreatedLocationHeaderIT.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\archives\integ-test-zip\src\javaRestTest\java\org\elasticsearch\test\rest\JsonLogsFormatAndParseIT.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\archives\integ-test-zip\src\javaRestTest\java\org\elasticsearch\test\rest\NodeRestUsageIT.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\archives\integ-test-zip\src\javaRestTest\java\org\elasticsearch\test\rest\RequestsWithoutContentIT.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\archives\integ-test-zip\src\javaRestTest\java\org\elasticsearch\test\rest\WaitForRefreshAndCloseIT.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\docker\src\yamlRestTest\java\org\elasticsearch\docker\test\DockerYmlTestSuiteIT.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\ansi-console\src\main\java\org\elasticsearch\io\ansi\AnsiConsoleLoader.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\ansi-console\src\test\java\org\elasticsearch\bootstrap\ConsoleLoaderTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\ansi-console\src\test\java\org\elasticsearch\io\ansi\AnsiConsoleLoaderTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\cli-launcher\src\main\java\org\elasticsearch\launcher\CliToolLauncher.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\cli-launcher\src\test\java\org\elasticsearch\launcher\CliToolLauncherTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\geoip-cli\src\main\java\org\elasticsearch\geoip\GeoIpCli.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\geoip-cli\src\main\java\org\elasticsearch\geoip\GeoIpCliProvider.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\geoip-cli\src\test\java\org\elasticsearch\geoip\GeoIpCliTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\java-version-checker\src\main\java\org\elasticsearch\tools\java_version_checker\JavaVersionChecker.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\keystore-cli\src\main\java\org\elasticsearch\cli\keystore\AddFileKeyStoreCommand.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\keystore-cli\src\main\java\org\elasticsearch\cli\keystore\AddStringKeyStoreCommand.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\keystore-cli\src\main\java\org\elasticsearch\cli\keystore\BaseKeyStoreCommand.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\keystore-cli\src\main\java\org\elasticsearch\cli\keystore\ChangeKeyStorePasswordCommand.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\keystore-cli\src\main\java\org\elasticsearch\cli\keystore\CreateKeyStoreCommand.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\keystore-cli\src\main\java\org\elasticsearch\cli\keystore\HasPasswordKeyStoreCommand.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\keystore-cli\src\main\java\org\elasticsearch\cli\keystore\KeyStoreCli.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\keystore-cli\src\main\java\org\elasticsearch\cli\keystore\KeyStoreCliProvider.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\keystore-cli\src\main\java\org\elasticsearch\cli\keystore\ListKeyStoreCommand.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\keystore-cli\src\main\java\org\elasticsearch\cli\keystore\RemoveSettingKeyStoreCommand.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\keystore-cli\src\main\java\org\elasticsearch\cli\keystore\ShowKeyStoreCommand.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\keystore-cli\src\main\java\org\elasticsearch\cli\keystore\UpgradeKeyStoreCommand.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\keystore-cli\src\test\java\org\elasticsearch\cli\keystore\AddFileKeyStoreCommandTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\keystore-cli\src\test\java\org\elasticsearch\cli\keystore\AddStringKeyStoreCommandTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\keystore-cli\src\test\java\org\elasticsearch\cli\keystore\BootstrapTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\keystore-cli\src\test\java\org\elasticsearch\cli\keystore\ChangeKeyStorePasswordCommandTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\keystore-cli\src\test\java\org\elasticsearch\cli\keystore\CreateKeyStoreCommandTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\keystore-cli\src\test\java\org\elasticsearch\cli\keystore\HasPasswordKeyStoreCommandTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\keystore-cli\src\test\java\org\elasticsearch\cli\keystore\KeyStoreCommandTestCase.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\keystore-cli\src\test\java\org\elasticsearch\cli\keystore\KeyStoreWrapperTests.java">
+<error line="64" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 24 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\keystore-cli\src\test\java\org\elasticsearch\cli\keystore\ListKeyStoreCommandTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\keystore-cli\src\test\java\org\elasticsearch\cli\keystore\RemoveSettingKeyStoreCommandTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\keystore-cli\src\test\java\org\elasticsearch\cli\keystore\ShowKeyStoreCommandTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\keystore-cli\src\test\java\org\elasticsearch\cli\keystore\UpgradeKeyStoreCommandTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\plugin-cli\src\main\java\org\elasticsearch\plugins\cli\InstallablePlugin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\plugin-cli\src\main\java\org\elasticsearch\plugins\cli\InstallPluginAction.java">
+<error line="125" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 20 classes [ArmoredInputStream, AssertionError, BouncyCastleFipsProvider, BufferedReader, InputStreamReader, JcaKeyFingerprintCalculator, JcaPGPContentVerifierBuilderProvider, JcaPGPObjectFactory, LevenshteinDistance, PGPPublicKeyRingCollection, Path, SimpleFileVisitor, TerminalProgressInputStream, Timer, TimerTask, Tuple, URL, UncheckedIOException, UserException, ZipInputStream] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="125" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 47 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="216" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="290" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="552" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\plugin-cli\src\main\java\org\elasticsearch\plugins\cli\InstallPluginCommand.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\plugin-cli\src\main\java\org\elasticsearch\plugins\cli\ListPluginsCommand.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\plugin-cli\src\main\java\org\elasticsearch\plugins\cli\PluginCli.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\plugin-cli\src\main\java\org\elasticsearch\plugins\cli\PluginCliProvider.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\plugin-cli\src\main\java\org\elasticsearch\plugins\cli\PluginsConfig.java">
+<error line="66" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\plugin-cli\src\main\java\org\elasticsearch\plugins\cli\PluginSecurity.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\plugin-cli\src\main\java\org\elasticsearch\plugins\cli\PluginSyncException.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\plugin-cli\src\main\java\org\elasticsearch\plugins\cli\ProgressInputStream.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\plugin-cli\src\main\java\org\elasticsearch\plugins\cli\ProxyUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\plugin-cli\src\main\java\org\elasticsearch\plugins\cli\RemovePluginAction.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\plugin-cli\src\main\java\org\elasticsearch\plugins\cli\RemovePluginCommand.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\plugin-cli\src\main\java\org\elasticsearch\plugins\cli\SyncPluginsAction.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\plugin-cli\src\main\java\org\elasticsearch\plugins\cli\SyncPluginsCliProvider.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\plugin-cli\src\test\java\org\elasticsearch\plugins\cli\InstallPluginActionTests.java">
+<error line="126" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 27 classes [ArmoredOutputStream, AssertionError, BCPGOutputStream, BouncyCastleFipsProvider, BufferedReader, ByteArrayInputStream, ByteArrayOutputStream, CountDownLatch, Date, InstallPluginAction, InstallablePlugin, JcaPGPContentSignerBuilder, JcaPGPDigestCalculatorProviderBuilder, JcaPGPKeyPair, JcePBESecretKeyDecryptorBuilder, JcePBESecretKeyEncryptorBuilder, MockInstallPluginCommand, PGPSecretKey, PGPSignatureGenerator, Parameter, PosixPermissionsResetter, ProcessInfo, RemovePluginAction, StringReader, URL, ZipEntry, ZipOutputStream] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="126" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 64 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\plugin-cli\src\test\java\org\elasticsearch\plugins\cli\ListPluginsCommandTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\plugin-cli\src\test\java\org\elasticsearch\plugins\cli\MockInstallPluginCommand.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\plugin-cli\src\test\java\org\elasticsearch\plugins\cli\MockRemovePluginCommand.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\plugin-cli\src\test\java\org\elasticsearch\plugins\cli\PluginsConfigTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\plugin-cli\src\test\java\org\elasticsearch\plugins\cli\ProgressInputStreamTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\plugin-cli\src\test\java\org\elasticsearch\plugins\cli\ProxyMatcher.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\plugin-cli\src\test\java\org\elasticsearch\plugins\cli\ProxyUtilsTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\plugin-cli\src\test\java\org\elasticsearch\plugins\cli\RemovePluginActionTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\plugin-cli\src\test\java\org\elasticsearch\plugins\cli\SyncPluginsActionTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\plugin-cli\src\test\java\org\elasticsearch\plugins\cli\test_model\ExtensibleInterface.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\server-cli\src\main\java\org\elasticsearch\server\cli\APMJvmOptions.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\server-cli\src\main\java\org\elasticsearch\server\cli\DefaultSystemMemoryInfo.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\server-cli\src\main\java\org\elasticsearch\server\cli\ErrorPumpThread.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\server-cli\src\main\java\org\elasticsearch\server\cli\JvmErgonomics.java">
+<error line="41" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\server-cli\src\main\java\org\elasticsearch\server\cli\JvmOption.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\server-cli\src\main\java\org\elasticsearch\server\cli\JvmOptionsParser.java">
+<error line="44" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="292" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\server-cli\src\main\java\org\elasticsearch\server\cli\KeyStoreLoader.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\server-cli\src\main\java\org\elasticsearch\server\cli\KeystorePasswordTerminal.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\server-cli\src\main\java\org\elasticsearch\server\cli\MachineDependentHeap.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\server-cli\src\main\java\org\elasticsearch\server\cli\OverridableSystemMemoryInfo.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\server-cli\src\main\java\org\elasticsearch\server\cli\ProcessUtil.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\server-cli\src\main\java\org\elasticsearch\server\cli\SecureSettingsLoader.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\server-cli\src\main\java\org\elasticsearch\server\cli\ServerCli.java">
+<error line="42" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\server-cli\src\main\java\org\elasticsearch\server\cli\ServerCliProvider.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\elastic_elasticsearch\distribution\tools\server-cli\src\main\java\org\elasticsearch\server\cli\ServerProcess.java">
+</file>

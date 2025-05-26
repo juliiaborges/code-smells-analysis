@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.23.1">
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\org\apache\pdfbox\examples\signature\CMSProcessableInputStream.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\org\apache\pdfbox\examples\signature\CreateSignatureBase.java">
+<error line="45" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\org\apache\pdfbox\examples\signature\TSAClient.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\org\apache\pdfbox\examples\signature\ValidationTimeStamp.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\org\apache\pdfbox\examples\util\ConnectedInputStream.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\org\apache\pdfbox\examples\util\DeletingRandomAccessFile.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\AppConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\AppUpdateService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\CleanUrlInterceptor.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\ConfigInitializer.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\EndpointConfiguration.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\EndpointInspector.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\EndpointInterceptor.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\EnterpriseEndpointFilter.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\ExternalAppDepConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\FileFallbackTemplateResolver.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\fingerprint\FingerprintBasedSessionFilter.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\fingerprint\FingerprintBasedSessionManager.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\fingerprint\FingerprintGenerator.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\InitialSetup.java">
+<error line="96" column="31" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\InstallationPathConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\interfaces\DatabaseInterface.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\interfaces\ShowAdminInterface.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\LocaleConfiguration.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\LogbackPropertyLoader.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\MetricsConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\MetricsFilter.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\OpenApiConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\PostHogConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\PostHogLoggerImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\RuntimePathConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\security\AppUpdateAuthService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\security\CustomAuthenticationFailureHandler.java">
+<error line="35" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\security\CustomAuthenticationSuccessHandler.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\security\CustomLogoutSuccessHandler.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\security\CustomUserDetailsService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\security\database\DatabaseConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\security\database\DatabaseService.java">
+<error line="36" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="330" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\security\database\ScheduledTasks.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\security\FirstLoginFilter.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\security\InitialSecuritySetup.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\security\IPRateLimitingFilter.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\security\LoginAttemptService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\security\mail\EmailService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\security\mail\MailConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\security\oauth2\CustomOAuth2AuthenticationFailureHandler.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\security\oauth2\CustomOAuth2AuthenticationSuccessHandler.java">
+<error line="36" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\security\oauth2\CustomOAuth2UserService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\security\oauth2\OAuth2Configuration.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\security\RateLimitResetScheduler.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\security\saml2\CertificateUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\security\saml2\CustomSaml2AuthenticatedPrincipal.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\security\saml2\CustomSaml2AuthenticationFailureHandler.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\security\saml2\CustomSaml2AuthenticationSuccessHandler.java">
+<error line="36" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\security\saml2\CustomSaml2ResponseAuthenticationConverter.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\security\saml2\SAML2Configuration.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\security\SecurityConfiguration.java">
+<error line="45" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 18 classes [AntPathRequestMatcher, BCryptPasswordEncoder, CsrfTokenRequestAttributeHandler, CustomAuthenticationFailureHandler, CustomAuthenticationSuccessHandler, CustomLogoutSuccessHandler, CustomOAuth2AuthenticationFailureHandler, CustomOAuth2AuthenticationSuccessHandler, CustomOAuth2UserService, CustomSaml2AuthenticationFailureHandler, CustomSaml2AuthenticationSuccessHandler, CustomSaml2ResponseAuthenticationConverter, DaoAuthenticationProvider, IPRateLimitingFilter, JPATokenRepositoryImpl, NullRequestCache, OpenSaml4AuthenticationProvider, ProviderManager] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="45" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 43 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="103" column="5" severity="warning" message="A complexidade ciclomática é de 25 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\security\session\CustomHttpSessionListener.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\security\session\SessionPersistentRegistry.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\security\session\SessionRegistryConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\security\session\SessionRepository.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\security\session\SessionScheduled.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\security\UserAuthenticationFilter.java">
+<error line="36" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="56" column="5" severity="warning" message="A complexidade ciclomática é de 30 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\security\UserBasedRateLimitingFilter.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\security\UserService.java">
+<error line="34" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 27 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\StartupApplicationListener.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\WebMvcConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\YamlHelper.java">
+<error line="108" column="5" severity="warning" message="A complexidade ciclomática é de 25 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="197" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\config\YamlPropertySourceFactory.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\AdditionalLanguageJsController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\AnalysisController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\converters\ConvertHtmlToPDF.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\converters\ConvertImgPDFController.java">
+<error line="39" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="48" column="5" severity="warning" message="A complexidade ciclomática é de 22 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="71" column="9" severity="warning" message="Instrução vazia." source="com.puppycrawl.tools.checkstyle.checks.coding.EmptyStatementCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\converters\ConvertMarkdownToPdf.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\converters\ConvertOfficeController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\converters\ConvertPDFToHtml.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\converters\ConvertPDFToOffice.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\converters\ConvertPDFToPDFA.java">
+<error line="36" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\converters\ConvertWebsiteToPDF.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\converters\ExtractCSVController.java">
+<error line="40" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 24 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\CropController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\DatabaseController.java">
+<error line="32" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\EmailController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\filters\FilterController.java">
+<error line="31" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\H2SQLCondition.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\MergeController.java">
+<error line="39" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\misc\AutoRenameController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\misc\AutoSplitPdfController.java">
+<error line="41" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 29 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="105" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\misc\BlankPageController.java">
+<error line="37" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\misc\CompressController.java">
+<error line="60" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 37 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="477" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="657" column="5" severity="warning" message="A complexidade ciclomática é de 24 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\misc\DecompressPdfController.java">
+<error line="31" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\misc\ExtractImageScansController.java">
+<error line="40" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="51" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\misc\ExtractImagesController.java">
+<error line="47" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 30 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\misc\FakeScanControllerWIP.java">
+<error line="37" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 13 classes [AffineTransformOp, BasicStroke, BufferedImage, ByteArrayOutputStream, Color, ConvolveOp, Ellipse2D.Double, GradientPaint, Kernel, PDDocument, PDFRenderer, Path2D.Double, SecureRandom] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="37" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 29 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\misc\FlattenController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\misc\MetadataController.java">
+<error line="30" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="54" column="5" severity="warning" message="A complexidade ciclomática é de 23 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\misc\OCRController.java">
+<error line="38" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 30 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\misc\OverlayImageController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\misc\PageNumbersController.java">
+<error line="40" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\misc\PrintFileController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\misc\RepairController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\misc\ReplaceAndInvertColorController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\misc\ShowJavascript.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\misc\StampController.java">
+<error line="45" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 27 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="153" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\misc\UnlockPDFFormsController.java">
+<error line="30" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="42" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\MultiPageLayoutController.java">
+<error line="39" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\PdfImageRemovalController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\PdfOverlayController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\pipeline\ApiDocService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\pipeline\PipelineController.java">
+<error line="36" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\pipeline\PipelineDirectoryProcessor.java">
+<error line="42" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 24 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\pipeline\PipelineProcessor.java">
+<error line="40" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 27 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="89" column="5" severity="warning" message="A complexidade ciclomática é de 24 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\pipeline\UserServiceInterface.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\RearrangePagesPDFController.java">
+<error line="206" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\RotationController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\ScalePagesController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\security\CertSignController.java">
+<error line="78" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 13 classes [BouncyCastleProvider, ByteArrayInputStream, ByteArrayOutputStream, Certificate, CreateSignature, InputStreamReader, JcaPEMKeyConverter, JceOpenSSLPKCS8DecryptorProviderBuilder, JcePEMDecryptorProviderBuilder, PDSignature, PEMParser, PropertyEditorSupport, SignatureOptions] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="78" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 41 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="243" column="5" severity="warning" message="O acoplamento de abstração de dados da classe é de 17 classes [ByteArrayInputStream, ByteArrayOutputStream, ClassPathResource, PDAcroForm, PDAppearanceDictionary, PDAppearanceStream, PDDocument, PDExtendedGraphicsState, PDFormXObject, PDPage, PDPageContentStream, PDRectangle, PDResources, PDSignatureField, PDStream, PDType1Font, X500Name] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="243" column="5" severity="warning" message="A complexidade Fan-Out da classe é de 32 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\security\GetInfoOnPDF.java">
+<error line="68" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 64 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="121" column="5" severity="warning" message="A complexidade ciclomática é de 58 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="182" column="13" severity="warning" message="Instrução vazia." source="com.puppycrawl.tools.checkstyle.checks.coding.EmptyStatementCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\security\PasswordController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\security\RedactController.java">
+<error line="44" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 29 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="95" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\security\RemoveCertSignController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\security\SanitizeController.java">
+<error line="32" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 30 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="88" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\security\ValidateSignatureController.java">
+<error line="45" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 34 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="66" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\security\WatermarkController.java">
+<error line="47" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 29 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="146" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\SettingsController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\SplitPdfByChaptersController.java">
+<error line="40" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="51" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\SplitPdfBySectionsController.java">
+<error line="38" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 24 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\SplitPdfBySizeController.java">
+<error line="139" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="267" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\SplitPDFController.java">
+<error line="43" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\ToSinglePageController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\api\UserController.java">
+<error line="42" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 33 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="70" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="194" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="284" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\web\AccountWebController.java">
+<error line="48" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 30 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="72" column="5" severity="warning" message="A complexidade ciclomática é de 39 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="209" column="5" severity="warning" message="A complexidade ciclomática é de 23 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="338" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="403" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\web\ConverterWebController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\web\DatabaseWebController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\web\GeneralWebController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\web\HomeWebController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\web\MetricsController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\web\OtherWebController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\web\SecurityWebController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\web\SignatureController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\controller\web\UploadLimitService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\EE\EEAppConfig.java">
+<error line="64" column="5" severity="warning" message="A complexidade ciclomática é de 28 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\EE\KeygenLicenseVerifier.java">
+<error line="207" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="349" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="606" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\EE\LicenseKeyChecker.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\Factories\ReplaceAndInvertColorFactory.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\LibreOfficeListener.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\converters\ConvertPDFToMarkdown.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\converters\ConvertToImageRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\converters\ConvertToPdfRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\converters\HTMLToPdfRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\converters\PdfToBookRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\converters\PdfToPdfARequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\converters\PdfToPresentationRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\converters\PdfToTextOrRTFRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\converters\PdfToWordRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\converters\UrlToPdfRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\Email.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\filter\ContainsTextRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\filter\FileSizeRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\filter\PageRotationRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\filter\PageSizeRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\general\CropPdfForm.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\general\MergeMultiplePagesRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\general\MergePdfsRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\general\OverlayPdfsRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\general\RearrangePagesRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\general\RotatePDFRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\general\ScalePagesRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\general\SplitPdfBySizeOrCountRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\GeneralFile.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\HandleDataRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\ImageFile.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\misc\AddPageNumbersRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\misc\AddStampRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\misc\AutoSplitPdfRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\misc\ExtractHeaderRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\misc\ExtractImageScansRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\misc\FlattenRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\misc\HighContrastColorCombination.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\misc\MetadataRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\misc\OptimizePdfRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\misc\OverlayImageRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\misc\PrintFileRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\misc\ProcessPdfWithOcrRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\misc\RemoveBlankPagesRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\misc\ReplaceAndInvert.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\misc\ReplaceAndInvertColorRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\MultiplePDFFiles.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\PDFComparison.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\PDFComparisonAndCount.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\PDFExtractImagesRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\PDFFile.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\PDFWithImageFormatRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\PDFWithPageNums.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\PDFWithPageSize.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\security\AddPasswordRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\security\AddWatermarkRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\security\ManualRedactPdfRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\security\PDFPasswordRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\security\RedactionArea.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\security\RedactPdfRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\security\SanitizePdfRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\security\SignatureValidationRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\security\SignatureValidationResult.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\security\SignPDFWithCertRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\SplitPdfByChaptersRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\SplitPdfBySectionsRequest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\user\UpdateUserDetails.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\user\UpdateUserUsername.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\user\Username.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\api\user\UsernameAndPass.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\ApiEndpoint.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\ApiKeyAuthenticationToken.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\ApplicationProperties.java">
+<error line="44" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 17 classes [AutoPipeline, AutomaticallyGenerated, EncodedResource, Endpoints, EnterpriseEdition, File, FileNotFoundException, FileSystemResource, Legal, Mail, Metrics, Premium, ProcessExecutor, Security, System, Ui, YamlPropertySourceFactory] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="44" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 27 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\AttemptCounter.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\AuthenticationType.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\Authority.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\Dependency.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\exception\BackupNotFoundException.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\exception\NoProviderFoundException.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\exception\UnsupportedProviderException.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\exception\UnsupportedUsernameAttribute.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\InputStreamTemplateResource.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\PdfMetadata.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\PDFText.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\PersistentLogin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\PipelineConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\PipelineOperation.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\PipelineResult.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\provider\GitHubProvider.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\provider\GoogleProvider.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\provider\KeycloakProvider.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\provider\Provider.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\Role.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\SessionEntity.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\SignatureFile.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\SortTypes.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\User.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\model\UsernameAttribute.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\pdf\FlexibleCSVWriter.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\pdf\TextFinder.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\repository\AuthorityRepository.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\repository\JPATokenRepositoryImpl.java">
+<error line="56" column="31" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\repository\PersistentLoginRepository.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\repository\UserRepository.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\service\CertificateValidationService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\service\CustomPDFDocumentFactory.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\service\LanguageService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\service\MetricsAggregatorService.java">
+<error line="29" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\service\misc\ReplaceAndInvertColorService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\service\PdfImageRemovalService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\service\PdfMetadataService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\service\PostHogService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\service\SignatureService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\SPDFApplication.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\UI\impl\DesktopBrowser.java">
+<error line="49" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 16 classes [BorderLayout, CefAppBuilder, CefDownloadHandlerAdapter, CefLoadHandlerAdapter, ConsoleProgressHandler, File, JFrame, JPanel, LoadingWindow, MavenCefAppHandlerAdapter, MenuItem, PopupMenu, Timer, TrayIcon, WindowStateListener, java.awt.event.WindowAdapter] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="49" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 36 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\UI\impl\LoadingWindow.java">
+<error line="20" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 12 classes [BufferedReader, Dimension, GridBagConstraints, GridBagLayout, ImageIcon, InputStreamReader, Insets, JLabel, JPanel, JProgressBar, ProcessBuilder, Timer] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="114" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\UI\WebBrowser.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\utils\CheckProgramInstall.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\utils\CustomHtmlSanitizer.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\utils\ErrorUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\utils\FileInfo.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\utils\FileMonitor.java">
+<error line="78" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\utils\FileToPdf.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\utils\GeneralUtils.java">
+<error line="33" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="305" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\utils\ImageProcessingUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\utils\misc\CustomColorReplaceStrategy.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\utils\misc\HighContrastColorReplaceDecider.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\utils\misc\InvertFullColorStrategy.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\utils\misc\PdfTextStripperCustom.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\utils\misc\ReplaceAndInvertColorStrategy.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\utils\PDFToFile.java">
+<error line="37" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="222" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\utils\PdfUtils.java">
+<error line="40" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 13 classes [BufferedImage, ByteArrayOutputStream, IIOImage, PDDocument, PDFRenderer, PDFTextStripper, PDPage, PDPageContentStream, PDRectangle, PdfImageDimensionValue, PdfRenderSettingsKey, ZipEntry, ZipOutputStream] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="40" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 28 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="129" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\utils\ProcessExecutor.java">
+<error line="41" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="141" column="5" severity="warning" message="A complexidade ciclomática é de 23 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\utils\PropertyConfigs.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\utils\propertyeditor\StringToArrayListPropertyEditor.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\utils\propertyeditor\StringToMapPropertyEditor.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\utils\RequestUriUtils.java">
+<error line="10" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="32" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\utils\UIScaling.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\utils\UrlUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\utils\validation\Validator.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\Stirling-Tools_Stirling-PDF\src\main\java\stirling\software\SPDF\utils\WebResponseUtils.java">
+</file>
+</checkstyle>

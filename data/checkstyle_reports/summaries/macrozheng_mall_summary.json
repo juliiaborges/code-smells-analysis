@@ -1,0 +1,10 @@
+{
+  "repository": "macrozheng_mall",
+  "code_smells": {
+    "Potential God Class": 9,
+    "Too Many Fields": 2,
+    "Cyclomatic Complexity": 4,
+    "Unused Imports": 22
+  },
+  "total_smells": 37
+}

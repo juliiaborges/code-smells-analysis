@@ -1,0 +1,1092 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.23.1">
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\bo\AdminUserDetails.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\config\GlobalCorsConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\config\MallSecurityConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\config\MyBatisConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\config\OssConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\config\SwaggerConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\controller\CmsPrefrenceAreaController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\controller\CmsSubjectController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\controller\MinioController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\controller\OmsCompanyAddressController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\controller\OmsOrderController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\controller\OmsOrderReturnApplyController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\controller\OmsOrderReturnReasonController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\controller\OmsOrderSettingController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\controller\OssController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\controller\PmsBrandController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\controller\PmsProductAttributeCategoryController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\controller\PmsProductAttributeController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\controller\PmsProductCategoryController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\controller\PmsProductController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\controller\PmsSkuStockController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\controller\SmsCouponController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\controller\SmsCouponHistoryController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\controller\SmsFlashPromotionController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\controller\SmsFlashPromotionProductRelationController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\controller\SmsFlashPromotionSessionController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\controller\SmsHomeAdvertiseController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\controller\SmsHomeBrandController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\controller\SmsHomeNewProductController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\controller\SmsHomeRecommendProductController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\controller\SmsHomeRecommendSubjectController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\controller\UmsAdminController.java">
+<error line="33" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\controller\UmsMemberLevelController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\controller\UmsMenuController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\controller\UmsResourceCategoryController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\controller\UmsResourceController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\controller\UmsRoleController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dao\CmsPrefrenceAreaProductRelationDao.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dao\CmsSubjectProductRelationDao.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dao\OmsOrderDao.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dao\OmsOrderOperateHistoryDao.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dao\OmsOrderReturnApplyDao.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dao\PmsMemberPriceDao.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dao\PmsProductAttributeCategoryDao.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dao\PmsProductAttributeDao.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dao\PmsProductAttributeValueDao.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dao\PmsProductCategoryAttributeRelationDao.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dao\PmsProductCategoryDao.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dao\PmsProductDao.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dao\PmsProductFullReductionDao.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dao\PmsProductLadderDao.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dao\PmsProductVertifyRecordDao.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dao\PmsSkuStockDao.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dao\SmsCouponDao.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dao\SmsCouponProductCategoryRelationDao.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dao\SmsCouponProductRelationDao.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dao\SmsFlashPromotionProductRelationDao.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dao\UmsAdminRoleRelationDao.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dao\UmsRoleDao.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dto\BucketPolicyConfigDto.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dto\MinioUploadDto.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dto\OmsMoneyInfoParam.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dto\OmsOrderDeliveryParam.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dto\OmsOrderDetail.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dto\OmsOrderQueryParam.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dto\OmsOrderReturnApplyResult.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dto\OmsReceiverInfoParam.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dto\OmsReturnApplyQueryParam.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dto\OmsUpdateStatusParam.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dto\OssCallbackParam.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dto\OssCallbackResult.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dto\OssPolicyResult.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dto\PmsBrandParam.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dto\PmsProductAttributeCategoryItem.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dto\PmsProductAttributeParam.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dto\PmsProductCategoryParam.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dto\PmsProductCategoryWithChildrenItem.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dto\PmsProductParam.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dto\PmsProductQueryParam.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dto\PmsProductResult.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dto\ProductAttrInfo.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dto\SmsCouponParam.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dto\SmsFlashPromotionProduct.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dto\SmsFlashPromotionSessionDetail.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dto\UmsAdminLoginParam.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dto\UmsAdminParam.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dto\UmsMenuNode.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\dto\UpdateAdminPasswordParam.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\MallAdminApplication.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\CmsPrefrenceAreaService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\CmsSubjectService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\impl\CmsPrefrenceAreaServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\impl\CmsSubjectServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\impl\OmsCompanyAddressServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\impl\OmsOrderReturnApplyServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\impl\OmsOrderReturnReasonServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\impl\OmsOrderServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\impl\OmsOrderSettingServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\impl\OssServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\impl\PmsBrandServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\impl\PmsProductAttributeCategoryServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\impl\PmsProductAttributeServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\impl\PmsProductCategoryServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\impl\PmsProductServiceImpl.java">
+<error line="30" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 12 classes [CmsPrefrenceAreaProductRelationExample, CmsSubjectProductRelationExample, Date, PmsMemberPriceExample, PmsProduct, PmsProductAttributeValueExample, PmsProductExample, PmsProductFullReductionExample, PmsProductLadderExample, PmsProductVertifyRecord, PmsSkuStockExample, SimpleDateFormat] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="30" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 38 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\impl\PmsSkuStockServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\impl\SmsCouponHistoryServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\impl\SmsCouponServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\impl\SmsFlashPromotionProductRelationServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\impl\SmsFlashPromotionServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\impl\SmsFlashPromotionSessionServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\impl\SmsHomeAdvertiseServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\impl\SmsHomeBrandServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\impl\SmsHomeNewProductServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\impl\SmsHomeRecommendProductServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\impl\SmsHomeRecommendSubjectServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\impl\UmsAdminCacheServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\impl\UmsAdminServiceImpl.java">
+<error line="44" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 27 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\impl\UmsMemberLevelServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\impl\UmsMenuServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\impl\UmsResourceCategoryServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\impl\UmsResourceServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\impl\UmsRoleServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\OmsCompanyAddressService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\OmsOrderReturnApplyService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\OmsOrderReturnReasonService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\OmsOrderService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\OmsOrderSettingService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\OssService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\PmsBrandService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\PmsProductAttributeCategoryService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\PmsProductAttributeService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\PmsProductCategoryService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\PmsProductService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\PmsSkuStockService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\SmsCouponHistoryService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\SmsCouponService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\SmsFlashPromotionProductRelationService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\SmsFlashPromotionService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\SmsFlashPromotionSessionService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\SmsHomeAdvertiseService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\SmsHomeBrandService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\SmsHomeNewProductService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\SmsHomeRecommendProductService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\SmsHomeRecommendSubjectService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\UmsAdminCacheService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\UmsAdminService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\UmsMemberLevelService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\UmsMenuService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\UmsResourceCategoryService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\UmsResourceService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\service\UmsRoleService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\validator\FlagValidator.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\main\java\com\macro\mall\validator\FlagValidatorClass.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-admin\src\test\com\macro\mall\PmsDaoTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-common\src\main\java\com\macro\mall\common\api\CommonPage.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-common\src\main\java\com\macro\mall\common\api\CommonResult.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-common\src\main\java\com\macro\mall\common\api\IErrorCode.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-common\src\main\java\com\macro\mall\common\api\ResultCode.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-common\src\main\java\com\macro\mall\common\config\BaseRedisConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-common\src\main\java\com\macro\mall\common\config\BaseSwaggerConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-common\src\main\java\com\macro\mall\common\domain\SwaggerProperties.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-common\src\main\java\com\macro\mall\common\domain\WebLog.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-common\src\main\java\com\macro\mall\common\exception\ApiException.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-common\src\main\java\com\macro\mall\common\exception\Asserts.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-common\src\main\java\com\macro\mall\common\exception\GlobalExceptionHandler.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-common\src\main\java\com\macro\mall\common\log\WebLogAspect.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-common\src\main\java\com\macro\mall\common\service\impl\RedisServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-common\src\main\java\com\macro\mall\common\service\RedisService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-common\src\main\java\com\macro\mall\common\util\RequestUtil.java">
+<error line="16" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-demo\src\main\java\com\macro\mall\demo\bo\AdminUserDetails.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-demo\src\main\java\com\macro\mall\demo\config\MyBatisConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-demo\src\main\java\com\macro\mall\demo\config\RestTemplateConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-demo\src\main\java\com\macro\mall\demo\config\SecurityConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-demo\src\main\java\com\macro\mall\demo\config\SwaggerConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-demo\src\main\java\com\macro\mall\demo\controller\DemoController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-demo\src\main\java\com\macro\mall\demo\controller\RestTemplateDemoController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-demo\src\main\java\com\macro\mall\demo\dto\PmsBrandDto.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-demo\src\main\java\com\macro\mall\demo\MallDemoApplication.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-demo\src\main\java\com\macro\mall\demo\service\DemoService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-demo\src\main\java\com\macro\mall\demo\service\impl\DemoServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-demo\src\main\java\com\macro\mall\demo\validator\FlagValidator.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-demo\src\main\java\com\macro\mall\demo\validator\FlagValidatorClass.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-demo\src\test\java\com\macro\mall\demo\MallDemoApplicationTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\CommentGenerator.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\Generator.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\CmsHelpCategoryMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\CmsHelpMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\CmsMemberReportMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\CmsPrefrenceAreaMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\CmsPrefrenceAreaProductRelationMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\CmsSubjectCategoryMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\CmsSubjectCommentMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\CmsSubjectMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\CmsSubjectProductRelationMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\CmsTopicCategoryMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\CmsTopicCommentMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\CmsTopicMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\OmsCartItemMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\OmsCompanyAddressMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\OmsOrderItemMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\OmsOrderMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\OmsOrderOperateHistoryMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\OmsOrderReturnApplyMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\OmsOrderReturnReasonMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\OmsOrderSettingMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\PmsAlbumMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\PmsAlbumPicMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\PmsBrandMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\PmsCommentMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\PmsCommentReplayMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\PmsFeightTemplateMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\PmsMemberPriceMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\PmsProductAttributeCategoryMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\PmsProductAttributeMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\PmsProductAttributeValueMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\PmsProductCategoryAttributeRelationMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\PmsProductCategoryMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\PmsProductFullReductionMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\PmsProductLadderMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\PmsProductMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\PmsProductOperateLogMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\PmsProductVertifyRecordMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\PmsSkuStockMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\SmsCouponHistoryMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\SmsCouponMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\SmsCouponProductCategoryRelationMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\SmsCouponProductRelationMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\SmsFlashPromotionLogMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\SmsFlashPromotionMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\SmsFlashPromotionProductRelationMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\SmsFlashPromotionSessionMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\SmsHomeAdvertiseMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\SmsHomeBrandMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\SmsHomeNewProductMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\SmsHomeRecommendProductMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\SmsHomeRecommendSubjectMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\UmsAdminLoginLogMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\UmsAdminMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\UmsAdminPermissionRelationMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\UmsAdminRoleRelationMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\UmsGrowthChangeHistoryMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\UmsIntegrationChangeHistoryMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\UmsIntegrationConsumeSettingMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\UmsMemberLevelMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\UmsMemberLoginLogMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\UmsMemberMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\UmsMemberMemberTagRelationMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\UmsMemberProductCategoryRelationMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\UmsMemberReceiveAddressMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\UmsMemberRuleSettingMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\UmsMemberStatisticsInfoMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\UmsMemberTagMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\UmsMemberTaskMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\UmsMenuMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\UmsPermissionMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\UmsResourceCategoryMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\UmsResourceMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\UmsRoleMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\UmsRoleMenuRelationMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\UmsRolePermissionRelationMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\mapper\UmsRoleResourceRelationMapper.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\CmsHelp.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - io.swagger.annotations.ApiModelProperty." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\CmsHelpCategory.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\CmsHelpCategoryExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\CmsHelpExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\CmsMemberReport.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\CmsMemberReportExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\CmsPrefrenceArea.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\CmsPrefrenceAreaExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\CmsPrefrenceAreaProductRelation.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - io.swagger.annotations.ApiModelProperty." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\CmsPrefrenceAreaProductRelationExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\CmsSubject.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\CmsSubjectCategory.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\CmsSubjectCategoryExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\CmsSubjectComment.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - io.swagger.annotations.ApiModelProperty." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\CmsSubjectCommentExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\CmsSubjectExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\CmsSubjectProductRelation.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - io.swagger.annotations.ApiModelProperty." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\CmsSubjectProductRelationExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\CmsTopic.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\CmsTopicCategory.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\CmsTopicCategoryExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\CmsTopicComment.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - io.swagger.annotations.ApiModelProperty." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\CmsTopicCommentExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\CmsTopicExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\OmsCartItem.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\OmsCartItemExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\OmsCompanyAddress.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\OmsCompanyAddressExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\OmsOrder.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\OmsOrderExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\OmsOrderItem.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\OmsOrderItemExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\OmsOrderOperateHistory.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\OmsOrderOperateHistoryExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\OmsOrderReturnApply.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\OmsOrderReturnApplyExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\OmsOrderReturnReason.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\OmsOrderReturnReasonExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\OmsOrderSetting.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\OmsOrderSettingExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\PmsAlbum.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - io.swagger.annotations.ApiModelProperty." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\PmsAlbumExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\PmsAlbumPic.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - io.swagger.annotations.ApiModelProperty." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\PmsAlbumPicExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\PmsBrand.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\PmsBrandExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\PmsComment.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\PmsCommentExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\PmsCommentReplay.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\PmsCommentReplayExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\PmsFeightTemplate.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\PmsFeightTemplateExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\PmsMemberPrice.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\PmsMemberPriceExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\PmsProduct.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\PmsProductAttribute.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\PmsProductAttributeCategory.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\PmsProductAttributeCategoryExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\PmsProductAttributeExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\PmsProductAttributeValue.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\PmsProductAttributeValueExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\PmsProductCategory.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\PmsProductCategoryAttributeRelation.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - io.swagger.annotations.ApiModelProperty." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\PmsProductCategoryAttributeRelationExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\PmsProductCategoryExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\PmsProductExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\PmsProductFullReduction.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - io.swagger.annotations.ApiModelProperty." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\PmsProductFullReductionExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\PmsProductLadder.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\PmsProductLadderExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\PmsProductOperateLog.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\PmsProductOperateLogExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\PmsProductVertifyRecord.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\PmsProductVertifyRecordExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\PmsSkuStock.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\PmsSkuStockExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\SmsCoupon.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\SmsCouponExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\SmsCouponHistory.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\SmsCouponHistoryExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\SmsCouponProductCategoryRelation.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\SmsCouponProductCategoryRelationExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\SmsCouponProductRelation.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\SmsCouponProductRelationExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\SmsFlashPromotion.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\SmsFlashPromotionExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\SmsFlashPromotionLog.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\SmsFlashPromotionLogExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\SmsFlashPromotionProductRelation.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\SmsFlashPromotionProductRelationExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\SmsFlashPromotionSession.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\SmsFlashPromotionSessionExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\SmsHomeAdvertise.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\SmsHomeAdvertiseExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\SmsHomeBrand.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - io.swagger.annotations.ApiModelProperty." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\SmsHomeBrandExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\SmsHomeNewProduct.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - io.swagger.annotations.ApiModelProperty." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\SmsHomeNewProductExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\SmsHomeRecommendProduct.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - io.swagger.annotations.ApiModelProperty." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\SmsHomeRecommendProductExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\SmsHomeRecommendSubject.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - io.swagger.annotations.ApiModelProperty." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\SmsHomeRecommendSubjectExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsAdmin.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsAdminExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsAdminLoginLog.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsAdminLoginLogExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsAdminPermissionRelation.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - io.swagger.annotations.ApiModelProperty." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsAdminPermissionRelationExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsAdminRoleRelation.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - io.swagger.annotations.ApiModelProperty." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsAdminRoleRelationExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsGrowthChangeHistory.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsGrowthChangeHistoryExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsIntegrationChangeHistory.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsIntegrationChangeHistoryExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsIntegrationConsumeSetting.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsIntegrationConsumeSettingExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsMember.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsMemberExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsMemberLevel.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsMemberLevelExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsMemberLoginLog.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsMemberLoginLogExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsMemberMemberTagRelation.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - io.swagger.annotations.ApiModelProperty." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsMemberMemberTagRelationExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsMemberProductCategoryRelation.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - io.swagger.annotations.ApiModelProperty." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsMemberProductCategoryRelationExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsMemberReceiveAddress.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsMemberReceiveAddressExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsMemberRuleSetting.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsMemberRuleSettingExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsMemberStatisticsInfo.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsMemberStatisticsInfoExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsMemberTag.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsMemberTagExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsMemberTask.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsMemberTaskExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsMenu.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsMenuExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsPermission.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsPermissionExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsResource.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsResourceCategory.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsResourceCategoryExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsResourceExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsRole.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsRoleExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsRoleMenuRelation.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsRoleMenuRelationExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsRolePermissionRelation.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - io.swagger.annotations.ApiModelProperty." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsRolePermissionRelationExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsRoleResourceRelation.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-mbg\src\main\java\com\macro\mall\model\UmsRoleResourceRelationExample.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\component\CancelOrderReceiver.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\component\CancelOrderSender.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\component\OrderTimeOutCancelTask.java">
+<error line="8" column="8" severity="warning" message="Importação não utilizada - org.springframework.stereotype.Component." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\config\AlipayClientConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\config\AlipayConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\config\GlobalCorsConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\config\JacksonConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\config\MallSecurityConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\config\MyBatisConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\config\RabbitMqConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\config\SpringTaskConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\config\SwaggerConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\controller\AlipayController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\controller\HomeController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\controller\MemberAttentionController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\controller\MemberProductCollectionController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\controller\MemberReadHistoryController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\controller\OmsCartItemController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\controller\OmsPortalOrderController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\controller\OmsPortalOrderReturnApplyController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\controller\PmsPortalBrandController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\controller\PmsPortalProductController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\controller\UmsMemberController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\controller\UmsMemberCouponController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\controller\UmsMemberReceiveAddressController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\dao\HomeDao.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\dao\PortalOrderDao.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\dao\PortalOrderItemDao.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\dao\PortalProductDao.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\dao\SmsCouponHistoryDao.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\domain\AliPayParam.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\domain\CartProduct.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\domain\CartPromotionItem.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\domain\ConfirmOrderResult.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\domain\FlashPromotionProduct.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\domain\HomeContentResult.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\domain\HomeFlashPromotion.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\domain\MemberBrandAttention.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\domain\MemberDetails.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\domain\MemberProductCollection.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\domain\MemberReadHistory.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\domain\OmsOrderDetail.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\domain\OmsOrderReturnApplyParam.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\domain\OrderParam.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\domain\PmsPortalProductDetail.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\domain\PmsProductCategoryNode.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\domain\PromotionProduct.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\domain\QueueEnum.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\domain\SmsCouponHistoryDetail.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\MallPortalApplication.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\repository\MemberBrandAttentionRepository.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\repository\MemberProductCollectionRepository.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\repository\MemberReadHistoryRepository.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\service\AlipayService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\service\HomeService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\service\impl\AlipayServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\service\impl\HomeServiceImpl.java">
+<error line="23" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\service\impl\MemberAttentionServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\service\impl\MemberCollectionServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\service\impl\MemberReadHistoryServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\service\impl\OmsCartItemServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\service\impl\OmsPortalOrderReturnApplyServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\service\impl\OmsPortalOrderServiceImpl.java">
+<error line="33" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 13 classes [BigDecimal, CommonPage, ConfirmOrderResult, ConfirmOrderResult.CalcAmount, Date, OmsOrder, OmsOrderDetail, OmsOrderExample, OmsOrderItem, OmsOrderItemExample, OmsOrderSettingExample, SimpleDateFormat, SmsCouponHistoryExample] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="33" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 46 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="95" column="5" severity="warning" message="A complexidade ciclomática é de 19 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\service\impl\OmsPromotionServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\service\impl\PmsPortalBrandServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\service\impl\PmsPortalProductServiceImpl.java">
+<error line="23" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\service\impl\UmsMemberCacheServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\service\impl\UmsMemberCouponServiceImpl.java">
+<error line="26" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 26 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="114" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\service\impl\UmsMemberReceiveAddressServiceImpl.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\service\impl\UmsMemberServiceImpl.java">
+<error line="39" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\service\MemberAttentionService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\service\MemberCollectionService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\service\MemberReadHistoryService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\service\OmsCartItemService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\service\OmsPortalOrderReturnApplyService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\service\OmsPortalOrderService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\service\OmsPromotionService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\service\PmsPortalBrandService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\service\PmsPortalProductService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\service\UmsMemberCacheService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\service\UmsMemberCouponService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\service\UmsMemberReceiveAddressService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\service\UmsMemberService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\main\java\com\macro\mall\portal\util\DateUtil.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\test\java\com\macro\mall\portal\MallPortalApplicationTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-portal\src\test\java\com\macro\mall\portal\PortalProductDaoTests.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-search\src\main\java\com\macro\mall\search\config\MyBatisConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-search\src\main\java\com\macro\mall\search\config\SwaggerConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-search\src\main\java\com\macro\mall\search\controller\EsProductController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-search\src\main\java\com\macro\mall\search\dao\EsProductDao.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-search\src\main\java\com\macro\mall\search\domain\EsProduct.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-search\src\main\java\com\macro\mall\search\domain\EsProductAttributeValue.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-search\src\main\java\com\macro\mall\search\domain\EsProductRelatedInfo.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-search\src\main\java\com\macro\mall\search\MallSearchApplication.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-search\src\main\java\com\macro\mall\search\repository\EsProductRepository.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-search\src\main\java\com\macro\mall\search\service\EsProductService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-search\src\main\java\com\macro\mall\search\service\impl\EsProductServiceImpl.java">
+<error line="52" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 30 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="109" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-search\src\test\java\com\macro\mall\search\MallSearchApplicationTests.java">
+<error line="10" column="8" severity="warning" message="Importação não utilizada - org.springframework.test.context.junit4.SpringRunner." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-security\src\main\java\com\macro\mall\security\annotation\CacheException.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-security\src\main\java\com\macro\mall\security\aspect\RedisCacheAspect.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-security\src\main\java\com\macro\mall\security\component\DynamicAccessDecisionManager.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-security\src\main\java\com\macro\mall\security\component\DynamicSecurityFilter.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-security\src\main\java\com\macro\mall\security\component\DynamicSecurityMetadataSource.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-security\src\main\java\com\macro\mall\security\component\DynamicSecurityService.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-security\src\main\java\com\macro\mall\security\component\JwtAuthenticationTokenFilter.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-security\src\main\java\com\macro\mall\security\component\RestAuthenticationEntryPoint.java">
+<error line="7" column="8" severity="warning" message="Importação não utilizada - org.springframework.stereotype.Component." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-security\src\main\java\com\macro\mall\security\component\RestfulAccessDeniedHandler.java">
+<error line="7" column="8" severity="warning" message="Importação não utilizada - org.springframework.stereotype.Component." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-security\src\main\java\com\macro\mall\security\config\CommonSecurityConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-security\src\main\java\com\macro\mall\security\config\IgnoreUrlsConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-security\src\main\java\com\macro\mall\security\config\RedisConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-security\src\main\java\com\macro\mall\security\config\SecurityConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-security\src\main\java\com\macro\mall\security\util\JwtTokenUtil.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\macrozheng_mall\mall-security\src\main\java\com\macro\mall\security\util\SpringUtil.java">
+</file>
+</checkstyle>

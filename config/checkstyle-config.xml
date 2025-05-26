@@ -7,77 +7,34 @@
   <property name="severity" value="warning"/>
   <property name="fileExtensions" value="java"/>
 
-  <!-- Verifica tamanho de arquivos -->
-  <module name="FileLength">
-    <property name="max" value="2000"/>
-  </module>
-
-  <!-- Verifica formato do arquivo -->
-  <module name="FileTabCharacter"/>
-  <module name="NewlineAtEndOfFile"/>
-
-  <!-- Verifica duplicação de código -->
-  <module name="StrictDuplicateCode">
-    <property name="min" value="30"/>
-  </module>
-
   <module name="TreeWalker">
-    <!-- Bloaters -->
-    <module name="MethodLength">
-      <property name="max" value="60"/>
-    </module>
 
-    <module name="ParameterNumber">
-      <property name="max" value="7"/>
-    </module>
+    <!-- Unused Imports -->
+    <module name="UnusedImports"/>
 
-    <!-- Cyclomatic complexity -->
+    <!-- Cyclomatic Complexity -->
     <module name="CyclomaticComplexity">
       <property name="max" value="10"/>
     </module>
 
-    <!-- Code style smells -->
-    <module name="AvoidStarImport"/>
-    <module name="ConstantName"/>
-    <module name="LocalFinalVariableName"/>
-    <module name="LocalVariableName"/>
-    <module name="MemberName"/>
-    <module name="MethodName"/>
-    <module name="PackageName"/>
-    <module name="ParameterName"/>
-    <module name="StaticVariableName"/>
+    <!-- Empty Catch Block -->
+    <module name="EmptyCatchBlock"/>
+
+    <!-- Naming Conventions -->
     <module name="TypeName"/>
 
-    <!-- Couplers -->
+    <!-- Potential God Class -->
     <module name="ClassFanOutComplexity">
       <property name="max" value="20"/>
     </module>
 
-    <!-- Other smells -->
-    <module name="MagicNumber"/>
-    <module name="EmptyBlock"/>
-    <module name="NeedBraces"/>
-    <module name="EmptyCatchBlock"/>
-    <module name="DefaultComesLast"/>
-    <module name="EqualsHashCode"/>
-    <module name="FinalClass"/>
-    <module name="HideUtilityClassConstructor"/>
-    <module name="InterfaceIsType"/>
-    <module name="VisibilityModifier"/>
-    <module name="BooleanExpressionComplexity"/>
-    <module name="NestedIfDepth">
-      <property name="max" value="3"/>
+    <!-- Empty Control Statement -->
+    <module name="EmptyStatement"/>
+
+    <!-- Too Many Fields) -->
+    <module name="ClassDataAbstractionCoupling">
+      <property name="max" value="10"/>
     </module>
-    <module name="NestedTryDepth">
-      <property name="max" value="2"/>
-    </module>
-    <module name="SimplifyBooleanExpression"/>
-    <module name="SimplifyBooleanReturn"/>
-    <module name="StringLiteralEquality"/>
-    <module name="IllegalCatch"/>
-    <module name="IllegalThrows"/>
-    <module name="ModifiedControlVariable"/>
-    <module name="MissingSwitchDefault"/>
-    <module name="MultipleVariableDeclarations"/>
+
   </module>
 </module>

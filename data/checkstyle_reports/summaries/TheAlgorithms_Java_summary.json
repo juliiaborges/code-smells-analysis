@@ -1,0 +1,7 @@
+{
+  "repository": "TheAlgorithms_Java",
+  "code_smells": {
+    "Cyclomatic Complexity": 44
+  },
+  "total_smells": 44
+}

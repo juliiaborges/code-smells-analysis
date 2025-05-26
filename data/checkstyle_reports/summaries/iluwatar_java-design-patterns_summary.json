@@ -1,0 +1,10 @@
+{
+  "repository": "iluwatar_java-design-patterns",
+  "code_smells": {
+    "Cyclomatic Complexity": 4,
+    "Too Many Fields": 3,
+    "Potential God Class": 1,
+    "Empty Control Statement": 1
+  },
+  "total_smells": 9
+}

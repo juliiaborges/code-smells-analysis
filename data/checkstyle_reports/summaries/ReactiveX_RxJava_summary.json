@@ -1,0 +1,9 @@
+{
+  "repository": "ReactiveX_RxJava",
+  "code_smells": {
+    "Too Many Fields": 9,
+    "Potential God Class": 10,
+    "Cyclomatic Complexity": 118
+  },
+  "total_smells": 137
+}

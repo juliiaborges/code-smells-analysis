@@ -1,0 +1,9 @@
+{
+  "repository": "spring-projects_spring-boot",
+  "code_smells": {
+    "Potential God Class": 70,
+    "Too Many Fields": 11,
+    "Cyclomatic Complexity": 4
+  },
+  "total_smells": 85
+}

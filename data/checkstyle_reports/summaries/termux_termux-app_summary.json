@@ -1,0 +1,12 @@
+{
+  "repository": "termux_termux-app",
+  "code_smells": {
+    "Cyclomatic Complexity": 84,
+    "Unused Imports": 21,
+    "Potential God Class": 6,
+    "Too Many Fields": 2,
+    "Empty Catch Block": 4,
+    "Naming Conventions": 21
+  },
+  "total_smells": 138
+}

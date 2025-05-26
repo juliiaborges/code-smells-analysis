@@ -1,0 +1,12 @@
+{
+  "repository": "spring-projects_spring-framework",
+  "code_smells": {
+    "Unused Imports": 12,
+    "Empty Catch Block": 53,
+    "Cyclomatic Complexity": 656,
+    "Too Many Fields": 209,
+    "Potential God Class": 381,
+    "Naming Conventions": 22
+  },
+  "total_smells": 1333
+}

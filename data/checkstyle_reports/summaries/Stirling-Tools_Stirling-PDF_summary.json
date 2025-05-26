@@ -1,0 +1,11 @@
+{
+  "repository": "Stirling-Tools_Stirling-PDF",
+  "code_smells": {
+    "Potential God Class": 39,
+    "Empty Catch Block": 2,
+    "Cyclomatic Complexity": 52,
+    "Too Many Fields": 8,
+    "Empty Control Statement": 2
+  },
+  "total_smells": 103
+}

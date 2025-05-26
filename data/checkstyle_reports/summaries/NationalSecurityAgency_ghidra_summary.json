@@ -1,0 +1,13 @@
+{
+  "repository": "NationalSecurityAgency_ghidra",
+  "code_smells": {
+    "Cyclomatic Complexity": 2385,
+    "Potential God Class": 1696,
+    "Too Many Fields": 692,
+    "Naming Conventions": 504,
+    "Empty Control Statement": 10,
+    "Empty Catch Block": 361,
+    "Unused Imports": 105
+  },
+  "total_smells": 5753
+}

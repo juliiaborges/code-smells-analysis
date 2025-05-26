@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.23.1">
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\app\src\main\java\com\termux\app\activities\HelpActivity.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\app\src\main\java\com\termux\app\activities\SettingsActivity.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\app\src\main\java\com\termux\app\api\file\FileReceiverActivity.java">
+<error line="64" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\app\src\main\java\com\termux\app\event\SystemEventReceiver.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\app\src\main\java\com\termux\app\fragments\settings\termux\DebuggingPreferencesFragment.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\app\src\main\java\com\termux\app\fragments\settings\termux\TerminalIOPreferencesFragment.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\app\src\main\java\com\termux\app\fragments\settings\termux\TerminalViewPreferencesFragment.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\app\src\main\java\com\termux\app\fragments\settings\TermuxAPIPreferencesFragment.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\app\src\main\java\com\termux\app\fragments\settings\TermuxFloatPreferencesFragment.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\app\src\main\java\com\termux\app\fragments\settings\TermuxPreferencesFragment.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\app\src\main\java\com\termux\app\fragments\settings\TermuxTaskerPreferencesFragment.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\app\src\main\java\com\termux\app\fragments\settings\TermuxWidgetPreferencesFragment.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\app\src\main\java\com\termux\app\fragments\settings\termux_api\DebuggingPreferencesFragment.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\app\src\main\java\com\termux\app\fragments\settings\termux_float\DebuggingPreferencesFragment.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\app\src\main\java\com\termux\app\fragments\settings\termux_tasker\DebuggingPreferencesFragment.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\app\src\main\java\com\termux\app\fragments\settings\termux_widget\DebuggingPreferencesFragment.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\app\src\main\java\com\termux\app\models\UserAction.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\app\src\main\java\com\termux\app\RunCommandService.java">
+<error line="57" column="5" severity="warning" message="A complexidade ciclomática é de 20 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\app\src\main\java\com\termux\app\terminal\io\FullScreenWorkAround.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\app\src\main\java\com\termux\app\terminal\io\KeyboardShortcut.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\app\src\main\java\com\termux\app\terminal\io\TerminalToolbarViewPager.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\app\src\main\java\com\termux\app\terminal\io\TermuxTerminalExtraKeys.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\app\src\main\java\com\termux\app\terminal\TermuxActivityRootView.java">
+<error line="119" column="5" severity="warning" message="A complexidade ciclomática é de 31 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\app\src\main\java\com\termux\app\terminal\TermuxSessionsListViewController.java">
+<error line="42" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\app\src\main\java\com\termux\app\terminal\TermuxTerminalSessionActivityClient.java">
+<error line="6" column="8" severity="warning" message="Importação não utilizada - android.content.ClipData." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="7" column="8" severity="warning" message="Importação não utilizada - android.content.ClipboardManager." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="8" column="8" severity="warning" message="Importação não utilizada - android.content.Context." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="138" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\app\src\main\java\com\termux\app\terminal\TermuxTerminalSessionServiceClient.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\app\src\main\java\com\termux\app\terminal\TermuxTerminalViewClient.java">
+<error line="5" column="8" severity="warning" message="Importação não utilizada - android.content.ClipData." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="6" column="8" severity="warning" message="Importação não utilizada - android.content.ClipboardManager." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="10" column="8" severity="warning" message="Importação não utilizada - android.text.TextUtils." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="18" column="8" severity="warning" message="Importação não utilizada - android.widget.Toast." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="56" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="239" column="5" severity="warning" message="A complexidade ciclomática é de 24 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="360" column="5" severity="warning" message="A complexidade ciclomática é de 44 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\app\src\main\java\com\termux\app\TermuxActivity.java">
+<error line="80" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 12 classes [AlertDialog.Builder, Intent, IntentFilter, TerminalToolbarViewPager.OnPageChangeListener, TerminalToolbarViewPager.PageAdapter, TermuxActivityBroadcastReceiver, TermuxActivityRootView.WindowInsetsListener, TermuxSessionsListViewController, TermuxTerminalExtraKeys, TermuxTerminalSessionActivityClient, TermuxTerminalViewClient, Thread] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="80" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 45 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="660" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\app\src\main\java\com\termux\app\TermuxApplication.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\app\src\main\java\com\termux\app\TermuxInstaller.java">
+<error line="119" column="13" severity="warning" message="A complexidade ciclomática é de 23 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="284" column="13" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\app\src\main\java\com\termux\app\TermuxOpenReceiver.java">
+<error line="34" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\app\src\main\java\com\termux\app\TermuxService.java">
+<error line="68" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 31 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\app\src\main\java\com\termux\filepicker\TermuxDocumentsProvider.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\app\src\test\java\com\termux\app\api\file\FileReceiverActivityTest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\app\src\test\java\com\termux\app\TermuxActivityTest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-emulator\src\main\java\com\termux\terminal\ByteQueue.java">
+<error line="59" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-emulator\src\main\java\com\termux\terminal\JNI.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-emulator\src\main\java\com\termux\terminal\KeyHandler.java">
+<error line="156" column="5" severity="warning" message="A complexidade ciclomática é de 112 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-emulator\src\main\java\com\termux\terminal\Logger.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-emulator\src\main\java\com\termux\terminal\TerminalBuffer.java">
+<error line="60" column="5" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="203" column="5" severity="warning" message="A complexidade ciclomática é de 49 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="420" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-emulator\src\main\java\com\termux\terminal\TerminalColors.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-emulator\src\main\java\com\termux\terminal\TerminalColorScheme.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-emulator\src\main\java\com\termux\terminal\TerminalEmulator.java">
+<error line="296" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="365" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="505" column="5" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="570" column="5" severity="warning" message="A complexidade ciclomática é de 109 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="918" column="5" severity="warning" message="A complexidade ciclomática é de 19 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1102" column="5" severity="warning" message="A complexidade ciclomática é de 26 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1186" column="5" severity="warning" message="A complexidade ciclomática é de 42 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1407" column="5" severity="warning" message="A complexidade ciclomática é de 26 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1529" column="5" severity="warning" message="A complexidade ciclomática é de 79 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1856" column="5" severity="warning" message="A complexidade ciclomática é de 61 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="2014" column="5" severity="warning" message="A complexidade ciclomática é de 46 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="2348" column="5" severity="warning" message="A complexidade ciclomática é de 53 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-emulator\src\main\java\com\termux\terminal\TerminalOutput.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-emulator\src\main\java\com\termux\terminal\TerminalRow.java">
+<error line="92" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="152" column="5" severity="warning" message="A complexidade ciclomática é de 28 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-emulator\src\main\java\com\termux\terminal\TerminalSession.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-emulator\src\main\java\com\termux\terminal\TerminalSessionClient.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-emulator\src\main\java\com\termux\terminal\TextStyle.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-emulator\src\main\java\com\termux\terminal\WcWidth.java">
+<error line="514" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-emulator\src\test\java\com\termux\terminal\ApcTest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-emulator\src\test\java\com\termux\terminal\ByteQueueTest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-emulator\src\test\java\com\termux\terminal\ControlSequenceIntroducerTest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-emulator\src\test\java\com\termux\terminal\CursorAndScreenTest.java">
+<error line="7" column="9" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-emulator\src\test\java\com\termux\terminal\DecSetTest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-emulator\src\test\java\com\termux\terminal\DeviceControlStringTest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-emulator\src\test\java\com\termux\terminal\HistoryTest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-emulator\src\test\java\com\termux\terminal\KeyHandlerTest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-emulator\src\test\java\com\termux\terminal\OperatingSystemControlTest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-emulator\src\test\java\com\termux\terminal\RectangularAreasTest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-emulator\src\test\java\com\termux\terminal\ResizeTest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-emulator\src\test\java\com\termux\terminal\ScreenBufferTest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-emulator\src\test\java\com\termux\terminal\ScrollRegionTest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-emulator\src\test\java\com\termux\terminal\TerminalRowTest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-emulator\src\test\java\com\termux\terminal\TerminalTest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-emulator\src\test\java\com\termux\terminal\TerminalTestCase.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-emulator\src\test\java\com\termux\terminal\TextStyleTest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-emulator\src\test\java\com\termux\terminal\UnicodeInputTest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-emulator\src\test\java\com\termux\terminal\WcWidthTest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-view\src\main\java\com\termux\view\GestureAndScaleRecognizer.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-view\src\main\java\com\termux\view\support\PopupWindowCompatGingerbread.java">
+<error line="18" column="8" severity="warning" message="Importação não utilizada - android.util.Log." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-view\src\main\java\com\termux\view\TerminalRenderer.java">
+<error line="57" column="5" severity="warning" message="A complexidade ciclomática é de 35 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="159" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-view\src\main\java\com\termux\view\TerminalView.java">
+<error line="46" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 36 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="379" column="13" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="457" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="603" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="768" column="5" severity="warning" message="A complexidade ciclomática é de 31 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="844" column="5" severity="warning" message="A complexidade ciclomática é de 31 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-view\src\main\java\com\termux\view\TerminalViewClient.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-view\src\main\java\com\termux\view\textselection\CursorController.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-view\src\main\java\com\termux\view\textselection\TextSelectionCursorController.java">
+<error line="217" column="5" severity="warning" message="A complexidade ciclomática é de 24 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\terminal-view\src\main\java\com\termux\view\textselection\TextSelectionHandleView.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\androidTest\java\com\termux\shared\ExampleInstrumentedTest.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\activities\ReportActivity.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\activities\TextIOActivity.java">
+<error line="44" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="101" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\activity\ActivityErrno.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\activity\ActivityUtils.java">
+<error line="100" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\activity\media\AppCompatActivityUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\android\AndroidUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\android\FeatureFlagUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\android\PackageUtils.java">
+<error line="734" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\android\PermissionUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\android\PhantomProcessUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\android\ProcessUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\android\resource\ResourceUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\android\SELinuxUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\android\SettingsProviderUtils.java">
+<error line="46" column="5" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\android\UserUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\crash\CrashHandler.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\data\DataUtils.java">
+<error line="13" column="8" severity="warning" message="Importação não utilizada - java.util.Collections." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\data\IntentUtils.java">
+<error line="119" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\errors\Errno.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\errors\Error.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\errors\FunctionErrno.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\file\filesystem\FileAttributes.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\file\filesystem\FileKey.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\file\filesystem\FilePermission.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\file\filesystem\FilePermissions.java">
+<error line="129" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\file\filesystem\FileTime.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\file\filesystem\FileType.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\file\filesystem\FileTypes.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\file\filesystem\NativeDispatcher.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\file\filesystem\UnixConstants.java">
+<error line="35" column="8" severity="warning" message="Importação não utilizada - android.os.Build." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="38" column="8" severity="warning" message="Importação não utilizada - androidx.annotation.RequiresApi." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\file\FileUtils.java">
+<error line="36" column="8" severity="warning" message="Importação não utilizada - java.util.Arrays." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="43" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 11 classes [AgeFileFilter, BufferedReader, BufferedWriter, File, FileInputStream, FileOutputStream, InputStreamReader, ObjectInputStream, ObjectOutputStream, OutputStreamWriter, ReadSerializableObjectResult] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="43" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="88" column="30" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="207" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="268" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="406" column="5" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="487" column="5" severity="warning" message="A complexidade ciclomática é de 27 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="602" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="779" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1051" column="5" severity="warning" message="A complexidade ciclomática é de 32 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1283" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1390" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1453" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1523" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1818" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1889" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1941" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\file\FileUtilsErrno.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\file\tests\FileUtilsTests.java">
+<error line="50" column="5" severity="warning" message="A complexidade ciclomática é de 24 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\interact\MessageDialogUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\interact\ShareUtils.java">
+<error line="195" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\jni\models\JniResult.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\logger\Logger.java">
+<error line="56" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\markdown\MarkdownUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\models\ReportInfo.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\models\TextIOInfo.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\net\socket\local\ILocalSocketManager.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\net\socket\local\LocalClientSocket.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\net\socket\local\LocalServerSocket.java">
+<error line="52" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="133" column="37" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="187" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="291" column="41" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="295" column="45" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\net\socket\local\LocalSocketErrno.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\net\socket\local\LocalSocketManager.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\net\socket\local\LocalSocketManagerClientBase.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\net\socket\local\LocalSocketRunConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\net\socket\local\PeerCred.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\net\uri\UriScheme.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\net\uri\UriUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\net\url\UrlUtils.java">
+<error line="72" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\notification\NotificationUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\reflection\ReflectionUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\settings\preferences\AppSharedPreferences.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\settings\preferences\SharedPreferenceUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\settings\properties\SharedProperties.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\settings\properties\SharedPropertiesParser.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\shell\am\AmSocketServer.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\shell\am\AmSocketServerErrno.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\shell\am\AmSocketServerRunConfig.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\shell\ArgumentTokenizer.java">
+<error line="70" column="5" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\shell\command\environment\AndroidShellEnvironment.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\shell\command\environment\IShellEnvironment.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\shell\command\environment\ShellCommandShellEnvironment.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\shell\command\environment\ShellEnvironmentUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\shell\command\environment\ShellEnvironmentVariable.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\shell\command\environment\UnixShellEnvironment.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\shell\command\ExecutionCommand.java">
+<error line="364" column="5" severity="warning" message="A complexidade ciclomática é de 19 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="467" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\shell\command\result\ResultConfig.java">
+<error line="95" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\shell\command\result\ResultData.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\shell\command\result\ResultSender.java">
+<error line="69" column="5" severity="warning" message="A complexidade ciclomática é de 19 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="160" column="5" severity="warning" message="A complexidade ciclomática é de 35 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\shell\command\result\ResultSenderErrno.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\shell\command\runner\app\AppShell.java">
+<error line="78" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\shell\command\ShellCommandConstants.java">
+<error line="14" column="31" severity="warning" message="O nome &apos;RESULT_SENDER&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\shell\ShellUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\shell\StreamGobbler.java">
+<error line="191" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\crash\TermuxCrashUtils.java">
+<error line="284" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\data\TermuxUrlUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\extrakeys\ExtraKeyButton.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\extrakeys\ExtraKeysConstants.java">
+<error line="75" column="25" severity="warning" message="O nome &apos;EXTRA_KEY_DISPLAY_MAPS&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\extrakeys\ExtraKeysInfo.java">
+<error line="4" column="8" severity="warning" message="Importação não utilizada - android.widget.Button." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\extrakeys\ExtraKeysView.java">
+<error line="385" column="5" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\extrakeys\SpecialButton.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\extrakeys\SpecialButtonState.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\file\TermuxFileUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\interact\TextInputDialogUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\models\UserAction.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\notification\TermuxNotificationUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\plugins\TermuxPluginUtils.java">
+<error line="320" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\settings\preferences\TermuxAPIAppSharedPreferences.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\settings\preferences\TermuxAppSharedPreferences.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\settings\preferences\TermuxBootAppSharedPreferences.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\settings\preferences\TermuxFloatAppSharedPreferences.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\settings\preferences\TermuxPreferenceConstants.java">
+<error line="88" column="31" severity="warning" message="O nome &apos;TERMUX_APP&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="190" column="31" severity="warning" message="O nome &apos;TERMUX_API_APP&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="211" column="31" severity="warning" message="O nome &apos;TERMUX_BOOT_APP&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="225" column="31" severity="warning" message="O nome &apos;TERMUX_FLOAT_APP&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="270" column="31" severity="warning" message="O nome &apos;TERMUX_STYLING_APP&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="284" column="31" severity="warning" message="O nome &apos;TERMUX_TASKER_APP&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="305" column="31" severity="warning" message="O nome &apos;TERMUX_WIDGET_APP&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\settings\preferences\TermuxStylingAppSharedPreferences.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\settings\preferences\TermuxTaskerAppSharedPreferences.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\settings\preferences\TermuxWidgetAppSharedPreferences.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\settings\properties\TermuxAppSharedProperties.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\settings\properties\TermuxPropertyConstants.java">
+<error line="6" column="8" severity="warning" message="Importação não utilizada - com.termux.shared.file.FileUtils." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="7" column="8" severity="warning" message="Importação não utilizada - com.termux.shared.file.filesystem.FileType." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="10" column="8" severity="warning" message="Importação não utilizada - com.termux.shared.logger.Logger." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="14" column="8" severity="warning" message="Importação não utilizada - java.io.File." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="17" column="8" severity="warning" message="Importação não utilizada - java.util.List." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\settings\properties\TermuxSharedProperties.java">
+<error line="251" column="5" severity="warning" message="A complexidade ciclomática é de 23 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="467" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\shell\am\TermuxAmSocketServer.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\shell\command\environment\TermuxAPIShellEnvironment.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\shell\command\environment\TermuxAppShellEnvironment.java">
+<error line="89" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\shell\command\environment\TermuxShellCommandShellEnvironment.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\shell\command\environment\TermuxShellEnvironment.java">
+<error line="10" column="8" severity="warning" message="Importação não utilizada - com.termux.shared.shell.command.ExecutionCommand." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="13" column="8" severity="warning" message="Importação não utilizada - com.termux.shared.shell.command.environment.ShellCommandShellEnvironment." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\shell\command\runner\terminal\TermuxSession.java">
+<error line="77" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\shell\TermuxShellManager.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\shell\TermuxShellUtils.java">
+<error line="30" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\terminal\io\BellHandler.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\terminal\io\TerminalExtraKeys.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\terminal\TermuxTerminalSessionClientBase.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\terminal\TermuxTerminalViewClientBase.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\TermuxBootstrap.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\TermuxConstants.java">
+<error line="918" column="31" severity="warning" message="O nome &apos;TERMUX_APP&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="943" column="35" severity="warning" message="O nome &apos;TERMUX_ACTIVITY&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="984" column="35" severity="warning" message="O nome &apos;TERMUX_SERVICE&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="1128" column="35" severity="warning" message="O nome &apos;RUN_COMMAND_SERVICE&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="1200" column="31" severity="warning" message="O nome &apos;TERMUX_API_APP&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="1217" column="31" severity="warning" message="O nome &apos;TERMUX_BOOT_APP&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="1234" column="31" severity="warning" message="O nome &apos;TERMUX_FLOAT_APP&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="1245" column="35" severity="warning" message="O nome &apos;TERMUX_FLOAT_SERVICE&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="1267" column="31" severity="warning" message="O nome &apos;TERMUX_STYLING_APP&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="1288" column="31" severity="warning" message="O nome &apos;TERMUX_TASKER_APP&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="1305" column="31" severity="warning" message="O nome &apos;TERMUX_WIDGET_APP&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="1321" column="35" severity="warning" message="O nome &apos;TERMUX_WIDGET_PROVIDER&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\TermuxUtils.java">
+<error line="7" column="8" severity="warning" message="Importação não utilizada - android.content.pm.PackageManager." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="335" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\termux\theme\TermuxThemeUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\theme\NightMode.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\theme\ThemeUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\view\KeyboardUtils.java">
+</file>
+<file name="C:\faculdade\6 periodo\tis 6\code-smells-analysis\scripts\..\data\repositories\termux_termux-app\termux-shared\src\main\java\com\termux\shared\view\ViewUtils.java">
+<error line="65" column="5" severity="warning" message="A complexidade ciclomática é de 19 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+</checkstyle>

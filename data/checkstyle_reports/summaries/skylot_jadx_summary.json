@@ -1,0 +1,12 @@
+{
+  "repository": "skylot_jadx",
+  "code_smells": {
+    "Cyclomatic Complexity": 224,
+    "Potential God Class": 79,
+    "Too Many Fields": 34,
+    "Empty Catch Block": 5,
+    "Empty Control Statement": 1,
+    "Naming Conventions": 7
+  },
+  "total_smells": 350
+}
