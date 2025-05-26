@@ -1,0 +1,15 @@
+{
+  "repository": "Stirling-Tools_Stirling-PDF",
+  "code_smells": {
+    "Empty Catch Block": 2,
+    "Unnecessary Import (Unused Imports)": 0,
+    "Unnecessary Local Before Return (Unused Local Variables)": 93,
+    "Cyclomatic Complexity": 2627,
+    "God Class": 10,
+    "Class Naming Conventions": 15,
+    "Empty Control Statement": 0,
+    "Too Many Fields": 98,
+    "Too Many Methods": 11
+  },
+  "total_smells": 2856
+}

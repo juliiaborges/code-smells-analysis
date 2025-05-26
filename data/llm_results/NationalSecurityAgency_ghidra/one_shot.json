@@ -1,0 +1,15 @@
+{
+  "repository": "NationalSecurityAgency_ghidra",
+  "code_smells": {
+    "Empty Catch Block": 365,
+    "Unnecessary Import (Unused Imports)": 32,
+    "Unnecessary Local Before Return (Unused Local Variables)": 6482,
+    "Cyclomatic Complexity": 230114,
+    "God Class": 1576,
+    "Class Naming Conventions": 6419,
+    "Empty Control Statement": 9,
+    "Too Many Fields": 5300,
+    "Too Many Methods": 1686
+  },
+  "total_smells": 251983
+}
