@@ -1,0 +1,15 @@
+{
+  "repository": "cryptomator_cryptomator",
+  "code_smells": {
+    "Empty Catch Block": 5,
+    "Unnecessary Import (Unused Imports)": 0,
+    "Unnecessary Local Before Return (Unused Local Variables)": 0,
+    "Cyclomatic Complexity": 7,
+    "God Class": 5,
+    "Class Naming Conventions": 0,
+    "Empty Control Statement": 0,
+    "Too Many Fields": 2,
+    "Too Many Methods": 33
+  },
+  "total_smells": 52
+}

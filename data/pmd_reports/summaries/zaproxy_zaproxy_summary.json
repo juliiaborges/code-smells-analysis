@@ -1,0 +1,15 @@
+{
+  "repository": "zaproxy_zaproxy",
+  "code_smells": {
+    "Empty Catch Block": 164,
+    "Unnecessary Import (Unused Imports)": 0,
+    "Unnecessary Local Before Return (Unused Local Variables)": 0,
+    "Cyclomatic Complexity": 366,
+    "God Class": 147,
+    "Class Naming Conventions": 2,
+    "Empty Control Statement": 0,
+    "Too Many Fields": 51,
+    "Too Many Methods": 320
+  },
+  "total_smells": 1050
+}

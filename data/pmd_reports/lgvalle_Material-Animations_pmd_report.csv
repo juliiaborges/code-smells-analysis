@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.lgvalle.material_animations","..\data\repositories\lgvalle_Material-Animations\app\src\main\java\com\lgvalle\material_animations\RevealActivity.java","3","28","This class has too many methods, consider refactoring it.","Design","TooManyMethods"
