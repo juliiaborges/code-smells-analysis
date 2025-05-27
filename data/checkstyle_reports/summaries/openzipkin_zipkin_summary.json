@@ -1,0 +1,13 @@
+{
+  "repository": "openzipkin_zipkin",
+  "code_smells": {
+    "Cyclomatic Complexity": 56,
+    "Potential God Class": 19,
+    "Empty Catch Block": 9,
+    "Too Many Fields": 4,
+    "Naming Conventions": 14,
+    "Empty Control Statement": 1,
+    "Unused Imports": 2
+  },
+  "total_smells": 105
+}

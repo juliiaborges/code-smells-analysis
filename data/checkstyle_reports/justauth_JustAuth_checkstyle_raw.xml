@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.24.0">
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\AuthRequestBuilder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\cache\AuthCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\cache\AuthCacheConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\cache\AuthCacheScheduler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\cache\AuthDefaultCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\cache\AuthDefaultStateCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\cache\AuthStateCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\cache\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\config\AuthConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\config\AuthDefaultSource.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\config\AuthSource.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\config\JustAuthLogConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\config\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\enums\AuthResponseStatus.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\enums\AuthToutiaoErrorCode.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\enums\AuthUserGender.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\enums\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\enums\scope\AuthAmazonScope.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\enums\scope\AuthAppleScope.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\enums\scope\AuthBaiduScope.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\enums\scope\AuthCodingScope.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\enums\scope\AuthDingTalkScope.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\enums\scope\AuthDouyinScope.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\enums\scope\AuthFacebookScope.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\enums\scope\AuthFigmaScope.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\enums\scope\AuthGiteeScope.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\enums\scope\AuthGithubScope.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\enums\scope\AuthGitlabScope.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\enums\scope\AuthGoogleScope.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\enums\scope\AuthHuaweiScope.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\enums\scope\AuthHuaweiV3Scope.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\enums\scope\AuthJdScope.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\enums\scope\AuthKujialeScope.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\enums\scope\AuthLineScope.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\enums\scope\AuthLinkedinScope.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\enums\scope\AuthMicrosoftScope.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\enums\scope\AuthMiScope.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\enums\scope\AuthOktaScope.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\enums\scope\AuthPinterestScope.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\enums\scope\AuthProginnScope.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\enums\scope\AuthQqScope.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\enums\scope\AuthRenrenScope.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\enums\scope\AuthScope.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\enums\scope\AuthSlackScope.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\enums\scope\AuthStackoverflowScope.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\enums\scope\AuthWeChatEnterpriseWebScope.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\enums\scope\AuthWechatMpScope.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\enums\scope\AuthWeiboScope.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\enums\scope\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\exception\AuthException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\exception\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\log\Log.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\log\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\model\AuthCallback.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\model\AuthResponse.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\model\AuthToken.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\model\AuthUser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\model\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AbstractAuthDingtalkRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AbstractAuthMicrosoftRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AbstractAuthWeChatEnterpriseRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthAfDianRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthAlipayCertRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthAlipayRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthAliyunRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthAmazonRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthAppleRequest.java">
+<error line="72" column="41" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthBaiduRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthCodingRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthCsdnRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthDefaultRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthDingTalkAccountRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthDingTalkRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthDingTalkV2Request.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthDouyinRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthElemeRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthFacebookRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthFeishuRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthFigmaRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthGiteeRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthGithubRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthGitlabRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthGoogleRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthHuaweiRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthHuaweiV3Request.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthJdRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthKujialeRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthLineRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthLinkedinRequest.java">
+<error line="105" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthMeituanRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthMicrosoftCnRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthMicrosoftRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthMiRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthOktaRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthOschinaRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthPinterestRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthProginnRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthQQMiniProgramRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthQqRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthRenrenRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthSlackRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthStackOverflowRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthTaobaoRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthTeambitionRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthToutiaoRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthTwitterRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthWeChatEnterpriseQrcodeRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthWeChatEnterpriseQrcodeV2Request.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthWeChatEnterpriseThirdQrcodeRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthWeChatEnterpriseWebRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthWechatMiniProgramRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthWeChatMpRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthWeChatOpenRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthWeiboRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\AuthXmlyRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\request\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\utils\AuthChecker.java">
+<error line="27" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\utils\AuthScopeUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\utils\AuthStateUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\utils\Base64Utils.java">
+<error line="141" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\utils\GlobalAuthUtils.java">
+<error line="262" column="37" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="312" column="37" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\utils\HttpUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\utils\IpUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\utils\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\utils\PkceUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\utils\RandomUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\utils\Sha256.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\utils\StringUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\utils\UrlBuilder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\justauth_JustAuth\src\main\java\me\zhyd\oauth\utils\UuidUtils.java">
+</file>
+</checkstyle>

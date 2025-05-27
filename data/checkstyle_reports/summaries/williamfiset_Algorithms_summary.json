@@ -1,0 +1,9 @@
+{
+  "repository": "williamfiset_Algorithms",
+  "code_smells": {
+    "Naming Conventions": 8,
+    "Cyclomatic Complexity": 39,
+    "Empty Catch Block": 1
+  },
+  "total_smells": 48
+}

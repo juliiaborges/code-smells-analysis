@@ -1,0 +1,12 @@
+{
+  "repository": "YunaiV_yudao-cloud",
+  "code_smells": {
+    "Potential God Class": 214,
+    "Cyclomatic Complexity": 40,
+    "Too Many Fields": 9,
+    "Empty Catch Block": 3,
+    "Unused Imports": 105,
+    "Empty Control Statement": 1
+  },
+  "total_smells": 372
+}

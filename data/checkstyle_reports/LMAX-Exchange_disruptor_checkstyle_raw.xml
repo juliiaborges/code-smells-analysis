@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.24.0">
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\AbstractSequencer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\AggregateEventHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\AlertException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\BatchEventProcessor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\BatchEventProcessorBuilder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\BatchRewindStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\BlockingWaitStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\BusySpinWaitStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\Cursored.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\DataProvider.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\dsl\ConsumerInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\dsl\ConsumerRepository.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\dsl\Disruptor.java">
+<error line="62" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 31 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\dsl\EventHandlerGroup.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\dsl\EventProcessorFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\dsl\EventProcessorInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\dsl\ExceptionHandlerSetting.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\dsl\ExceptionHandlerWrapper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\dsl\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\dsl\ProducerType.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\EventFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\EventHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\EventHandlerBase.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\EventHandlerIdentity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\EventPoller.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\EventProcessor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\EventSequencer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\EventSink.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\EventTranslator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\EventTranslatorOneArg.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\EventTranslatorThreeArg.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\EventTranslatorTwoArg.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\EventTranslatorVararg.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\EventuallyGiveUpBatchRewindStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\ExceptionHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\ExceptionHandlers.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\FatalExceptionHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\FixedSequenceGroup.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\IgnoreExceptionHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\InsufficientCapacityException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\LiteBlockingWaitStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\LiteTimeoutBlockingWaitStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\MultiProducerSequencer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\NanosecondPauseBatchRewindStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\NoOpEventProcessor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\PhasedBackoffWaitStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\ProcessingSequenceBarrier.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\RewindableEventHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\RewindableException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\RewindAction.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\RewindHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\RingBuffer.java">
+<error line="84" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 24 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\Sequence.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\SequenceBarrier.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\Sequenced.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\SequenceGroup.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\SequenceGroups.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\Sequencer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\SimpleBatchRewindStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\SingleProducerSequencer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\SleepingWaitStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\TimeoutBlockingWaitStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\TimeoutException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\util\DaemonThreadFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\util\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\util\ThreadHints.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disruptor\util\Util.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LMAX-Exchange_disruptor\src\main\java\com\lmax\disrupto

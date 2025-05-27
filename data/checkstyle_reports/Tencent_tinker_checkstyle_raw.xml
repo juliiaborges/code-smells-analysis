@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.24.0">
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dex\Annotation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dex\AnnotationsDirectory.java">
+<error line="61" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dex\AnnotationSet.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dex\AnnotationSetRefList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dex\CallSiteId.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dex\ClassData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dex\ClassDef.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dex\Code.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dex\DebugInfoItem.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dex\Dex.java">
+<error line="49" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 20 classes [Adler32, AssertionError, BufferedInputStream, BufferedOutputStream, CallSiteIdTable, ClassDefIterable, ClassDefTable, DexException, FieldIdTable, FileInputStream, FileOutputStream, MethodHandleTable, MethodIdTable, ProtoIdTable, Section, StringTable, TableOfContents, TypeIndexToDescriptorIndexTable, TypeIndexToDescriptorTable, ZipFile] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="49" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 36 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="106" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dex\DexException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dex\DexFormat.java">
+<error line="116" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dex\EncodedValue.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dex\EncodedValueCodec.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dex\EncodedValueReader.java">
+<error line="235" column="5" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dex\FieldId.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dex\io\DexDataBuffer.java">
+<error line="53" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 25 classes [Annotation, AnnotationSet, AnnotationSetRefList, AnnotationsDirectory, AssertionError, ByteArrayOutputStream, ByteOutput, CallSiteId, ClassData, ClassData.Field, ClassData.Method, ClassDef, Code, Code.CatchHandler, Code.Try, DebugInfoItem, DexException, EncodedValue, EncodedValueReader, FieldId, MethodHandle, MethodId, ProtoId, StringData, TypeList] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="53" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 29 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="328" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dex\Leb128.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dex\MethodHandle.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dex\MethodId.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dex\Mutf8.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dex\ProtoId.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dex\SizeOf.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dex\StringData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dex\TableOfContents.java">
+<error line="87" column="5" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="348" column="9" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dex\TypeList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dex\util\ByteInput.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dex\util\ByteOutput.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dex\util\CompareUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dex\util\FileUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dex\util\HashCodeHelper.java">
+<error line="7" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dx\instruction\CodeCursor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dx\instruction\InstructionCodec.java">
+<error line="111" column="5" severity="warning" message="A complexidade ciclomática é de 57 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="456" column="5" severity="warning" message="A complexidade ciclomática é de 41 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="841" column="5" severity="warning" message="A complexidade ciclomática é de 229 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1095" column="5" severity="warning" message="A complexidade ciclomática é de 229 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dx\instruction\InstructionComparator.java">
+<error line="229" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="298" column="5" severity="warning" message="A complexidade ciclomática é de 52 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dx\instruction\InstructionPromoter.java">
+<error line="58" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="109" column="5" severity="warning" message="A complexidade ciclomática é de 56 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="195" column="5" severity="warning" message="A complexidade ciclomática é de 111 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="327" column="5" severity="warning" message="A complexidade ciclomática é de 58 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dx\instruction\InstructionReader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dx\instruction\InstructionVisitor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dx\instruction\InstructionWriter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dx\instruction\Opcodes.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dx\instruction\ShortArrayCodeInput.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dx\instruction\ShortArrayCodeOutput.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\dx\util\Hex.java">
+<error line="249" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\utils\SparseBoolArray.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\aosp-dexutils\src\main\java\com\tencent\tinker\android\utils\SparseIntArray.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\bsdiff-util\src\main\java\com\tencent\tinker\bsdiff\BSDiff.java">
+<error line="55" column="5" severity="warning" message="A complexidade ciclomática é de 24 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="305" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="472" column="5" severity="warning" message="A complexidade ciclomática é de 29 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\bsdiff-util\src\main\java\com\tencent\tinker\bsdiff\BSPatch.java">
+<error line="101" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\bsdiff-util\src\main\java\com\tencent\tinker\bsdiff\BSUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\tinker-ziputils\src\main\java\com\tencent\tinker\ziputils\ziputil\AlignedZipOutputStream.java">
+<error line="143" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="296" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\tinker-ziputils\src\main\java\com\tencent\tinker\ziputils\ziputil\Arrays.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\tinker-ziputils\src\main\java\com\tencent\tinker\ziputils\ziputil\BufferIterator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\tinker-ziputils\src\main\java\com\tencent\tinker\ziputils\ziputil\HeapBufferIterator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\tinker-ziputils\src\main\java\com\tencent\tinker\ziputils\ziputil\Memory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\tinker-ziputils\src\main\java\com\tencent\tinker\ziputils\ziputil\SizeOf.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\tinker-ziputils\src\main\java\com\tencent\tinker\ziputils\ziputil\StandardCharsets.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\tinker-ziputils\src\main\java\com\tencent\tinker\ziputils\ziputil\Streams.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\tinker-ziputils\src\main\java\com\tencent\tinker\ziputils\ziputil\TinkerZipEntry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\tinker-ziputils\src\main\java\com\tencent\tinker\ziputils\ziputil\TinkerZipFile.java">
+<error line="415" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\tinker-ziputils\src\main\java\com\tencent\tinker\ziputils\ziputil\TinkerZipOutputStream.java">
+<error line="444" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\tinker-ziputils\src\main\java\com\tencent\tinker\ziputils\ziputil\TinkerZipUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\third-party\tinker-ziputils\src\main\java\com\tencent\tinker\ziputils\ziputil\ZipConstants.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-anno\src\test\java\com\tencent\tinker\anno\test\TestLifeCycle.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-anno-support\src\main\java\com\tencent\tinker\anno\AnnotationProcessor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-anno-support\src\main\java\com\tencent\tinker\anno\DefaultLifeCycle.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-anno-support\src\main\java\com\tencent\tinker\anno\Keep.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib\src\androidTest\java\com\tencent\tinker\lib\patch\ApplicationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib\src\main\java\com\tencent\tinker\entry\ApplicationLifeCycle.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib\src\main\java\com\tencent\tinker\entry\ApplicationLike.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib\src\main\java\com\tencent\tinker\entry\DefaultApplicationLike.java">
+<error line="27" column="8" severity="warning" message="Importação não utilizada - android.util.Log." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib\src\main\java\com\tencent\tinker\entry\TinkerApplicationInlineFence.java">
+<error line="71" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib\src\main\java\com\tencent\tinker\lib\filepatch\AbstractFilePatch.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib\src\main\java\com\tencent\tinker\lib\filepatch\BsFilePatch.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib\src\main\java\com\tencent\tinker\lib\filepatch\FilePatchFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib\src\main\java\com\tencent\tinker\lib\library\TinkerLoadLibrary.java">
+<error line="137" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib\src\main\java\com\tencent\tinker\lib\listener\DefaultPatchListener.java">
+<error line="119" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib\src\main\java\com\tencent\tinker\lib\listener\PatchListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib\src\main\java\com\tencent\tinker\lib\patch\AbstractPatch.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib\src\main\java\com\tencent\tinker\lib\patch\ArkHotDiffPatchInternal.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib\src\main\java\com\tencent\tinker\lib\patch\BasePatchInternal.java">
+<error line="57" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib\src\main\java\com\tencent\tinker\lib\patch\DexDiffPatchInternal.java">
+<error line="60" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 15 classes [AlignedZipOutputStream, BufferedInputStream, BufferedOutputStream, DexPatchApplier, File, FileInputStream, FileOutputStream, ShareElfFile, TinkerDexOptimizer.ResultCallback, TinkerRuntimeException, Vector, ZipEntry, ZipFile, ZipInputStream, ZipOutputStream] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="60" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="96" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="205" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="265" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="462" column="5" severity="warning" message="A complexidade ciclomática é de 28 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib\src\main\java\com\tencent\tinker\lib\patch\ResDiffPatchInternal.java">
+<error line="23" column="8" severity="warning" message="Importação não utilizada - com.tencent.tinker.bsdiff.BSPatch." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="88" column="5" severity="warning" message="A complexidade ciclomática é de 27 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="247" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib\src\main\java\com\tencent\tinker\lib\patch\SoDiffPatchInternal.java">
+<error line="23" column="8" severity="warning" message="Importação não utilizada - com.tencent.tinker.bsdiff.BSPatch." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="74" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib\src\main\java\com\tencent\tinker\lib\patch\UpgradePatch.java">
+<error line="44" column="5" severity="warning" message="A complexidade ciclomática é de 32 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib\src\main\java\com\tencent\tinker\lib\reporter\DefaultLoadReporter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib\src\main\java\com\tencent\tinker\lib\reporter\DefaultPatchReporter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib\src\main\java\com\tencent\tinker\lib\reporter\LoadReporter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib\src\main\java\com\tencent\tinker\lib\reporter\PatchReporter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib\src\main\java\com\tencent\tinker\lib\service\AbstractResultService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib\src\main\java\com\tencent\tinker\lib\service\DefaultTinkerResultService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib\src\main\java\com\tencent\tinker\lib\service\PatchResult.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib\src\main\java\com\tencent\tinker\lib\service\TinkerPatchForeService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib\src\main\java\com\tencent\tinker\lib\service\TinkerPatchService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib\src\main\java\com\tencent\tinker\lib\tinker\Tinker.java">
+<error line="23" column="8" severity="warning" message="Importação não utilizada - com.tencent.tinker.lib.filepatch.FilePatchFactory." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib\src\main\java\com\tencent\tinker\lib\tinker\TinkerApplicationHelper.java">
+<error line="27" column="8" severity="warning" message="Importação não utilizada - com.tencent.tinker.loader.shareutil.SharePatchInfo." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="298" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib\src\main\java\com\tencent\tinker\lib\tinker\TinkerInstaller.java">
+<error line="23" column="8" severity="warning" message="Importação não utilizada - com.tencent.tinker.lib.filepatch.FilePatchFactory." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib\src\main\java\com\tencent\tinker\lib\tinker\TinkerLoadResult.java">
+<error line="75" column="5" severity="warning" message="A complexidade ciclomática é de 47 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib\src\main\java\com\tencent\tinker\lib\util\TinkerLog.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib\src\main\java\com\tencent\tinker\lib\util\TinkerServiceInternals.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib\src\main\java\com\tencent\tinker\lib\util\UpgradePatchRetry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib\src\test\java\com\tencent\tinker\recover\ExampleUnitTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib-no-op\src\androidTest\java\com\tencent\tinker\lib\patch\ApplicationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib-no-op\src\main\java\com\tencent\tinker\lib\library\TinkerLoadLibrary.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib-no-op\src\main\java\com\tencent\tinker\lib\listener\DefaultPatchListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib-no-op\src\main\java\com\tencent\tinker\lib\listener\PatchListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib-no-op\src\main\java\com\tencent\tinker\lib\patch\AbstractPatch.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib-no-op\src\main\java\com\tencent\tinker\lib\patch\UpgradePatch.java">
+<error line="22" column="8" severity="warning" message="Importação não utilizada - com.tencent.tinker.lib.util.TinkerLog." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib-no-op\src\main\java\com\tencent\tinker\lib\reporter\DefaultLoadReporter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib-no-op\src\main\java\com\tencent\tinker\lib\reporter\DefaultPatchReporter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib-no-op\src\main\java\com\tencent\tinker\lib\reporter\LoadReporter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib-no-op\src\main\java\com\tencent\tinker\lib\reporter\PatchReporter.java">
+<error line="23" column="8" severity="warning" message="Importação não utilizada - com.tencent.tinker.lib.service.DefaultTinkerResultService." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib-no-op\src\main\java\com\tencent\tinker\lib\service\AbstractResultService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib-no-op\src\main\java\com\tencent\tinker\lib\service\DefaultTinkerResultService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib-no-op\src\main\java\com\tencent\tinker\lib\service\PatchResult.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib-no-op\src\main\java\com\tencent\tinker\lib\tinker\Tinker.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib-no-op\src\main\java\com\tencent\tinker\lib\tinker\TinkerApplicationHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib-no-op\src\main\java\com\tencent\tinker\lib\tinker\TinkerInstaller.java">
+<error line="27" column="8" severity="warning" message="Importação não utilizada - com.tencent.tinker.lib.util.TinkerLog." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib-no-op\src\main\java\com\tencent\tinker\lib\tinker\TinkerLoadResult.java">
+<error line="75" column="5" severity="warning" message="A complexidade ciclomática é de 47 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib-no-op\src\main\java\com\tencent\tinker\lib\util\TinkerLog.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib-no-op\src\main\java\com\tencent\tinker\lib\util\TinkerServiceInternals.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib-no-op\src\main\java\com\tencent\tinker\lib\util\UpgradePatchRetry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-lib-no-op\src\test\java\com\tencent\tinker\recover\ExampleUnitTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\androidTest\java\com\tencent\tinker\loader\ApplicationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\AbstractTinkerLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\app\TinkerApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\app\TinkerInlineFenceAction.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\AppInfoChangedBlocker.java">
+<error line="11" column="8" severity="warning" message="Importação não utilizada - com.tencent.tinker.loader.app.TinkerApplication." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\hotplug\ActivityStubManager.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\hotplug\ActivityStubs.java">
+<error line="32" column="31" severity="warning" message="O nome &apos;STDStub_00&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="33" column="31" severity="warning" message="O nome &apos;STDStub_01&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="34" column="31" severity="warning" message="O nome &apos;STDStub_02&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="35" column="31" severity="warning" message="O nome &apos;STDStub_03&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="36" column="31" severity="warning" message="O nome &apos;STDStub_04&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="37" column="31" severity="warning" message="O nome &apos;STDStub_05&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="38" column="31" severity="warning" message="O nome &apos;STDStub_06&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="39" column="31" severity="warning" message="O nome &apos;STDStub_07&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="40" column="31" severity="warning" message="O nome &apos;STDStub_08&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="41" column="31" severity="warning" message="O nome &apos;STDStub_09&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="43" column="31" severity="warning" message="O nome &apos;STDStub_00_T&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="44" column="31" severity="warning" message="O nome &apos;STDStub_01_T&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="45" column="31" severity="warning" message="O nome &apos;STDStub_02_T&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="47" column="31" severity="warning" message="O nome &apos;SGTStub_00&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="48" column="31" severity="warning" message="O nome &apos;SGTStub_01&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="49" column="31" severity="warning" message="O nome &apos;SGTStub_02&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="50" column="31" severity="warning" message="O nome &apos;SGTStub_03&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="51" column="31" severity="warning" message="O nome &apos;SGTStub_04&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="52" column="31" severity="warning" message="O nome &apos;SGTStub_05&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="53" column="31" severity="warning" message="O nome &apos;SGTStub_06&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="54" column="31" severity="warning" message="O nome &apos;SGTStub_07&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="55" column="31" severity="warning" message="O nome &apos;SGTStub_08&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="56" column="31" severity="warning" message="O nome &apos;SGTStub_09&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="58" column="31" severity="warning" message="O nome &apos;SGTStub_00_T&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="59" column="31" severity="warning" message="O nome &apos;SGTStub_01_T&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="60" column="31" severity="warning" message="O nome &apos;SGTStub_02_T&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="62" column="31" severity="warning" message="O nome &apos;SGTKStub_00&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="63" column="31" severity="warning" message="O nome &apos;SGTKStub_01&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="64" column="31" severity="warning" message="O nome &apos;SGTKStub_02&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="65" column="31" severity="warning" message="O nome &apos;SGTKStub_03&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="66" column="31" severity="warning" message="O nome &apos;SGTKStub_04&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="67" column="31" severity="warning" message="O nome &apos;SGTKStub_05&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="68" column="31" severity="warning" message="O nome &apos;SGTKStub_06&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="69" column="31" severity="warning" message="O nome &apos;SGTKStub_07&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="70" column="31" severity="warning" message="O nome &apos;SGTKStub_08&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="71" column="31" severity="warning" message="O nome &apos;SGTKStub_09&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="73" column="31" severity="warning" message="O nome &apos;SGTKStub_00_T&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="74" column="31" severity="warning" message="O nome &apos;SGTKStub_01_T&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="75" column="31" severity="warning" message="O nome &apos;SGTKStub_02_T&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="77" column="31" severity="warning" message="O nome &apos;SIStub_00&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="78" column="31" severity="warning" message="O nome &apos;SIStub_01&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="79" column="31" severity="warning" message="O nome &apos;SIStub_02&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="80" column="31" severity="warning" message="O nome &apos;SIStub_03&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="81" column="31" severity="warning" message="O nome &apos;SIStub_04&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="82" column="31" severity="warning" message="O nome &apos;SIStub_05&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="83" column="31" severity="warning" message="O nome &apos;SIStub_06&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="84" column="31" severity="warning" message="O nome &apos;SIStub_07&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="85" column="31" severity="warning" message="O nome &apos;SIStub_08&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="86" column="31" severity="warning" message="O nome &apos;SIStub_09&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="88" column="31" severity="warning" message="O nome &apos;SIStub_00_T&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="89" column="31" severity="warning" message="O nome &apos;SIStub_01_T&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="90" column="31" severity="warning" message="O nome &apos;SIStub_02_T&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\hotplug\ComponentHotplug.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\hotplug\EnvConsts.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\hotplug\handler\AMSInterceptHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\hotplug\handler\MHMessageHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\hotplug\handler\PMSInterceptHandler.java">
+<error line="32" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="71" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\hotplug\IncrementComponentManager.java">
+<error line="16" column="8" severity="warning" message="Importação não utilizada - android.util.Log." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="90" column="9" severity="warning" message="A complexidade ciclomática é de 71 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="303" column="9" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="342" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="399" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="447" column="5" severity="warning" message="A complexidade ciclomática é de 26 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\hotplug\interceptor\HandlerMessageInterceptor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\hotplug\interceptor\InterceptFailedException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\hotplug\interceptor\Interceptor.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - android.util.Log." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\hotplug\interceptor\ServiceBinderInterceptor.java">
+<error line="8" column="8" severity="warning" message="Importação não utilizada - android.util.Log." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="169" column="56" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\hotplug\interceptor\TinkerHackInstrumentation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\hotplug\UnsupportedEnvironmentException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\NewClassLoaderInjector.java">
+<error line="23" column="8" severity="warning" message="Importação não utilizada - android.os.Build." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="55" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\shareutil\ShareArkHotDiffPatchInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\shareutil\ShareBsDiffPatchInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\shareutil\ShareConstants.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\shareutil\ShareDexDiffPatchInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\shareutil\ShareElfFile.java">
+<error line="88" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\shareutil\ShareFileLockHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\shareutil\ShareIntentUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\shareutil\ShareOatUtil.java">
+<error line="48" column="5" severity="warning" message="A complexidade ciclomática é de 19 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\shareutil\SharePatchFileUtil.java">
+<error line="42" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\shareutil\SharePatchInfo.java">
+<error line="122" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="177" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\shareutil\ShareReflectUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\shareutil\ShareResPatchInfo.java">
+<error line="46" column="5" severity="warning" message="A complexidade ciclomática é de 19 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\shareutil\ShareSecurityCheck.java">
+<error line="98" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\shareutil\ShareTinkerInternals.java">
+<error line="28" column="8" severity="warning" message="Importação não utilizada - android.os.Build.VERSION." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="33" column="8" severity="warning" message="Importação não utilizada - java.io.BufferedInputStream." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="59" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 13 classes [BufferedReader, ByteArrayOutputStream, DataInputStream, DataOutputStream, File, FileInputStream, FileOutputStream, InputStreamReader, PrintStream, Properties, ShareDexDiffPatchInfo, TinkerRuntimeException, ZipFile] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="59" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 30 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="559" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\shareutil\ShareTinkerLog.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\shareutil\TinkerLogInlineFence.java">
+<error line="12" column="8" severity="warning" message="Importação não utilizada - java.util.Collections." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="45" column="5" severity="warning" message="A complexidade ciclomática é de 26 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\SystemClassLoaderAdder.java">
+<error line="143" column="13" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\TinkerArkHotLoader.java">
+<error line="18" column="8" severity="warning" message="Importação não utilizada - android.util.Log." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="109" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\TinkerClassLoader.java">
+<error line="15" column="8" severity="warning" message="Importação não utilizada - dalvik.system.BaseDexClassLoader." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\TinkerDexLoader.java">
+<error line="66" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="208" column="5" severity="warning" message="A complexidade ciclomática é de 20 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\TinkerDexOptimizer.java">
+<error line="147" column="9" severity="warning" message="A complexidade ciclomática é de 20 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="255" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\TinkerLoader.java">
+<error line="63" column="5" severity="warning" message="A complexidade ciclomática é de 64 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\TinkerResourceLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\TinkerResourcePatcher.java">
+<error line="87" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="198" column="5" severity="warning" message="A complexidade ciclomática é de 26 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="389" column="9" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\TinkerResourcesKey.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\TinkerRuntimeException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\TinkerSoLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\TinkerTestDexLoad.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\main\java\com\tencent\tinker\loader\TinkerUncaughtHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader\src\test\java\com\tencent\tinker\loader\ExampleUnitTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader-no-op\src\androidTest\java\com\tencent\tinker\loader\ApplicationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader-no-op\src\main\java\com\tencent\tinker\entry\ApplicationLifeCycle.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader-no-op\src\main\java\com\tencent\tinker\entry\ApplicationLike.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader-no-op\src\main\java\com\tencent\tinker\entry\DefaultApplicationLike.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader-no-op\src\main\java\com\tencent\tinker\loader\app\TinkerApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader-no-op\src\main\java\com\tencent\tinker\loader\shareutil\ShareArkHotDiffPatchInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader-no-op\src\main\java\com\tencent\tinker\loader\shareutil\ShareBsDiffPatchInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader-no-op\src\main\java\com\tencent\tinker\loader\shareutil\ShareConstants.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader-no-op\src\main\java\com\tencent\tinker\loader\shareutil\ShareDexDiffPatchInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader-no-op\src\main\java\com\tencent\tinker\loader\shareutil\ShareElfFile.java">
+<error line="88" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader-no-op\src\main\java\com\tencent\tinker\loader\shareutil\ShareFileLockHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader-no-op\src\main\java\com\tencent\tinker\loader\shareutil\ShareIntentUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader-no-op\src\main\java\com\tencent\tinker\loader\shareutil\ShareOatUtil.java">
+<error line="48" column="5" severity="warning" message="A complexidade ciclomática é de 19 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader-no-op\src\main\java\com\tencent\tinker\loader\shareutil\SharePatchFileUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader-no-op\src\main\java\com\tencent\tinker\loader\shareutil\SharePatchInfo.java">
+<error line="120" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="173" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader-no-op\src\main\java\com\tencent\tinker\loader\shareutil\ShareReflectUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader-no-op\src\main\java\com\tencent\tinker\loader\shareutil\ShareResPatchInfo.java">
+<error line="46" column="5" severity="warning" message="A complexidade ciclomática é de 19 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader-no-op\src\main\java\com\tencent\tinker\loader\shareutil\ShareSecurityCheck.java">
+<error line="98" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader-no-op\src\main\java\com\tencent\tinker\loader\shareutil\ShareTinkerInternals.java">
+<error line="30" column="8" severity="warning" message="Importação não utilizada - java.io.BufferedInputStream." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="53" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="514" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader-no-op\src\main\java\com\tencent\tinker\loader\shareutil\ShareTinkerLog.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader-no-op\src\main\java\com\tencent\tinker\loader\shareutil\TinkerLogInlineFence.java">
+<error line="12" column="8" severity="warning" message="Importação não utilizada - java.util.Collections." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="45" column="5" severity="warning" message="A complexidade ciclomática é de 26 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader-no-op\src\main\java\com\tencent\tinker\loader\TinkerRuntimeException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-android\tinker-android-loader-no-op\src\test\java\com\tencent\tinker\loader\ExampleUnitTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-cli\src\main\java\com\tencent\tinker\patch\CliMain.java">
+<error line="170" column="9" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-cli\src\main\java\com\tencent\tinker\patch\Test.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\aapt\AaptResourceCollector.java">
+<error line="217" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\aapt\AaptUtil.java">
+<error line="197" column="5" severity="warning" message="A complexidade ciclomática é de 20 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\aapt\Constant.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\aapt\FakeRDotTxtEntry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\aapt\FileCopyException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\aapt\FileUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\aapt\Generator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\aapt\JavaXmlUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\aapt\ObjectUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\aapt\PatchUtil.java">
+<error line="89" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\aapt\RDotTxtEntry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\aapt\ResourceDirectory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\aapt\ResourceEntry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\aapt\StringUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\apkparser\AndroidParser.java">
+<error line="66" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 13 classes [ApkMetaTranslator, ApkParser, BinaryXmlParser, BufferedInputStream, ByteArrayInputStream, CompositeXmlStreamer, EntityResolver, FileOutputStream, InputSource, ParserException, ResourceTableParser, XmlTranslatorForPatch, ZipFile] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="66" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 30 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="96" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\builder\PatchBuilder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\decoder\ApkDecoder.java">
+<error line="163" column="9" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\decoder\ArkHotDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\decoder\BaseDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\decoder\DexDiffDecoder.java">
+<error line="81" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 17 classes [AbstractMap.SimpleEntry, BuilderMutableMethodImplementation, ChangedClassesDexClassInfoCollector, Dex, DexBackedDexFile, DexBuilder, DexClassesComparator, DexPatchApplier, DexPatchGenerator, DexPatcherLoggerBridge, ExcludedClassModifiedChecker, File, FileDataStore, InfoWriter, JarFile, RelatedInfo, TinkerPatchException] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="81" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 39 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="175" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="273" column="5" severity="warning" message="A complexidade ciclomática é de 22 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="391" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="549" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\decoder\ManifestDecoder.java">
+<error line="56" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="75" column="5" severity="warning" message="A complexidade ciclomática é de 25 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="208" column="5" severity="warning" message="A complexidade ciclomática é de 26 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="322" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\decoder\ResDiffDecoder.java">
+<error line="24" column="8" severity="warning" message="Importação não utilizada - com.tencent.tinker.build.util.CustomDiff." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="164" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="292" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\decoder\SoDiffDecoder.java">
+<error line="60" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\decoder\UniqueDexDiffDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\dexpatcher\algorithms\diff\AnnotationsDirectorySectionDiffAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\dexpatcher\algorithms\diff\AnnotationSectionDiffAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\dexpatcher\algorithms\diff\AnnotationSetRefListSectionDiffAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\dexpatcher\algorithms\diff\AnnotationSetSectionDiffAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\dexpatcher\algorithms\diff\CallSiteIdSectionDiffAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\dexpatcher\algorithms\diff\ClassDataSectionDiffAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\dexpatcher\algorithms\diff\ClassDefSectionDiffAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\dexpatcher\algorithms\diff\CodeSectionDiffAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\dexpatcher\algorithms\diff\DebugInfoItemSectionDiffAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\dexpatcher\algorithms\diff\DexSectionDiffAlgorithm.java">
+<error line="257" column="5" severity="warning" message="A complexidade ciclomática é de 20 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="374" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\dexpatcher\algorithms\diff\FieldIdSectionDiffAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\dexpatcher\algorithms\diff\MethodHandleSectionDiffAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\dexpatcher\algorithms\diff\MethodIdSectionDiffAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\dexpatcher\algorithms\diff\ProtoIdSectionDiffAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\dexpatcher\algorithms\diff\StaticValueSectionDiffAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\dexpatcher\algorithms\diff\StringDataSectionDiffAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\dexpatcher\algorithms\diff\TypeIdSectionDiffAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\dexpatcher\algorithms\diff\TypeListSectionDiffAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\dexpatcher\DexPatchGenerator.java">
+<error line="80" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 24 classes [AnnotationSectionDiffAlgorithm, AnnotationSetRefListSectionDiffAlgorithm, AnnotationSetSectionDiffAlgorithm, AnnotationsDirectorySectionDiffAlgorithm, BufferedOutputStream, CallSiteIdSectionDiffAlgorithm, ClassDataSectionDiffAlgorithm, ClassDefSectionDiffAlgorithm, CodeSectionDiffAlgorithm, DebugInfoItemSectionDiffAlgorithm, Dex, DexDataBuffer, DexPatcherLogger, FieldIdSectionDiffAlgorithm, FileOutputStream, MethodHandleSectionDiffAlgorithm, MethodIdSectionDiffAlgorithm, Pattern, ProtoIdSectionDiffAlgorithm, SparseIndexMap, StaticValueSectionDiffAlgorithm, StringDataSectionDiffAlgorithm, TypeIdSectionDiffAlgorithm, TypeListSectionDiffAlgorithm] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="80" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 48 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="308" column="5" severity="warning" message="A complexidade ciclomática é de 24 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="614" column="5" severity="warning" message="A complexidade ciclomática é de 26 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\dexpatcher\util\ChangedClassesDexClassInfoCollector.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\dexpatcher\util\PatternUtils.java">
+<error line="24" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\immutable\ClassSimDef.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\immutable\DexRefData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\info\InfoWriter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\info\PatchInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\info\PatchInfoGen.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\patch\Configuration.java">
+<error line="403" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="462" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="530" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\patch\InputParam.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\patch\Runner.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\util\CustomDiff.java">
+<error line="12" column="8" severity="warning" message="Importação não utilizada - java.util.Arrays." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="21" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\util\DexClassesComparator.java">
+<error line="61" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 31 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="170" column="5" severity="warning" message="A complexidade ciclomática é de 20 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="357" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="651" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="980" column="5" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1088" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1247" column="5" severity="warning" message="A complexidade ciclomática é de 38 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\util\DiffFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\util\ExcludedClassModifiedChecker.java">
+<error line="71" column="5" severity="warning" message="A complexidade ciclomática é de 37 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\util\FileOperation.java">
+<error line="41" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 14 classes [BufferedInputStream, BufferedOutputStream, ByteArrayOutputStream, CRC32, File, FileInputStream, FileOutputStream, IOException, InputStreamReader, LineNumberReader, ProcessBuilder, ZipEntry, ZipFile, ZipOutputStream] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\util\Logger.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\util\MD5.java">
+<error line="103" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\util\TinkerPatchException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\util\TypedValue.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\com\tencent\tinker\build\util\Utils.java">
+<error line="121" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-build\tinker-patch-lib\src\main\java\org\jf\dexlib2\builder\BuilderMutableMethodImplementation.java">
+<error line="146" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 44 classes [AbstractList, BuilderArrayPayload, BuilderEndLocal, BuilderEpilogueBegin, BuilderInstruction10t, BuilderInstruction10x, BuilderInstruction11n, BuilderInstruction11x, BuilderInstruction12x, BuilderInstruction20bc, BuilderInstruction20t, BuilderInstruction21c, BuilderInstruction21ih, BuilderInstruction21lh, BuilderInstruction21s, BuilderInstruction21t, BuilderInstruction22b, BuilderInstruction22c, BuilderInstruction22s, BuilderInstruction22t, BuilderInstruction22x, BuilderInstruction23x, BuilderInstruction30t, BuilderInstruction31c, BuilderInstruction31i, BuilderInstruction31t, BuilderInstruction32x, BuilderInstruction35c, BuilderInstruction3rc, BuilderInstruction51l, BuilderLineNumber, BuilderPackedSwitchPayload, BuilderPrologueEnd, BuilderRestartLocal, BuilderSetSourceFile, BuilderSparseSwitchPayload, BuilderStartLocal, BuilderTryBlock, ExceptionWithContext, Function, MethodLocation, SwitchLabelElement, SwitchPayloadReferenceLabel, Task] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="146" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 97 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="461" column="5" severity="warning" message="A complexidade ciclomática é de 31 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="664" column="5" severity="warning" message="A complexidade ciclomática é de 30 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-commons\src\main\java\com\tencent\tinker\commons\dexpatcher\algorithms\patch\AnnotationsDirectorySectionPatchAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-commons\src\main\java\com\tencent\tinker\commons\dexpatcher\algorithms\patch\AnnotationSectionPatchAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-commons\src\main\java\com\tencent\tinker\commons\dexpatcher\algorithms\patch\AnnotationSetRefListSectionPatchAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-commons\src\main\java\com\tencent\tinker\commons\dexpatcher\algorithms\patch\AnnotationSetSectionPatchAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-commons\src\main\java\com\tencent\tinker\commons\dexpatcher\algorithms\patch\CallSiteIdSectionPatchAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-commons\src\main\java\com\tencent\tinker\commons\dexpatcher\algorithms\patch\ClassDataSectionPatchAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-commons\src\main\java\com\tencent\tinker\commons\dexpatcher\algorithms\patch\ClassDefSectionPatchAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-commons\src\main\java\com\tencent\tinker\commons\dexpatcher\algorithms\patch\CodeSectionPatchAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-commons\src\main\java\com\tencent\tinker\commons\dexpatcher\algorithms\patch\DebugInfoItemSectionPatchAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-commons\src\main\java\com\tencent\tinker\commons\dexpatcher\algorithms\patch\DexSectionPatchAlgorithm.java">
+<error line="152" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-commons\src\main\java\com\tencent\tinker\commons\dexpatcher\algorithms\patch\FieldIdSectionPatchAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-commons\src\main\java\com\tencent\tinker\commons\dexpatcher\algorithms\patch\MethodHandleSectionPatchAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-commons\src\main\java\com\tencent\tinker\commons\dexpatcher\algorithms\patch\MethodIdSectionPatchAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-commons\src\main\java\com\tencent\tinker\commons\dexpatcher\algorithms\patch\ProtoIdSectionPatchAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-commons\src\main\java\com\tencent\tinker\commons\dexpatcher\algorithms\patch\StaticValueSectionPatchAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-commons\src\main\java\com\tencent\tinker\commons\dexpatcher\algorithms\patch\StringDataSectionPatchAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-commons\src\main\java\com\tencent\tinker\commons\dexpatcher\algorithms\patch\TypeIdSectionPatchAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-commons\src\main\java\com\tencent\tinker\commons\dexpatcher\algorithms\patch\TypeListSectionPatchAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-commons\src\main\java\com\tencent\tinker\commons\dexpatcher\DexPatchApplier.java">
+<error line="71" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 23 classes [AnnotationSectionPatchAlgorithm, AnnotationSetRefListSectionPatchAlgorithm, AnnotationSetSectionPatchAlgorithm, AnnotationsDirectorySectionPatchAlgorithm, BufferedOutputStream, CallSiteIdSectionPatchAlgorithm, ClassDataSectionPatchAlgorithm, ClassDefSectionPatchAlgorithm, CodeSectionPatchAlgorithm, DebugInfoItemSectionPatchAlgorithm, Dex, DexPatchFile, FieldIdSectionPatchAlgorithm, FileOutputStream, IOException, MethodHandleSectionPatchAlgorithm, MethodIdSectionPatchAlgorithm, ProtoIdSectionPatchAlgorithm, SparseIndexMap, StaticValueSectionPatchAlgorithm, StringDataSectionPatchAlgorithm, TypeIdSectionPatchAlgorithm, TypeListSectionPatchAlgorithm] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="71" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 29 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-commons\src\main\java\com\tencent\tinker\commons\dexpatcher\DexPatcherLogger.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-commons\src\main\java\com\tencent\tinker\commons\dexpatcher\struct\DexPatchFile.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-commons\src\main\java\com\tencent\tinker\commons\dexpatcher\struct\PatchOperation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-commons\src\main\java\com\tencent\tinker\commons\dexpatcher\util\AbstractIndexMap.java">
+<error line="53" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 25 classes [Annotation, AnnotationSet, AnnotationSetRefList, AnnotationsDirectory, ByteArrayInputStream, ByteArrayOutputStream, ByteInput, ByteOutput, CallSiteId, ClassData, ClassData.Field, ClassData.Method, ClassDef, Code, Code.CatchHandler, DebugInfoItem, EncodedValue, EncodedValueReader, EncodedValueTransformer, FieldId, InstructionTransformer, MethodHandle, MethodId, ProtoId, TypeList] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="53" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="246" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="423" column="9" severity="warning" message="A complexidade ciclomática é de 20 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-commons\src\main\java\com\tencent\tinker\commons\dexpatcher\util\InstructionTransformer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-commons\src\main\java\com\tencent\tinker\commons\dexpatcher\util\SparseIndexMap.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-commons\src\main\java\com\tencent\tinker\commons\util\DigestUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-commons\src\main\java\com\tencent\tinker\commons\util\IOHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-sample-android\app\src\main\java\tinker\sample\android\app\BaseBuildInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-sample-android\app\src\main\java\tinker\sample\android\app\BuildInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-sample-android\app\src\main\java\tinker\sample\android\app\MainActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-sample-android\app\src\main\java\tinker\sample\android\app\SampleApplicationLike.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-sample-android\app\src\main\java\tinker\sample\android\crash\SampleUncaughtExceptionHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-sample-android\app\src\main\java\tinker\sample\android\Log\MyLogImp.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-sample-android\app\src\main\java\tinker\sample\android\reporter\SampleLoadReporter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-sample-android\app\src\main\java\tinker\sample\android\reporter\SamplePatchListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-sample-android\app\src\main\java\tinker\sample\android\reporter\SamplePatchReporter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-sample-android\app\src\main\java\tinker\sample\android\reporter\SampleTinkerReport.java">
+<error line="168" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="210" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="433" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="487" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-sample-android\app\src\main\java\tinker\sample\android\service\SampleResultService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-sample-android\app\src\main\java\tinker\sample\android\util\SampleApplicationContext.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-sample-android\app\src\main\java\tinker\sample\android\util\TinkerManager.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-sample-android\app\src\main\java\tinker\sample\android\util\Utils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Tencent_tinker\tinker-sample-android\app\src\test\java\tinker\sample\android\ExampleUnitTest.java">
+</file>
+</checkstyle>

@@ -1,0 +1,986 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.24.0">
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\benchmarks\src\test\java\zipkin2\codec\CodecBenchmarks.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\benchmarks\src\test\java\zipkin2\codec\JacksonSpanDecoder.java">
+<error line="85" column="3" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="159" column="3" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\benchmarks\src\test\java\zipkin2\codec\JacksonSpanDecoderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\benchmarks\src\test\java\zipkin2\codec\JsonCodecBenchmarks.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\benchmarks\src\test\java\zipkin2\codec\MoshiSpanDecoder.java">
+<error line="89" column="7" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="196" column="7" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\benchmarks\src\test\java\zipkin2\codec\MoshiSpanDecoderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\benchmarks\src\test\java\zipkin2\codec\ProtobufSpanDecoder.java">
+<error line="120" column="3" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\benchmarks\src\test\java\zipkin2\codec\ProtoCodecBenchmarks.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\benchmarks\src\test\java\zipkin2\codec\WireSpanDecoder.java">
+<error line="121" column="3" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\benchmarks\src\test\java\zipkin2\collector\MetricsBenchmarks.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\benchmarks\src\test\java\zipkin2\elasticsearch\internal\BulkRequestBenchmarks.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\benchmarks\src\test\java\zipkin2\EndpointBenchmarks.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\benchmarks\src\test\java\zipkin2\internal\DelayLimiterBenchmarks.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\benchmarks\src\test\java\zipkin2\internal\Proto3CodecInteropTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\benchmarks\src\test\java\zipkin2\internal\ReadBufferBenchmarks.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\benchmarks\src\test\java\zipkin2\internal\WriteBufferBenchmarks.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\benchmarks\src\test\java\zipkin2\server\internal\throttle\ThrottledCallBenchmarks.java">
+<error line="36" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\benchmarks\src\test\java\zipkin2\server\ServerIntegratedBenchmark.java">
+<error line="248" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\benchmarks\src\test\java\zipkin2\SpanBenchmarks.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\docker\test-images\zipkin-eureka\src\main\java\zipkin\test\EurekaProperties.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\docker\test-images\zipkin-eureka\src\main\java\zipkin\test\EurekaSecurity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\docker\test-images\zipkin-eureka\src\main\java\zipkin\test\EurekaServer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\Annotation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\Call.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\Callback.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\CheckResult.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\codec\BytesDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\codec\BytesEncoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\codec\DependencyLinkBytesDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\codec\DependencyLinkBytesEncoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\codec\Encoding.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\codec\SpanBytesDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\codec\SpanBytesEncoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\Component.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\DependencyLink.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\Endpoint.java">
+<error line="316" column="3" severity="warning" message="A complexidade ciclomática é de 20 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="361" column="3" severity="warning" message="A complexidade ciclomática é de 19 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="424" column="3" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="509" column="3" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\internal\AggregateCall.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\internal\ClosedComponentException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\internal\DateUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\internal\DelayLimiter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\internal\Dependencies.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\internal\DependencyLinker.java">
+<error line="44" column="3" severity="warning" message="A complexidade ciclomática é de 33 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\internal\FilterTraces.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\internal\HexCodec.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\internal\JsonCodec.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\internal\JsonEscaper.java">
+<error line="9" column="3" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\internal\Nullable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\internal\Proto3Codec.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\internal\Proto3Fields.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\internal\Proto3SpanWriter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\internal\Proto3ZipkinFields.java">
+<error line="303" column="5" severity="warning" message="A complexidade ciclomática é de 19 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\internal\ReadBuffer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\internal\RecyclableBuffers.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\internal\SpanNode.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\internal\ThriftCodec.java">
+<error line="122" column="3" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\internal\ThriftEndpointCodec.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\internal\ThriftField.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\internal\Trace.java">
+<error line="19" column="3" severity="warning" message="A complexidade ciclomática é de 23 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="161" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\internal\TracesAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\internal\V1JsonSpanReader.java">
+<error line="41" column="3" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="117" column="3" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\internal\V1JsonSpanWriter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\internal\V1SpanWriter.java">
+<error line="22" column="3" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="93" column="3" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\internal\V1ThriftSpanReader.java">
+<error line="37" column="3" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="121" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\internal\V1ThriftSpanWriter.java">
+<error line="42" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\internal\V2SpanReader.java">
+<error line="16" column="3" severity="warning" message="A complexidade ciclomática é de 27 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\internal\V2SpanWriter.java">
+<error line="19" column="3" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="78" column="3" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\internal\WriteBuffer.java">
+<error line="91" column="3" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="195" column="3" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="231" column="3" severity="warning" message="A complexidade ciclomática é de 23 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\Span.java">
+<error line="349" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="745" column="3" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\SpanBytesDecoderDetector.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\storage\AutocompleteTags.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\storage\ForwardingStorageComponent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\storage\GroupByTraceId.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\storage\InMemoryStorage.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\storage\QueryRequest.java">
+<error line="240" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="284" column="3" severity="warning" message="A complexidade ciclomática é de 33 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\storage\ServiceAndSpanNames.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\storage\SpanConsumer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\storage\SpanStore.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\storage\StorageComponent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\storage\StrictTraceId.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\storage\Traces.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\v1\V1Annotation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\v1\V1BinaryAnnotation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\v1\V1Span.java">
+<error line="257" column="3" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\v1\V1SpanConverter.java">
+<error line="53" column="3" severity="warning" message="A complexidade ciclomática é de 41 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="207" column="3" severity="warning" message="A complexidade ciclomática é de 27 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\main\java\zipkin2\v1\V2SpanConverter.java">
+<error line="27" column="3" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="79" column="5" severity="warning" message="A complexidade ciclomática é de 38 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\AnnotationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\CallTest.java">
+<error line="121" column="31" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\codec\EncodingTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\codec\KryoTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\codec\SpanBytesDecoderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\codec\SpanBytesEncoderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\codec\V1SpanBytesDecoderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\EndpointTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\internal\AggregateCallTest.java">
+<error line="132" column="43" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\internal\DateUtilTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\internal\DelayLimiterTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\internal\DependenciesTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\internal\DependencyLinkerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\internal\FilterTracesTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\internal\HexCodecTest.java">
+<error line="28" column="39" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="35" column="39" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="42" column="39" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\internal\JsonCodecTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\internal\JsonEscaperTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\internal\Proto3FieldsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\internal\Proto3SpanWriterTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\internal\Proto3ZipkinFieldsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\internal\ReadBufferTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\internal\SpanNodeTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\internal\TracesAdapterTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\internal\TraceTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\internal\V1JsonSpanWriterTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\internal\V1ThriftSpanWriterTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\internal\V2SpanWriterTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\internal\WriteBufferTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\SpanBytesDecoderDetectorTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\SpanTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\storage\ForwardingStorageComponentTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\storage\GroupByTraceIdTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\storage\InMemoryStorageTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\storage\QueryRequestTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\storage\StrictTraceIdTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\TestObjects.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\v1\SpanConverterTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\v1\V1SpanConverterTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin\src\test\java\zipkin2\v1\V1SpanTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-collector\activemq\src\main\java\zipkin2\collector\activemq\ActiveMQCollector.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-collector\activemq\src\main\java\zipkin2\collector\activemq\ActiveMQSpanConsumer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-collector\activemq\src\main\java\zipkin2\collector\activemq\LazyInit.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-collector\activemq\src\test\java\zipkin2\collector\activemq\ActiveMQExtension.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-collector\activemq\src\test\java\zipkin2\collector\activemq\ITActiveMQCollector.java">
+<error line="50" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 11 classes [ActiveMQConnectionFactory, ActiveMQExtension, AssertionError, AtomicInteger, Call.Base, CopyOnWriteArraySet, CountDownLatch, ForwardingStorageComponent, InMemoryCollectorMetrics, LinkedBlockingQueue, NoSuchElementException] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="50" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 34 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-collector\core\src\main\java\zipkin2\collector\Collector.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-collector\core\src\main\java\zipkin2\collector\CollectorComponent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-collector\core\src\main\java\zipkin2\collector\CollectorMetrics.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-collector\core\src\main\java\zipkin2\collector\CollectorSampler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-collector\core\src\main\java\zipkin2\collector\InMemoryCollectorMetrics.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-collector\core\src\test\java\zipkin2\collector\CollectorSamplerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-collector\core\src\test\java\zipkin2\collector\CollectorTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-collector\kafka\src\main\java\zipkin2\collector\kafka\KafkaCollector.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-collector\kafka\src\main\java\zipkin2\collector\kafka\KafkaCollectorWorker.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-collector\kafka\src\test\java\zipkin2\collector\kafka\ITKafkaCollector.java">
+<error line="43" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 12 classes [AssertionError, AtomicInteger, ByteArraySerializer, Call.Base, CopyOnWriteArraySet, ForwardingStorageComponent, InMemoryCollectorMetrics, KafkaExtension, KafkaProducer, LinkedBlockingQueue, ProducerRecord, Properties] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="43" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 26 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-collector\kafka\src\test\java\zipkin2\collector\kafka\KafkaExtension.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-collector\pulsar\src\main\java\zipkin2\collector\pulsar\LazyPulsarInit.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-collector\pulsar\src\main\java\zipkin2\collector\pulsar\PulsarCollector.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-collector\pulsar\src\main\java\zipkin2\collector\pulsar\PulsarSpanConsumer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-collector\pulsar\src\test\java\zipkin2\collector\pulsar\ITPulsarCollector.java">
+<error line="45" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 29 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-collector\pulsar\src\test\java\zipkin2\collector\pulsar\PulsarExtension.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-collector\rabbitmq\src\main\java\zipkin2\collector\rabbitmq\RabbitMQCollector.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-collector\rabbitmq\src\test\java\zipkin2\collector\rabbitmq\ITRabbitMQCollector.java">
+<error line="36" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-collector\rabbitmq\src\test\java\zipkin2\collector\rabbitmq\RabbitMQCollectorTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-collector\rabbitmq\src\test\java\zipkin2\collector\rabbitmq\RabbitMQExtension.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-collector\scribe\src\main\java\zipkin2\collector\scribe\generated\LogEntry.java">
+<error line="9" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="24" column="15" severity="warning" message="O nome &apos;_Fields&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="240" column="3" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-collector\scribe\src\main\java\zipkin2\collector\scribe\generated\ResultCode.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-collector\scribe\src\main\java\zipkin2\collector\scribe\generated\Scribe.java">
+<error line="93" column="25" severity="warning" message="O nome &apos;Log_call&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="240" column="3" severity="warning" message="O acoplamento de abstração de dados da classe é de 13 classes [LogEntry, Log_argsStandardSchemeFactory, Log_argsTupleSchemeFactory, java.io.IOException, java.util.ArrayList, java.util.EnumMap, org.apache.thrift.meta_data.FieldMetaData, org.apache.thrift.meta_data.ListMetaData, org.apache.thrift.meta_data.StructMetaData, org.apache.thrift.protocol.TCompactProtocol, org.apache.thrift.protocol.TField, org.apache.thrift.protocol.TStruct, org.apache.thrift.transport.TIOStreamTransport] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="240" column="3" severity="warning" message="A complexidade Fan-Out da classe é de 28 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="240" column="23" severity="warning" message="O nome &apos;Log_args&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="251" column="17" severity="warning" message="O nome &apos;_Fields&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="539" column="26" severity="warning" message="O nome &apos;Log_argsStandardSchemeFactory&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="545" column="26" severity="warning" message="O nome &apos;Log_argsStandardScheme&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="609" column="26" severity="warning" message="O nome &apos;Log_argsTupleSchemeFactory&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="615" column="26" severity="warning" message="O nome &apos;Log_argsTupleScheme&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="662" column="3" severity="warning" message="A complexidade Fan-Out da classe é de 24 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="662" column="23" severity="warning" message="O nome &apos;Log_result&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="677" column="17" severity="warning" message="O nome &apos;_Fields&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="956" column="26" severity="warning" message="O nome &apos;Log_resultStandardSchemeFactory&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="962" column="26" severity="warning" message="O nome &apos;Log_resultStandardScheme&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="1008" column="26" severity="warning" message="O nome &apos;Log_resultTupleSchemeFactory&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="1014" column="26" severity="warning" message="O nome &apos;Log_resultTupleScheme&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-collector\scribe\src\main\java\zipkin2\collector\scribe\NettyScribeServer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-collector\scribe\src\main\java\zipkin2\collector\scribe\ScribeCollector.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-collector\scribe\src\main\java\zipkin2\collector\scribe\ScribeInboundHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-collector\scribe\src\main\java\zipkin2\collector\scribe\ScribeSpanConsumer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-collector\scribe\src\test\java\zipkin2\collector\scribe\ITScribeCollector.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-collector\scribe\src\test\java\zipkin2\collector\scribe\ScribeCollectorTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-collector\scribe\src\test\java\zipkin2\collector\scribe\ScribeSpanConsumerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-junit5\src\main\java\zipkin2\junit5\HttpFailure.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-junit5\src\main\java\zipkin2\junit5\ZipkinDispatcher.java">
+<error line="64" column="62" severity="warning" message="Instrução vazia." source="com.puppycrawl.tools.checkstyle.checks.coding.EmptyStatementCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-junit5\src\main\java\zipkin2\junit5\ZipkinExtension.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-junit5\src\test\java\zipkin2\junit5\ZipkinExtensionTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin\server\ZipkinServer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\activemq\ZipkinActiveMQCollectorConfiguration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\activemq\ZipkinActiveMQCollectorProperties.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\banner\ZipkinBanner.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\BodyIsExceptionMessage.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\brave\SelfTracingProperties.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\brave\TracedCall.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\brave\TracingStorageComponent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\brave\ZipkinSelfTracingConfiguration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\cassandra3\ZipkinCassandra3StorageConfiguration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\cassandra3\ZipkinCassandra3StorageProperties.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\ConditionalOnSelfTracing.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\ConditionalOnThrottledStorage.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\elasticsearch\BasicAuthInterceptor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\elasticsearch\BasicCredentials.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\elasticsearch\DynamicCredentialsFileLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\elasticsearch\HttpClientFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\elasticsearch\InitialEndpointSupplier.java">
+<error line="32" column="3" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\elasticsearch\LazyHttpClientImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\elasticsearch\SslUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\elasticsearch\ZipkinElasticsearchStorageConfiguration.java">
+<error line="48" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 35 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\elasticsearch\ZipkinElasticsearchStorageProperties.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\EnableZipkinServer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\eureka\ZipkinEurekaDiscoveryConfiguration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\eureka\ZipkinEurekaDiscoveryProperties.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\health\ComponentHealth.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\health\ZipkinHealthController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\InternalZipkinConfiguration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\JsonUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\kafka\ZipkinKafkaCollectorConfiguration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\kafka\ZipkinKafkaCollectorProperties.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\MicrometerCollectorMetrics.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\mysql\ZipkinMySQLStorageConfiguration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\mysql\ZipkinMySQLStorageProperties.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\mysql\ZipkinSelfTracingMySQLStorageConfiguration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\prometheus\ZipkinMetricsController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\prometheus\ZipkinPrometheusMetricsConfiguration.java">
+<error line="39" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="146" column="3" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\pulsar\ZipkinPulsarCollectorConfiguration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\pulsar\ZipkinPulsarCollectorProperties.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\rabbitmq\ZipkinRabbitMQCollectorConfiguration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\rabbitmq\ZipkinRabbitMQCollectorProperties.java">
+<error line="116" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\scribe\ZipkinScribeCollectorConfiguration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\throttle\LimiterMetrics.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\throttle\MicrometerThrottleMetrics.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\throttle\ThrottledCall.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\throttle\ThrottledStorageComponent.java">
+<error line="52" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\throttle\ZipkinStorageThrottleProperties.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\ui\CompressionProperties.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\ui\ZipkinUiConfiguration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\ui\ZipkinUiProperties.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\WrappingExecutorService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\ZipkinActuatorImporter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\ZipkinConfiguration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\ZipkinGrpcCollector.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\ZipkinHttpCollector.java">
+<error line="42" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\ZipkinHttpConfiguration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\ZipkinModuleImporter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\main\java\zipkin2\server\internal\ZipkinQueryApiV2.java">
+<error line="46" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\collector\activemq\ZipkinActiveMQCollectorPropertiesOverrideTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\collector\kafka\ZipkinKafkaCollectorPropertiesOverrideTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\collector\pulsar\ZipkinPulsarCollectorPropertiesOverrideTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\collector\rabbitmq\ZipkinRabbitMQCollectorPropertiesOverrideTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\collector\scribe\ZipkinScribeCollectorConfigurationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\activemq\Access.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\activemq\ZipkinActiveMQCollectorConfigurationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\activemq\ZipkinActiveMQCollectorPropertiesTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\banner\ZipkinBannerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\brave\ITZipkinSelfTracing.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\cassandra3\Access.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\elasticsearch\Access.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\elasticsearch\InitialEndpointSupplierTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\elasticsearch\ITElasticsearchAuth.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\elasticsearch\ITElasticsearchClientInitialization.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\elasticsearch\ITElasticsearchDynamicCredentials.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\elasticsearch\ITElasticsearchHealthCheck.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\elasticsearch\ITElasticsearchNoVerify.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\elasticsearch\ITElasticsearchSelfTracing.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\elasticsearch\TestResponses.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\elasticsearch\ZipkinElasticsearchStorageConfigurationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\eureka\BaseITZipkinEureka.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\eureka\ITZipkinEureka.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\eureka\ITZipkinEurekaAuthenticated.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\eureka\ZipkinEurekaDiscoveryConfigurationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\eureka\ZipkinEurekaDiscoveryPropertiesTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\health\ComponentHealthTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\health\ITZipkinHealth.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\health\ITZipkinHealthDown.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\health\ZipkinHealthControllerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\InMemoryConfiguration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\ITActuatorMappings.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\ITZipkinGrpcCollector.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\ITZipkinServer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\ITZipkinServerAutocomplete.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\ITZipkinServerCORS.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\ITZipkinServerHttpCollectorDisabled.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\ITZipkinServerQueryDisabled.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\ITZipkinServerSsl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\ITZipkinServerTimeout.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\kafka\Access.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\kafka\ZipkinKafkaCollectorConfigurationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\kafka\ZipkinKafkaCollectorPropertiesTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\mysql\Access.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\NoOpMeterRegistryConfiguration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\prometheus\ITZipkinMetrics.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\prometheus\ITZipkinMetricsDirty.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\prometheus\ZipkinPrometheusMetricsConfigurationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\pulsar\Access.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\pulsar\ZipkinPulsarCollectorConfigurationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\pulsar\ZipkinPulsarCollectorPropertiesTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\rabbitmq\Access.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\rabbitmq\ZipkinRabbitMQCollectorConfigurationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\rabbitmq\ZipkinRabbitMQCollectorPropertiesTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\throttle\FakeCall.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\throttle\ThrottledCallTest.java">
+<error line="43" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\throttle\ThrottledStorageComponentTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\ui\ITZipkinUiConfiguration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\ui\ZipkinUiConfigurationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\ZipkinActuatorImporterTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\ZipkinHttpConfigurationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\server\internal\ZipkinModuleImporterTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\storage\cassandra\ZipkinCassandraStorageAutoConfigurationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-server\src\test\java\zipkin2\storage\mysql\v1\ZipkinMySQLStorageConfigurationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\main\java\zipkin2\storage\cassandra\AnnotationCodec.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\main\java\zipkin2\storage\cassandra\CassandraAutocompleteTags.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\main\java\zipkin2\storage\cassandra\CassandraSpanConsumer.java">
+<error line="101" column="3" severity="warning" message="A complexidade ciclomática é de 25 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\main\java\zipkin2\storage\cassandra\CassandraSpanStore.java">
+<error line="36" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 12 classes [AggregateFlatMapper, IntersectKeySets, IntersectMaps, SelectDependencies.Factory, SelectFromSpan.Factory, SelectRemoteServiceNames.Factory, SelectServiceNames.Factory, SelectSpanNames.Factory, SelectTraceIdsFromServiceRemoteService.Factory, SelectTraceIdsFromServiceSpan.Factory, SelectTraceIdsFromSpan.Factory, TimestampRange] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="36" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="175" column="3" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\main\java\zipkin2\storage\cassandra\CassandraStorage.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\main\java\zipkin2\storage\cassandra\CassandraStorageBuilder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\main\java\zipkin2\storage\cassandra\CassandraUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\main\java\zipkin2\storage\cassandra\DefaultSessionFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\main\java\zipkin2\storage\cassandra\EndpointCodec.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\main\java\zipkin2\storage\cassandra\InsertSpan.java">
+<error line="140" column="3" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\main\java\zipkin2\storage\cassandra\InsertTraceByServiceRemoteService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\main\java\zipkin2\storage\cassandra\InsertTraceByServiceSpan.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\main\java\zipkin2\storage\cassandra\internal\call\AccumulateAllResults.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\main\java\zipkin2\storage\cassandra\internal\call\AccumulateTraceIdTsUuid.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\main\java\zipkin2\storage\cassandra\internal\call\AggregateIntoMap.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\main\java\zipkin2\storage\cassandra\internal\call\DeduplicatingInsert.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\main\java\zipkin2\storage\cassandra\internal\call\DistinctSortedStrings.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\main\java\zipkin2\storage\cassandra\internal\call\InsertEntry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\main\java\zipkin2\storage\cassandra\internal\call\IntersectKeySets.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\main\java\zipkin2\storage\cassandra\internal\call\IntersectMaps.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\main\java\zipkin2\storage\cassandra\internal\call\ResultSetFutureCall.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\main\java\zipkin2\storage\cassandra\internal\HostAndPort.java">
+<error line="52" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\main\java\zipkin2\storage\cassandra\internal\KeyspaceMetadataUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\main\java\zipkin2\storage\cassandra\internal\Resources.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\main\java\zipkin2\storage\cassandra\internal\SessionBuilder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\main\java\zipkin2\storage\cassandra\LazySession.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\main\java\zipkin2\storage\cassandra\Schema.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\main\java\zipkin2\storage\cassandra\SelectAutocompleteValues.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\main\java\zipkin2\storage\cassandra\SelectDependencies.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\main\java\zipkin2\storage\cassandra\SelectFromSpan.java">
+<error line="165" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\main\java\zipkin2\storage\cassandra\SelectRemoteServiceNames.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\main\java\zipkin2\storage\cassandra\SelectServiceNames.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\main\java\zipkin2\storage\cassandra\SelectSpanNames.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\main\java\zipkin2\storage\cassandra\SelectTraceIdsFromServiceRemoteService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\main\java\zipkin2\storage\cassandra\SelectTraceIdsFromServiceSpan.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\main\java\zipkin2\storage\cassandra\SelectTraceIdsFromSpan.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\test\java\zipkin2\storage\cassandra\CassandraContainer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\test\java\zipkin2\storage\cassandra\CassandraSpanConsumerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\test\java\zipkin2\storage\cassandra\CassandraSpanStoreTest.java">
+<error line="14" column="8" severity="warning" message="Importação não utilizada - org.mockito.Answers." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\test\java\zipkin2\storage\cassandra\CassandraStorageBuilderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\test\java\zipkin2\storage\cassandra\CassandraStorageTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\test\java\zipkin2\storage\cassandra\CassandraUtilTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\test\java\zipkin2\storage\cassandra\internal\call\DeduplicatingInsertTest.java">
+<error line="75" column="32" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="101" column="32" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\test\java\zipkin2\storage\cassandra\internal\call\ResultSetFutureCallTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\test\java\zipkin2\storage\cassandra\internal\HostAndPortTest.java">
+<error line="72" column="44" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\test\java\zipkin2\storage\cassandra\internal\SessionBuilderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\test\java\zipkin2\storage\cassandra\InternalForTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\test\java\zipkin2\storage\cassandra\ITCassandraStorage.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\test\java\zipkin2\storage\cassandra\ITCassandraStorageHeavy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\test\java\zipkin2\storage\cassandra\ITEnsureSchema.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\test\java\zipkin2\storage\cassandra\ITSpanConsumer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\cassandra\src\test\java\zipkin2\storage\cassandra\SchemaTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\main\java\zipkin2\elasticsearch\BaseVersion.java">
+<error line="64" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\main\java\zipkin2\elasticsearch\BodyConverters.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\main\java\zipkin2\elasticsearch\ElasticsearchAutocompleteTags.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\main\java\zipkin2\elasticsearch\ElasticsearchSpanConsumer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\main\java\zipkin2\elasticsearch\ElasticsearchSpanStore.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\main\java\zipkin2\elasticsearch\ElasticsearchSpecificTemplates.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\main\java\zipkin2\elasticsearch\ElasticsearchStorage.java">
+<error line="45" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 29 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\main\java\zipkin2\elasticsearch\ElasticsearchVersion.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\main\java\zipkin2\elasticsearch\EnsureIndexTemplate.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\main\java\zipkin2\elasticsearch\IndexTemplates.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\main\java\zipkin2\elasticsearch\internal\BulkCallBuilder.java">
+<error line="42" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\main\java\zipkin2\elasticsearch\internal\BulkIndexWriter.java">
+<error line="73" column="3" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\main\java\zipkin2\elasticsearch\internal\client\Aggregation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\main\java\zipkin2\elasticsearch\internal\client\HttpCall.java">
+<error line="38" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\main\java\zipkin2\elasticsearch\internal\client\SearchCallFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\main\java\zipkin2\elasticsearch\internal\client\SearchRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\main\java\zipkin2\elasticsearch\internal\client\SearchResultConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\main\java\zipkin2\elasticsearch\internal\IndexNameFormatter.java">
+<error line="102" column="3" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\main\java\zipkin2\elasticsearch\internal\Internal.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\main\java\zipkin2\elasticsearch\internal\JsonReaders.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\main\java\zipkin2\elasticsearch\internal\JsonSerializers.java">
+<error line="42" column="3" severity="warning" message="A complexidade ciclomática é de 22 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="118" column="3" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\main\java\zipkin2\elasticsearch\OpensearchSpecificTemplates.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\main\java\zipkin2\elasticsearch\OpensearchVersion.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\main\java\zipkin2\elasticsearch\VersionSpecificTemplates.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\test\java\zipkin2\elasticsearch\BaseVersionTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\test\java\zipkin2\elasticsearch\ElasticsearchAutocompleteTagsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\test\java\zipkin2\elasticsearch\ElasticsearchSpanConsumerTest.java">
+<error line="269" column="41" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\test\java\zipkin2\elasticsearch\ElasticsearchSpanStoreTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\test\java\zipkin2\elasticsearch\ElasticsearchSpecificTemplatesTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\test\java\zipkin2\elasticsearch\ElasticsearchStorageTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\test\java\zipkin2\elasticsearch\ElasticsearchVersionTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\test\java\zipkin2\elasticsearch\integration\ElasticsearchBaseExtension.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\test\java\zipkin2\elasticsearch\integration\ElasticsearchExtension.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\test\java\zipkin2\elasticsearch\integration\IgnoredDeprecationWarnings.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\test\java\zipkin2\elasticsearch\integration\ITElasticsearchStorage.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\test\java\zipkin2\elasticsearch\integration\ITElasticsearchStorageV7.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\test\java\zipkin2\elasticsearch\integration\ITElasticsearchStorageV8.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\test\java\zipkin2\elasticsearch\integration\ITEnsureIndexTemplate.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\test\java\zipkin2\elasticsearch\integration\ITOpenSearchStorageV2.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\test\java\zipkin2\elasticsearch\integration\OpenSearchExtension.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\test\java\zipkin2\elasticsearch\internal\BulkCallBuilderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\test\java\zipkin2\elasticsearch\internal\BulkIndexWriterTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\test\java\zipkin2\elasticsearch\internal\client\HttpCallTest.java">
+<error line="46" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 24 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\test\java\zipkin2\elasticsearch\internal\client\SearchCallFactoryTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\test\java\zipkin2\elasticsearch\internal\client\SearchRequestTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\test\java\zipkin2\elasticsearch\internal\IndexNameFormatterTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\test\java\zipkin2\elasticsearch\InternalForTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\test\java\zipkin2\elasticsearch\JsonReadersTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\test\java\zipkin2\elasticsearch\JsonSerializersTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\test\java\zipkin2\elasticsearch\OpensearchSpecificTemplatesTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\test\java\zipkin2\elasticsearch\OpensearchVersionTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\test\java\zipkin2\elasticsearch\SearchResultConverterTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\elasticsearch\src\test\java\zipkin2\elasticsearch\TestResponses.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\mysql-v1\src\main\java\zipkin2\storage\mysql\v1\AggregateDependencies.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\mysql-v1\src\main\java\zipkin2\storage\mysql\v1\DataSourceCall.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\mysql-v1\src\main\java\zipkin2\storage\mysql\v1\DependencyLinkV2SpanIterator.java">
+<error line="78" column="3" severity="warning" message="A complexidade ciclomática é de 26 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\mysql-v1\src\main\java\zipkin2\storage\mysql\v1\DSLContexts.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\mysql-v1\src\main\java\zipkin2\storage\mysql\v1\HasErrorCount.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\mysql-v1\src\main\java\zipkin2\storage\mysql\v1\HasIpv6.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\mysql-v1\src\main\java\zipkin2\storage\mysql\v1\HasPreAggregatedDependencies.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\mysql-v1\src\main\java\zipkin2\storage\mysql\v1\HasRemoteServiceName.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\mysql-v1\src\main\java\zipkin2\storage\mysql\v1\HasTraceIdHigh.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\mysql-v1\src\main\java\zipkin2\storage\mysql\v1\internal\generated\DefaultCatalog.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\mysql-v1\src\main\java\zipkin2\storage\mysql\v1\internal\generated\Indexes.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\mysql-v1\src\main\java\zipkin2\storage\mysql\v1\internal\generated\Keys.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\mysql-v1\src\main\java\zipkin2\storage\mysql\v1\internal\generated\tables\ZipkinAnnotations.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\mysql-v1\src\main\java\zipkin2\storage\mysql\v1\internal\generated\tables\ZipkinDependencies.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\mysql-v1\src\main\java\zipkin2\storage\mysql\v1\internal\generated\tables\ZipkinSpans.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\mysql-v1\src\main\java\zipkin2\storage\mysql\v1\internal\generated\Tables.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\mysql-v1\src\main\java\zipkin2\storage\mysql\v1\internal\generated\Zipkin.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\mysql-v1\src\main\java\zipkin2\storage\mysql\v1\MySQLAutocompleteTags.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\mysql-v1\src\main\java\zipkin2\storage\mysql\v1\MySQLSpanConsumer.java">
+<error line="58" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\mysql-v1\src\main\java\zipkin2\storage\mysql\v1\MySQLSpanStore.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\mysql-v1\src\main\java\zipkin2\storage\mysql\v1\MySQLStorage.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\mysql-v1\src\main\java\zipkin2\storage\mysql\v1\Pair.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\mysql-v1\src\main\java\zipkin2\storage\mysql\v1\PeekingIterator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\mysql-v1\src\main\java\zipkin2\storage\mysql\v1\Schema.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\mysql-v1\src\main\java\zipkin2\storage\mysql\v1\SelectAnnotationServiceNames.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\mysql-v1\src\main\java\zipkin2\storage\mysql\v1\SelectAutocompleteValues.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\mysql-v1\src\main\java\zipkin2\storage\mysql\v1\SelectDependencies.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\mysql-v1\src\main\java\zipkin2\storage\mysql\v1\SelectRemoteServiceNames.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\mysql-v1\src\main\java\zipkin2\storage\mysql\v1\SelectSpanNames.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\mysql-v1\src\main\java\zipkin2\storage\mysql\v1\SelectSpansAndAnnotations.java">
+<error line="153" column="3" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\mysql-v1\src\test\java\zipkin2\storage\mysql\v1\DependencyLinkV2SpanIteratorTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\mysql-v1\src\test\java\zipkin2\storage\mysql\v1\ITMySQLStorage.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\mysql-v1\src\test\java\zipkin2\storage\mysql\v1\MySQLExtension.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\mysql-v1\src\test\java\zipkin2\storage\mysql\v1\MySQLStorageTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\mysql-v1\src\test\java\zipkin2\storage\mysql\v1\SchemaTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-storage\mysql-v1\src\test\java\zipkin2\storage\mysql\v1\SelectSpansAndAnnotationsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-tests\src\main\java\zipkin2\storage\ITAutocompleteTags.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-tests\src\main\java\zipkin2\storage\ITDependencies.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-tests\src\main\java\zipkin2\storage\ITDependenciesHeavy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-tests\src\main\java\zipkin2\storage\ITSearchEnabledFalse.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-tests\src\main\java\zipkin2\storage\ITServiceAndSpanNames.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-tests\src\main\java\zipkin2\storage\ITSpanStore.java">
+<error line="8" column="8" severity="warning" message="Importação não utilizada - java.util.Collections." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-tests\src\main\java\zipkin2\storage\ITSpanStoreHeavy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-tests\src\main\java\zipkin2\storage\ITStorage.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-tests\src\main\java\zipkin2\storage\ITStrictTraceIdFalse.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-tests\src\main\java\zipkin2\storage\ITTraces.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-tests\src\main\java\zipkin2\TestObjects.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\openzipkin_zipkin\zipkin-tests\src\test\java\zipkin2\storage\ITInMemoryStorage.java">
+</file>
+</checkstyle>
