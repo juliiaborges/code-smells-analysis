@@ -1,0 +1,15 @@
+{
+  "repository": "LSPosed_LSPosed",
+  "code_smells": {
+    "Empty Catch Block": 2,
+    "Unnecessary Import (Unused Imports)": 0,
+    "Unnecessary Local Before Return (Unused Local Variables)": 0,
+    "Cyclomatic Complexity": 59,
+    "God Class": 13,
+    "Class Naming Conventions": 6,
+    "Empty Control Statement": 0,
+    "Too Many Fields": 3,
+    "Too Many Methods": 28
+  },
+  "total_smells": 111
+}

@@ -1,0 +1,15 @@
+{
+  "repository": "YunaiV_yudao-cloud",
+  "code_smells": {
+    "Empty Catch Block": 5,
+    "Unnecessary Import (Unused Imports)": 0,
+    "Unnecessary Local Before Return (Unused Local Variables)": 0,
+    "Cyclomatic Complexity": 91,
+    "God Class": 15,
+    "Class Naming Conventions": 0,
+    "Empty Control Statement": 0,
+    "Too Many Fields": 110,
+    "Too Many Methods": 139
+  },
+  "total_smells": 360
+}

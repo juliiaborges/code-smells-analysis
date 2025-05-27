@@ -1,0 +1,15 @@
+{
+  "repository": "Tencent_tinker",
+  "code_smells": {
+    "Empty Catch Block": 31,
+    "Unnecessary Import (Unused Imports)": 0,
+    "Unnecessary Local Before Return (Unused Local Variables)": 0,
+    "Cyclomatic Complexity": 175,
+    "God Class": 31,
+    "Class Naming Conventions": 52,
+    "Empty Control Statement": 0,
+    "Too Many Fields": 8,
+    "Too Many Methods": 48
+  },
+  "total_smells": 345
+}
