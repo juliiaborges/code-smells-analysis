@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.24.0">
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent\src\test\java\com\navercorp\pinpoint\plugin\config\PropertiesVerificationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-plugins\proxy-apache\src\main\java\com\navercorp\pinpoint\agent\plugin\proxy\apache\ApacheRequestConstants.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-plugins\proxy-apache\src\main\java\com\navercorp\pinpoint\agent\plugin\proxy\apache\ApacheRequestMetadataProvider.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-plugins\proxy-apache\src\main\java\com\navercorp\pinpoint\agent\plugin\proxy\apache\ApacheRequestParser.java">
+<error line="48" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="75" column="57" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="84" column="57" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-plugins\proxy-apache\src\main\java\com\navercorp\pinpoint\agent\plugin\proxy\apache\ApacheRequestParserProvider.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-plugins\proxy-apache\src\main\java\com\navercorp\pinpoint\agent\plugin\proxy\apache\ApacheRequestType.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-plugins\proxy-apache\src\test\java\com\navercorp\pinpoint\agent\plugin\proxy\apache\ApacheRequestParserTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-plugins\proxy-app\src\main\java\com\navercorp\pinpoint\agent\plugin\proxy\app\AppRequestConstants.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-plugins\proxy-app\src\main\java\com\navercorp\pinpoint\agent\plugin\proxy\app\AppRequestMetadataProvider.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-plugins\proxy-app\src\main\java\com\navercorp\pinpoint\agent\plugin\proxy\app\AppRequestParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-plugins\proxy-app\src\main\java\com\navercorp\pinpoint\agent\plugin\proxy\app\AppRequestParserProvider.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-plugins\proxy-app\src\main\java\com\navercorp\pinpoint\agent\plugin\proxy\app\AppRequestType.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-plugins\proxy-app\src\test\java\com\navercorp\pinpoint\agent\plugin\proxy\app\AppRequestParserTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-plugins\proxy-common\src\main\java\com\navercorp\pinpoint\agent\plugin\proxy\common\ProxyRequestMetadataProvider.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-plugins\proxy-common\src\main\java\com\navercorp\pinpoint\agent\plugin\proxy\common\ProxyRequestMetadataSetupContext.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-plugins\proxy-common\src\main\java\com\navercorp\pinpoint\agent\plugin\proxy\common\ProxyRequestType.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-plugins\proxy-nginx\src\main\java\com\navercorp\pinpoint\agent\plugin\proxy\nginx\NginxRequestConstants.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-plugins\proxy-nginx\src\main\java\com\navercorp\pinpoint\agent\plugin\proxy\nginx\NginxRequestMetadataProvider.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-plugins\proxy-nginx\src\main\java\com\navercorp\pinpoint\agent\plugin\proxy\nginx\NginxRequestParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-plugins\proxy-nginx\src\main\java\com\navercorp\pinpoint\agent\plugin\proxy\nginx\NginxRequestParserProvider.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-plugins\proxy-nginx\src\main\java\com\navercorp\pinpoint\agent\plugin\proxy\nginx\NginxRequestType.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-plugins\proxy-nginx\src\test\java\com\navercorp\pinpoint\agent\plugin\proxy\nginx\NginxRequestParserTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-plugins\proxy-user\src\main\java\com\navercorp\pinpoint\agent\plugin\proxy\user\UserRequestConstants.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-plugins\proxy-user\src\main\java\com\navercorp\pinpoint\agent\plugin\proxy\user\UserRequestMetadataProvider.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-plugins\proxy-user\src\main\java\com\navercorp\pinpoint\agent\plugin\proxy\user\UserRequestParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-plugins\proxy-user\src\main\java\com\navercorp\pinpoint\agent\plugin\proxy\user\UserRequestParserProvider.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-plugins\proxy-user\src\main\java\com\navercorp\pinpoint\agent\plugin\proxy\user\UserRequestType.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-plugins\proxy-user\src\test\java\com\navercorp\pinpoint\agent\plugin\proxy\user\UserRequestParserTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-sdk\src\main\java\com\navercorp\pinpoint\sdk\v1\concurrent\TraceCallable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-sdk\src\main\java\com\navercorp\pinpoint\sdk\v1\concurrent\TraceExecutor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-sdk\src\main\java\com\navercorp\pinpoint\sdk\v1\concurrent\TraceExecutors.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-sdk\src\main\java\com\navercorp\pinpoint\sdk\v1\concurrent\TraceExecutorService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-sdk\src\main\java\com\navercorp\pinpoint\sdk\v1\concurrent\TraceForkJoinPool.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-sdk\src\main\java\com\navercorp\pinpoint\sdk\v1\concurrent\TraceRunnable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-sdk\src\main\java\com\navercorp\pinpoint\sdk\v1\concurrent\TraceScheduledExecutorService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-sdk\src\main\java\com\navercorp\pinpoint\sdk\v1\concurrent\wrapper\CommandWrapper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-sdk\src\main\java\com\navercorp\pinpoint\sdk\v1\concurrent\wrapper\DefaultCommandWrapper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-sdk\src\main\java\com\navercorp\pinpoint\sdk\v1\concurrent\wrapper\DisableCommandWrapper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-testweb\agent-proxy-plugin-testweb\src\main\java\com\pinpoint\test\plugin\AgentProxyPluginController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-testweb\agent-proxy-plugin-testweb\src\main\java\com\pinpoint\test\plugin\AgentProxyPluginTestStarter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-testweb\agent-testweb-commons\src\main\java\com\pinpoint\test\common\view\ApiLinkPage.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-testweb\agent-testweb-commons\src\main\java\com\pinpoint\test\common\view\HrefTag.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-testweb\agentsdk-async-testweb\src\main\java\com\pinpointest\plugin\controller\ThreadContextPropagationController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-testweb\agentsdk-async-testweb\src\main\java\com\pinpointest\plugin\SdkAsyncPluginTestStarter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-testweb\arcus-plugin-testweb\src\main\java\com\pinpoint\test\plugin\ArcusClientConfiguration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-testweb\arcus-plugin-testweb\src\main\java\com\pinpoint\test\plugin\ArcusPluginController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-testweb\arcus-plugin-testweb\src\main\java\com\pinpoint\test\plugin\ArcusPluginTestStarter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-testweb\aws-sdk-s3-plugin-testweb\src\main\java\com\pinpoint\test\plugin\AwsSdkS3PluginController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-testweb\aws-sdk-s3-plugin-testweb\src\main\java\com\pinpoint\test\plugin\AwsSdkS3PluginTestStarter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-testweb\aws-sdk-s3-plugin-testweb\src\test\java\com\pinpoint\test\plugin\LocalStackContainerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-testweb\cassandra3-plugin-testweb\src\main\java\com\pinpoint\test\plugin\Cassandra3PluginController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-testweb\cassandra3-plugin-testweb\src\main\java\com\pinpoint\test\plugin\Cassandra3PluginTestConstants.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-testweb\cassandra3-plugin-testweb\src\main\java\com\pinpoint\test\plugin\Cassandra3PluginTestStarter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-testweb\cassandra3-plugin-testweb\src\test\java\com\pinpoint\test\plugin\cassandra\CassandraTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-testweb\cassandra4-plugin-testweb\src\main\java\com\pinpoint\test\plugin\Cassandra4PluginController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-testweb\cassandra4-plugin-testweb\src\main\java\com\pinpoint\test\plugin\Cassandra4PluginTestConstants.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-testweb\cassandra4-plugin-testweb\src\main\java\com\pinpoint\test\plugin\Cassandra4PluginTestStarter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\pinpoint-apm_pinpoint\agent-module\agent-testweb\cassandra4-plugin-testweb\src\test\j

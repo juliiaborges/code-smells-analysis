@@ -1,0 +1,10 @@
+{
+  "repository": "infinilabs_analysis-ik",
+  "code_smells": {
+    "Cyclomatic Complexity": 10,
+    "Naming Conventions": 1,
+    "Unused Imports": 2,
+    "Potential God Class": 1
+  },
+  "total_smells": 14
+}

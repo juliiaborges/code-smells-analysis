@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.24.0">
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Curzibn_Luban\example\src\androidTest\java\top\zibin\luban\example\ApplicationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Curzibn_Luban\example\src\main\java\top\zibin\luban\example\ImageAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Curzibn_Luban\example\src\main\java\top\zibin\luban\example\ImageBean.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Curzibn_Luban\example\src\main\java\top\zibin\luban\example\MainActivity.java">
+<error line="44" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 13 classes [BigInteger, BitmapFactory.Options, CompositeDisposable, CompressionPredicate, Consumer, File, FileOutputStream, Function, ImageAdapter, ImageBean, LinearLayoutManager, OnCompressListener, OnRenameListener] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="44" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Curzibn_Luban\example\src\main\java\top\zibin\luban\example\PathUtils.java">
+<error line="132" column="3" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Curzibn_Luban\example\src\test\java\top\zibin\luban\example\ExampleUnitTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Curzibn_Luban\library\src\androidTest\java\top\zibin\luban\ApplicationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Curzibn_Luban\library\src\main\java\top\zibin\luban\Checker.java">
+<error line="45" column="3" severity="warning" message="A complexidade ciclomática é de 27 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="194" column="37" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Curzibn_Luban\library\src\main\java\top\zibin\luban\CompressionPredicate.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Curzibn_Luban\library\src\main\java\top\zibin\luban\Engine.java">
+<error line="36" column="3" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Curzibn_Luban\library\src\main\java\top\zibin\luban\InputStreamAdapter.java">
+<error line="28" column="36" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Curzibn_Luban\library\src\main\java\top\zibin\luban\InputStreamProvider.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Curzibn_Luban\library\src\main\java\top\zibin\luban\Luban.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Curzibn_Luban\library\src\main\java\top\zibin\luban\OnCompressListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Curzibn_Luban\library\src\main\java\top\zibin\luban\OnRenameListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Curzibn_Luban\library\src\test\java\top\zibin\luban\ExampleUnitTest.java">
+</file>
+</checkstyle>

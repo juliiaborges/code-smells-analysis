@@ -1,0 +1,13 @@
+{
+  "repository": "zaproxy_zaproxy",
+  "code_smells": {
+    "Potential God Class": 118,
+    "Unused Imports": 1,
+    "Too Many Fields": 97,
+    "Empty Catch Block": 49,
+    "Cyclomatic Complexity": 217,
+    "Empty Control Statement": 1,
+    "Naming Conventions": 1
+  },
+  "total_smells": 484
+}

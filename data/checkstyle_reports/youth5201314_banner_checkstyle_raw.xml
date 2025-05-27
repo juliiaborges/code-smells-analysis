@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.24.0">
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\app\src\main\java\com\test\banner\adapter\ImageAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\app\src\main\java\com\test\banner\adapter\ImageNetAdapter.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - android.graphics.Bitmap." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="4" column="8" severity="warning" message="Importação não utilizada - android.graphics.Outline." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="5" column="8" severity="warning" message="Importação não utilizada - android.graphics.drawable.Drawable." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="7" column="8" severity="warning" message="Importação não utilizada - android.view.View." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="9" column="8" severity="warning" message="Importação não utilizada - android.view.ViewOutlineProvider." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="12" column="8" severity="warning" message="Importação não utilizada - androidx.annotation.NonNull." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="13" column="8" severity="warning" message="Importação não utilizada - androidx.annotation.Nullable." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="14" column="8" severity="warning" message="Importação não utilizada - androidx.annotation.RequiresApi." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="18" column="8" severity="warning" message="Importação não utilizada - com.bumptech.glide.load.resource.bitmap.RoundedCorners." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="19" column="8" severity="warning" message="Importação não utilizada - com.bumptech.glide.request.RequestOptions." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="20" column="8" severity="warning" message="Importação não utilizada - com.bumptech.glide.request.target.BitmapImageViewTarget." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="21" column="8" severity="warning" message="Importação não utilizada - com.bumptech.glide.request.target.SimpleTarget." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="22" column="8" severity="warning" message="Importação não utilizada - com.bumptech.glide.request.transition.Transition." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\app\src\main\java\com\test\banner\adapter\ImageTitleAdapter.java">
+<error line="4" column="8" severity="warning" message="Importação não utilizada - android.view.View." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="11" column="8" severity="warning" message="Importação não utilizada - com.youth.banner.util.BannerUtils." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\app\src\main\java\com\test\banner\adapter\ImageTitleNumAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\app\src\main\java\com\test\banner\adapter\MultipleTypesAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\app\src\main\java\com\test\banner\adapter\MyRecyclerViewAdapter.java">
+<error line="5" column="8" severity="warning" message="Importação não utilizada - android.util.Log." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\app\src\main\java\com\test\banner\adapter\TopLineAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\app\src\main\java\com\test\banner\bean\DataBean.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\app\src\main\java\com\test\banner\indicator\NumIndicator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\app\src\main\java\com\test\banner\MainActivity.java">
+<error line="17" column="8" severity="warning" message="Importação não utilizada - com.youth.banner.indicator.DrawableIndicator." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="32" column="8" severity="warning" message="Importação não utilizada - com.youth.banner.listener.OnPageChangeListener." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="45" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 11 classes [BannerImageAdapter, CircleIndicator, Handler, ImageAdapter, ImageTitleAdapter, ImageTitleNumAdapter, IndicatorConfig.Margins, Intent, MultipleTypesAdapter, RoundLinesIndicator, RoundedCorners] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="102" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\app\src\main\java\com\test\banner\ui\BannerFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\app\src\main\java\com\test\banner\ui\BannerListFragment.java">
+<error line="17" column="8" severity="warning" message="Importação não utilizada - com.test.banner.util.ParentRecyclerView." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\app\src\main\java\com\test\banner\ui\BlankFragment.java">
+<error line="4" column="8" severity="warning" message="Importação não utilizada - android.view.Gravity." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="9" column="8" severity="warning" message="Importação não utilizada - android.widget.TextView." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="14" column="8" severity="warning" message="Importação não utilizada - androidx.recyclerview.widget.RecyclerView." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="18" column="8" severity="warning" message="Importação não utilizada - com.test.banner.adapter.MyRecyclerViewAdapter." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="20" column="8" severity="warning" message="Importação não utilizada - com.test.banner.indicator.NumIndicator." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="22" column="8" severity="warning" message="Importação não utilizada - com.youth.banner.config.IndicatorConfig." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="26" column="8" severity="warning" message="Importação não utilizada - butterknife.BindView." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="27" column="8" severity="warning" message="Importação não utilizada - butterknife.ButterKnife." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\app\src\main\java\com\test\banner\ui\ConstraintLayoutBannerActivity.java">
+<error line="4" column="8" severity="warning" message="Importação não utilizada - android.util.Log." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="5" column="8" severity="warning" message="Importação não utilizada - android.view.KeyEvent." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="10" column="8" severity="warning" message="Importação não utilizada - com.test.banner.adapter.ImageAdapter." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="11" column="8" severity="warning" message="Importação não utilizada - com.test.banner.adapter.ImageNetAdapter." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\app\src\main\java\com\test\banner\ui\GalleryActivity.java">
+<error line="4" column="8" severity="warning" message="Importação não utilizada - android.view.View." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="8" column="8" severity="warning" message="Importação não utilizada - com.test.banner.adapter.ImageNetAdapter." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="13" column="8" severity="warning" message="Importação não utilizada - com.youth.banner.transformer.AlphaPageTransformer." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="18" column="8" severity="warning" message="Importação não utilizada - butterknife.OnClick." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\app\src\main\java\com\test\banner\ui\RecyclerViewBannerActivity.java">
+<error line="4" column="8" severity="warning" message="Importação não utilizada - android.view.View." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="5" column="8" severity="warning" message="Importação não utilizada - android.widget.TextView." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="7" column="8" severity="warning" message="Importação não utilizada - androidx.annotation.NonNull." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\app\src\main\java\com\test\banner\ui\TouTiaoActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\app\src\main\java\com\test\banner\ui\TVActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\app\src\main\java\com\test\banner\ui\VideoActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\app\src\main\java\com\test\banner\ui\Vp2FragmentRecyclerviewActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\app\src\main\java\com\test\banner\util\ParentRecyclerView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\app\src\main\java\com\test\banner\util\TabLayoutMediator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\app\src\main\java\com\test\banner\viewholder\ImageHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\app\src\main\java\com\test\banner\viewholder\ImageTitleHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\app\src\main\java\com\test\banner\viewholder\TitleHolder.java">
+<error line="4" column="8" severity="warning" message="Importação não utilizada - android.widget.ImageView." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\app\src\main\java\com\test\banner\viewholder\VideoHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\banner\src\main\java\com\youth\banner\adapter\BannerAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\banner\src\main\java\com\youth\banner\adapter\BannerImageAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\banner\src\main\java\com\youth\banner\Banner.java">
+<error line="8" column="8" severity="warning" message="Importação não utilizada - android.graphics.PaintFlagsDrawFilter." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="44" column="8" severity="warning" message="Importação não utilizada - com.youth.banner.util.LogUtils." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="54" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 15 classes [AutoLoopTask, BannerLifecycleObserverAdapter, BannerOnPageChangeCallback, CompositePageTransformer, IndicatorConfig.Margins, LayoutParams, MZScaleInTransformer, MarginPageTransformer, Paint, Path, PorterDuffXfermode, RectF, RecyclerView.AdapterDataObserver, ScaleInTransformer, ViewPager2] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="54" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 38 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="183" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\banner\src\main\java\com\youth\banner\config\BannerConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\banner\src\main\java\com\youth\banner\config\IndicatorConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\banner\src\main\java\com\youth\banner\holder\BannerImageHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\banner\src\main\java\com\youth\banner\holder\IViewHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\banner\src\main\java\com\youth\banner\indicator\BaseIndicator.java">
+<error line="10" column="8" severity="warning" message="Importação não utilizada - android.view.animation.DecelerateInterpolator." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="11" column="8" severity="warning" message="Importação não utilizada - android.view.animation.Interpolator." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="18" column="8" severity="warning" message="Importação não utilizada - com.youth.banner.util.LogUtils." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\banner\src\main\java\com\youth\banner\indicator\CircleIndicator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\banner\src\main\java\com\youth\banner\indicator\DrawableIndicator.java">
+<error line="8" column="8" severity="warning" message="Importação não utilizada - android.graphics.Color." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="10" column="8" severity="warning" message="Importação não utilizada - android.graphics.drawable.Drawable." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="14" column="8" severity="warning" message="Importação não utilizada - androidx.annotation.IdRes." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\banner\src\main\java\com\youth\banner\indicator\Indicator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\banner\src\main\java\com\youth\banner\indicator\RectangleIndicator.java">
+<error line="8" column="8" severity="warning" message="Importação não utilizada - com.youth.banner.config.BannerConfig." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\banner\src\main\java\com\youth\banner\indicator\RoundLinesIndicator.java">
+<error line="11" column="8" severity="warning" message="Importação não utilizada - com.youth.banner.util.BannerUtils." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\banner\src\main\java\com\youth\banner\itemdecoration\MarginDecoration.java">
+<error line="11" column="8" severity="warning" message="Importação não utilizada - com.youth.banner.util.BannerUtils." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\banner\src\main\java\com\youth\banner\listener\OnBannerListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\banner\src\main\java\com\youth\banner\listener\OnPageChangeListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\banner\src\main\java\com\youth\banner\transformer\AlphaPageTransformer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\banner\src\main\java\com\youth\banner\transformer\BasePageTransformer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\banner\src\main\java\com\youth\banner\transformer\DepthPageTransformer.java">
+<error line="5" column="8" severity="warning" message="Importação não utilizada - androidx.viewpager2.widget.ViewPager2." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\banner\src\main\java\com\youth\banner\transformer\MZScaleInTransformer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\banner\src\main\java\com\youth\banner\transformer\RotateDownPageTransformer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\banner\src\main\java\com\youth\banner\transformer\RotateUpPageTransformer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\banner\src\main\java\com\youth\banner\transformer\RotateYTransformer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\banner\src\main\java\com\youth\banner\transformer\ScaleInTransformer.java">
+<error line="4" column="8" severity="warning" message="Importação não utilizada - android.view.ViewParent." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="7" column="8" severity="warning" message="Importação não utilizada - androidx.annotation.Px." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="8" column="8" severity="warning" message="Importação não utilizada - androidx.core.view.ViewCompat." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="9" column="8" severity="warning" message="Importação não utilizada - androidx.recyclerview.widget.RecyclerView." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="10" column="8" severity="warning" message="Importação não utilizada - androidx.viewpager2.widget.ViewPager2." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\banner\src\main\java\com\youth\banner\transformer\ZoomOutPageTransformer.java">
+<error line="5" column="8" severity="warning" message="Importação não utilizada - androidx.viewpager2.widget.ViewPager2." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\banner\src\main\java\com\youth\banner\util\BannerLifecycleObserver.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\banner\src\main\java\com\youth\banner\util\BannerLifecycleObserverAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\banner\src\main\java\com\youth\banner\util\BannerUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\banner\src\main\java\com\youth\banner\util\LogUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\youth5201314_banner\banner\src\main\java\com\youth\banner\util\ScrollSpeedManger.java">
+</file>
+</checkstyle>

@@ -1,0 +1,12 @@
+{
+  "repository": "nostra13_Android-Universal-Image-Loader",
+  "code_smells": {
+    "Too Many Fields": 2,
+    "Potential God Class": 3,
+    "Cyclomatic Complexity": 8,
+    "Empty Catch Block": 5,
+    "Unused Imports": 2,
+    "Empty Control Statement": 1
+  },
+  "total_smells": 21
+}

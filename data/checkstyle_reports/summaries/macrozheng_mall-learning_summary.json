@@ -1,0 +1,8 @@
+{
+  "repository": "macrozheng_mall-learning",
+  "code_smells": {
+    "Unused Imports": 99,
+    "Too Many Fields": 1
+  },
+  "total_smells": 100
+}

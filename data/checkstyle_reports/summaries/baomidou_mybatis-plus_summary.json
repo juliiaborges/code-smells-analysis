@@ -1,0 +1,11 @@
+{
+  "repository": "baomidou_mybatis-plus",
+  "code_smells": {
+    "Too Many Fields": 8,
+    "Potential God Class": 27,
+    "Cyclomatic Complexity": 46,
+    "Unused Imports": 4,
+    "Naming Conventions": 1
+  },
+  "total_smells": 86
+}

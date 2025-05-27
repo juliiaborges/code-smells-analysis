@@ -1,0 +1,10 @@
+{
+  "repository": "facebook_fresco",
+  "code_smells": {
+    "Potential God Class": 57,
+    "Too Many Fields": 6,
+    "Empty Catch Block": 1,
+    "Cyclomatic Complexity": 28
+  },
+  "total_smells": 92
+}

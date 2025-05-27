@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.24.0">
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\cache\disc\DiskCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\cache\disc\impl\BaseDiskCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\cache\disc\impl\ext\DiskLruCache.java">
+<error line="87" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 16 classes [BufferedWriter, Callable, Editor, Entry, File, FileInputStream, FileOutputStream, IOException, InputStream, InputStreamReader, LinkedBlockingQueue, OutputStream, OutputStreamWriter, Snapshot, StrictLineReader, ThreadPoolExecutor] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="87" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 24 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="286" column="9" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="534" column="9" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="875" column="63" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\cache\disc\impl\ext\LruDiskCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\cache\disc\impl\ext\StrictLineReader.java">
+<error line="124" column="9" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\cache\disc\impl\ext\Util.java">
+<error line="72" column="53" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\cache\disc\impl\LimitedAgeDiskCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\cache\disc\impl\UnlimitedDiskCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\cache\disc\naming\FileNameGenerator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\cache\disc\naming\HashCodeFileNameGenerator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\cache\disc\naming\Md5FileNameGenerator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\cache\memory\BaseMemoryCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\cache\memory\impl\FIFOLimitedMemoryCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\cache\memory\impl\FuzzyKeyMemoryCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\cache\memory\impl\LargestLimitedMemoryCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\cache\memory\impl\LimitedAgeMemoryCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\cache\memory\impl\LRULimitedMemoryCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\cache\memory\impl\LruMemoryCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\cache\memory\impl\UsingFreqLimitedMemoryCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\cache\memory\impl\WeakMemoryCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\cache\memory\LimitedMemoryCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\cache\memory\MemoryCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\assist\ContentLengthInputStream.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\assist\deque\BlockingDeque.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\assist\deque\Deque.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\assist\deque\LIFOLinkedBlockingDeque.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\assist\deque\LinkedBlockingDeque.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\assist\FailReason.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\assist\FlushedInputStream.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\assist\ImageScaleType.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\assist\ImageSize.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\assist\LoadedFrom.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\assist\QueueProcessingType.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\assist\ViewScaleType.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\decode\BaseImageDecoder.java">
+<error line="181" column="55" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\decode\ImageDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\decode\ImageDecodingInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\DefaultConfigurationFactory.java">
+<error line="58" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 12 classes [BaseImageDecoder, BaseImageDownloader, DefaultThreadFactory, File, HashCodeFileNameGenerator, LIFOLinkedBlockingDeque, LinkedBlockingQueue, LruDiskCache, LruMemoryCache, SimpleBitmapDisplayer, ThreadPoolExecutor, UnlimitedDiskCache] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="58" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 26 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\display\BitmapDisplayer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\display\CircleBitmapDisplayer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\display\FadeInBitmapDisplayer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\display\RoundedBitmapDisplayer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\display\RoundedVignetteBitmapDisplayer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\display\SimpleBitmapDisplayer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\DisplayBitmapTask.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\DisplayImageOptions.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\download\BaseImageDownloader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\download\ImageDownloader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\imageaware\ImageAware.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\imageaware\ImageViewAware.java">
+<error line="24" column="8" severity="warning" message="Importação não utilizada - com.nostra13.universalimageloader.utils.L." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="26" column="8" severity="warning" message="Importação não utilizada - java.lang.reflect.Field." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\imageaware\NonViewAware.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\imageaware\ViewAware.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\ImageLoader.java">
+<error line="234" column="9" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\ImageLoaderConfiguration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\ImageLoaderEngine.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\ImageLoadingInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\listener\ImageLoadingListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\listener\ImageLoadingProgressListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\listener\PauseOnScrollListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\listener\SimpleImageLoadingListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\LoadAndDisplayImageTask.java">
+<error line="51" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 29 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="118" column="9" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="214" column="9" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\process\BitmapProcessor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\core\ProcessAndDisplayImageTask.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\utils\DiskCacheUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\utils\ImageSizeUtils.java">
+<error line="197" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\utils\IoUtils.java">
+<error line="106" column="77" severity="warning" message="Instrução vazia." source="com.puppycrawl.tools.checkstyle.checks.coding.EmptyStatementCheck"/>
+<error line="107" column="47" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="117" column="53" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\utils\L.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\utils\MemoryCacheUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\main\java\com\nostra13\universalimageloader\utils\StorageUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\test\java\com\nostra13\universalimageloader\core\assist\ImageSizeTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\library\src\test\java\com\nostra13\universalimageloader\core\download\BaseImageDownloaderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\sample\src\main\java\com\nostra13\universalimageloader\sample\activity\ComplexImageActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\sample\src\main\java\com\nostra13\universalimageloader\sample\activity\HomeActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\sample\src\main\java\com\nostra13\universalimageloader\sample\activity\SimpleImageActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\sample\src\main\java\com\nostra13\universalimageloader\sample\Constants.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\sample\src\main\java\com\nostra13\universalimageloader\sample\ext\Base64ImageDownloader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\sample\src\main\java\com\nostra13\universalimageloader\sample\ext\BrokenJpegImageDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\sample\src\main\java\com\nostra13\universalimageloader\sample\ext\HttpClientImageDownloader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\sample\src\main\java\com\nostra13\universalimageloader\sample\ext\OkHttpImageDownloader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\sample\src\main\java\com\nostra13\universalimageloader\sample\ext\OldRoundedBitmapDisplayer.java">
+<error line="70" column="9" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\sample\src\main\java\com\nostra13\universalimageloader\sample\fragment\AbsListViewBaseFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\sample\src\main\java\com\nostra13\universalimageloader\sample\fragment\BaseFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\sample\src\main\java\com\nostra13\universalimageloader\sample\fragment\ImageGalleryFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\sample\src\main\java\com\nostra13\universalimageloader\sample\fragment\ImageGridFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\sample\src\main\java\com\nostra13\universalimageloader\sample\fragment\ImageListFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\sample\src\main\java\com\nostra13\universalimageloader\sample\fragment\ImagePagerFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\sample\src\main\java\com\nostra13\universalimageloader\sample\UILApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\nostra13_Android-Universal-Image-Loader\sample\src\main\java\com\nostra13\universalimageloader\sample\widget\UILWidgetProvider.java">
+</file>
+</checkstyle>

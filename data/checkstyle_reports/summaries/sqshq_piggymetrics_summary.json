@@ -1,0 +1,7 @@
+{
+  "repository": "sqshq_piggymetrics",
+  "code_smells": {
+    "Unused Imports": 8
+  },
+  "total_smells": 8
+}
