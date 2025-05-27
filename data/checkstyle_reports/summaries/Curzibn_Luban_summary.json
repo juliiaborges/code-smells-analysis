@@ -1,0 +1,10 @@
+{
+  "repository": "Curzibn_Luban",
+  "code_smells": {
+    "Too Many Fields": 1,
+    "Potential God Class": 1,
+    "Cyclomatic Complexity": 3,
+    "Empty Catch Block": 2
+  },
+  "total_smells": 7
+}

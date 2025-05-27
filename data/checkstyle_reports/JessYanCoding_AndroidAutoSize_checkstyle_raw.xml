@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.24.0">
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\autosize\src\main\java\me\jessyan\autosize\ActivityLifecycleCallbacksImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\autosize\src\main\java\me\jessyan\autosize\AutoAdaptStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\autosize\src\main\java\me\jessyan\autosize\AutoSize.java">
+<error line="176" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\autosize\src\main\java\me\jessyan\autosize\AutoSizeCompat.java">
+<error line="137" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\autosize\src\main\java\me\jessyan\autosize\AutoSizeConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\autosize\src\main\java\me\jessyan\autosize\DefaultAutoAdaptStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\autosize\src\main\java\me\jessyan\autosize\DisplayMetricsInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\autosize\src\main\java\me\jessyan\autosize\external\ExternalAdaptInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\autosize\src\main\java\me\jessyan\autosize\external\ExternalAdaptManager.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\autosize\src\main\java\me\jessyan\autosize\FragmentLifecycleCallbacksImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\autosize\src\main\java\me\jessyan\autosize\FragmentLifecycleCallbacksImplToAndroidx.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\autosize\src\main\java\me\jessyan\autosize\InitProvider.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\autosize\src\main\java\me\jessyan\autosize\internal\CancelAdapt.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\autosize\src\main\java\me\jessyan\autosize\internal\CustomAdapt.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\autosize\src\main\java\me\jessyan\autosize\onAdaptListener.java">
+<error line="29" column="18" severity="warning" message="O nome &apos;onAdaptListener&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\autosize\src\main\java\me\jessyan\autosize\unit\Subunits.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\autosize\src\main\java\me\jessyan\autosize\unit\UnitsManager.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\autosize\src\main\java\me\jessyan\autosize\utils\AutoSizeLog.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\autosize\src\main\java\me\jessyan\autosize\utils\AutoSizeUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\autosize\src\main\java\me\jessyan\autosize\utils\Preconditions.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\autosize\src\main\java\me\jessyan\autosize\utils\ScreenUtils.java">
+<error line="94" column="41" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="103" column="41" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\autosize\src\main\java\me\jessyan\autosize\WrapperAutoAdaptStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\demo\src\androidTest\java\me\jessyan\autosize\demo\ExampleInstrumentedTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\demo\src\main\java\me\jessyan\autosize\demo\BaseApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\demo\src\main\java\me\jessyan\autosize\demo\CustomAdaptActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\demo\src\main\java\me\jessyan\autosize\demo\CustomFragment1.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\demo\src\main\java\me\jessyan\autosize\demo\CustomFragment2.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\demo\src\main\java\me\jessyan\autosize\demo\CustomFragment3.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\demo\src\main\java\me\jessyan\autosize\demo\FragmentHost.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\demo\src\main\java\me\jessyan\autosize\demo\MainActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\demo\src\test\java\me\jessyan\autosize\demo\ExampleUnitTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\demo-androidx\src\androidTest\java\me\jessyan\autosize\demo\ExampleInstrumentedTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\demo-androidx\src\main\java\me\jessyan\autosize\demo\androidx\BaseApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\demo-androidx\src\main\java\me\jessyan\autosize\demo\androidx\CustomAdaptActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\demo-androidx\src\main\java\me\jessyan\autosize\demo\androidx\CustomFragment1.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\demo-androidx\src\main\java\me\jessyan\autosize\demo\androidx\CustomFragment2.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\demo-androidx\src\main\java\me\jessyan\autosize\demo\androidx\CustomFragment3.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\demo-androidx\src\main\java\me\jessyan\autosize\demo\androidx\FragmentHost.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\demo-androidx\src\main\java\me\jessyan\autosize\demo\androidx\MainActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\demo-androidx\src\test\java\me\jessyan\autosize\demo\ExampleUnitTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\demo-subunits\src\androidTest\java\me\jessyan\autosize\demo\ExampleInstrumentedTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\demo-subunits\src\main\java\me\jessyan\autosize\demo\subunits\BaseApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\demo-subunits\src\main\java\me\jessyan\autosize\demo\subunits\CustomAdaptActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\demo-subunits\src\main\java\me\jessyan\autosize\demo\subunits\MainActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\JessYanCoding_AndroidAutoSize\demo-subunits\src\test\java\me\jessyan\autosize\demo\ExampleUnitTest.java">
+</file>
+</checkstyle>

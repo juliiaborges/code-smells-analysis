@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.24.0">
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\app\src\androidTest\java\com\bigkoo\pickerviewdemo\ApplicationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\app\src\main\java\com\bigkoo\pickerviewdemo\bean\CardBean.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\app\src\main\java\com\bigkoo\pickerviewdemo\bean\JsonBean.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\app\src\main\java\com\bigkoo\pickerviewdemo\bean\ProvinceBean.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\app\src\main\java\com\bigkoo\pickerviewdemo\FragmentTestActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\app\src\main\java\com\bigkoo\pickerviewdemo\GetJsonDataUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\app\src\main\java\com\bigkoo\pickerviewdemo\JsonDataActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\app\src\main\java\com\bigkoo\pickerviewdemo\MainActivity.java">
+<error line="40" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 14 classes [CardBean, CompoundButton.OnCheckedChangeListener, CustomListener, FrameLayout.LayoutParams, Intent, OnOptionsSelectChangeListener, OnOptionsSelectListener, OnTimeSelectChangeListener, OnTimeSelectListener, OptionsPickerBuilder, ProvinceBean, SimpleDateFormat, TimePickerBuilder, View.OnClickListener] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="40" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 30 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="94" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\app\src\main\java\com\bigkoo\pickerviewdemo\TestCircleWheelViewActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\app\src\main\java\com\bigkoo\pickerviewdemo\TestFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\pickerview\src\androidTest\java\com\bigkoo\pickerview\ApplicationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\pickerview\src\main\java\com\bigkoo\pickerview\adapter\ArrayWheelAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\pickerview\src\main\java\com\bigkoo\pickerview\adapter\NumericWheelAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\pickerview\src\main\java\com\bigkoo\pickerview\builder\OptionsPickerBuilder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\pickerview\src\main\java\com\bigkoo\pickerview\builder\TimePickerBuilder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\pickerview\src\main\java\com\bigkoo\pickerview\configure\PickerOptions.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\pickerview\src\main\java\com\bigkoo\pickerview\listener\CustomListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\pickerview\src\main\java\com\bigkoo\pickerview\listener\ISelectTimeCallback.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\pickerview\src\main\java\com\bigkoo\pickerview\listener\OnDismissListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\pickerview\src\main\java\com\bigkoo\pickerview\listener\OnOptionsSelectChangeListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\pickerview\src\main\java\com\bigkoo\pickerview\listener\OnOptionsSelectListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\pickerview\src\main\java\com\bigkoo\pickerview\listener\OnTimeSelectChangeListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\pickerview\src\main\java\com\bigkoo\pickerview\listener\OnTimeSelectListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\pickerview\src\main\java\com\bigkoo\pickerview\utils\ChinaDate.java">
+<error line="150" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="207" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\pickerview\src\main\java\com\bigkoo\pickerview\utils\LunarCalendar.java">
+<error line="135" column="5" severity="warning" message="A complexidade ciclomática é de 32 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="281" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\pickerview\src\main\java\com\bigkoo\pickerview\utils\PickerViewAnimateUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\pickerview\src\main\java\com\bigkoo\pickerview\view\BasePickerView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\pickerview\src\main\java\com\bigkoo\pickerview\view\OptionsPickerView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\pickerview\src\main\java\com\bigkoo\pickerview\view\TimePickerView.java">
+<error line="85" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\pickerview\src\main\java\com\bigkoo\pickerview\view\WheelOptions.java">
+<error line="49" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\pickerview\src\main\java\com\bigkoo\pickerview\view\WheelTime.java">
+<error line="92" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="240" column="5" severity="warning" message="A complexidade ciclomática é de 39 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="379" column="13" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="535" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="740" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\wheelview\src\androidTest\java\test\wheelview\ExampleInstrumentedTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\wheelview\src\main\java\com\contrarywind\adapter\WheelAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\wheelview\src\main\java\com\contrarywind\interfaces\IPickerViewData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\wheelview\src\main\java\com\contrarywind\listener\LoopViewGestureListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\wheelview\src\main\java\com\contrarywind\listener\OnItemSelectedListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\wheelview\src\main\java\com\contrarywind\timer\InertiaTimerTask.java">
+<error line="30" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\wheelview\src\main\java\com\contrarywind\timer\MessageHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\wheelview\src\main\java\com\contrarywind\timer\SmoothScrollTimerTask.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Bigkoo_Android-PickerView\wheelview\src\main\java\com\contrarywind\view\WheelView.java">
+<error line="35" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="363" column="5" severity="warning" message="A complexidade ciclomática é de 31 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="670" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+</checkstyle>

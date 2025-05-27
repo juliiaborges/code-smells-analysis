@@ -1,0 +1,223 @@
+2025-05-27 09:04:24,272 - INFO - Encontrados 69 repositórios já clonados.
+2025-05-27 09:04:24,272 - INFO - Buscando repositórios populares (página 4)...
+2025-05-27 09:04:27,133 - INFO - Encontrados 50 repositórios na página 4.
+2025-05-27 09:04:28,118 - INFO - Clonando Curzibn/Luban...
+2025-05-27 09:04:42,158 - INFO - Repositório Curzibn/Luban clonado com sucesso.
+2025-05-27 09:04:42,160 - INFO - Progresso: 1/10 repositórios clonados.
+2025-05-27 09:04:44,664 - INFO - Clonando zaproxy/zaproxy...
+2025-05-27 09:10:53,777 - INFO - Repositório zaproxy/zaproxy clonado com sucesso.
+2025-05-27 09:10:53,812 - INFO - Progresso: 2/10 repositórios clonados.
+2025-05-27 09:10:57,468 - INFO - Clonando JessYanCoding/AndroidAutoSize...
+2025-05-27 09:11:15,570 - INFO - Repositório JessYanCoding/AndroidAutoSize clonado com sucesso.
+2025-05-27 09:11:15,570 - INFO - Progresso: 3/10 repositórios clonados.
+2025-05-27 09:11:18,004 - INFO - Clonando pinpoint-apm/pinpoint...
+2025-05-27 09:16:26,401 - ERROR - Erro ao clonar pinpoint-apm/pinpoint: Cloning into '../data/repositories\pinpoint-apm_pinpoint'...
+Updating files:   3% (330/9414)
+Updating files:   4% (377/9414)
+Updating files:   5% (471/9414)
+Updating files:   6% (565/9414)
+error: unable to create file agent-module/bootstraps/bootstrap-core/src/main/java/com/navercorp/pinpoint/bootstrap/interceptor/AsyncContextSpanEventNestedBlockApiIdAwareAroundInterceptor.java: Filename too long
+error: unable to create file agent-module/bootstraps/bootstrap-core/src/main/java/com/navercorp/pinpoint/bootstrap/interceptor/scope/ExceptionHandleScopedBlockApiIdAwareAroundInterceptor.java: Filename too long
+Updating files:   7% (659/9414)
+Updating files:   7% (706/9414)
+error: unable to create file agent-module/bootstraps/bootstrap-core/src/main/java/com/navercorp/pinpoint/bootstrap/plugin/jdbc/interceptor/CallableStatementRegisterOutParameterInterceptor.java: Filename too long
+Updating files:   8% (754/9414)
+Updating files:   9% (848/9414)
+Updating files:  10% (942/9414)
+Updating files:  11% (1036/9414)
+Updating files:  12% (1130/9414)
+Updating files:  12% (1154/9414)
+Updating files:  13% (1224/9414)
+Updating files:  14% (1318/9414)
+Updating files:  15% (1413/9414)
+error: unable to create file agent-module/plugins-it/oracledb-it/oracledb-19-it/src/test/java/com/navercorp/pinpoint/it/plugin/jdbc/oracle/Oracle19_Ojdbc10_IT_ConnectWithGssCredential_IT.java: Filename too long
+Updating files:  16% (1507/9414)
+Updating files:  16% (1547/9414)
+Updating files:  17% (1601/9414)
+error: unable to create file agent-module/plugins-it/thrift-it/thrift-0-14-it/src/test/java/com/navercorp/pinpoint/it/plugin/thrift/it/asynchronous/ThriftHalfSyncHalfAsyncServerAsyncIT_014.java: Filename too long
+error: unable to create file agent-module/plugins-it/thrift-it/thrift-0-14-it/src/test/java/com/navercorp/pinpoint/it/plugin/thrift/it/asynchronous/ThriftThreadedSelectorServerAsyncIT014.java: Filename too long
+Updating files:  18% (1695/9414)
+Updating files:  19% (1789/9414)
+error: unable to create file agent-module/plugins-test-module/plugins-test/src/main/java/com/navercorp/pinpoint/test/plugin/junit5/launcher/SharedPluginForkedTestVerifierExecutionListener.java: Filename too long
+Updating files:  20% (1883/9414)
+error: unable to create file agent-module/plugins/activemq-client/src/main/java/com/navercorp/pinpoint/plugin/activemq/client/interceptor/ActiveMQMessageConsumerCreateActiveMQMessageInterceptor.java: Filename too long
+Updating files:  20% (1973/9414)
+Updating files:  21% (1977/9414)
+Updating files:  22% (2072/9414)
+Updating files:  23% (2166/9414)
+error: unable to create file agent-module/plugins/google-httpclient/src/main/java/com/navercorp/pinpoint/plugin/google/httpclient/interceptor/HttpRequestExecuteAsyncMethodInnerClassCallMethodInterceptor.java: Filename too long
+error: unable to create file agent-module/plugins/google-httpclient/src/main/java/com/navercorp/pinpoint/plugin/google/httpclient/interceptor/HttpRequestExecuteAsyncMethodInnerClassConstructorInterceptor.java: Filename too long
+Updating files:  24% (2260/9414)
+Updating files:  24% (2284/9414)
+Updating files:  25% (2354/9414)
+error: unable to create file agent-module/plugins/httpclient4/src/main/java/com/navercorp/pinpoint/plugin/httpclient4/interceptor/DefaultHttpRequestRetryHandlerRetryRequestMethodInterceptor.java: Filename too long
+error: unable to create file agent-module/plugins/httpclient4/src/main/java/com/navercorp/pinpoint/plugin/httpclient4/interceptor/HttpRequestExecutorDoSendRequestAndDoReceiveResponseMethodInterceptor.java: Filename too long
+error: unable to create file agent-module/plugins/httpclient5/src/main/java/com/navercorp/pinpoint/plugin/httpclient5/interceptor/CloseableHttpAsyncClientExecuteImmediateMethodInterceptor.java: Filename too long
+Updating files:  26% (2448/9414)
+Updating files:  27% (2542/9414)
+Updating files:  28% (2636/9414)
+Updating files:  28% (2698/9414)
+Updating files:  29% (2731/9414)
+Updating files:  30% (2825/9414)
+error: unable to create file agent-module/plugins/ning-asynchttpclient/src/main/java/com/navercorp/pinpoint/plugin/ning/asynchttpclient/interceptor/AsyncHandlerOnStatusReceivedInterceptor.java: Filename too long
+Updating files:  31% (2919/9414)
+Updating files:  32% (3013/9414)
+error: unable to create file agent-module/plugins/rabbitmq/src/main/java/com/navercorp/pinpoint/plugin/rabbitmq/client/interceptor/RabbitMQConsumerHandleCompleteInboundCommandInterceptor.java: Filename too long
+error: unable to create file agent-module/plugins/reactor-netty/src/main/java/com/navercorp/pinpoint/plugin/reactor/netty/interceptor/ChannelOperationsOnInboundCompleteMethodInterceptor.java: Filename too long
+Updating files:  33% (3107/9414)
+Updating files:  33% (3142/9414)
+Updating files:  34% (3201/9414)
+error: unable to create file agent-module/plugins/spring-data-r2dbc/src/main/java/com/navercorp/pinpoint/plugin/spring/r2dbc/interceptor/DefaultGenericExecuteSpecResultFunctionApplyInterceptor.java: Filename too long
+error: unable to create file agent-module/plugins/spring-data-r2dbc/src/main/java/com/navercorp/pinpoint/plugin/spring/r2dbc/interceptor/DefaultGenericExecuteSpecStatementFunctionGetLambdaInterceptor.java: Filename too long
+error: unable to create file agent-module/plugins/spring-data-r2dbc/src/main/java/com/navercorp/pinpoint/plugin/spring/r2dbc/interceptor/h2/H2ConnectionConfigurationConstructorInterceptor.java: Filename too long
+error: unable to create file agent-module/plugins/spring-data-r2dbc/src/main/java/com/navercorp/pinpoint/plugin/spring/r2dbc/interceptor/jasync/JasyncClientConnectionConstructorInterceptor.java: Filename too long
+error: unable to create file agent-module/plugins/spring-data-r2dbc/src/main/java/com/navercorp/pinpoint/plugin/spring/r2dbc/interceptor/jasync/JasyncConnectionFactoryConstructorInterceptor.java: Filename too long
+error: unable to create file agent-module/plugins/spring-data-r2dbc/src/main/java/com/navercorp/pinpoint/plugin/spring/r2dbc/interceptor/jasync/MySQLConnectionFactoryConstructorInterceptor.java: Filename too long
+error: unable to create file agent-module/plugins/spring-data-r2dbc/src/main/java/com/navercorp/pinpoint/plugin/spring/r2dbc/interceptor/mariadb/MariadbConnectionConfigurationConstructorInterceptor.java: Filename too long
+error: unable to create file agent-module/plugins/spring-data-r2dbc/src/main/java/com/navercorp/pinpoint/plugin/spring/r2dbc/interceptor/mariadb/MariadbConnectionFactoryTransformConstructorInterceptor.java: Filename too long
+error: unable to create file agent-module/plugins/spring-data-r2dbc/src/main/java/com/navercorp/pinpoint/plugin/spring/r2dbc/interceptor/mssql/MssqlConnectionConfigurationConstructorInterceptor.java: Filename too long
+Updating files:  35% (3295/9414)
+error: unable to create file agent-module/plugins/spring-data-r2dbc/src/main/java/com/navercorp/pinpoint/plugin/spring/r2dbc/interceptor/mssql/MssqlConnectionConfigurationToConnectionOptionsInterceptor.java: Filename too long
+error: unable to create file agent-module/plugins/spring-data-r2dbc/src/main/java/com/navercorp/pinpoint/plugin/spring/r2dbc/interceptor/mssql/MssqlConnectionFactoryConstructorInterceptor.java: Filename too long
+error: unable to create file agent-module/plugins/spring-data-r2dbc/src/main/java/com/navercorp/pinpoint/plugin/spring/r2dbc/interceptor/mysql/AsyncerMySqlStatementConstructorInterceptor.java: Filename too long
+error: unable to create file agent-module/plugins/spring-data-r2dbc/src/main/java/com/navercorp/pinpoint/plugin/spring/r2dbc/interceptor/oracle/OracleConnectionFactoryImplConstructorInterceptor.java: Filename too long
+error: unable to create file agent-module/plugins/spring-data-r2dbc/src/main/java/com/navercorp/pinpoint/plugin/spring/r2dbc/interceptor/oracle/OracleConnectionFactoryImplLambdaCreateInterceptor.java: Filename too long
+error: unable to create file agent-module/plugins/spring-data-r2dbc/src/main/java/com/navercorp/pinpoint/plugin/spring/r2dbc/interceptor/oracle/OracleConnectionImplConstructorInterceptor.java: Filename too long
+error: unable to create file agent-module/plugins/spring-data-r2dbc/src/main/java/com/navercorp/pinpoint/plugin/spring/r2dbc/interceptor/postgresql/PostgresqlConnectionConfigurationInterceptor.java: Filename too long
+error: unable to create file agent-module/plugins/spring-data-r2dbc/src/main/java/com/navercorp/pinpoint/plugin/spring/r2dbc/interceptor/postgresql/PostgresqlConnectionConstructorInterceptor.java: Filename too long
+error: unable to create file agent-module/plugins/spring-data-r2dbc/src/main/java/com/navercorp/pinpoint/plugin/spring/r2dbc/interceptor/postgresql/PostgresqlConnectionFactoryConstructorInterceptor.java: Filename too long
+Updating files:  36% (3390/9414)
+Updating files:  37% (3484/9414)
+Updating files:  38% (3578/9414)
+Updating files:  38% (3634/9414)
+Updating files:  39% (3672/9414)
+error: unable to create file agent-module/profiler-optional/profiler-optional-jdk8/src/main/java/com/navercorp/pinpoint/profiler/monitor/metric/filedescriptor/ibm/IbmFileDescriptorMetric.java: Filename too long
+error: unable to create file agent-module/profiler-optional/profiler-optional-jdk8/src/main/java/com/navercorp/pinpoint/profiler/monitor/metric/filedescriptor/oracle/OracleFileDescriptorMetric.java: Filename too long
+Updating files:  40% (3766/9414)
+Updating files:  41% (3860/9414)
+Updating files:  42% (3954/9414)
+Updating files:  43% (4049/9414)
+Updating files:  44% (4143/9414)
+Updating files:  44% (4168/9414)
+Updating files:  45% (4237/9414)
+Updating files:  46% (4331/9414)
+Updating files:  47% (4425/9414)
+Updating files:  48% (4519/9414)
+Updating files:  48% (4589/9414)
+Updating files:  49% (4613/9414)
+Updating files:  50% (4707/9414)
+Updating files:  51% (4802/9414)
+Updating files:  52% (4896/9414)
+Updating files:  53% (4990/9414)
+Updating files:  54% (5084/9414)
+Updating files:  54% (5109/9414)
+Updating files:  55% (5178/9414)
+Updating files:  56% (5272/9414)
+Updating files:  57% (5366/9414)
+Updating files:  58% (5461/9414)
+Updating files:  59% (5555/9414)
+Updating files:  59% (5556/9414)
+Updating files:  60% (5649/9414)
+Updating files:  61% (5743/9414)
+Updating files:  62% (5837/9414)
+Updating files:  63% (5931/9414)
+Updating files:  64% (6025/9414)
+Updating files:  64% (6034/9414)
+Updating files:  65% (6120/9414)
+Updating files:  66% (6214/9414)
+Updating files:  67% (6308/9414)
+Updating files:  68% (6402/9414)
+Updating files:  68% (6446/9414)
+Updating files:  69% (6496/9414)
+Updating files:  70% (6590/9414)
+Updating files:  71% (6684/9414)
+Updating files:  72% (6779/9414)
+Updating files:  72% (6866/9414)
+Updating files:  73% (6873/9414)
+Updating files:  74% (6967/9414)
+Updating files:  75% (7061/9414)
+Updating files:  75% (7149/9414)
+Updating files:  76% (7155/9414)
+Updating files:  77% (7249/9414)
+Updating files:  78% (7343/9414)
+Updating files:  79% (7438/9414)
+Updating files:  79% (7503/9414)
+Updating files:  80% (7532/9414)
+Updating files:  81% (7626/9414)
+Updating files:  82% (7720/9414)
+Updating files:  83% (7814/9414)
+Updating files:  84% (7908/9414)
+Updating files:  85% (8002/9414)
+Updating files:  85% (8082/9414)
+Updating files:  86% (8097/9414)
+Updating files:  87% (8191/9414)
+Updating files:  88% (8285/9414)
+Updating files:  89% (8379/9414)
+Updating files:  90% (8473/9414)
+Updating files:  91% (8567/9414)
+Updating files:  91% (8660/9414)
+Updating files:  92% (8661/9414)
+Updating files:  93% (8756/9414)
+Updating files:  94% (8850/9414)
+Updating files:  95% (8944/9414)
+Updating files:  96% (9038/9414)
+Updating files:  97% (9132/9414)
+Updating files:  97% (9207/9414)
+Updating files:  98% (9226/9414)
+Updating files:  99% (9320/9414)
+Updating files: 100% (9414/9414)
+Updating files: 100% (9414/9414), done.
+fatal: unable to checkout working tree
+warning: Clone succeeded, but checkout failed.
+You can inspect what was checked out with 'git status'
+and retry with 'git restore --source=HEAD :/'
+
+
+2025-05-27 09:16:30,248 - INFO - Clonando lgvalle/Material-Animations...
+2025-05-27 09:16:51,126 - INFO - Repositório lgvalle/Material-Animations clonado com sucesso.
+2025-05-27 09:16:51,126 - INFO - Progresso: 4/10 repositórios clonados.
+2025-05-27 09:16:53,860 - INFO - Pulando tink-crypto/tink - não usa Maven nem Gradle.
+2025-05-27 09:16:55,301 - INFO - Clonando sqshq/piggymetrics...
+2025-05-27 09:17:00,862 - INFO - Repositório sqshq/piggymetrics clonado com sucesso.
+2025-05-27 09:17:00,863 - INFO - Progresso: 5/10 repositórios clonados.
+2025-05-27 09:17:03,609 - INFO - Clonando apache/dolphinscheduler...
+2025-05-27 09:21:35,513 - ERROR - Erro ao clonar apache/dolphinscheduler: Cloning into '../data/repositories\apache_dolphinscheduler'...
+Updating files:  12% (616/4961)
+Updating files:  13% (645/4961)
+Updating files:  14% (695/4961)
+Updating files:  15% (745/4961)
+Updating files:  16% (794/4961)
+fatal: cannot create directory at 'dolphinscheduler-alert/dolphinscheduler-alert-plugins/dolphinscheduler-alert-aliyunVoice/src/main/java/org/apache/dolphinscheduler/plugin/alert/voice': Filename too long
+warning: Clone succeeded, but checkout failed.
+You can inspect what was checked out with 'git status'
+and retry with 'git restore --source=HEAD :/'
+
+
+2025-05-27 09:21:37,948 - INFO - Clonando LuckSiege/PictureSelector...
+2025-05-27 09:32:54,192 - INFO - Repositório LuckSiege/PictureSelector clonado com sucesso.
+2025-05-27 09:32:54,193 - INFO - Progresso: 6/10 repositórios clonados.
+2025-05-27 09:32:56,456 - INFO - Clonando Bigkoo/Android-PickerView...
+2025-05-27 09:33:06,320 - INFO - Repositório Bigkoo/Android-PickerView clonado com sucesso.
+2025-05-27 09:33:06,320 - INFO - Progresso: 7/10 repositórios clonados.
+2025-05-27 09:33:09,485 - INFO - Pulando DuGuQiuBai/Java - não usa Maven nem Gradle.
+2025-05-27 09:33:10,706 - INFO - Pulando janishar/mit-deep-learning-book-pdf - não usa Maven nem Gradle.
+2025-05-27 09:33:11,781 - INFO - Clonando macrozheng/mall-learning...
+2025-05-27 09:33:57,800 - INFO - Repositório macrozheng/mall-learning clonado com sucesso.
+2025-05-27 09:33:57,800 - INFO - Progresso: 8/10 repositórios clonados.
+2025-05-27 09:34:00,286 - INFO - Pulando projectlombok/lombok - não usa Maven nem Gradle.
+2025-05-27 09:34:01,422 - INFO - Clonando languagetool-org/languagetool...
+2025-05-27 10:24:25,663 - ERROR - Erro ao clonar languagetool-org/languagetool: Cloning into '../data/repositories\languagetool-org_languagetool'...
+error: RPC failed; curl 56 Recv failure: Connection was reset
+error: 2641 bytes of body are still expected
+fetch-pack: unexpected disconnect while reading sideband packet
+fatal: early EOF
+fatal: fetch-pack: invalid index-pack output
+
+2025-05-27 10:24:29,393 - INFO - Clonando youth5201314/banner...
+2025-05-27 10:24:41,278 - INFO - Repositório youth5201314/banner clonado com sucesso.
+2025-05-27 10:24:41,279 - INFO - Progresso: 9/10 repositórios clonados.
+2025-05-27 10:24:43,682 - INFO - Clonando cryptomator/cryptomator...
+2025-05-27 10:25:00,353 - INFO - Repositório cryptomator/cryptomator clonado com sucesso.
+2025-05-27 10:25:00,353 - INFO - Progresso: 10/10 repositórios clonados.
+2025-05-27 10:25:01,383 - INFO - Clonados 10 novos repositórios.
+2025-05-27 10:25:01,383 - INFO - Resultados salvos em ../data/clone_logs\clone_results.json

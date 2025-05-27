@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.24.0">
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\app\src\main\java\com\luck\pictureselector\adapter\GridImageAdapter.java">
+<error line="127" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\app\src\main\java\com\luck\pictureselector\App.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\app\src\main\java\com\luck\pictureselector\CustomBottomNavBar.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\app\src\main\java\com\luck\pictureselector\CustomCompleteSelectView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\app\src\main\java\com\luck\pictureselector\CustomLoadingDialog.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\app\src\main\java\com\luck\pictureselector\CustomPreviewAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\app\src\main\java\com\luck\pictureselector\CustomPreviewBottomNavBar.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\app\src\main\java\com\luck\pictureselector\CustomPreviewFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\app\src\main\java\com\luck\pictureselector\CustomPreviewTitleBar.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\app\src\main\java\com\luck\pictureselector\CustomTitleBar.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\app\src\main\java\com\luck\pictureselector\ExoPlayerEngine.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\app\src\main\java\com\luck\pictureselector\FullyGridLayoutManager.java">
+<error line="28" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\app\src\main\java\com\luck\pictureselector\GlideEngine.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\app\src\main\java\com\luck\pictureselector\IjkPlayerEngine.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\app\src\main\java\com\luck\pictureselector\IjkPlayerView.java">
+<error line="147" column="9" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\app\src\main\java\com\luck\pictureselector\ImageCacheUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\app\src\main\java\com\luck\pictureselector\ImageLoaderUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\app\src\main\java\com\luck\pictureselector\ImageUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\app\src\main\java\com\luck\pictureselector\InjectFragmentActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\app\src\main\java\com\luck\pictureselector\LineWrapRadioGroup.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\app\src\main\java\com\luck\pictureselector\listener\DragListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\app\src\main\java\com\luck\pictureselector\listener\OnItemLongClickListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\app\src\main\java\com\luck\pictureselector\MainActivity.java">
+<error line="167" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 60 classes [AbsoluteSizeSpan, ActivityResultCallback, ActivityResultContracts.StartActivityForResult, AnimatorListenerAdapter, AnimatorSet, AspectRatio, BottomNavBarStyle, CoilEngine, ConstraintLayout.LayoutParams, CustomLoadingDialog, DragListener, ExoPlayerEngine, File, ForegroundColorSpan, FullyGridLayoutManager, GridImageAdapter, GridImageAdapter.OnItemClickListener, GridSpacingItemDecoration, IBridgeViewLifecycle, IjkPlayerEngine, ImageCompressEngine, ImageCropEngine, ImageFileCompressEngine, ImageFileCropEngine, Intent, ItemTouchHelper, ItemTouchHelper.Callback, LinearInterpolator, MeBitmapWatermarkEventListener, MeExtendLoaderEngine, MeOnCameraInterceptListener, MeOnInjectLayoutResourceListener, MeOnMediaEditInterceptListener, MeOnPermissionDeniedListener, MeOnPermissionDescriptionListener, MeOnPreviewInterceptListener, MeOnRecordAudioInterceptListener, MeOnResultCallbackListener, MeOnSelectLimitTipsListener, MeOnSimpleXPermissionDeniedListener, MeOnSimpleXPermissionDescriptionListener, MeOnVideoThumbnailEventListener, MeSandboxFileEngine, MediumBoldTextView, MyExternalPreviewEventListener, OnCustomLoadingListener, OnGridItemSelectAnimListener, OnInjectActivityPreviewListener, OnInjectLayoutResourceListener, OnItemLongClickListener, OnQueryFilterListener, OnSelectAnimListener, PictureSelectorStyle, PictureWindowAnimationStyle, RelativeLayout.LayoutParams, Runnable, SelectMainStyle, SpannableStringBuilder, TitleBarStyle, UCrop.Options] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="167" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 110 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="444" column="13" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1922" column="5" severity="warning" message="A complexidade ciclomática é de 43 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="2209" column="5" severity="warning" message="A complexidade ciclomática é de 26 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\app\src\main\java\com\luck\pictureselector\OnlyQueryDataActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\app\src\main\java\com\luck\pictureselector\PicassoEngine.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\app\src\main\java\com\luck\pictureselector\PictureSelectorEngineImp.java">
+<error line="12" column="8" severity="warning" message="Importação não utilizada - com.luck.picture.lib.engine.MediaPlayerEngine." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\app\src\main\java\com\luck\pictureselector\RoundedCornersTransform.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\app\src\main\java\com\luck\pictureselector\SimpleActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\app\src\main\java\com\luck\pictureselector\VideoRequestHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\camerax\src\main\java\com\luck\lib\camerax\CameraImageEngine.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\camerax\src\main\java\com\luck\lib\camerax\CustomCameraConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\camerax\src\main\java\com\luck\lib\camerax\CustomCameraView.java">
+<error line="96" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 30 classes [CameraSelector.Builder, CameraXOrientationEventListener, CameraXPreviewViewTouchListener, CameraXPreviewViewTouchListener.CustomTouchListener, CaptureListener, ClickListener, DisplayListener, FileInputStream, FocusMeteringAction.Builder, ImageAnalysis.Builder, ImageCapture.Builder, ImageCapture.Metadata, ImageCapture.OutputFileOptions.Builder, MediaPlayer, MediaPlayer.OnPreparedListener, MediaPlayer.OnVideoSizeChangedListener, MyImageResultCallback, OnClickListener, PermissionResultCallback, Point, Preview.Builder, RelativeLayout.LayoutParams, Runnable, Surface, TextureView.SurfaceTextureListener, TypeListener, UseCaseGroup.Builder, VideoCapture.Builder, VideoCapture.OnVideoSavedCallback, VideoCapture.OutputFileOptions.Builder] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="96" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 81 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="857" column="61" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="926" column="9" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\camerax\src\main\java\com\luck\lib\camerax\listener\CameraListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\camerax\src\main\java\com\luck\lib\camerax\listener\CameraXOrientationEventListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\camerax\src\main\java\com\luck\lib\camerax\listener\CameraXPreviewViewTouchListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\camerax\src\main\java\com\luck\lib\camerax\listener\CaptureListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\camerax\src\main\java\com\luck\lib\camerax\listener\ClickListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\camerax\src\main\java\com\luck\lib\camerax\listener\ImageCallbackListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\camerax\src\main\java\com\luck\lib\camerax\listener\IObtainCameraView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\camerax\src\main\java\com\luck\lib\camerax\listener\OnSimpleXPermissionDeniedListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\camerax\src\main\java\com\luck\lib\camerax\listener\OnSimpleXPermissionDescriptionListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\camerax\src\main\java\com\luck\lib\camerax\listener\TypeListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\camerax\src\main\java\com\luck\lib\camerax\permissions\PermissionChecker.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\camerax\src\main\java\com\luck\lib\camerax\permissions\PermissionResultCallback.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\camerax\src\main\java\com\luck\lib\camerax\permissions\SimpleXPermissionUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\camerax\src\main\java\com\luck\lib\camerax\PictureCameraActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\camerax\src\main\java\com\luck\lib\camerax\SimpleCameraX.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\camerax\src\main\java\com\luck\lib\camerax\utils\BitmapUtils.java">
+<error line="27" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\camerax\src\main\java\com\luck\lib\camerax\utils\CameraUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\camerax\src\main\java\com\luck\lib\camerax\utils\DateUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\camerax\src\main\java\com\luck\lib\camerax\utils\DensityUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\camerax\src\main\java\com\luck\lib\camerax\utils\DoubleUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\camerax\src\main\java\com\luck\lib\camerax\utils\FileUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\camerax\src\main\java\com\luck\lib\camerax\utils\SimpleXSpUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\camerax\src\main\java\com\luck\lib\camerax\widget\CaptureButton.java">
+<error line="205" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\camerax\src\main\java\com\luck\lib\camerax\widget\CaptureLayout.java">
+<error line="33" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 11 classes [AnimatorListenerAdapter, AnimatorSet, CaptureButton, CaptureListener, ImageView, LayoutParams, OnClickListener, ProgressBar, ReturnButton, TextView, TypeButton] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\camerax\src\main\java\com\luck\lib\camerax\widget\FocusImageView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\camerax\src\main\java\com\luck\lib\camerax\widget\ReturnButton.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\camerax\src\main\java\com\luck\lib\camerax\widget\TypeButton.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\compress\src\main\java\top\zibin\luban\Checker.java">
+<error line="59" column="5" severity="warning" message="A complexidade ciclomática é de 27 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="208" column="43" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\compress\src\main\java\top\zibin\luban\CompressionPredicate.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\compress\src\main\java\top\zibin\luban\Engine.java">
+<error line="36" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\compress\src\main\java\top\zibin\luban\InputStreamAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\compress\src\main\java\top\zibin\luban\InputStreamProvider.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\compress\src\main\java\top\zibin\luban\io\ArrayAdapterInterface.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\compress\src\main\java\top\zibin\luban\io\ArrayPool.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\compress\src\main\java\top\zibin\luban\io\ArrayPoolProvide.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\compress\src\main\java\top\zibin\luban\io\BaseKeyPool.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\compress\src\main\java\top\zibin\luban\io\BufferedInputStreamWrap.java">
+<error line="241" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\compress\src\main\java\top\zibin\luban\io\ByteArrayAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\compress\src\main\java\top\zibin\luban\io\GroupedLinkedMap.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\compress\src\main\java\top\zibin\luban\io\IntegerArrayAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\compress\src\main\java\top\zibin\luban\io\LruArrayPool.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\compress\src\main\java\top\zibin\luban\io\PoolAble.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\compress\src\main\java\top\zibin\luban\Luban.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\compress\src\main\java\top\zibin\luban\LubanUtils.java">
+<error line="36" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\compress\src\main\java\top\zibin\luban\OnCompressListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\compress\src\main\java\top\zibin\luban\OnNewCompressListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\compress\src\main\java\top\zibin\luban\OnRenameListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ijkplayer-java\src\androidTest\java\tv\danmaku\ijk\media\player\ApplicationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\AbstractMediaPlayer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\AndroidMediaPlayer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\annotations\AccessedByNative.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\annotations\CalledByNative.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\exceptions\IjkMediaException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\ffmpeg\FFmpegApi.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\IjkLibLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\IjkMediaCodecInfo.java">
+<error line="137" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="253" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\IjkMediaMeta.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\IjkMediaPlayer.java">
+<error line="68" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 36 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="374" column="45" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="375" column="39" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="969" column="9" severity="warning" message="A complexidade ciclomática é de 19 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1222" column="9" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\IjkTimedText.java">
+<error line="20" column="8" severity="warning" message="Importação não utilizada - java.lang.String." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\IMediaPlayer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\ISurfaceTextureHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\ISurfaceTextureHost.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\MediaInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\MediaPlayerProxy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\misc\AndroidMediaFormat.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\misc\AndroidTrackInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\misc\IAndroidIO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\misc\IjkMediaFormat.java">
+<error line="126" column="13" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\misc\IjkTrackInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\misc\IMediaDataSource.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\misc\IMediaFormat.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\misc\ITrackInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\pragma\DebugLog.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\pragma\Pragma.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\TextureMediaPlayer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\adapter\holder\AudioViewHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\adapter\holder\BasePreviewHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\adapter\holder\BaseRecyclerMediaHolder.java">
+<error line="63" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="195" column="13" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="231" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\adapter\holder\CameraViewHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\adapter\holder\ImageViewHolder.java">
+<error line="11" column="8" severity="warning" message="Importação não utilizada - com.luck.picture.lib.config.SelectorProviders." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="26" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\adapter\holder\PreviewAudioHolder.java">
+<error line="36" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 13 classes [AbsoluteSizeSpan, ForegroundColorSpan, Handler, MediaPlayer, MediaPlayer.OnCompletionListener, MediaPlayer.OnErrorListener, MediaPlayer.OnPreparedListener, OnViewTapListener, Runnable, SeekBar.OnSeekBarChangeListener, SpannableStringBuilder, View.OnClickListener, View.OnLongClickListener] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="36" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\adapter\holder\PreviewGalleryAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\adapter\holder\PreviewImageHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\adapter\holder\PreviewVideoHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\adapter\holder\VideoViewHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\adapter\PictureAlbumAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\adapter\PictureImageGridAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\adapter\PicturePreviewAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\animators\AlphaInAnimationAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\animators\AnimationType.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\animators\BaseAnimationAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\animators\SlideInBottomAnimationAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\animators\ViewHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\app\IApp.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\app\PictureAppMaster.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\basic\FragmentInjectManager.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\basic\IBridgeLoaderFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\basic\IBridgePictureBehavior.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\basic\IBridgeViewLifecycle.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\basic\InterpolatorFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\basic\IPictureSelectorCommonEvent.java">
+<error line="6" column="8" severity="warning" message="Importação não utilizada - com.luck.picture.lib.config.SelectorConfig." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\basic\IPictureSelectorEvent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\basic\PictureCommonFragment.java">
+<error line="97" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 20 classes [ConcurrentHashMap, File, FileInputStream, FileOutputStream, Intent, JSONArray, OnBackPressedCallback, OnCallbackIndexListener, OnCallbackListener, OnItemClickListener, OnKeyValueResultCallbackListener, OnRequestPermissionListener, PermissionResultCallback, PhotoItemSelectedDialog.OnDismissListener, PictureLoadingDialog, PictureMediaScannerConnection, PictureThreadUtils.SimpleTask, SelectorResult, SoundPool, View.OnKeyListener] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="97" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 50 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="471" column="5" severity="warning" message="A complexidade ciclomática é de 37 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="592" column="5" severity="warning" message="A complexidade ciclomática é de 50 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1065" column="5" severity="warning" message="A complexidade ciclomática é de 20 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1278" column="5" severity="warning" message="A complexidade ciclomática é de 29 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\basic\PictureContentResolver.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\basic\PictureContextWrapper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\basic\PictureFileProvider.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\basic\PictureMediaScannerConnection.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\basic\PictureSelectionCameraModel.java">
+<error line="6" column="8" severity="warning" message="Importação não utilizada - androidx.activity.result.ActivityResultCallback." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="8" column="8" severity="warning" message="Importação não utilizada - androidx.activity.result.contract.ActivityResultContract." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="50" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 26 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\basic\PictureSelectionModel.java">
+<error line="8" column="8" severity="warning" message="Importação não utilizada - androidx.activity.result.ActivityResultCallback." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="10" column="8" severity="warning" message="Importação não utilizada - androidx.activity.result.contract.ActivityResultContract." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="70" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 41 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\basic\PictureSelectionPreviewModel.java">
+<error line="328" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\basic\PictureSelectionQueryModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\basic\PictureSelectionSystemModel.java">
+<error line="6" column="8" severity="warning" message="Importação não utilizada - androidx.activity.result.ActivityResultCallback." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="8" column="8" severity="warning" message="Importação não utilizada - androidx.activity.result.contract.ActivityResultContract." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="47" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 24 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\basic\PictureSelector.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\basic\PictureSelectorSupporterActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\basic\PictureSelectorTransparentActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\config\Crop.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\config\CustomIntentKey.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\config\FileSizeUnit.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\config\InjectResourceSource.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\config\PermissionEvent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\config\PictureConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\config\PictureMimeType.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\config\SelectLimitType.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\config\SelectMimeType.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\config\SelectModeConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\config\SelectorConfig.java">
+<error line="54" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 34 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\config\SelectorProviders.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\config\VideoQuality.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\decoration\GridSpacingItemDecoration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\decoration\HorizontalItemDecoration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\decoration\ViewPage2ItemDecoration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\decoration\WrapContentLinearLayoutManager.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\dialog\AlbumListPopWindow.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\dialog\PhotoItemSelectedDialog.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\dialog\PictureCommonDialog.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\dialog\PictureLoadingDialog.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\dialog\RemindDialog.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\engine\CompressEngine.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\engine\CompressFileEngine.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\engine\CropEngine.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\engine\CropFileEngine.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\engine\ExtendLoaderEngine.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\engine\ImageEngine.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\engine\MediaPlayerEngine.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\engine\PictureSelectorEngine.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - android.view.View." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\engine\SandboxFileEngine.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\engine\UriToFileTransformEngine.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\engine\VideoPlayerEngine.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\entity\LocalMedia.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\entity\LocalMediaFolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\entity\MediaData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\entity\MediaExtraInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\immersive\ImmersiveManager.java">
+<error line="44" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\immersive\LightStatusBarUtils.java">
+<error line="110" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="167" column="31" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\immersive\RomUtils.java">
+<error line="169" column="36" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="179" column="36" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\interfaces\OnAlbumItemClickListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\interfaces\OnBitmapWatermarkEventListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\interfaces\OnCallbackIndexListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\interfaces\OnCallbackListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\interfaces\OnCameraInterceptListener.java">
+<error line="5" column="8" severity="warning" message="Importação não utilizada - com.luck.picture.lib.config.SelectMimeType." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\interfaces\OnCustomLoadingListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\interfaces\OnExternalPreviewEventListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\interfaces\OnGridItemSelectAnimListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\interfaces\OnInjectActivityPreviewListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\interfaces\OnInjectLayoutResourceListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\interfaces\OnItemClickListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\interfaces\OnKeyValueResultCallbackListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\interfaces\OnMediaEditInterceptListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\interfaces\OnPermissionDeniedListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\interfaces\OnPermissionDescriptionListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\interfaces\OnPermissionsInterceptListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\interfaces\OnPlayerListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\interfaces\OnPreviewInterceptListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\interfaces\OnQueryAlbumListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\interfaces\OnQueryAllAlbumListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\interfaces\OnQueryDataResultListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\interfaces\OnQueryDataSourceListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\interfaces\OnQueryFilterListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\interfaces\OnRecordAudioInterceptListener.java">
+<error line="5" column="8" severity="warning" message="Importação não utilizada - com.luck.picture.lib.config.SelectMimeType." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\interfaces\OnRecyclerViewPreloadMoreListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\interfaces\OnRecyclerViewScrollListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\interfaces\OnRecyclerViewScrollStateListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\interfaces\OnRequestPermissionListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\interfaces\OnResultCallbackListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\interfaces\OnSelectAnimListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\interfaces\OnSelectFilterListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\interfaces\OnSelectLimitTipsListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\interfaces\OnVideoThumbnailEventListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\language\LanguageConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\language\LocaleTransform.java">
+<error line="11" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\language\PictureLanguageUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\loader\IBridgeMediaLoader.java">
+<error line="172" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\loader\LocalMediaLoader.java">
+<error line="95" column="13" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="256" column="5" severity="warning" message="A complexidade ciclomática é de 29 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\loader\LocalMediaPageLoader.java">
+<error line="182" column="13" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="264" column="13" severity="warning" message="A complexidade ciclomática é de 28 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="624" column="5" severity="warning" message="A complexidade ciclomática é de 35 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\loader\SandboxFileLoader.java">
+<error line="62" column="5" severity="warning" message="A complexidade ciclomática é de 37 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\magical\BuildRecycleItemViewParams.java">
+<error line="33" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\magical\MagicalView.java">
+<error line="32" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 11 classes [AnimatorListenerAdapter, ChangeBounds, ChangeImageTransform, ChangeTransform, FrameLayout, FrameLayout.LayoutParams, MagicalViewWrapper, Runnable, TransitionSet, ValueAnimator.AnimatorUpdateListener, View] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="32" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="384" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\magical\MagicalViewWrapper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\magical\OnMagicalViewCallback.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\magical\ViewParams.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\manager\PictureCacheManager.java">
+<error line="144" column="5" severity="warning" message="A complexidade ciclomática é de 22 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\manager\SelectedManager.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\obj\pool\ObjectPools.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\permissions\PermissionChecker.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\permissions\PermissionConfig.java">
+<error line="6" column="8" severity="warning" message="Importação não utilizada - android.util.Log." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="43" column="5" severity="warning" message="A complexidade ciclomática é de 20 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\permissions\PermissionResultCallback.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\permissions\PermissionUtil.java">
+<error line="10" column="8" severity="warning" message="Importação não utilizada - android.util.Log." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\photoview\Compat.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\photoview\CustomGestureDetector.java">
+<error line="108" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\photoview\OnGestureListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\photoview\OnMatrixChangedListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\photoview\OnOutsidePhotoTapListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\photoview\OnPhotoTapListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\photoview\OnScaleChangedListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\photoview\OnSingleFlingListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\photoview\OnViewDragListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\photoview\OnViewTapListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\photoview\PhotoView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\photoview\PhotoViewAttacher.java">
+<error line="25" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 28 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="85" column="9" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="324" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="641" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\photoview\Util.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\PictureOnlyCameraFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\PictureSelectorFragment.java">
+<error line="84" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 27 classes [AlbumListPopWindow.OnPopupWindowStatusListener, AlphaInAnimationAdapter, BottomNavBar.OnBottomNavBarListener, Bundle, File, GridLayoutManager, GridSpacingItemDecoration, LocalMediaFolder, LocalMediaLoader, LocalMediaPageLoader, OnAlbumItemClickListener, OnQueryAlbumListener, OnQueryAllAlbumListener, OnQueryDataResultListener, OnRecyclerViewScrollListener, OnRecyclerViewScrollStateListener, OnRequestPermissionListener, PermissionResultCallback, PictureImageGridAdapter, PictureImageGridAdapter.OnItemClickListener, Runnable, SlideInBottomAnimationAdapter, SlideSelectTouchListener, SlideSelectionHandler, SlideSelectionHandler.ISelectionHandler, TitleBar.OnTitleBarListener, View.OnClickListener] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="84" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 51 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="188" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="518" column="13" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1133" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1182" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\PictureSelectorPreviewFragment.java">
+<error line="92" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 29 classes [AnimatorListenerAdapter, AnimatorSet, BottomNavBar.OnBottomNavBarListener, Bundle, HorizontalItemDecoration, ItemTouchHelper, ItemTouchHelper.Callback, LinearInterpolator, LinearSmoothScroller, LocalMediaLoader, LocalMediaPageLoader, MarginPageTransformer, MyOnPreviewEventListener, OnCallbackListener, OnMagicalViewCallback, OnQueryDataResultListener, PictureCommonDialog.OnDialogEventListener, PictureMediaScannerConnection, PicturePreviewAdapter, PreviewGalleryAdapter, PreviewGalleryAdapter.OnItemClickListener, PreviewGalleryAdapter.OnItemLongClickListener, RecyclerView, Runnable, TitleBar.OnTitleBarListener, View.OnClickListener, ViewPager2, ViewPager2.OnPageChangeCallback, WrapContentLinearLayoutManager] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="92" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 67 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="623" column="5" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="836" column="17" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1436" column="9" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1535" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\PictureSelectorSystemFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\service\ForegroundService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\style\AlbumWindowStyle.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\style\BottomNavBarStyle.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\style\PictureSelectorStyle.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\style\PictureWindowAnimationStyle.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\style\SelectMainStyle.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - android.widget.RelativeLayout." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\style\TitleBarStyle.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\thread\PictureThreadUtils.java">
+<error line="1193" column="9" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\utils\ActivityCompatHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\utils\AnimUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\utils\BitmapUtils.java">
+<error line="195" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\utils\DateUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\utils\DensityUtil.java">
+<error line="121" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="150" column="44" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\utils\DoubleUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\utils\DownloadFileUtils.java">
+<error line="41" column="13" severity="warning" message="A complexidade ciclomática é de 25 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\utils\FileDirMap.java">
+<error line="19" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\utils\IntentUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\utils\MediaStoreUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\utils\MediaUtils.java">
+<error line="84" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\utils\PictureFileUtils.java">
+<error line="84" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="230" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="399" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\utils\PSEglUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\utils\SandboxTransformUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\utils\SdkVersionUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\utils\SortUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\utils\SpUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\utils\StyleUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\utils\ToastUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\utils\ValueOf.java">
+<error line="13" column="31" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\widget\BottomNavBar.java">
+<error line="85" column="5" severity="warning" message="A complexidade ciclomática é de 23 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\widget\CompleteSelectView.java">
+<error line="68" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="119" column="5" severity="warning" message="A complexidade ciclomática é de 25 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\widget\MarqueeTextView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\widget\MediaPlayerView.java">
+<error line="145" column="9" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\widget\MediumBoldTextView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\widget\PreviewBottomNavBar.java">
+<error line="9" column="8" severity="warning" message="Importação não utilizada - com.luck.picture.lib.config.SelectorProviders." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\widget\PreviewTitleBar.java">
+<error line="8" column="8" severity="warning" message="Importação não utilizada - com.luck.picture.lib.config.SelectorProviders." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\widget\RecyclerPreloadView.java">
+<error line="95" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\widget\RoundCornerRelativeLayout.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\widget\SlideSelectionHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\widget\SlideSelectTouchListener.java">
+<error line="256" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="302" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\widget\SquareRelativeLayout.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\selector\src\main\java\com\luck\picture\lib\widget\TitleBar.java">
+<error line="132" column="5" severity="warning" message="A complexidade ciclomática é de 22 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\callback\BitmapCropCallback.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\callback\BitmapLoadCallback.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\callback\CropBoundsChangeListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\callback\OverlayViewChangeListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\decoration\GridSpacingItemDecoration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\model\AspectRatio.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\model\CropParameters.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\model\CustomIntentKey.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\model\ExifInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\model\ImageState.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\OkHttpClientStore.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\statusbar\ImmersiveManager.java">
+<error line="45" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\statusbar\LightStatusBarUtils.java">
+<error line="110" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="167" column="31" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\statusbar\RomUtils.java">
+<error line="167" column="36" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="177" column="36" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\task\BitmapCropTask.java">
+<error line="117" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\task\BitmapLoadTask.java">
+<error line="36" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="78" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\UCrop.java">
+<error line="10" column="8" severity="warning" message="Importação não utilizada - android.provider.MediaStore." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\UCropActivity.java">
+<error line="70" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 13 classes [AccelerateInterpolator, AspectRatio, AutoTransition, BitmapCropCallback, File, HorizontalProgressWheelView.ScrollingListener, Intent, LinearLayout.LayoutParams, RelativeLayout.LayoutParams, SelectedStateListDrawable, TransformImageView.TransformImageListener, View, View.OnClickListener] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="70" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 42 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="242" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\UCropDevelopConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\UCropFragment.java">
+<error line="52" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 13 classes [AccelerateInterpolator, AspectRatio, AutoTransition, BitmapCropCallback, HorizontalProgressWheelView.ScrollingListener, Intent, LinearLayout.LayoutParams, RelativeLayout.LayoutParams, SelectedStateListDrawable, TransformImageView.TransformImageListener, UCropResult, View, View.OnClickListener] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="52" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 36 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="218" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\UCropFragmentCallback.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\UCropGalleryAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\UCropImageEngine.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\UCropMultipleActivity.java">
+<error line="62" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 34 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="107" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\util\BitmapLoadUtils.java">
+<error line="80" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\util\CubicEasing.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\util\DensityUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\util\EglUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\util\FastBitmapDrawable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\util\FileUtils.java">
+<error line="350" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\util\ImageHeaderParser.java">
+<error line="196" column="5" severity="warning" message="A complexidade ciclomática é de 20 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\util\RectUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\util\RotationGestureDetector.java">
+<error line="29" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\util\SelectedStateListDrawable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\view\CropImageView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\view\GestureCropImageView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\view\OverlayView.java">
+<error line="332" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="394" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\view\TransformImageView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\view\UCropView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\view\widget\AspectRatioTextView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\LuckSiege_PictureSelector\ucrop\src\main\java\com\yalantis\ucrop\view\widget\HorizontalProgressWheelView.java">
+</file>
+</checkstyle>

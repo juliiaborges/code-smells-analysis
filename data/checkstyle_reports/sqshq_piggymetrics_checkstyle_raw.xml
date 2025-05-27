@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.24.0">
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\account-service\src\main\java\com\piggymetrics\account\AccountApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\account-service\src\main\java\com\piggymetrics\account\client\AuthServiceClient.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\account-service\src\main\java\com\piggymetrics\account\client\StatisticsServiceClient.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\account-service\src\main\java\com\piggymetrics\account\client\StatisticsServiceClientFallback.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\account-service\src\main\java\com\piggymetrics\account\config\ResourceServerConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\account-service\src\main\java\com\piggymetrics\account\controller\AccountController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\account-service\src\main\java\com\piggymetrics\account\controller\ErrorHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\account-service\src\main\java\com\piggymetrics\account\domain\Account.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\account-service\src\main\java\com\piggymetrics\account\domain\Currency.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\account-service\src\main\java\com\piggymetrics\account\domain\Item.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\account-service\src\main\java\com\piggymetrics\account\domain\Saving.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\account-service\src\main\java\com\piggymetrics\account\domain\TimePeriod.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\account-service\src\main\java\com\piggymetrics\account\domain\User.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\account-service\src\main\java\com\piggymetrics\account\repository\AccountRepository.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\account-service\src\main\java\com\piggymetrics\account\service\AccountService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\account-service\src\main\java\com\piggymetrics\account\service\AccountServiceImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\account-service\src\main\java\com\piggymetrics\account\service\security\CustomUserInfoTokenServices.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\account-service\src\test\java\com\piggymetrics\account\AccountServiceApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\account-service\src\test\java\com\piggymetrics\account\client\StatisticsServiceClientFallbackTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\account-service\src\test\java\com\piggymetrics\account\controller\AccountControllerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\account-service\src\test\java\com\piggymetrics\account\repository\AccountRepositoryTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\account-service\src\test\java\com\piggymetrics\account\service\AccountServiceTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\auth-service\src\main\java\com\piggymetrics\auth\AuthApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\auth-service\src\main\java\com\piggymetrics\auth\config\OAuth2AuthorizationConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\auth-service\src\main\java\com\piggymetrics\auth\config\WebSecurityConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\auth-service\src\main\java\com\piggymetrics\auth\controller\UserController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\auth-service\src\main\java\com\piggymetrics\auth\domain\User.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\auth-service\src\main\java\com\piggymetrics\auth\repository\UserRepository.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\auth-service\src\main\java\com\piggymetrics\auth\service\security\MongoUserDetailsService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\auth-service\src\main\java\com\piggymetrics\auth\service\UserService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\auth-service\src\main\java\com\piggymetrics\auth\service\UserServiceImpl.java">
+<error line="10" column="8" severity="warning" message="Importação não utilizada - org.springframework.util.Assert." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\auth-service\src\test\java\com\piggymetrics\auth\AuthServiceApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\auth-service\src\test\java\com\piggymetrics\auth\controller\UserControllerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\auth-service\src\test\java\com\piggymetrics\auth\repository\UserRepositoryTest.java">
+<error line="4" column="8" severity="warning" message="Importação não utilizada - com.piggymetrics.auth.service.security.MongoUserDetailsService." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="8" column="8" severity="warning" message="Importação não utilizada - org.springframework.boot.autoconfigure.mongo.embedded.EmbeddedMongoAutoConfiguration." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="10" column="8" severity="warning" message="Importação não utilizada - org.springframework.boot.test.mock.mockito.MockBean." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\auth-service\src\test\java\com\piggymetrics\auth\service\security\MongoUserDetailsServiceTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\auth-service\src\test\java\com\piggymetrics\auth\service\UserServiceTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\config\src\main\java\com\piggymetrics\config\ConfigApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\config\src\main\java\com\piggymetrics\config\SecurityConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\gateway\src\main\java\com\piggymetrics\gateway\GatewayApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\gateway\src\test\java\com\piggymetrics\gateway\GatewayApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\monitoring\src\main\java\com\piggymetrics\monitoring\MonitoringApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\monitoring\src\test\java\com\piggymetrics\monitoring\MonitoringApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\notification-service\src\main\java\com\piggymetrics\notification\client\AccountServiceClient.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\notification-service\src\main\java\com\piggymetrics\notification\config\ResourceServerConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\notification-service\src\main\java\com\piggymetrics\notification\controller\RecipientController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\notification-service\src\main\java\com\piggymetrics\notification\domain\Frequency.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\notification-service\src\main\java\com\piggymetrics\notification\domain\NotificationSettings.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\notification-service\src\main\java\com\piggymetrics\notification\domain\NotificationType.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\notification-service\src\main\java\com\piggymetrics\notification\domain\Recipient.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\notification-service\src\main\java\com\piggymetrics\notification\NotificationServiceApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\notification-service\src\main\java\com\piggymetrics\notification\repository\converter\FrequencyReaderConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\notification-service\src\main\java\com\piggymetrics\notification\repository\converter\FrequencyWriterConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\notification-service\src\main\java\com\piggymetrics\notification\repository\RecipientRepository.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\notification-service\src\main\java\com\piggymetrics\notification\service\EmailService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\notification-service\src\main\java\com\piggymetrics\notification\service\EmailServiceImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\notification-service\src\main\java\com\piggymetrics\notification\service\NotificationService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\notification-service\src\main\java\com\piggymetrics\notification\service\NotificationServiceImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\notification-service\src\main\java\com\piggymetrics\notification\service\RecipientService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\notification-service\src\main\java\com\piggymetrics\notification\service\RecipientServiceImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\notification-service\src\test\java\com\piggymetrics\notification\controller\RecipientControllerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\notification-service\src\test\java\com\piggymetrics\notification\NotificationServiceApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\notification-service\src\test\java\com\piggymetrics\notification\repository\RecipientRepositoryTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\notification-service\src\test\java\com\piggymetrics\notification\service\EmailServiceImplTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\notification-service\src\test\java\com\piggymetrics\notification\service\NotificationServiceImplTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\notification-service\src\test\java\com\piggymetrics\notification\service\RecipientServiceImplTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\registry\src\main\java\com\piggymetrics\registry\RegistryApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\statistics-service\src\main\java\com\piggymetrics\statistics\client\ExchangeRatesClient.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\statistics-service\src\main\java\com\piggymetrics\statistics\client\ExchangeRatesClientFallback.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\statistics-service\src\main\java\com\piggymetrics\statistics\config\ResourceServerConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\statistics-service\src\main\java\com\piggymetrics\statistics\controller\StatisticsController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\statistics-service\src\main\java\com\piggymetrics\statistics\domain\Account.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\statistics-service\src\main\java\com\piggymetrics\statistics\domain\Currency.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\statistics-service\src\main\java\com\piggymetrics\statistics\domain\ExchangeRatesContainer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\statistics-service\src\main\java\com\piggymetrics\statistics\domain\Item.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\statistics-service\src\main\java\com\piggymetrics\statistics\domain\Saving.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\statistics-service\src\main\java\com\piggymetrics\statistics\domain\TimePeriod.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\statistics-service\src\main\java\com\piggymetrics\statistics\domain\timeseries\DataPoint.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\statistics-service\src\main\java\com\piggymetrics\statistics\domain\timeseries\DataPointId.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\statistics-service\src\main\java\com\piggymetrics\statistics\domain\timeseries\ItemMetric.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\statistics-service\src\main\java\com\piggymetrics\statistics\domain\timeseries\StatisticMetric.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\statistics-service\src\main\java\com\piggymetrics\statistics\repository\converter\DataPointIdReaderConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\statistics-service\src\main\java\com\piggymetrics\statistics\repository\converter\DataPointIdWriterConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\statistics-service\src\main\java\com\piggymetrics\statistics\repository\DataPointRepository.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\statistics-service\src\main\java\com\piggymetrics\statistics\service\ExchangeRatesService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\statistics-service\src\main\java\com\piggymetrics\statistics\service\ExchangeRatesServiceImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\statistics-service\src\main\java\com\piggymetrics\statistics\service\security\CustomUserInfoTokenServices.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\statistics-service\src\main\java\com\piggymetrics\statistics\service\StatisticsService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\statistics-service\src\main\java\com\piggymetrics\statistics\service\StatisticsServiceImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\statistics-service\src\main\java\com\piggymetrics\statistics\StatisticsApplication.java">
+<error line="5" column="8" severity="warning" message="Importação não utilizada - com.piggymetrics.statistics.service.security.CustomUserInfoTokenServices." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="6" column="8" severity="warning" message="Importação não utilizada - org.springframework.beans.factory.annotation.Autowired." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="9" column="8" severity="warning" message="Importação não utilizada - org.springframework.boot.autoconfigure.security.oauth2.resource.ResourceServerProperties." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="17" column="8" severity="warning" message="Importação não utilizada - org.springframework.security.oauth2.provider.token.ResourceServerTokenServices." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\statistics-service\src\test\java\com\piggymetrics\statistics\client\ExchangeRatesClientTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\statistics-service\src\test\java\com\piggymetrics\statistics\controller\StatisticsControllerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\statistics-service\src\test\java\com\piggymetrics\statistics\repository\DataPointRepositoryTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\statistics-service\src\test\java\com\piggymetrics\statistics\service\ExchangeRatesServiceImplTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\statistics-service\src\test\java\com\piggymetrics\statistics\service\StatisticsServiceImplTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\statistics-service\src\test\java\com\piggymetrics\statistics\StatisticsServiceApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\turbine-stream-service\src\main\java\com\piggymetrics\turbine\TurbineStreamServiceApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\sqshq_piggymetrics\turbine-stream-service\src\test\java\com\piggymetrics\turbine\TurbineStreamServiceApplicationTests.java">
+</file>
+</checkstyle>
