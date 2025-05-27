@@ -1,0 +1,15 @@
+{
+  "repository": "skylot_jadx",
+  "code_smells": {
+    "Empty Catch Block": 7,
+    "Unnecessary Import (Unused Imports)": 149,
+    "Unnecessary Local Before Return (Unused Local Variables)": 3,
+    "Cyclomatic Complexity": 391,
+    "God Class": 7,
+    "Class Naming Conventions": 260,
+    "Empty Control Statement": 2,
+    "Too Many Fields": 10,
+    "Too Many Methods": 63
+  },
+  "total_smells": 892
+}

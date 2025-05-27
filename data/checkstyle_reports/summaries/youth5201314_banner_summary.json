@@ -1,0 +1,10 @@
+{
+  "repository": "youth5201314_banner",
+  "code_smells": {
+    "Unused Imports": 57,
+    "Too Many Fields": 2,
+    "Cyclomatic Complexity": 2,
+    "Potential God Class": 1
+  },
+  "total_smells": 62
+}

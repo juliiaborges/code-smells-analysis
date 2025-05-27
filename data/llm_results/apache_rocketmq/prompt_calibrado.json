@@ -1,0 +1,15 @@
+{
+  "repository": "apache_rocketmq",
+  "code_smells": {
+    "Empty Catch Block": 203,
+    "Unnecessary Import (Unused Imports)": 80,
+    "Unnecessary Local Before Return (Unused Local Variables)": 10,
+    "Cyclomatic Complexity": 661,
+    "God Class": 23,
+    "Class Naming Conventions": 53,
+    "Empty Control Statement": 1,
+    "Too Many Fields": 38,
+    "Too Many Methods": 143
+  },
+  "total_smells": 1212
+}

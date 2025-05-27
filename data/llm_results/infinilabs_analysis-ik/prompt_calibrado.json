@@ -1,0 +1,15 @@
+{
+  "repository": "infinilabs_analysis-ik",
+  "code_smells": {
+    "Empty Catch Block": 0,
+    "Unnecessary Import (Unused Imports)": 2,
+    "Unnecessary Local Before Return (Unused Local Variables)": 0,
+    "Cyclomatic Complexity": 16,
+    "God Class": 0,
+    "Class Naming Conventions": 1,
+    "Empty Control Statement": 0,
+    "Too Many Fields": 1,
+    "Too Many Methods": 1
+  },
+  "total_smells": 21
+}

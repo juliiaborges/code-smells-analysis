@@ -1,0 +1,15 @@
+{
+  "repository": "macrozheng_mall",
+  "code_smells": {
+    "Empty Catch Block": 0,
+    "Unnecessary Import (Unused Imports)": 33,
+    "Unnecessary Local Before Return (Unused Local Variables)": 0,
+    "Cyclomatic Complexity": 29,
+    "God Class": 100,
+    "Class Naming Conventions": 0,
+    "Empty Control Statement": 0,
+    "Too Many Fields": 109,
+    "Too Many Methods": 101
+  },
+  "total_smells": 372
+}

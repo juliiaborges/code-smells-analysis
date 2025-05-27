@@ -550,5 +550,109 @@
     "message": "Clonado com sucesso.",
     "url": "https://github.com/nostra13/Android-Universal-Image-Loader",
     "stars": 16813
+  },
+  {
+    "owner": "Curzibn",
+    "name": "Luban",
+    "success": true,
+    "message": "Clonado com sucesso.",
+    "url": "https://github.com/Curzibn/Luban",
+    "stars": 13645
+  },
+  {
+    "owner": "zaproxy",
+    "name": "zaproxy",
+    "success": true,
+    "message": "Clonado com sucesso.",
+    "url": "https://github.com/zaproxy/zaproxy",
+    "stars": 13636
+  },
+  {
+    "owner": "JessYanCoding",
+    "name": "AndroidAutoSize",
+    "success": true,
+    "message": "Clonado com sucesso.",
+    "url": "https://github.com/JessYanCoding/AndroidAutoSize",
+    "stars": 13634
+  },
+  {
+    "owner": "pinpoint-apm",
+    "name": "pinpoint",
+    "success": false,
+    "message": "Cloning into '../data/repositories\\pinpoint-apm_pinpoint'...\nUpdating files:   3% (330/9414)\nUpdating files:   4% (377/9414)\nUpdating files:   5% (471/9414)\nUpdating files:   6% (565/9414)\nerror: unable to create file agent-module/bootstraps/bootstrap-core/src/main/java/com/navercorp/pinpoint/bootstrap/interceptor/AsyncContextSpanEventNestedBlockApiIdAwareAroundInterceptor.java: Filename too long\nerror: unable to create file agent-module/bootstraps/bootstrap-core/src/main/java/com/navercorp/pinpoint/bootstrap/interceptor/scope/ExceptionHandleScopedBlockApiIdAwareAroundInterceptor.java: Filename too long\nUpdating files:   7% (659/9414)\nUpdating files:   7% (706/9414)\nerror: unable to create file agent-module/bootstraps/bootstrap-core/src/main/java/com/navercorp/pinpoint/bootstrap/plugin/jdbc/interceptor/CallableStatementRegisterOutParameterInterceptor.java: Filename too long\nUpdating files:   8% (754/9414)\nUpdating files:   9% (848/9414)\nUpdating files:  10% (942/9414)\nUpdating files:  11% (1036/9414)\nUpdating files:  12% (1130/9414)\nUpdating files:  12% (1154/9414)\nUpdating files:  13% (1224/9414)\nUpdating files:  14% (1318/9414)\nUpdating files:  15% (1413/9414)\nerror: unable to create file agent-module/plugins-it/oracledb-it/oracledb-19-it/src/test/java/com/navercorp/pinpoint/it/plugin/jdbc/oracle/Oracle19_Ojdbc10_IT_ConnectWithGssCredential_IT.java: Filename too long\nUpdating files:  16% (1507/9414)\nUpdating files:  16% (1547/9414)\nUpdating files:  17% (1601/9414)\nerror: unable to create file agent-module/plugins-it/thrift-it/thrift-0-14-it/src/test/java/com/navercorp/pinpoint/it/plugin/thrift/it/asynchronous/ThriftHalfSyncHalfAsyncServerAsyncIT_014.java: Filename too long\nerror: unable to create file agent-module/plugins-it/thrift-it/thrift-0-14-it/src/test/java/com/navercorp/pinpoint/it/plugin/thrift/it/asynchronous/ThriftThreadedSelectorServerAsyncIT014.java: Filename too long\nUpdating files:  18% (1695/9414)\nUpdating files:  19% (1789/9414)\nerror: unable to create file agent-module/plugins-test-module/plugins-test/src/main/java/com/navercorp/pinpoint/test/plugin/junit5/launcher/SharedPluginForkedTestVerifierExecutionListener.java: Filename too long\nUpdating files:  20% (1883/9414)\nerror: unable to create file agent-module/plugins/activemq-client/src/main/java/com/navercorp/pinpoint/plugin/activemq/client/interceptor/ActiveMQMessageConsumerCreateActiveMQMessageInterceptor.java: Filename too long\nUpdating files:  20% (1973/9414)\nUpdating files:  21% (1977/9414)\nUpdating files:  22% (2072/9414)\nUpdating files:  23% (2166/9414)\nerror: unable to create file agent-module/plugins/google-httpclient/src/main/java/com/navercorp/pinpoint/plugin/google/httpclient/interceptor/HttpRequestExecuteAsyncMethodInnerClassCallMethodInterceptor.java: Filename too long\nerror: unable to create file agent-module/plugins/google-httpclient/src/main/java/com/navercorp/pinpoint/plugin/google/httpclient/interceptor/HttpRequestExecuteAsyncMethodInnerClassConstructorInterceptor.java: Filename too long\nUpdating files:  24% (2260/9414)\nUpdating files:  24% (2284/9414)\nUpdating files:  25% (2354/9414)\nerror: unable to create file agent-module/plugins/httpclient4/src/main/java/com/navercorp/pinpoint/plugin/httpclient4/interceptor/DefaultHttpRequestRetryHandlerRetryRequestMethodInterceptor.java: Filename too long\nerror: unable to create file agent-module/plugins/httpclient4/src/main/java/com/navercorp/pinpoint/plugin/httpclient4/interceptor/HttpRequestExecutorDoSendRequestAndDoReceiveResponseMethodInterceptor.java: Filename too long\nerror: unable to create file agent-module/plugins/httpclient5/src/main/java/com/navercorp/pinpoint/plugin/httpclient5/interceptor/CloseableHttpAsyncClientExecuteImmediateMethodInterceptor.java: Filename too long\nUpdating files:  26% (2448/9414)\nUpdating files:  27% (2542/9414)\nUpdating files:  28% (2636/9414)\nUpdating files:  28% (2698/9414)\nUpdating files:  29% (2731/9414)\nUpdating files:  30% (2825/9414)\nerror: unable to create file agent-module/plugins/ning-asynchttpclient/src/main/java/com/navercorp/pinpoint/plugin/ning/asynchttpclient/interceptor/AsyncHandlerOnStatusReceivedInterceptor.java: Filename too long\nUpdating files:  31% (2919/9414)\nUpdating files:  32% (3013/9414)\nerror: unable to create file agent-module/plugins/rabbitmq/src/main/java/com/navercorp/pinpoint/plugin/rabbitmq/client/interceptor/RabbitMQConsumerHandleCompleteInboundCommandInterceptor.java: Filename too long\nerror: unable to create file agent-module/plugins/reactor-netty/src/main/java/com/navercorp/pinpoint/plugin/reactor/netty/interceptor/ChannelOperationsOnInboundCompleteMethodInterceptor.java: Filename too long\nUpdating files:  33% (3107/9414)\nUpdating files:  33% (3142/9414)\nUpdating files:  34% (3201/9414)\nerror: unable to create file agent-module/plugins/spring-data-r2dbc/src/main/java/com/navercorp/pinpoint/plugin/spring/r2dbc/interceptor/DefaultGenericExecuteSpecResultFunctionApplyInterceptor.java: Filename too long\nerror: unable to create file agent-module/plugins/spring-data-r2dbc/src/main/java/com/navercorp/pinpoint/plugin/spring/r2dbc/interceptor/DefaultGenericExecuteSpecStatementFunctionGetLambdaInterceptor.java: Filename too long\nerror: unable to create file agent-module/plugins/spring-data-r2dbc/src/main/java/com/navercorp/pinpoint/plugin/spring/r2dbc/interceptor/h2/H2ConnectionConfigurationConstructorInterceptor.java: Filename too long\nerror: unable to create file agent-module/plugins/spring-data-r2dbc/src/main/java/com/navercorp/pinpoint/plugin/spring/r2dbc/interceptor/jasync/JasyncClientConnectionConstructorInterceptor.java: Filename too long\nerror: unable to create file agent-module/plugins/spring-data-r2dbc/src/main/java/com/navercorp/pinpoint/plugin/spring/r2dbc/interceptor/jasync/JasyncConnectionFactoryConstructorInterceptor.java: Filename too long\nerror: unable to create file agent-module/plugins/spring-data-r2dbc/src/main/java/com/navercorp/pinpoint/plugin/spring/r2dbc/interceptor/jasync/MySQLConnectionFactoryConstructorInterceptor.java: Filename too long\nerror: unable to create file agent-module/plugins/spring-data-r2dbc/src/main/java/com/navercorp/pinpoint/plugin/spring/r2dbc/interceptor/mariadb/MariadbConnectionConfigurationConstructorInterceptor.java: Filename too long\nerror: unable to create file agent-module/plugins/spring-data-r2dbc/src/main/java/com/navercorp/pinpoint/plugin/spring/r2dbc/interceptor/mariadb/MariadbConnectionFactoryTransformConstructorInterceptor.java: Filename too long\nerror: unable to create file agent-module/plugins/spring-data-r2dbc/src/main/java/com/navercorp/pinpoint/plugin/spring/r2dbc/interceptor/mssql/MssqlConnectionConfigurationConstructorInterceptor.java: Filename too long\nUpdating files:  35% (3295/9414)\nerror: unable to create file agent-module/plugins/spring-data-r2dbc/src/main/java/com/navercorp/pinpoint/plugin/spring/r2dbc/interceptor/mssql/MssqlConnectionConfigurationToConnectionOptionsInterceptor.java: Filename too long\nerror: unable to create file agent-module/plugins/spring-data-r2dbc/src/main/java/com/navercorp/pinpoint/plugin/spring/r2dbc/interceptor/mssql/MssqlConnectionFactoryConstructorInterceptor.java: Filename too long\nerror: unable to create file agent-module/plugins/spring-data-r2dbc/src/main/java/com/navercorp/pinpoint/plugin/spring/r2dbc/interceptor/mysql/AsyncerMySqlStatementConstructorInterceptor.java: Filename too long\nerror: unable to create file agent-module/plugins/spring-data-r2dbc/src/main/java/com/navercorp/pinpoint/plugin/spring/r2dbc/interceptor/oracle/OracleConnectionFactoryImplConstructorInterceptor.java: Filename too long\nerror: unable to create file agent-module/plugins/spring-data-r2dbc/src/main/java/com/navercorp/pinpoint/plugin/spring/r2dbc/interceptor/oracle/OracleConnectionFactoryImplLambdaCreateInterceptor.java: Filename too long\nerror: unable to create file agent-module/plugins/spring-data-r2dbc/src/main/java/com/navercorp/pinpoint/plugin/spring/r2dbc/interceptor/oracle/OracleConnectionImplConstructorInterceptor.java: Filename too long\nerror: unable to create file agent-module/plugins/spring-data-r2dbc/src/main/java/com/navercorp/pinpoint/plugin/spring/r2dbc/interceptor/postgresql/PostgresqlConnectionConfigurationInterceptor.java: Filename too long\nerror: unable to create file agent-module/plugins/spring-data-r2dbc/src/main/java/com/navercorp/pinpoint/plugin/spring/r2dbc/interceptor/postgresql/PostgresqlConnectionConstructorInterceptor.java: Filename too long\nerror: unable to create file agent-module/plugins/spring-data-r2dbc/src/main/java/com/navercorp/pinpoint/plugin/spring/r2dbc/interceptor/postgresql/PostgresqlConnectionFactoryConstructorInterceptor.java: Filename too long\nUpdating files:  36% (3390/9414)\nUpdating files:  37% (3484/9414)\nUpdating files:  38% (3578/9414)\nUpdating files:  38% (3634/9414)\nUpdating files:  39% (3672/9414)\nerror: unable to create file agent-module/profiler-optional/profiler-optional-jdk8/src/main/java/com/navercorp/pinpoint/profiler/monitor/metric/filedescriptor/ibm/IbmFileDescriptorMetric.java: Filename too long\nerror: unable to create file agent-module/profiler-optional/profiler-optional-jdk8/src/main/java/com/navercorp/pinpoint/profiler/monitor/metric/filedescriptor/oracle/OracleFileDescriptorMetric.java: Filename too long\nUpdating files:  40% (3766/9414)\nUpdating files:  41% (3860/9414)\nUpdating files:  42% (3954/9414)\nUpdating files:  43% (4049/9414)\nUpdating files:  44% (4143/9414)\nUpdating files:  44% (4168/9414)\nUpdating files:  45% (4237/9414)\nUpdating files:  46% (4331/9414)\nUpdating files:  47% (4425/9414)\nUpdating files:  48% (4519/9414)\nUpdating files:  48% (4589/9414)\nUpdating files:  49% (4613/9414)\nUpdating files:  50% (4707/9414)\nUpdating files:  51% (4802/9414)\nUpdating files:  52% (4896/9414)\nUpdating files:  53% (4990/9414)\nUpdating files:  54% (5084/9414)\nUpdating files:  54% (5109/9414)\nUpdating files:  55% (5178/9414)\nUpdating files:  56% (5272/9414)\nUpdating files:  57% (5366/9414)\nUpdating files:  58% (5461/9414)\nUpdating files:  59% (5555/9414)\nUpdating files:  59% (5556/9414)\nUpdating files:  60% (5649/9414)\nUpdating files:  61% (5743/9414)\nUpdating files:  62% (5837/9414)\nUpdating files:  63% (5931/9414)\nUpdating files:  64% (6025/9414)\nUpdating files:  64% (6034/9414)\nUpdating files:  65% (6120/9414)\nUpdating files:  66% (6214/9414)\nUpdating files:  67% (6308/9414)\nUpdating files:  68% (6402/9414)\nUpdating files:  68% (6446/9414)\nUpdating files:  69% (6496/9414)\nUpdating files:  70% (6590/9414)\nUpdating files:  71% (6684/9414)\nUpdating files:  72% (6779/9414)\nUpdating files:  72% (6866/9414)\nUpdating files:  73% (6873/9414)\nUpdating files:  74% (6967/9414)\nUpdating files:  75% (7061/9414)\nUpdating files:  75% (7149/9414)\nUpdating files:  76% (7155/9414)\nUpdating files:  77% (7249/9414)\nUpdating files:  78% (7343/9414)\nUpdating files:  79% (7438/9414)\nUpdating files:  79% (7503/9414)\nUpdating files:  80% (7532/9414)\nUpdating files:  81% (7626/9414)\nUpdating files:  82% (7720/9414)\nUpdating files:  83% (7814/9414)\nUpdating files:  84% (7908/9414)\nUpdating files:  85% (8002/9414)\nUpdating files:  85% (8082/9414)\nUpdating files:  86% (8097/9414)\nUpdating files:  87% (8191/9414)\nUpdating files:  88% (8285/9414)\nUpdating files:  89% (8379/9414)\nUpdating files:  90% (8473/9414)\nUpdating files:  91% (8567/9414)\nUpdating files:  91% (8660/9414)\nUpdating files:  92% (8661/9414)\nUpdating files:  93% (8756/9414)\nUpdating files:  94% (8850/9414)\nUpdating files:  95% (8944/9414)\nUpdating files:  96% (9038/9414)\nUpdating files:  97% (9132/9414)\nUpdating files:  97% (9207/9414)\nUpdating files:  98% (9226/9414)\nUpdating files:  99% (9320/9414)\nUpdating files: 100% (9414/9414)\nUpdating files: 100% (9414/9414), done.\nfatal: unable to checkout working tree\nwarning: Clone succeeded, but checkout failed.\nYou can inspect what was checked out with 'git status'\nand retry with 'git restore --source=HEAD :/'\n\n",
+    "url": "https://github.com/pinpoint-apm/pinpoint",
+    "stars": 13622
+  },
+  {
+    "owner": "lgvalle",
+    "name": "Material-Animations",
+    "success": true,
+    "message": "Clonado com sucesso.",
+    "url": "https://github.com/lgvalle/Material-Animations",
+    "stars": 13559
+  },
+  {
+    "owner": "sqshq",
+    "name": "piggymetrics",
+    "success": true,
+    "message": "Clonado com sucesso.",
+    "url": "https://github.com/sqshq/piggymetrics",
+    "stars": 13533
+  },
+  {
+    "owner": "apache",
+    "name": "dolphinscheduler",
+    "success": false,
+    "message": "Cloning into '../data/repositories\\apache_dolphinscheduler'...\nUpdating files:  12% (616/4961)\nUpdating files:  13% (645/4961)\nUpdating files:  14% (695/4961)\nUpdating files:  15% (745/4961)\nUpdating files:  16% (794/4961)\nfatal: cannot create directory at 'dolphinscheduler-alert/dolphinscheduler-alert-plugins/dolphinscheduler-alert-aliyunVoice/src/main/java/org/apache/dolphinscheduler/plugin/alert/voice': Filename too long\nwarning: Clone succeeded, but checkout failed.\nYou can inspect what was checked out with 'git status'\nand retry with 'git restore --source=HEAD :/'\n\n",
+    "url": "https://github.com/apache/dolphinscheduler",
+    "stars": 13521
+  },
+  {
+    "owner": "LuckSiege",
+    "name": "PictureSelector",
+    "success": true,
+    "message": "Clonado com sucesso.",
+    "url": "https://github.com/LuckSiege/PictureSelector",
+    "stars": 13473
+  },
+  {
+    "owner": "Bigkoo",
+    "name": "Android-PickerView",
+    "success": true,
+    "message": "Clonado com sucesso.",
+    "url": "https://github.com/Bigkoo/Android-PickerView",
+    "stars": 13470
+  },
+  {
+    "owner": "macrozheng",
+    "name": "mall-learning",
+    "success": true,
+    "message": "Clonado com sucesso.",
+    "url": "https://github.com/macrozheng/mall-learning",
+    "stars": 13182
+  },
+  {
+    "owner": "languagetool-org",
+    "name": "languagetool",
+    "success": false,
+    "message": "Cloning into '../data/repositories\\languagetool-org_languagetool'...\nerror: RPC failed; curl 56 Recv failure: Connection was reset\nerror: 2641 bytes of body are still expected\nfetch-pack: unexpected disconnect while reading sideband packet\nfatal: early EOF\nfatal: fetch-pack: invalid index-pack output\n",
+    "url": "https://github.com/languagetool-org/languagetool",
+    "stars": 13131
+  },
+  {
+    "owner": "youth5201314",
+    "name": "banner",
+    "success": true,
+    "message": "Clonado com sucesso.",
+    "url": "https://github.com/youth5201314/banner",
+    "stars": 13003
+  },
+  {
+    "owner": "cryptomator",
+    "name": "cryptomator",
+    "success": true,
+    "message": "Clonado com sucesso.",
+    "url": "https://github.com/cryptomator/cryptomator",
+    "stars": 12887
   }
 ]

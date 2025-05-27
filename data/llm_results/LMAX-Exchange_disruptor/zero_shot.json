@@ -1,0 +1,15 @@
+{
+  "repository": "LMAX-Exchange_disruptor",
+  "code_smells": {
+    "Empty Catch Block": 0,
+    "Unnecessary Import (Unused Imports)": 0,
+    "Unnecessary Local Before Return (Unused Local Variables)": 10,
+    "Cyclomatic Complexity": 1293,
+    "God Class": 9,
+    "Class Naming Conventions": 16,
+    "Empty Control Statement": 9,
+    "Too Many Fields": 0,
+    "Too Many Methods": 11
+  },
+  "total_smells": 1348
+}

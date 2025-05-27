@@ -1,0 +1,15 @@
+{
+  "repository": "apache_incubator-seata",
+  "code_smells": {
+    "Empty Catch Block": 36,
+    "Unnecessary Import (Unused Imports)": 0,
+    "Unnecessary Local Before Return (Unused Local Variables)": 464,
+    "Cyclomatic Complexity": 34703,
+    "God Class": 6,
+    "Class Naming Conventions": 103,
+    "Empty Control Statement": 3,
+    "Too Many Fields": 6,
+    "Too Many Methods": 86
+  },
+  "total_smells": 35407
+}

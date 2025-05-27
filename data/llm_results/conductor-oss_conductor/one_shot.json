@@ -1,0 +1,15 @@
+{
+  "repository": "conductor-oss_conductor",
+  "code_smells": {
+    "Empty Catch Block": 10,
+    "Unnecessary Import (Unused Imports)": 0,
+    "Unnecessary Local Before Return (Unused Local Variables)": 119,
+    "Cyclomatic Complexity": 7832,
+    "God Class": 10,
+    "Class Naming Conventions": 82,
+    "Empty Control Statement": 1,
+    "Too Many Fields": 16,
+    "Too Many Methods": 101
+  },
+  "total_smells": 8171
+}

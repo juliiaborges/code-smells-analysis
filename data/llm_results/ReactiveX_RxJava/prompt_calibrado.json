@@ -1,0 +1,15 @@
+{
+  "repository": "ReactiveX_RxJava",
+  "code_smells": {
+    "Empty Catch Block": 63,
+    "Unnecessary Import (Unused Imports)": 0,
+    "Unnecessary Local Before Return (Unused Local Variables)": 0,
+    "Cyclomatic Complexity": 797,
+    "God Class": 0,
+    "Class Naming Conventions": 200,
+    "Empty Control Statement": 3,
+    "Too Many Fields": 1,
+    "Too Many Methods": 280
+  },
+  "total_smells": 1344
+}

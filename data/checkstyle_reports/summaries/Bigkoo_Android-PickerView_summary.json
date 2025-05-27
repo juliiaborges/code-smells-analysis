@@ -1,0 +1,9 @@
+{
+  "repository": "Bigkoo_Android-PickerView",
+  "code_smells": {
+    "Too Many Fields": 1,
+    "Potential God Class": 2,
+    "Cyclomatic Complexity": 15
+  },
+  "total_smells": 18
+}

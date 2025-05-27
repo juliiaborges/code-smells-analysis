@@ -1,0 +1,15 @@
+{
+  "repository": "nostra13_Android-Universal-Image-Loader",
+  "code_smells": {
+    "Empty Catch Block": 5,
+    "Unnecessary Import (Unused Imports)": 1,
+    "Unnecessary Local Before Return (Unused Local Variables)": 12,
+    "Cyclomatic Complexity": 1596,
+    "God Class": 4,
+    "Class Naming Conventions": 34,
+    "Empty Control Statement": 0,
+    "Too Many Fields": 0,
+    "Too Many Methods": 4
+  },
+  "total_smells": 1656
+}

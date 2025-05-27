@@ -1,0 +1,15 @@
+{
+  "repository": "jenkinsci_jenkins",
+  "code_smells": {
+    "Empty Catch Block": 15,
+    "Unnecessary Import (Unused Imports)": 0,
+    "Unnecessary Local Before Return (Unused Local Variables)": 155,
+    "Cyclomatic Complexity": 17779,
+    "God Class": 0,
+    "Class Naming Conventions": 456,
+    "Empty Control Statement": 5,
+    "Too Many Fields": 0,
+    "Too Many Methods": 118
+  },
+  "total_smells": 18528
+}

@@ -1,0 +1,15 @@
+{
+  "repository": "apache_skywalking",
+  "code_smells": {
+    "Empty Catch Block": 11,
+    "Unnecessary Import (Unused Imports)": 0,
+    "Unnecessary Local Before Return (Unused Local Variables)": 357,
+    "Cyclomatic Complexity": 11387,
+    "God Class": 0,
+    "Class Naming Conventions": 56,
+    "Empty Control Statement": 36,
+    "Too Many Fields": 14,
+    "Too Many Methods": 16
+  },
+  "total_smells": 11877
+}

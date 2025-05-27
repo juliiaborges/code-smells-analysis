@@ -1,0 +1,15 @@
+{
+  "repository": "Netflix_Hystrix",
+  "code_smells": {
+    "Empty Catch Block": 26,
+    "Unnecessary Local Before Return (Unused Local Variables)": 0,
+    "Empty Control Statement": 0,
+    "Unnecessary Import (Unused Imports)": 47,
+    "Cyclomatic Complexity": 136,
+    "God Class": 1,
+    "Class Naming Conventions": 94,
+    "Too Many Fields": 1,
+    "Too Many Methods": 42
+  },
+  "total_smells": 347
+}

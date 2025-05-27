@@ -1,0 +1,11 @@
+{
+  "repository": "LuckSiege_PictureSelector",
+  "code_smells": {
+    "Cyclomatic Complexity": 83,
+    "Too Many Fields": 10,
+    "Potential God Class": 17,
+    "Unused Imports": 19,
+    "Empty Catch Block": 12
+  },
+  "total_smells": 141
+}

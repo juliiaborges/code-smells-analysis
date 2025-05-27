@@ -1,0 +1,15 @@
+{
+  "repository": "brettwooldridge_HikariCP",
+  "code_smells": {
+    "Empty Catch Block": 4,
+    "Unnecessary Import (Unused Imports)": 0,
+    "Unnecessary Local Before Return (Unused Local Variables)": 17,
+    "Cyclomatic Complexity": 1030,
+    "God Class": 1,
+    "Class Naming Conventions": 54,
+    "Empty Control Statement": 0,
+    "Too Many Fields": 1,
+    "Too Many Methods": 11
+  },
+  "total_smells": 1118
+}

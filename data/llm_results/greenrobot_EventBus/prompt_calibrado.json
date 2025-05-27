@@ -1,0 +1,15 @@
+{
+  "repository": "greenrobot_EventBus",
+  "code_smells": {
+    "Empty Catch Block": 6,
+    "Unnecessary Import (Unused Imports)": 24,
+    "Unnecessary Local Before Return (Unused Local Variables)": 0,
+    "Cyclomatic Complexity": 15,
+    "God Class": 1,
+    "Class Naming Conventions": 24,
+    "Empty Control Statement": 0,
+    "Too Many Fields": 1,
+    "Too Many Methods": 3
+  },
+  "total_smells": 74
+}

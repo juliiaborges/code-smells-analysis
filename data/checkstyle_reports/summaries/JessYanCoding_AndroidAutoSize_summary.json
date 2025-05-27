@@ -1,0 +1,9 @@
+{
+  "repository": "JessYanCoding_AndroidAutoSize",
+  "code_smells": {
+    "Cyclomatic Complexity": 2,
+    "Naming Conventions": 1,
+    "Empty Catch Block": 2
+  },
+  "total_smells": 5
+}
