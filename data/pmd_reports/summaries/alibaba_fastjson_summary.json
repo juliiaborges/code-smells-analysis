@@ -1,0 +1,15 @@
+{
+  "repository": "alibaba_fastjson",
+  "code_smells": {
+    "Empty Catch Block": 62,
+    "Unnecessary Import (Unused Imports)": 0,
+    "Unnecessary Local Before Return (Unused Local Variables)": 0,
+    "Cyclomatic Complexity": 319,
+    "God Class": 28,
+    "Class Naming Conventions": 468,
+    "Empty Control Statement": 0,
+    "Too Many Fields": 24,
+    "Too Many Methods": 43
+  },
+  "total_smells": 944
+}

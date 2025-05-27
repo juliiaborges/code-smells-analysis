@@ -1,0 +1,15 @@
+{
+  "repository": "yuliskov_SmartTube",
+  "code_smells": {
+    "Empty Catch Block": 134,
+    "Unnecessary Import (Unused Imports)": 0,
+    "Unnecessary Local Before Return (Unused Local Variables)": 0,
+    "Cyclomatic Complexity": 683,
+    "God Class": 185,
+    "Class Naming Conventions": 2,
+    "Empty Control Statement": 0,
+    "Too Many Fields": 68,
+    "Too Many Methods": 421
+  },
+  "total_smells": 1493
+}
