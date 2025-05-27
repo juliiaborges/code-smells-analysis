@@ -1,0 +1,15 @@
+{
+  "repository": "openzipkin_zipkin",
+  "code_smells": {
+    "Empty Catch Block": 16,
+    "Unnecessary Import (Unused Imports)": 0,
+    "Unnecessary Local Before Return (Unused Local Variables)": 0,
+    "Cyclomatic Complexity": 74,
+    "God Class": 16,
+    "Class Naming Conventions": 41,
+    "Empty Control Statement": 0,
+    "Too Many Fields": 1,
+    "Too Many Methods": 83
+  },
+  "total_smells": 231
+}
