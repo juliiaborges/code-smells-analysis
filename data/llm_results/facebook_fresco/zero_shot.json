@@ -1,0 +1,15 @@
+{
+  "repository": "facebook_fresco",
+  "code_smells": {
+    "Empty Catch Block": 1,
+    "Unnecessary Import (Unused Imports)": 0,
+    "Unnecessary Local Before Return (Unused Local Variables)": 23,
+    "Cyclomatic Complexity": 5919,
+    "God Class": 51,
+    "Class Naming Conventions": 136,
+    "Empty Control Statement": 45,
+    "Too Many Fields": 17,
+    "Too Many Methods": 80
+  },
+  "total_smells": 6272
+}

@@ -1,0 +1,15 @@
+{
+  "repository": "JakeWharton_butterknife",
+  "code_smells": {
+    "Empty Catch Block": 3,
+    "Unnecessary Import (Unused Imports)": 0,
+    "Unnecessary Local Before Return (Unused Local Variables)": 4,
+    "Cyclomatic Complexity": 709,
+    "God Class": 1,
+    "Class Naming Conventions": 84,
+    "Empty Control Statement": 0,
+    "Too Many Fields": 1,
+    "Too Many Methods": 5
+  },
+  "total_smells": 807
+}

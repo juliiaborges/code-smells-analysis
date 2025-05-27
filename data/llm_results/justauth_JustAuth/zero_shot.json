@@ -1,0 +1,15 @@
+{
+  "repository": "justauth_JustAuth",
+  "code_smells": {
+    "Empty Catch Block": 3,
+    "Unnecessary Import (Unused Imports)": 0,
+    "Unnecessary Local Before Return (Unused Local Variables)": 7,
+    "Cyclomatic Complexity": 487,
+    "God Class": 3,
+    "Class Naming Conventions": 4,
+    "Empty Control Statement": 1,
+    "Too Many Fields": 2,
+    "Too Many Methods": 3
+  },
+  "total_smells": 510
+}

@@ -1,0 +1,15 @@
+{
+  "repository": "baomidou_mybatis-plus",
+  "code_smells": {
+    "Empty Catch Block": 0,
+    "Unnecessary Import (Unused Imports)": 14,
+    "Unnecessary Local Before Return (Unused Local Variables)": 26,
+    "Cyclomatic Complexity": 6663,
+    "God Class": 25,
+    "Class Naming Conventions": 28,
+    "Empty Control Statement": 15,
+    "Too Many Fields": 8,
+    "Too Many Methods": 34
+  },
+  "total_smells": 6813
+}

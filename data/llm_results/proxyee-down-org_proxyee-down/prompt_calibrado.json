@@ -1,0 +1,15 @@
+{
+  "repository": "proxyee-down-org_proxyee-down",
+  "code_smells": {
+    "Empty Catch Block": 15,
+    "Unnecessary Local Before Return (Unused Local Variables)": 0,
+    "Empty Control Statement": 0,
+    "Unnecessary Import (Unused Imports)": 10,
+    "Cyclomatic Complexity": 16,
+    "God Class": 0,
+    "Class Naming Conventions": 3,
+    "Too Many Fields": 2,
+    "Too Many Methods": 0
+  },
+  "total_smells": 46
+}

@@ -1,0 +1,15 @@
+{
+  "repository": "alibaba_Sentinel",
+  "code_smells": {
+    "Empty Catch Block": 33,
+    "Unnecessary Import (Unused Imports)": 64,
+    "Unnecessary Local Before Return (Unused Local Variables)": 1,
+    "Cyclomatic Complexity": 274,
+    "God Class": 12,
+    "Class Naming Conventions": 97,
+    "Empty Control Statement": 0,
+    "Too Many Fields": 15,
+    "Too Many Methods": 24
+  },
+  "total_smells": 520
+}

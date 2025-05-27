@@ -1,0 +1,15 @@
+{
+  "repository": "dromara_Sa-Token",
+  "code_smells": {
+    "Empty Catch Block": 22,
+    "Unnecessary Import (Unused Imports)": 0,
+    "Unnecessary Local Before Return (Unused Local Variables)": 293,
+    "Cyclomatic Complexity": 2459,
+    "God Class": 0,
+    "Class Naming Conventions": 0,
+    "Empty Control Statement": 11,
+    "Too Many Fields": 0,
+    "Too Many Methods": 23
+  },
+  "total_smells": 2808
+}

@@ -1,0 +1,15 @@
+{
+  "repository": "elunez_eladmin",
+  "code_smells": {
+    "Empty Catch Block": 4,
+    "Unnecessary Import (Unused Imports)": 3,
+    "Unnecessary Local Before Return (Unused Local Variables)": 13,
+    "Cyclomatic Complexity": 1155,
+    "God Class": 2,
+    "Class Naming Conventions": 1,
+    "Empty Control Statement": 4,
+    "Too Many Fields": 0,
+    "Too Many Methods": 2
+  },
+  "total_smells": 1184
+}

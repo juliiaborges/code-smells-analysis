@@ -1,0 +1,15 @@
+{
+  "repository": "google_gson",
+  "code_smells": {
+    "Empty Catch Block": 0,
+    "Unnecessary Import (Unused Imports)": 12,
+    "Unnecessary Local Before Return (Unused Local Variables)": 1,
+    "Cyclomatic Complexity": 113,
+    "God Class": 0,
+    "Class Naming Conventions": 211,
+    "Empty Control Statement": 0,
+    "Too Many Fields": 0,
+    "Too Many Methods": 19
+  },
+  "total_smells": 356
+}
