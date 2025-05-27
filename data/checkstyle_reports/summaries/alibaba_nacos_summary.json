@@ -1,0 +1,12 @@
+{
+  "repository": "alibaba_nacos",
+  "code_smells": {
+    "Too Many Fields": 30,
+    "Potential God Class": 98,
+    "Cyclomatic Complexity": 99,
+    "Unused Imports": 1,
+    "Empty Catch Block": 104,
+    "Empty Control Statement": 2
+  },
+  "total_smells": 334
+}

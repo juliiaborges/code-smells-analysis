@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.24.0">
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\androidTest\java\org\schabi\newpipe\error\ErrorInfoTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\androidTest\java\org\schabi\newpipe\local\subscription\SubscriptionManagerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\debug\java\org\schabi\newpipe\settings\DebugSettingsBVDLeakCanary.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\androidx\fragment\app\FragmentStatePagerAdapterMenuWorkaround.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\com\google\android\material\appbar\FlingBehavior.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\apache\commons\text\similarity\FuzzyScore.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\App.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\BaseFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\database\AppDatabase.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\database\BasicDAO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\database\history\dao\HistoryDAO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\database\history\dao\SearchHistoryDAO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\database\history\dao\StreamHistoryDAO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\database\history\model\StreamHistoryEntity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\database\LocalItem.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\database\Migrations.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\database\playlist\dao\PlaylistDAO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\database\playlist\dao\PlaylistRemoteDAO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\database\playlist\dao\PlaylistStreamDAO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\database\playlist\model\PlaylistEntity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\database\playlist\model\PlaylistRemoteEntity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\database\playlist\model\PlaylistStreamEntity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\database\playlist\PlaylistDuplicatesEntry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\database\playlist\PlaylistLocalItem.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\database\playlist\PlaylistMetadataEntry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\database\stream\dao\StreamStateDAO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\database\stream\model\StreamStateEntity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\database\subscription\NotificationMode.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\database\subscription\SubscriptionEntity.java">
+<error line="152" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\download\DownloadActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\download\DownloadDialog.java">
+<error line="92" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 17 classes [AlertDialog.Builder, AudioTrackAdapter, AudioTracksWrapper, CompositeDisposable, ErrorInfo, Intent, Locale, MissionRecoveryInfo, SecondaryStreamHelper, ServiceConnection, SimpleOnSeekBarChangeListener, SparseArrayCompat, StartActivityForResult, StoredDirectoryHelper, StoredFileHelper, StreamInfoWrapper, StreamItemAdapter] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="92" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 53 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="659" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="767" column="5" severity="warning" message="A complexidade ciclomática é de 20 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="886" column="5" severity="warning" message="A complexidade ciclomática é de 27 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1037" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\download\LoadingDialog.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\DownloaderImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\error\AcraReportSender.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\error\AcraReportSenderFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\error\ErrorActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\error\ReCaptchaActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\error\UserAction.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\ExitActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\fragments\BackPressable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\fragments\BaseStateFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\fragments\BlankFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\fragments\detail\BaseDescriptionFragment.java">
+<error line="195" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\fragments\detail\DescriptionFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\fragments\detail\StackItem.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\fragments\detail\TabAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\fragments\detail\VideoDetailFragment.java">
+<error line="136" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 21 classes [AlertDialog.Builder, BottomSheetBehavior.BottomSheetCallback, BroadcastReceiver, CharSequence, CompositeDisposable, ContentObserver, DecelerateInterpolator, DescriptionFragment, DownloadDialog, ErrorInfo, FrameLayout.LayoutParams, Handler, HistoryRecordManager, Intent, IntentFilter, Rect, SinglePlayQueue, StackItem, StreamEntity, TabAdapter, ViewTreeObserver.OnPreDrawListener] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="136" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 72 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="243" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="462" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1489" column="5" severity="warning" message="A complexidade ciclomática é de 24 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="2321" column="13" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\fragments\detail\VideoDetailPlayerCrasher.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\fragments\EmptyFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\fragments\list\BaseListFragment.java">
+<error line="41" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 29 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\fragments\list\BaseListInfoFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\fragments\list\channel\ChannelAboutFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\fragments\list\channel\ChannelFragment.java">
+<error line="72" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 33 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\fragments\list\channel\ChannelTabFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\fragments\list\comments\CommentRepliesFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\fragments\list\comments\CommentRepliesInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\fragments\list\comments\CommentsFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\fragments\list\kiosk\DefaultKioskFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\fragments\list\kiosk\KioskFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\fragments\list\ListViewContract.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\fragments\list\playlist\PlaylistControlViewHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\fragments\list\playlist\PlaylistFragment.java">
+<error line="71" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 36 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="289" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\fragments\list\search\SearchFragment.java">
+<error line="90" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 13 classes [AlertDialog.Builder, CompositeDisposable, DecelerateInterpolator, ErrorInfo, HistoryRecordManager, ItemTouchHelper, ItemTouchHelper.Callback, MetaInfo, SparseArrayCompat, SuggestionItem, SuggestionListAdapter, SuggestionListAdapter.OnSuggestionItemSelected, TextWatcher] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="90" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 47 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="260" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="520" column="5" severity="warning" message="A complexidade ciclomática é de 22 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="748" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\fragments\list\search\SuggestionItem.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\fragments\list\search\SuggestionListAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\fragments\list\videos\RelatedItemsFragment.java">
+<error line="33" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\fragments\list\videos\RelatedItemsInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\fragments\MainFragment.java">
+<error line="52" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\fragments\OnScrollBelowItemsListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\fragments\ViewContract.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\info_list\dialog\InfoItemDialog.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\info_list\dialog\StreamDialogDefaultEntry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\info_list\dialog\StreamDialogEntry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\info_list\holder\ChannelCardInfoItemHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\info_list\holder\ChannelGridInfoItemHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\info_list\holder\ChannelInfoItemHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\info_list\holder\ChannelMiniInfoItemHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\info_list\holder\CommentInfoItemHolder.java">
+<error line="82" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\info_list\holder\InfoItemHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\info_list\holder\PlaylistCardInfoItemHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\info_list\holder\PlaylistGridInfoItemHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\info_list\holder\PlaylistInfoItemHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\info_list\holder\PlaylistMiniInfoItemHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\info_list\holder\StreamCardInfoItemHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\info_list\holder\StreamGridInfoItemHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\info_list\holder\StreamInfoItemHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\info_list\holder\StreamMiniInfoItemHolder.java">
+<error line="47" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\info_list\InfoItemBuilder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\info_list\InfoListAdapter.java">
+<error line="62" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 19 classes [ChannelCardInfoItemHolder, ChannelGridInfoItemHolder, ChannelInfoItemHolder, ChannelMiniInfoItemHolder, CommentInfoItemHolder, FallbackViewHolder, GridLayoutManager.SpanSizeLookup, HFHolder, HistoryRecordManager, InfoItemBuilder, PlaylistCardInfoItemHolder, PlaylistGridInfoItemHolder, PlaylistInfoItemHolder, PlaylistMiniInfoItemHolder, StreamCardInfoItemHolder, StreamGridInfoItemHolder, StreamInfoItemHolder, StreamMiniInfoItemHolder, View] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="62" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 31 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="224" column="5" severity="warning" message="A complexidade ciclomática é de 20 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="278" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\info_list\ItemViewMode.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\BaseLocalListFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\bookmark\BookmarkFragment.java">
+<error line="54" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 12 classes [AlertDialog.Builder, AtomicBoolean, CompositeDisposable, DebounceSaver, ErrorInfo, ItemTouchHelper, ItemTouchHelper.SimpleCallback, LocalPlaylistManager, OnClickGesture, Pair, RemotePlaylistManager, Subscriber] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="54" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 36 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="357" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\bookmark\MergedPlaylistManager.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\dialog\PlaylistAppendDialog.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\dialog\PlaylistCreationDialog.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\dialog\PlaylistDialog.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\HeaderFooterHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\history\HistoryEntryAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\history\HistoryRecordManager.java">
+<error line="61" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\history\StatisticsPlaylistFragment.java">
+<error line="53" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 33 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\holder\LocalBookmarkPlaylistItemHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\holder\LocalItemHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\holder\LocalPlaylistCardItemHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\holder\LocalPlaylistGridItemHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\holder\LocalPlaylistItemHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\holder\LocalPlaylistStreamCardItemHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\holder\LocalPlaylistStreamGridItemHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\holder\LocalPlaylistStreamItemHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\holder\LocalStatisticStreamCardItemHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\holder\LocalStatisticStreamGridItemHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\holder\LocalStatisticStreamItemHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\holder\PlaylistItemHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\holder\RemoteBookmarkPlaylistItemHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\holder\RemotePlaylistCardItemHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\holder\RemotePlaylistGridItemHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\holder\RemotePlaylistItemHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\LocalItemBuilder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\LocalItemListAdapter.java">
+<error line="61" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 20 classes [FallbackViewHolder, GridLayoutManager.SpanSizeLookup, HeaderFooterHolder, HistoryRecordManager, LocalBookmarkPlaylistItemHolder, LocalItemBuilder, LocalPlaylistCardItemHolder, LocalPlaylistGridItemHolder, LocalPlaylistItemHolder, LocalPlaylistStreamCardItemHolder, LocalPlaylistStreamGridItemHolder, LocalPlaylistStreamItemHolder, LocalStatisticStreamCardItemHolder, LocalStatisticStreamGridItemHolder, LocalStatisticStreamItemHolder, RemoteBookmarkPlaylistItemHolder, RemotePlaylistCardItemHolder, RemotePlaylistGridItemHolder, RemotePlaylistItemHolder, View] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="61" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 32 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="251" column="5" severity="warning" message="A complexidade ciclomática é de 22 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="311" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="358" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\playlist\LocalPlaylistFragment.java">
+<error line="78" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 14 classes [AlertDialog.Builder, AtomicBoolean, CompositeDisposable, DebounceSaver, ErrorInfo, HistoryRecordManager, InfoItemDialog.Builder, ItemTouchHelper, ItemTouchHelper.SimpleCallback, LocalPlaylistManager, OnClickGesture, Pair, SinglePlayQueue, Subscriber] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="78" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 45 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="429" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="696" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\playlist\LocalPlaylistManager.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\playlist\PlayListShareMode.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\playlist\RemotePlaylistManager.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\subscription\ImportConfirmationDialog.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\subscription\services\BaseImportExportService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\subscription\services\ImportExportEventListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\subscription\services\ImportExportJsonHelper.java">
+<error line="66" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\subscription\services\SubscriptionsExportService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\subscription\services\SubscriptionsImportService.java">
+<error line="100" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\local\subscription\SubscriptionsImportFragment.java">
+<error line="215" column="57" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\MainActivity.java">
+<error line="103" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 45 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="137" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="585" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="795" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\NewPipeDatabase.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\PanicResponderActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\AudioServiceLeakFix.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\datasource\NonUriHlsDataSourceFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\datasource\YoutubeHttpDataSource.java">
+<error line="81" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 24 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="376" column="5" severity="warning" message="A complexidade ciclomática é de 22 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="538" column="5" severity="warning" message="A complexidade ciclomática é de 19 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="612" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\event\OnKeyDownListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\event\PlayerEventListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\event\PlayerServiceEventListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\event\PlayerServiceExtendedEventListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\gesture\CustomBottomSheetBehavior.java">
+<error line="34" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\helper\AudioReactor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\helper\CacheFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\helper\CustomMediaCodecVideoRenderer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\helper\CustomRenderersFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\helper\LoadController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\helper\LockManager.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\helper\PlaybackParameterDialog.java">
+<error line="43" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 24 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\helper\PlayerDataSource.java">
+<error line="35" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 16 classes [CacheFactory, DashMediaSource.Factory, DefaultDashChunkSource.Factory, DefaultDataSource.Factory, DefaultHlsPlaylistTracker, DefaultHttpDataSource.Factory, DefaultSsChunkSource.Factory, File, HlsMediaSource.Factory, LeastRecentlyUsedCacheEvictor, ProgressiveMediaSource.Factory, SimpleCache, SingleSampleMediaSource.Factory, SsMediaSource.Factory, StandaloneDatabaseProvider, YoutubeHttpDataSource.Factory] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="35" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\helper\PlayerHelper.java">
+<error line="64" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 27 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\helper\PlayerHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\helper\PlayerSemitoneHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\mediaitem\ExceptionTag.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\mediaitem\MediaItemTag.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\mediaitem\PlaceholderTag.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\mediaitem\StreamInfoTag.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\mediasession\MediaSessionPlayerUi.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\mediasession\PlayQueueNavigator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\mediasession\SessionConnectorActionProvider.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\mediasource\FailedMediaSource.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\mediasource\LoadedMediaSource.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\mediasource\ManagedMediaSource.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\mediasource\ManagedMediaSourcePlaylist.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\mediasource\PlaceholderMediaSource.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\notification\NotificationActionData.java">
+<error line="59" column="5" severity="warning" message="A complexidade ciclomática é de 29 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\notification\NotificationConstants.java">
+<error line="122" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\notification\NotificationPlayerUi.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\notification\NotificationUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\playback\MediaSourceManager.java">
+<error line="46" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 26 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="221" column="5" severity="warning" message="A complexidade ciclomática é de 24 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\playback\PlaybackListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\playback\SurfaceHolderCallback.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\Player.java">
+<error line="137" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 26 classes [AudioPlaybackResolver, AudioReactor, BroadcastReceiver, CompositeDisposable, CustomRenderersFactory, DefaultBandwidthMeter.Builder, DefaultRenderersFactory, DefaultTrackSelector, ErrorInfo, ExoPlayer.Builder, HistoryRecordManager, IntentFilter, LoadController, MainPlayerUi, MediaSessionPlayerUi, MediaSourceManager, NotificationPlayerUi, PlaybackParameters, PlayerDataSource, PlayerUiList, PopupPlayerUi, SerialDisposable, Target, Timeline.Window, VideoPlaybackResolver, VideoPlaybackResolver.QualityResolver] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="137" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 64 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="348" column="5" severity="warning" message="A complexidade ciclomática é de 34 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="718" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="981" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1333" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1443" column="5" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1558" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\PlayerService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\PlayerType.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\playqueue\AbstractInfoPlayQueue.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\playqueue\ChannelTabPlayQueue.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\playqueue\events\AppendEvent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\playqueue\events\ErrorEvent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\playqueue\events\InitEvent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\playqueue\events\MoveEvent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\playqueue\events\PlayQueueEvent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\playqueue\events\PlayQueueEventType.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\playqueue\events\RecoveryEvent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\playqueue\events\RemoveEvent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\playqueue\events\ReorderEvent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\playqueue\events\SelectEvent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\playqueue\PlaylistPlayQueue.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\playqueue\PlayQueue.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\playqueue\PlayQueueAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\playqueue\PlayQueueItem.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\playqueue\PlayQueueItemBuilder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\playqueue\PlayQueueItemHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\playqueue\PlayQueueItemTouchCallback.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\playqueue\SinglePlayQueue.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\PlayQueueActivity.java">
+<error line="54" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 35 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="130" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="375" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\resolver\AudioPlaybackResolver.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\resolver\PlaybackResolver.java">
+<error line="53" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 31 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\resolver\Resolver.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\resolver\VideoPlaybackResolver.java">
+<error line="65" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\seekbarpreview\SeekbarPreviewThumbnailHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\seekbarpreview\SeekbarPreviewThumbnailHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\ui\MainPlayerUi.java">
+<error line="81" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 11 classes [ContentObserver, FrameLayout.LayoutParams, Handler, ItemTouchHelper, MainPlayerGestureListener, OnScrollBelowItemsListener, PlayQueueAdapter, PlayQueueItemBuilder.OnSelectedListener, PlayQueueItemTouchCallback, StreamSegmentAdapter, StreamSegmentAdapter.StreamSegmentListener] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="81" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 35 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\ui\PlayerUi.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\ui\PlayerUiList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\ui\PopupPlayerUi.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\player\ui\VideoPlayerUi.java">
+<error line="94" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 46 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="1026" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1465" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\QueueItemMenuUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\RouterActivity.java">
+<error line="114" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 11 classes [AdapterChoiceItem, AlertDialog.Builder, Choice, ChoiceAvailabilityChecker, CompositeDisposable, ContextThemeWrapper, ErrorInfo, FragmentManager.FragmentLifecycleCallbacks, Intent, PersistentFragment, RadioGroup.LayoutParams] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="114" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 43 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="273" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="330" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="440" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1004" column="9" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\settings\AppearanceSettingsFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\settings\BackupRestoreSettingsFragment.java">
+<error line="45" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\settings\BasePreferenceFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\settings\ContentSettingsFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\settings\custom\NotificationActionsPreference.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\settings\custom\NotificationSlot.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\settings\DebugSettingsFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\settings\DownloadSettingsFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\settings\ExoPlayerSettingsFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\settings\export\PreferencesObjectInputStream.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\settings\HistorySettingsFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\settings\MainSettingsFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\settings\NewPipeSettings.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\settings\PeertubeInstanceListFragment.java">
+<error line="50" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 24 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\settings\preferencesearch\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\settings\preferencesearch\PreferenceFuzzySearchFunction.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\settings\preferencesearch\PreferenceParser.java">
+<error line="42" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\settings\preferencesearch\PreferenceSearchAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\settings\preferencesearch\PreferenceSearchConfiguration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\settings\preferencesearch\PreferenceSearcher.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\settings\preferencesearch\PreferenceSearchFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\settings\preferencesearch\PreferenceSearchItem.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\settings\preferencesearch\PreferenceSearchResultHighlighter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\settings\preferencesearch\PreferenceSearchResultListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\settings\SelectChannelFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\settings\SelectKioskFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\settings\SelectPlaylistFragment.java">
+<error line="38" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\settings\SettingMigrations.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\settings\SettingsActivity.java">
+<error line="66" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 24 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\settings\SettingsResourceRegistry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\settings\tabs\AddTabDialog.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\settings\tabs\ChooseTabsFragment.java">
+<error line="44" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 15 classes [AddTabDialog, AlertDialog.Builder, ChooseTabListItem, ErrorInfo, ItemTouchHelper, ItemTouchHelper.SimpleCallback, LinearLayoutManager, SelectChannelFragment, SelectKioskFragment, SelectPlaylistFragment, SelectPlaylistFragment.OnSelectedListener, SelectedTabsAdapter, Tab.ChannelTab, Tab.KioskTab, Tab.PlaylistTab] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="44" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 33 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\settings\tabs\Tab.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\settings\tabs\TabsJsonHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\settings\tabs\TabsManager.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\settings\UpdateSettingsFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\settings\VideoAudioSettingsFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\streams\DataReader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\streams\io\NoFileManagerSafeGuard.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\streams\io\SharpInputStream.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\streams\io\SharpOutputStream.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\streams\io\SharpStream.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\streams\io\StoredDirectoryHelper.java">
+<error line="81" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\streams\io\StoredFileHelper.java">
+<error line="384" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="535" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\streams\Mp4DashReader.java">
+<error line="16" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 20 classes [Box, DataReader, EOFException, Elst, Hdlr, IOException, Mdia, Minf, Moof, Moov, Mp4DashChunk, Mp4Track, Mvhd, NoSuchElementException, Tfhd, Tkhd, Traf, Trak, Trex, Trun] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="16" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="73" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="176" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="430" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\streams\Mp4FromDashWriter.java">
+<error line="145" column="5" severity="warning" message="A complexidade ciclomática é de 52 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="787" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\streams\OggFromWebMWriter.java">
+<error line="147" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\streams\SrtFromTtmlWriter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\streams\WebMReader.java">
+<error line="302" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\streams\WebMWriter.java">
+<error line="124" column="5" severity="warning" message="A complexidade ciclomática é de 27 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\AudioTrackAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\BridgeStateSaverInitializer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\ChannelTabHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\debounce\DebounceSavable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\debounce\DebounceSaver.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\DependentPreferenceHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\DeviceUtils.java">
+<error line="171" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="325" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\external_communication\KoreUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\external_communication\ShareUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\ExtractorHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\FallbackViewHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\FilenameUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\FilePickerActivityHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\image\ImageStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\image\PicassoHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\image\PreferredImageQuality.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\InfoCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\KeyboardUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\KioskTranslator.java">
+<error line="31" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="60" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\ListHelper.java">
+<error line="575" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\Localization.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\NavigationHelper.java">
+<error line="71" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 31 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\NewPipeTextViewHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\OnClickGesture.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\PeertubeHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\PermissionHelper.java">
+<error line="121" column="63" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\PlayButtonHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\SecondaryStreamHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\SerializedCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\ServiceHelper.java">
+<error line="51" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\SliderStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\SparseItemUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\StateSaver.java">
+<error line="199" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="283" column="47" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\StreamItemAdapter.java">
+<error line="112" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\StreamTypeUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\text\HashtagLongPressClickableSpan.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\text\InternalUrlsHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\text\LongPressClickableSpan.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\text\LongPressLinkMovementMethod.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\text\TextEllipsizer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\text\TextLinkifier.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\text\TimestampExtractor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\text\TimestampLongPressClickableSpan.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\text\TouchUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\text\UrlLongPressClickableSpan.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\ThemeHelper.java">
+<error line="124" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\urlfinder\PatternsCompat.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\util\ZipHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\views\AnimatedProgressBar.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\views\CollapsibleView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\views\CustomCollapsingToolbarLayout.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\views\ExpandableSurfaceView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\views\FocusAwareCoordinator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\views\FocusAwareDrawerLayout.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\views\FocusAwareSeekBar.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\views\FocusOverlayView.java">
+<error line="49" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 24 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\views\NewPipeEditText.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\views\NewPipeRecyclerView.java">
+<error line="99" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\views\NewPipeTextView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\views\ScrollableTabLayout.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\org\schabi\newpipe\views\SuperScrollLayoutManager.java">
+<error line="64" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="131" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\us\shandian\giga\get\DownloadInitializer.java">
+<error line="42" column="5" severity="warning" message="A complexidade ciclomática é de 46 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\us\shandian\giga\get\DownloadMission.java">
+<error line="35" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 29 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="316" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="429" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="792" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\us\shandian\giga\get\DownloadMissionRecover.java">
+<error line="69" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="124" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\us\shandian\giga\get\DownloadRunnable.java">
+<error line="42" column="5" severity="warning" message="A complexidade ciclomática é de 33 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\us\shandian\giga\get\DownloadRunnableFallback.java">
+<error line="51" column="5" severity="warning" message="A complexidade ciclomática é de 23 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\us\shandian\giga\get\FinishedMission.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\us\shandian\giga\get\Mission.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\us\shandian\giga\get\sqlite\FinishedMissionStore.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\us\shandian\giga\io\ChunkFileInputStream.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\us\shandian\giga\io\CircularFileWriter.java">
+<error line="47" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="180" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\us\shandian\giga\io\FileStream.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\us\shandian\giga\io\FileStreamSAF.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\us\shandian\giga\io\ProgressReport.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\us\shandian\giga\postprocessing\M4aNoDash.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\us\shandian\giga\postprocessing\Mp4FromDashMuxer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\us\shandian\giga\postprocessing\OggFromWebmDemuxer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\us\shandian\giga\postprocessing\Postprocessing.java">
+<error line="108" column="5" severity="warning" message="A complexidade ciclomática é de 22 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\us\shandian\giga\postprocessing\TtmlConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\us\shandian\giga\postprocessing\WebMMuxer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\us\shandian\giga\service\DownloadManager.java">
+<error line="130" column="5" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="211" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="433" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="481" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\us\shandian\giga\service\DownloadManagerService.java">
+<error line="59" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 14 classes [Builder, ConnectivityManager.NetworkCallback, DownloadManager, DownloadManagerBinder, DownloadMission, Handler, Intent, LockManager, MissionRecoveryInfo, NetworkRequest.Builder, NotificationCompat.BigTextStyle, SparseArrayCompat, StoredDirectoryHelper, StoredFileHelper] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="59" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 34 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\us\shandian\giga\service\MissionState.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\us\shandian\giga\ui\adapter\MissionAdapter.java">
+<error line="92" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 11 classes [AlertDialog.Builder, CompositeDisposable, Date, Deleter, ErrorInfo, File, Handler, Intent, NotificationCompat.Builder, ViewHolderHeader, ViewHolderItem] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="92" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 39 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="238" column="5" severity="warning" message="A complexidade ciclomática é de 26 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="460" column="5" severity="warning" message="A complexidade ciclomática é de 27 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="624" column="5" severity="warning" message="A complexidade ciclomática é de 19 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="909" column="9" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\us\shandian\giga\ui\common\Deleter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\us\shandian\giga\ui\common\ProgressDrawable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\us\shandian\giga\ui\common\ToolbarActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\us\shandian\giga\ui\fragment\MissionsFragment.java">
+<error line="48" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 30 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\main\java\us\shandian\giga\util\Utility.java">
+<error line="5" column="8" severity="warning" message="Importação não utilizada - android.os.Environment." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="6" column="8" severity="warning" message="Importação não utilizada - android.os.StatFs." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="117" column="5" severity="warning" message="A complexidade ciclomática é de 19 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\test\java\org\schabi\newpipe\database\playlist\PlaylistLocalItemTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\test\java\org\schabi\newpipe\local\subscription\services\ImportExportJsonHelperTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\test\java\org\schabi\newpipe\player\playqueue\PlayQueueItemTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\test\java\org\schabi\newpipe\player\playqueue\PlayQueueTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\test\java\org\schabi\newpipe\settings\tabs\TabsJsonHelperTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\test\java\org\schabi\newpipe\settings\tabs\TabTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\test\java\org\schabi\newpipe\util\external_communication\TimestampExtractorTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\test\java\org\schabi\newpipe\util\image\ImageStrategyTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\test\java\org\schabi\newpipe\util\ListHelperTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\TeamNewPipe_NewPipe\app\src\test\java\org\schabi\newpipe\util\QuadraticSliderStrategyTest.java">
+</file>
+</checkstyle>

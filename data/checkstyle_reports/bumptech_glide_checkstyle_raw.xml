@@ -1,0 +1,1569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.24.0">
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\src\main\java\com\bumptech\glide\annotation\compiler\AppModuleGenerator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\src\main\java\com\bumptech\glide\annotation\compiler\AppModuleProcessor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\src\main\java\com\bumptech\glide\annotation\compiler\ExtensionProcessor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\src\main\java\com\bumptech\glide\annotation\compiler\GlideAnnotationProcessor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\src\main\java\com\bumptech\glide\annotation\compiler\GlideExtensionValidator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\src\main\java\com\bumptech\glide\annotation\compiler\GlideGenerator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\src\main\java\com\bumptech\glide\annotation\compiler\IndexerGenerator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\src\main\java\com\bumptech\glide\annotation\compiler\LibraryModuleProcessor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\src\main\java\com\bumptech\glide\annotation\compiler\ProcessorUtil.java">
+<error line="57" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 31 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="378" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\src\main\java\com\bumptech\glide\annotation\compiler\RequestBuilderGenerator.java">
+<error line="86" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\src\main\java\com\bumptech\glide\annotation\compiler\RequestManagerFactoryGenerator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\src\main\java\com\bumptech\glide\annotation\compiler\RequestManagerGenerator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\src\main\java\com\bumptech\glide\annotation\compiler\RequestOptionsExtensionGenerator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\src\main\java\com\bumptech\glide\annotation\compiler\RequestOptionsGenerator.java">
+<error line="67" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\src\main\java\com\bumptech\glide\annotation\compiler\RequestOptionsOverrideGenerator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\java\com\bumptech\glide\annotation\compiler\AppGlideModuleWithExcludesTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\java\com\bumptech\glide\annotation\compiler\AppGlideModuleWithLibraryInPackageTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\java\com\bumptech\glide\annotation\compiler\AppGlideModuleWithMultipleExcludesTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\java\com\bumptech\glide\annotation\compiler\EmptyAppAndLibraryGlideModulesTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\java\com\bumptech\glide\annotation\compiler\EmptyAppGlideModuleTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\java\com\bumptech\glide\annotation\compiler\EmptyLibraryGlideModuleTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\java\com\bumptech\glide\annotation\compiler\GlideExtensionOptionsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\java\com\bumptech\glide\annotation\compiler\GlideExtensionWithOptionTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\java\com\bumptech\glide\annotation\compiler\GlideExtensionWithTypeTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\java\com\bumptech\glide\annotation\compiler\InvalidAppGlideModuleWithExcludesTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\java\com\bumptech\glide\annotation\compiler\InvalidGlideExtensionTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\java\com\bumptech\glide\annotation\compiler\InvalidGlideOptionsExtensionTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\java\com\bumptech\glide\annotation\compiler\InvalidGlideTypeExtensionTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\java\com\bumptech\glide\annotation\compiler\MultipleAppGlideModuleTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\java\com\bumptech\glide\annotation\compiler\MultipleEmptyLibraryGlideModuleTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\java\com\bumptech\glide\annotation\compiler\OverlyLongFileNameTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\java\com\bumptech\glide\annotation\compiler\test\CompilationProvider.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\java\com\bumptech\glide\annotation\compiler\test\ReferencedResource.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\java\com\bumptech\glide\annotation\compiler\test\RegenerateResourcesRule.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\java\com\bumptech\glide\annotation\compiler\test\SubDirectory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\java\com\bumptech\glide\annotation\compiler\test\TestDescription.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\java\com\bumptech\glide\annotation\compiler\test\Util.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\AppGlideModuleWithExcludesTest\AppModuleWithExcludes.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\AppGlideModuleWithExcludesTest\GeneratedAppGlideModuleImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\AppGlideModuleWithLibraryInPackageTest\AppModuleWithLibraryInPackage.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\AppGlideModuleWithLibraryInPackageTest\GeneratedAppGlideModuleImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\AppGlideModuleWithLibraryInPackageTest\LibraryModuleInPackage.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\AppGlideModuleWithMultipleExcludesTest\AppModuleWithMultipleExcludes.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\AppGlideModuleWithMultipleExcludesTest\EmptyLibraryModule1.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\AppGlideModuleWithMultipleExcludesTest\EmptyLibraryModule2.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\AppGlideModuleWithMultipleExcludesTest\GeneratedAppGlideModuleImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\EmptyAppAndLibraryGlideModulesTest\GeneratedAppGlideModuleImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\EmptyAppGlideModuleTest\EmptyAppModule.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\EmptyAppGlideModuleTest\GeneratedAppGlideModuleImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\EmptyAppGlideModuleTest\GeneratedRequestManagerFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\EmptyAppGlideModuleTest\GlideApp.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\EmptyAppGlideModuleTest\GlideOptions.java">
+<error line="27" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\EmptyAppGlideModuleTest\GlideRequest.java">
+<error line="43" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 30 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\EmptyAppGlideModuleTest\GlideRequests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\EmptyLibraryGlideModuleTest\EmptyLibraryModule.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\EmptyLibraryGlideModuleTest\GlideIndexer_GlideModule_com_bumptech_glide_test_EmptyLibraryModule.java">
+<error line="6" column="14" severity="warning" message="O nome &apos;GlideIndexer_GlideModule_com_bumptech_glide_test_EmptyLibraryModule&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\GlideExtensionOptionsTest\MemoizeStaticMethod\Extension.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\GlideExtensionOptionsTest\MemoizeStaticMethod\GlideOptions.java">
+<error line="28" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\GlideExtensionOptionsTest\MemoizeStaticMethod\GlideRequest.java">
+<error line="43" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 30 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\GlideExtensionOptionsTest\OverrideExtend\Extension.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\GlideExtensionOptionsTest\OverrideExtend\GlideOptions.java">
+<error line="28" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\GlideExtensionOptionsTest\OverrideExtend\GlideRequest.java">
+<error line="43" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 30 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\GlideExtensionOptionsTest\OverrideExtendMultipleArguments\Extension.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\GlideExtensionOptionsTest\OverrideExtendMultipleArguments\GlideOptions.java">
+<error line="28" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\GlideExtensionOptionsTest\OverrideExtendMultipleArguments\GlideRequest.java">
+<error line="43" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 30 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\GlideExtensionOptionsTest\OverrideReplace\Extension.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\GlideExtensionOptionsTest\OverrideReplace\GlideOptions.java">
+<error line="28" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\GlideExtensionOptionsTest\OverrideReplace\GlideRequest.java">
+<error line="43" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 30 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\GlideExtensionOptionsTest\SkipStaticMethod\Extension.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\GlideExtensionOptionsTest\SkipStaticMethod\GlideOptions.java">
+<error line="28" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\GlideExtensionOptionsTest\SkipStaticMethod\GlideRequest.java">
+<error line="43" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 30 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\GlideExtensionOptionsTest\StaticMethodName\Extension.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\GlideExtensionOptionsTest\StaticMethodName\GlideOptions.java">
+<error line="28" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\GlideExtensionOptionsTest\StaticMethodName\GlideRequest.java">
+<error line="43" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 30 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\GlideExtensionWithOptionTest\ExtensionWithOption.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\GlideExtensionWithOptionTest\GlideOptions.java">
+<error line="28" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\GlideExtensionWithOptionTest\GlideRequest.java">
+<error line="43" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 30 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\GlideExtensionWithTypeTest\ExtensionWithType.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\GlideExtensionWithTypeTest\GlideOptions.java">
+<error line="28" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\GlideExtensionWithTypeTest\GlideRequests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\MultipleAppGlideModuleTest\EmptyAppModule1.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\MultipleAppGlideModuleTest\EmptyAppModule2.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\MultipleEmptyLibraryGlideModuleTest\EmptyLibraryModule1.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\compiler\test\src\test\resources\MultipleEmptyLibraryGlideModuleTest\EmptyLibraryModule2.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\src\main\java\com\bumptech\glide\annotation\compiler\Index.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\src\main\java\com\bumptech\glide\annotation\Excludes.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\src\main\java\com\bumptech\glide\annotation\GlideExtension.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\src\main\java\com\bumptech\glide\annotation\GlideModule.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\src\main\java\com\bumptech\glide\annotation\GlideOption.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\src\main\java\com\bumptech\glide\annotation\GlideType.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\annotation\src\main\java\com\bumptech\glide\annotation\ksp\Index.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\benchmark\src\androidTest\java\com\bumptech\glide\benchmark\BenchmarkData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\benchmark\src\androidTest\java\com\bumptech\glide\benchmark\BenchmarkFromCache.java">
+<error line="31" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\benchmark\src\androidTest\java\com\bumptech\glide\benchmark\BenchmarkMediaStoreData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\benchmark\src\androidTest\java\com\bumptech\glide\benchmark\BenchmarkModels.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\benchmark\src\androidTest\java\com\bumptech\glide\benchmark\data\DataOpener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\benchmark\src\androidTest\java\com\bumptech\glide\benchmark\GlideBenchmarkRule.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\benchmark\src\androidTest\java\com\bumptech\glide\load\resource\bitmap\BenchmarkDownsampler.java">
+<error line="33" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 18 classes [BenchmarkRule, ByteArrayBufferOpener, ByteArrayDecoder, ByteArrayOpener, ByteBufferDecoder, DefaultImageHeaderParser, Downsampler, ExifInterfaceImageHeaderParser, FileDecoder, FileOpener, InputStreamDecoder, InputStreamOverByteArrayBufferOpener, LruArrayPool, LruBitmapPool, MemoryMappedByteBufferOpener, ParcelFileDescriptorDecoder, ParcelFileDescriptorOpener, StreamOpener] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="33" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 28 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\AsBytesTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\AsFileTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\CachingTest.java">
+<error line="57" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 11 classes [ConcurrencyHelper, CountDownLatch, GlideBuilder, Handler, ImageView, LayoutParams, LruResourceCache, MemoryCacheAdapter, Runnable, TearDownGlide, ThrowingRunnable] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="57" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 27 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\CenterCropRegressionTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\CenterInsideRegressionTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\CircleCropRegressionTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\DarkModeTest.java">
+<error line="43" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\DataUriTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\DownsampleVideoTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\DrawableTransformationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\ErrorHandlingTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\ExternallyClearedDiskCacheTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\FitCenterRegressionTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\LargeImageTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\load\engine\executor\IdlingGlideRule.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\load\resource\bitmap\DownsamplerEmulatorTest.java">
+<error line="55" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 17 classes [BitmapPoolAdapter, BufferedInputStream, BufferedOutputStream, ByteArrayInputStream, ByteArrayOutputStream, CompressFormat, DefaultImageHeaderParser, DisplayMetrics, Downsampler, ExifInterface, FileInputStream, FileOutputStream, Formats, LruArrayPool, Options, Tester, android.graphics.Gainmap] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="55" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 29 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="617" column="33" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\load\resource\gif\GifDrawableTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\LoadAnimatedImageResourceTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\LoadAssetUriTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\LoadBitmapTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\LoadBytesTest.java">
+<error line="47" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\LoadDrawableTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\LoadResourcesWithDownsamplerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\LoadVideoResourceTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\MultiRequestTest.java">
+<error line="40" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 12 classes [AtomicBoolean, BufferedOutputStream, Canvas, ConcurrencyHelper, CountDownLatch, DoNothingTarget, FileOutputStream, GlideBuilder, ModelGeneratorRule, RequestListener, TearDownGlide, TemporaryFolder] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="40" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 29 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\NonBitmapDrawableResourcesTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\PausedRequestsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\RequestManagerLifecycleTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\RequestManagerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\RequestTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\RoundedCornersRegressionTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\test\BitmapRegressionTester.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\test\CanonicalBitmap.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\test\ModelGeneratorRule.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\test\RegressionTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\test\ResourceIds.java">
+<error line="16" column="20" severity="warning" message="O nome &apos;raw&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="32" column="20" severity="warning" message="O nome &apos;drawable&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\test\SplitByCpu.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\test\SplitBySdk.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\androidTest\java\com\bumptech\glide\WideGamutTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\main\java\com\bumptech\glide\test\DefaultFragmentActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\main\java\com\bumptech\glide\test\ForceDarkOrLightModeActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\main\java\com\bumptech\glide\test\GlideWithAsDifferentSupertypesActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\main\java\com\bumptech\glide\test\GlideWithBeforeSuperOnCreateActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\instrumentation\src\main\java\com\bumptech\glide\test\InstrumentationAppGlideModule.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\avif\src\main\java\com\bumptech\glide\integration\avif\AvifByteBufferBitmapDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\avif\src\main\java\com\bumptech\glide\integration\avif\AvifGlideModule.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\avif\src\main\java\com\bumptech\glide\integration\avif\AvifStreamBitmapDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\concurrent\src\main\java\com\bumptech\glide\integration\concurrent\GlideFutures.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\concurrent\src\test\java\com\bumptech\glide\integration\concurrent\GlideFuturesTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\cronet\src\main\java\com\bumptech\glide\integration\cronet\BufferQueue.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\cronet\src\main\java\com\bumptech\glide\integration\cronet\ByteBufferParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\cronet\src\main\java\com\bumptech\glide\integration\cronet\ChromiumRequestSerializer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\cronet\src\main\java\com\bumptech\glide\integration\cronet\ChromiumUrlFetcher.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\cronet\src\main\java\com\bumptech\glide\integration\cronet\ChromiumUrlLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\cronet\src\main\java\com\bumptech\glide\integration\cronet\CronetEngineSingleton.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\cronet\src\main\java\com\bumptech\glide\integration\cronet\CronetGlideModule.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\cronet\src\main\java\com\bumptech\glide\integration\cronet\CronetLibraryGlideModule.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\cronet\src\main\java\com\bumptech\glide\integration\cronet\CronetRequestFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\cronet\src\main\java\com\bumptech\glide\integration\cronet\CronetRequestFactoryImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\cronet\src\main\java\com\bumptech\glide\integration\cronet\DataLogger.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\cronet\src\test\java\com\bumptech\glide\integration\cronet\ChromiumUrlFetcherTest.java">
+<error line="52" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 31 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\gifencoder\src\main\java\com\bumptech\glide\integration\gifencoder\ReEncodingGifResourceEncoder.java">
+<error line="38" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 28 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\gifencoder\src\test\java\com\bumptech\glide\integration\gifencoder\ReEncodingGifResourceEncoderTest.java">
+<error line="46" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\okhttp\src\main\java\com\bumptech\glide\integration\okhttp\OkHttpGlideModule.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\okhttp\src\main\java\com\bumptech\glide\integration\okhttp\OkHttpLibraryGlideModule.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\okhttp\src\main\java\com\bumptech\glide\integration\okhttp\OkHttpStreamFetcher.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\okhttp\src\main\java\com\bumptech\glide\integration\okhttp\OkHttpUrlLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\okhttp3\src\main\java\com\bumptech\glide\integration\okhttp3\OkHttpGlideModule.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\okhttp3\src\main\java\com\bumptech\glide\integration\okhttp3\OkHttpLibraryGlideModule.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\okhttp3\src\main\java\com\bumptech\glide\integration\okhttp3\OkHttpStreamFetcher.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\okhttp3\src\main\java\com\bumptech\glide\integration\okhttp3\OkHttpUrlLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\okhttp4\src\main\java\com\bumptech\glide\integration\okhttp3\OkHttpLibraryGlideModule.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\okhttp4\src\main\java\com\bumptech\glide\integration\okhttp3\OkHttpStreamFetcher.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\okhttp4\src\main\java\com\bumptech\glide\integration\okhttp3\OkHttpUrlLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\recyclerview\src\main\java\com\bumptech\glide\integration\recyclerview\RecyclerToListViewScrollListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\recyclerview\src\main\java\com\bumptech\glide\integration\recyclerview\RecyclerViewPreloader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\sqljournaldiskcache\src\main\java\com\bumptech\glide\integration\sqljournaldiskcache\Clock.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\sqljournaldiskcache\src\main\java\com\bumptech\glide\integration\sqljournaldiskcache\DefaultClock.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\sqljournaldiskcache\src\main\java\com\bumptech\glide\integration\sqljournaldiskcache\DiskCacheDbHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\sqljournaldiskcache\src\main\java\com\bumptech\glide\integration\sqljournaldiskcache\EntryCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\sqljournaldiskcache\src\main\java\com\bumptech\glide\integration\sqljournaldiskcache\EvictionManager.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\sqljournaldiskcache\src\main\java\com\bumptech\glide\integration\sqljournaldiskcache\FileSystem.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\sqljournaldiskcache\src\main\java\com\bumptech\glide\integration\sqljournaldiskcache\GlideJournaledLruDiskCacheWrapper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\sqljournaldiskcache\src\main\java\com\bumptech\glide\integration\sqljournaldiskcache\Journal.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\sqljournaldiskcache\src\main\java\com\bumptech\glide\integration\sqljournaldiskcache\JournaledLruDiskCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\sqljournaldiskcache\src\main\java\com\bumptech\glide\integration\sqljournaldiskcache\JournalTable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\sqljournaldiskcache\src\main\java\com\bumptech\glide\integration\sqljournaldiskcache\MessageIds.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\sqljournaldiskcache\src\main\java\com\bumptech\glide\integration\sqljournaldiskcache\RecoveryManager.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\sqljournaldiskcache\src\main\java\com\bumptech\glide\integration\sqljournaldiskcache\SizeJournal.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\sqljournaldiskcache\src\main\java\com\bumptech\glide\integration\sqljournaldiskcache\SizeTable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\sqljournaldiskcache\src\main\java\com\bumptech\glide\integration\sqljournaldiskcache\SqliteStatementPool.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\sqljournaldiskcache\src\test\java\com\bumptech\glide\integration\sqljournaldiskcache\DiskCacheDbHelperUpgradeTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\sqljournaldiskcache\src\test\java\com\bumptech\glide\integration\sqljournaldiskcache\DiskCacheUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\sqljournaldiskcache\src\test\java\com\bumptech\glide\integration\sqljournaldiskcache\JournaledLruDiskCacheTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\sqljournaldiskcache\src\test\java\com\bumptech\glide\integration\sqljournaldiskcache\TestClock.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\volley\src\main\java\com\bumptech\glide\integration\volley\VolleyGlideModule.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\volley\src\main\java\com\bumptech\glide\integration\volley\VolleyLibraryGlideModule.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\volley\src\main\java\com\bumptech\glide\integration\volley\VolleyRequestFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\volley\src\main\java\com\bumptech\glide\integration\volley\VolleyStreamFetcher.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\volley\src\main\java\com\bumptech\glide\integration\volley\VolleyUrlLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\integration\volley\src\test\java\com\bumptech\glide\integration\volley\VolleyStreamFetcherServerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\GeneratedAppGlideModule.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\GenericTransitionOptions.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\Glide.java">
+<error line="53" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 42 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="221" column="3" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\GlideBuilder.java">
+<error line="43" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 16 classes [ArrayMap, BitmapPoolAdapter, DefaultConnectivityMonitorFactory, EnableImageDecoderForBitmaps, Engine, Glide, GlideExperiments.Builder, InternalCacheDiskCacheFactory, LogRequestOrigins, LruArrayPool, LruBitmapPool, LruResourceCache, MemorySizeCalculator.Builder, RequestManagerRetriever, RequestOptions, RequestOptionsFactory] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="43" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 31 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="527" column="3" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\GlideContext.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\GlideExperiments.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\ListPreloader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\data\AssetFileDescriptorLocalUriFetcher.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\data\AssetPathFetcher.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\data\BufferedOutputStream.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\data\DataFetcher.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\data\DataRewinder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\data\DataRewinderRegistry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\data\ExifOrientationStream.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\data\FileDescriptorAssetPathFetcher.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\data\FileDescriptorLocalUriFetcher.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\data\HttpUrlFetcher.java">
+<error line="73" column="3" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\data\InputStreamRewinder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\data\LocalUriFetcher.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\data\mediastore\FileService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\data\mediastore\MediaStoreUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\data\mediastore\ThumbFetcher.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\data\mediastore\ThumbnailQuery.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\data\mediastore\ThumbnailStreamOpener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\data\ParcelFileDescriptorRewinder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\data\StreamAssetPathFetcher.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\data\StreamLocalUriFetcher.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\DataSource.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\DecodeFormat.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\Encoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\EncodeStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\ActiveResources.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\bitmap_recycle\ArrayAdapterInterface.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\bitmap_recycle\ArrayPool.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\bitmap_recycle\AttributeStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\bitmap_recycle\BaseKeyPool.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\bitmap_recycle\BitmapPool.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\bitmap_recycle\BitmapPoolAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\bitmap_recycle\ByteArrayAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\bitmap_recycle\GroupedLinkedMap.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\bitmap_recycle\IntegerArrayAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\bitmap_recycle\LruArrayPool.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\bitmap_recycle\LruBitmapPool.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\bitmap_recycle\LruPoolStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\bitmap_recycle\Poolable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\bitmap_recycle\PrettyPrintTreeMap.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\bitmap_recycle\SizeConfigStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\bitmap_recycle\SizeStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\cache\DiskCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\cache\DiskCacheAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\cache\DiskCacheWriteLocker.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\cache\DiskLruCacheFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\cache\DiskLruCacheWrapper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\cache\ExternalCacheDiskCacheFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\cache\ExternalPreferredCacheDiskCacheFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\cache\InternalCacheDiskCacheFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\cache\LruResourceCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\cache\MemoryCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\cache\MemoryCacheAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\cache\MemorySizeCalculator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\cache\SafeKeyGenerator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\CallbackException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\DataCacheGenerator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\DataCacheKey.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\DataCacheWriter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\DataFetcherGenerator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\DecodeHelper.java">
+<error line="24" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\DecodeJob.java">
+<error line="38" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 12 classes [DataCacheGenerator, DataCacheKey, DecodeCallback, DecodeHelper, DeferredEncodeManager, GlideException, Options, Registry.NoResultEncoderAvailableException, ReleaseManager, ResourceCacheGenerator, ResourceCacheKey, SourceGenerator] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="38" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 43 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\DecodePath.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\DiskCacheStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\Engine.java">
+<error line="29" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 29 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\EngineJob.java">
+<error line="27" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 26 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\EngineJobListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\EngineKey.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\EngineKeyFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\EngineResource.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\executor\GlideExecutor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\executor\RuntimeCompat.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\GlideException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\Initializable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\Jobs.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\LoadPath.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\LockedResource.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\prefill\BitmapPreFiller.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\prefill\BitmapPreFillRunner.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\prefill\PreFillQueue.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\prefill\PreFillType.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\Resource.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\ResourceCacheGenerator.java">
+<error line="43" column="3" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\ResourceCacheKey.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\ResourceRecycler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\engine\SourceGenerator.java">
+<error line="31" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="49" column="3" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\HttpException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\ImageHeaderParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\ImageHeaderParserUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\Key.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\model\AssetUriLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\model\ByteArrayLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\model\ByteBufferEncoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\model\ByteBufferFileLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\model\DataUrlLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\model\DirectResourceLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\model\FileLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\model\GlideUrl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\model\Headers.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\model\LazyHeaderFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\model\LazyHeaders.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\model\MediaStoreFileLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\model\Model.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\model\ModelCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\model\ModelLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\model\ModelLoaderFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\model\ModelLoaderRegistry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\model\MultiModelLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\model\MultiModelLoaderFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\model\ResourceLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\model\ResourceUriLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\model\stream\BaseGlideUrlLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\model\stream\HttpGlideUrlLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\model\stream\HttpUriLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\model\stream\MediaStoreImageThumbLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\model\stream\MediaStoreVideoThumbLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\model\stream\QMediaStoreUriLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\model\stream\UrlLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\model\StreamEncoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\model\StringLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\model\UnitModelLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\model\UriLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\model\UrlUriLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\MultiTransformation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\Option.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\Options.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\PreferredColorSpace.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bitmap\BitmapDrawableDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bitmap\BitmapDrawableEncoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bitmap\BitmapDrawableResource.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bitmap\BitmapDrawableTransformation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bitmap\BitmapEncoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bitmap\BitmapImageDecoderResourceDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bitmap\BitmapResource.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bitmap\BitmapTransformation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bitmap\BitmapTransitionOptions.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bitmap\ByteBufferBitmapDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bitmap\ByteBufferBitmapImageDecoderResourceDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bitmap\CenterCrop.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bitmap\CenterInside.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bitmap\CircleCrop.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bitmap\DefaultImageHeaderParser.java">
+<error line="144" column="3" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="440" column="3" severity="warning" message="A complexidade ciclomática é de 20 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bitmap\Downsampler.java">
+<error line="47" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 31 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="305" column="3" severity="warning" message="A complexidade ciclomática é de 27 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="461" column="3" severity="warning" message="A complexidade ciclomática é de 23 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bitmap\DownsampleStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bitmap\DrawableToBitmapConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bitmap\DrawableTransformation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bitmap\ExifInterfaceImageHeaderParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bitmap\FitCenter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bitmap\GlideBitmapFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bitmap\GranularRoundedCorners.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bitmap\HardwareConfigState.java">
+<error line="117" column="3" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bitmap\ImageReader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bitmap\InputStreamBitmapImageDecoderResourceDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bitmap\LazyBitmapDrawableResource.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bitmap\ParcelFileDescriptorBitmapDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bitmap\RecyclableBufferedInputStream.java">
+<error line="263" column="3" severity="warning" message="A complexidade ciclomática é de 20 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bitmap\ResourceBitmapDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bitmap\Rotate.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bitmap\RoundedCorners.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bitmap\StreamBitmapDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bitmap\TransformationUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bitmap\UnitBitmapDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bitmap\VideoBitmapDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bitmap\VideoDecoder.java">
+<error line="40" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 28 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bytes\ByteBufferRewinder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\bytes\BytesResource.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\DefaultOnHeaderDecodedListener.java">
+<error line="57" column="3" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\drawable\AnimatedImageDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\drawable\AnimatedWebpDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\drawable\DrawableDecoderCompat.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\drawable\DrawableResource.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\drawable\DrawableTransitionOptions.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\drawable\NonOwnedDrawableResource.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\drawable\ResourceDrawableDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\drawable\UnitDrawableDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\file\FileDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\file\FileResource.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\gif\ByteBufferGifDecoder.java">
+<error line="35" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\gif\GifBitmapProvider.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\gif\GifDrawable.java">
+<error line="31" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\gif\GifDrawableEncoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\gif\GifDrawableResource.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\gif\GifDrawableTransformation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\gif\GifFrameLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\gif\GifFrameResourceDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\gif\GifOptions.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\gif\StreamGifDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\SimpleResource.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\transcode\BitmapBytesTranscoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\transcode\BitmapDrawableTranscoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\transcode\DrawableBytesTranscoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\transcode\GifDrawableBytesTranscoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\transcode\ResourceTranscoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\transcode\TranscoderRegistry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\transcode\UnitTranscoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\resource\UnitTransformation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\ResourceDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\ResourceEncoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\load\Transformation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\manager\ApplicationLifecycle.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\manager\ConnectivityMonitor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\manager\ConnectivityMonitorFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\manager\DefaultConnectivityMonitor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\manager\DefaultConnectivityMonitorFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\manager\DoNothingFirstFrameWaiter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\manager\EmptyRequestManagerTreeNode.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\manager\FirstFrameWaiter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\manager\FrameWaiter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\manager\Lifecycle.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\manager\LifecycleLifecycle.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\manager\LifecycleListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\manager\LifecycleRequestManagerRetriever.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\manager\NullConnectivityMonitor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\manager\RequestManagerFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\manager\RequestManagerRetriever.java">
+<error line="31" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 27 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\manager\RequestManagerTreeNode.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\manager\RequestTracker.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\manager\SingletonConnectivityReceiver.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\manager\SupportRequestManagerFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\manager\TargetTracker.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\MemoryCategory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\ModelTypes.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\module\AppGlideModule.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\module\AppliesOptions.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\module\GlideModule.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\module\LibraryGlideModule.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\module\ManifestParser.java">
+<error line="38" column="3" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\module\RegistersComponents.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\Priority.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\provider\EncoderRegistry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\provider\ImageHeaderParserRegistry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\provider\LoadPathCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\provider\ModelToResourceClassCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\provider\ResourceDecoderRegistry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\provider\ResourceEncoderRegistry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\Registry.java">
+<error line="38" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 14 classes [DataRewinderRegistry, DecodePath, EncoderRegistry, ImageHeaderParserRegistry, LoadPath, LoadPathCache, ModelLoaderRegistry, ModelToResourceClassCache, NoImageHeaderParserException, NoResultEncoderAvailableException, NoSourceEncoderAvailableException, ResourceDecoderRegistry, ResourceEncoderRegistry, TranscoderRegistry] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="38" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 28 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\RegistryFactory.java">
+<error line="83" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 56 classes [AssetUriLoader.FileDescriptorFactory, AssetUriLoader.StreamFactory, BitmapBytesTranscoder, BitmapDrawableDecoder, BitmapDrawableEncoder, BitmapDrawableTranscoder, BitmapEncoder, ByteArrayLoader.ByteBufferFactory, ByteArrayLoader.StreamFactory, ByteBufferBitmapDecoder, ByteBufferBitmapImageDecoderResourceDecoder, ByteBufferEncoder, ByteBufferFileLoader.Factory, ByteBufferGifDecoder, ByteBufferRewinder.Factory, DataUrlLoader.StreamFactory, DefaultImageHeaderParser, Downsampler, DrawableBytesTranscoder, ExifInterfaceImageHeaderParser, FileDecoder, FileLoader.FileDescriptorFactory, FileLoader.StreamFactory, GifDrawableBytesTranscoder, GifDrawableEncoder, GifFrameResourceDecoder, GlideSupplier, HttpGlideUrlLoader.Factory, InputStreamBitmapImageDecoderResourceDecoder, InputStreamRewinder.Factory, MediaStoreFileLoader.Factory, MediaStoreImageThumbLoader.Factory, MediaStoreVideoThumbLoader.Factory, ParcelFileDescriptorBitmapDecoder, ParcelFileDescriptorRewinder.Factory, QMediaStoreUriLoader.FileDescriptorFactory, QMediaStoreUriLoader.InputStreamFactory, Registry, ResourceBitmapDecoder, ResourceDrawableDecoder, ResourceLoader.AssetFileDescriptorFactory, ResourceLoader.StreamFactory, ResourceLoader.UriFactory, StreamBitmapDecoder, StreamEncoder, StreamGifDecoder, StringLoader.AssetFileDescriptorFactory, StringLoader.FileDescriptorFactory, StringLoader.StreamFactory, UnitBitmapDecoder, UnitDrawableDecoder, UriLoader.AssetFileDescriptorFactory, UriLoader.FileDescriptorFactory, UriLoader.StreamFactory, UrlLoader.StreamFactory, UrlUriLoader.StreamFactory] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="83" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 70 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\BaseRequestOptions.java">
+<error line="49" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 29 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="1114" column="3" severity="warning" message="A complexidade ciclomática é de 23 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1221" column="3" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\ErrorRequestCoordinator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\ExperimentalRequestListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\FutureTarget.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\Request.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\RequestCoordinator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\RequestFutureTarget.java">
+<error line="189" column="3" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\RequestListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\RequestOptions.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\ResourceCallback.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\SingleRequest.java">
+<error line="36" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 28 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="215" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\target\AppWidgetTarget.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\target\BaseTarget.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\target\BitmapImageViewTarget.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\target\BitmapThumbnailImageViewTarget.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\target\CustomTarget.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\target\CustomViewTarget.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\target\DrawableImageViewTarget.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\target\DrawableThumbnailImageViewTarget.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\target\FixedSizeDrawable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\target\ImageViewTarget.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\target\ImageViewTargetFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\target\NotificationTarget.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\target\PreloadTarget.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\target\SimpleTarget.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\target\SizeReadyCallback.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\target\Target.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\target\ThumbnailImageViewTarget.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\target\ViewTarget.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\ThumbnailRequestCoordinator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\transition\BitmapContainerTransitionFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\transition\BitmapTransitionFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\transition\DrawableCrossFadeFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\transition\DrawableCrossFadeTransition.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\transition\NoTransition.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\transition\Transition.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\transition\TransitionFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\transition\ViewAnimationFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\transition\ViewPropertyAnimationFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\transition\ViewPropertyTransition.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\request\transition\ViewTransition.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\RequestBuilder.java">
+<error line="56" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 34 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="884" column="3" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1303" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\RequestManager.java">
+<error line="57" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 35 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\signature\AndroidResourceSignature.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\signature\ApplicationVersionSignature.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\signature\EmptySignature.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\signature\MediaStoreSignature.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\signature\ObjectKey.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\TransitionOptions.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\util\ByteBufferUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\util\CachedHashCodeArrayMap.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\util\ContentLengthInputStream.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\util\ExceptionCatchingInputStream.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\util\ExceptionPassthroughInputStream.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\util\Executors.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\util\FixedPreloadSizeProvider.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\util\GlideSuppliers.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\util\LogTime.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\util\LruCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\util\MarkEnforcingInputStream.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\util\MultiClassKey.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\util\pool\FactoryPools.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\util\pool\GlideTrace.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\util\pool\StateVerifier.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\util\Preconditions.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\util\Synthetic.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\util\Util.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\main\java\com\bumptech\glide\util\ViewPreloadSizeProvider.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\src\test\java\com\bumptech\glide\request\target\CustomViewTargetTest.java">
+<error line="58" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\GlideContextTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\GlideTest.java">
+<error line="93" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 15 classes [ByteArrayInputStream, CallSizeReady, ColorDrawable, CustomTarget, File, GlideBuilder, ImageView, ModelLoader.LoadData, RequestListener, RequestManager, RequestOptions, TearDownGlide, URL, Util.CallDataReady, ViewGroup.LayoutParams] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="93" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 56 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\InitializeGlideTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\ListPreloaderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\data\BufferedOutputStreamFuzzTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\data\BufferedOutputStreamTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\data\ExifOrientationStreamTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\data\FileDescriptorAssetPathFetcherTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\data\HttpUrlFetcherServerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\data\HttpUrlFetcherTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\data\LocalUriFetcherTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\data\mediastore\MediaStoreUtilTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\data\mediastore\ThumbFetcherTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\data\mediastore\ThumbnailStreamOpenerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\data\resource\FileDescriptorLocalUriFetcherTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\data\resource\StreamLocalUriFetcherTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\data\StreamAssetPathFetcherTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\engine\ActiveResourcesTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\engine\bitmap_recycle\AttributeStrategyKeyTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\engine\bitmap_recycle\AttributeStrategyTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\engine\bitmap_recycle\GroupedLinkedMapTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\engine\bitmap_recycle\LruArrayPoolTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\engine\bitmap_recycle\LruBitmapPoolTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\engine\bitmap_recycle\SizeConfigStrategyTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\engine\bitmap_recycle\SizeStrategyKeyTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\engine\cache\DiskLruCacheWrapperTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\engine\cache\LruCacheTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\engine\cache\LruResourceCacheTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\engine\cache\MemorySizeCalculatorTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\engine\cache\SafeKeyGeneratorTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\engine\DataCacheKeyTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\engine\EngineJobTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\engine\EngineKeyTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\engine\EngineResourceTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\engine\EngineTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\engine\executor\GlideExecutorTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\engine\prefill\BitmapPreFillerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\engine\prefill\BitmapPreFillRunnerTest.java">
+<error line="46" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\engine\prefill\PreFillTypeTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\engine\ResourceCacheKeyTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\engine\ResourceRecyclerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\ImageHeaderParserUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\model\AssetUriLoaderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\model\ByteArrayLoaderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\model\DataUrlLoaderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\model\GlideUrlTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\model\LazyHeadersTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\model\ModelCacheTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\model\ModelLoaderRegistryTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\model\MultiModelLoaderFactoryTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\model\ResourceLoaderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\model\stream\BaseGlideUrlLoaderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\model\stream\HttpGlideUrlLoaderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\model\StreamEncoderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\model\StringLoaderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\model\UriLoaderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\model\UrlUriLoaderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\MultiTransformationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\OptionsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\resource\bitmap\BitmapDrawableResourceTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\resource\bitmap\BitmapDrawableTransformationTest.java">
+<error line="40" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\resource\bitmap\BitmapEncoderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\resource\bitmap\BitmapResourceTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\resource\bitmap\BitmapTransformationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\resource\bitmap\CenterCropTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\resource\bitmap\CenterInsideTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\resource\bitmap\CircleCropTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\resource\bitmap\DefaultImageHeaderParserTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\resource\bitmap\DownsampleStrategyTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\resource\bitmap\DrawableTransformationTest.java">
+<error line="42" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 11 classes [Answer, BitmapDrawable, BitmapDrawableResource, BitmapPoolAdapter, ColorDrawable, DrawableTransformation, GlideBuilder, KeyTester, ReturnGivenResource, SimpleResource, Util.WriteDigest] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="42" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 26 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\resource\bitmap\FitCenterTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\resource\bitmap\HardwareConfigStateTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\resource\bitmap\LazyBitmapDrawableResourceTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\resource\bitmap\RecyclableBufferedInputStreamTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\resource\bitmap\TransformationUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\resource\bitmap\VideoDecoderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\resource\bytes\BytesResourceTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\resource\drawable\DrawableResourceTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\resource\file\FileDecoderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\resource\file\FileResourceTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\resource\gif\ByteBufferGifDecoderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\resource\gif\GifDrawableResourceTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\resource\gif\GifDrawableTest.java">
+<error line="51" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 24 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\resource\gif\GifDrawableTransformationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\resource\gif\GifFrameLoaderTest.java">
+<error line="48" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 24 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\resource\gif\GifFrameResourceDecoderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\resource\gif\StreamGifDecoderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\resource\SimpleResourceTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\resource\transcode\BitmapBytesTranscoderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\resource\transcode\BitmapDrawableTranscoderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\resource\transcode\GifDrawableBytesTranscoderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\resource\transcode\TranscoderRegistryTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\resource\transcode\UnitTranscoderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\load\resource\UnitTransformationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\manager\DefaultConnectivityMonitorFactoryTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\manager\DefaultConnectivityMonitorTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\manager\Issue117Activity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\manager\RequestManagerRetrieverTest.java">
+<error line="45" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 24 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\manager\RequestTrackerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\module\ManifestParserTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\RegistryFactoryTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\RegistryTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\request\ErrorRequestCoordinatorTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\request\RequestFutureTargetTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\request\RequestOptionsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\request\SingleRequestTest.java">
+<error line="62" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 11 classes [Answer, AtomicBoolean, CallResourceCallback, CallSizeReady, ColorDrawable, DoNothingTarget, Equivalence, GlideException, MockTarget, RequestListener, SingleRequestBuilder] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="62" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 31 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\request\target\AppWidgetTargetTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\request\target\BitmapImageViewTargetTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\request\target\ImageViewTargetFactoryTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\request\target\ImageViewTargetTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\request\target\NotificationTargetTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\request\target\PreloadTargetTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\request\target\SimpleTargetTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\request\target\ViewTargetTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\request\ThumbnailRequestCoordinatorTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\request\transition\DrawableCrossFadeFactoryTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\request\transition\DrawableCrossFadeViewAnimationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\request\transition\ViewAnimationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\request\transition\ViewPropertyAnimationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\request\transition\ViewPropertyViewTransitionAnimationFactoryTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\request\transition\ViewTransitionAnimationFactoryTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\RequestBuilderTest.java">
+<error line="42" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 29 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\RequestManagerTest.java">
+<error line="45" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\resize\load\ExifTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\signature\AndroidResourceSignatureTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\signature\ApplicationVersionSignatureTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\signature\EmptySignatureTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\signature\MediaStoreSignatureTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\signature\ObjectKeyTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\tests\BackgroundUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\tests\ContentResolverShadow.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\tests\GlideShadowLog.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\tests\KeyTester.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\tests\TearDownGlide.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\tests\Util.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\util\ByteBufferUtilTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\util\ContentLengthInputStreamTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\util\ExceptionPassthroughInputStreamTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\util\FixedPreloadSizeProviderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\util\MarkEnforcingInputStreamTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\util\UtilTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\com\bumptech\glide\util\ViewPreloadSizeProviderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\library\test\src\test\java\opengles\GL.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\mocks\src\main\java\com\bumptech\glide\load\engine\executor\MockGlideExecutor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\mocks\src\main\java\com\bumptech\glide\mocks\AnswerSelf.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\mocks\src\main\java\com\bumptech\glide\mocks\MockGlideBuilders.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\contacturi\src\main\java\com\bumptech\glide\samples\contacturi\ContactUriModule.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\contacturi\src\main\java\com\bumptech\glide\samples\contacturi\MainActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\flickr\src\main\java\com\bumptech\glide\samples\flickr\api\Api.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\flickr\src\main\java\com\bumptech\glide\samples\flickr\api\FlickrQueryResponseListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\flickr\src\main\java\com\bumptech\glide\samples\flickr\api\Photo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\flickr\src\main\java\com\bumptech\glide\samples\flickr\api\PhotoJsonStringParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\flickr\src\main\java\com\bumptech\glide\samples\flickr\api\Query.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\flickr\src\main\java\com\bumptech\glide\samples\flickr\api\RecentQuery.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\flickr\src\main\java\com\bumptech\glide\samples\flickr\api\SearchQuery.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\flickr\src\main\java\com\bumptech\glide\samples\flickr\FlickrGlideExtension.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\flickr\src\main\java\com\bumptech\glide\samples\flickr\FlickrGlideModule.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\flickr\src\main\java\com\bumptech\glide\samples\flickr\FlickrModelLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\flickr\src\main\java\com\bumptech\glide\samples\flickr\FlickrPhotoGrid.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\flickr\src\main\java\com\bumptech\glide\samples\flickr\FlickrPhotoList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\flickr\src\main\java\com\bumptech\glide\samples\flickr\FlickrSearchActivity.java">
+<error line="44" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\flickr\src\main\java\com\bumptech\glide\samples\flickr\FullscreenActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\flickr\src\main\java\com\bumptech\glide\samples\flickr\PhotoViewer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\flickr\src\main\java\com\bumptech\glide\samples\flickr\SquareImageView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\giphy\src\main\java\com\bumptech\glide\samples\giphy\Api.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\giphy\src\main\java\com\bumptech\glide\samples\giphy\FullscreenActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\giphy\src\main\java\com\bumptech\glide\samples\giphy\GiphyGlideModule.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\giphy\src\main\java\com\bumptech\glide\samples\giphy\GiphyModelLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\giphy\src\main\java\com\bumptech\glide\samples\giphy\MainActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\imgur\src\main\java\com\bumptech\glide\samples\imgur\api\ApiModule.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\imgur\src\main\java\com\bumptech\glide\samples\imgur\api\Gallery.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\imgur\src\main\java\com\bumptech\glide\samples\imgur\api\Image.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\imgur\src\main\java\com\bumptech\glide\samples\imgur\api\ImgurObservables.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\imgur\src\main\java\com\bumptech\glide\samples\imgur\api\ImgurService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\imgur\src\main\java\com\bumptech\glide\samples\imgur\ApplicationModule.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\imgur\src\main\java\com\bumptech\glide\samples\imgur\ImgurApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\imgur\src\main\java\com\bumptech\glide\samples\imgur\ImgurApplicationComponent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\imgur\src\main\java\com\bumptech\glide\samples\imgur\ImgurGlideModule.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\imgur\src\main\java\com\bumptech\glide\samples\imgur\MainActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\imgur\src\main\java\com\bumptech\glide\samples\imgur\MainActivityModule.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\svg\src\main\java\com\bumptech\glide\samples\svg\MainActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\svg\src\main\java\com\bumptech\glide\samples\svg\SvgDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\svg\src\main\java\com\bumptech\glide\samples\svg\SvgDrawableTranscoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\svg\src\main\java\com\bumptech\glide\samples\svg\SvgModule.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\samples\svg\src\main\java\com\bumptech\glide\samples\svg\SvgSoftwareLayerSetter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\testutil\src\main\java\com\bumptech\glide\RobolectricConstants.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\testutil\src\main\java\com\bumptech\glide\testutil\BitmapSubject.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\testutil\src\main\java\com\bumptech\glide\testutil\ConcurrencyHelper.java">
+<error line="32" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 11 classes [AtomicBoolean, AtomicReference, Callable, CountDownLatch, DrawableImageViewTarget, Handler, Runnable, Target, Thread, Waiter, WaiterException] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="32" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 27 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\testutil\src\main\java\com\bumptech\glide\testutil\MockModelLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\testutil\src\main\java\com\bumptech\glide\testutil\TearDownGlide.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\testutil\src\main\java\com\bumptech\glide\testutil\TestResourceUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\testutil\src\main\java\com\bumptech\glide\testutil\TestUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\testutil\src\main\java\com\bumptech\glide\testutil\WaitModelLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\testutil\src\main\java\com\bumptech\glide\testutil\WaitModelLoaderRule.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\third_party\disklrucache\src\main\java\com\bumptech\glide\disklrucache\DiskLruCache.java">
+<error line="90" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 16 classes [BufferedWriter, Callable, DiskLruCacheThreadFactory, Editor, Entry, File, FileInputStream, FileOutputStream, IOException, InputStreamReader, LinkedBlockingQueue, OutputStreamWriter, StrictLineReader, StrictMode.ThreadPolicy.Builder, ThreadPoolExecutor, Value] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="90" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 24 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="287" column="3" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="507" column="3" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="849" column="39" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\third_party\disklrucache\src\main\java\com\bumptech\glide\disklrucache\StrictLineReader.java">
+<error line="126" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\third_party\disklrucache\src\main\java\com\bumptech\glide\disklrucache\Util.java">
+<error line="73" column="35" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\third_party\disklrucache\src\test\java\com\bumptech\glide\disklrucache\DiskLruCacheTest.java">
+<error line="311" column="45" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="321" column="46" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="508" column="49" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="516" column="49" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="846" column="46" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="851" column="46" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="856" column="46" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="861" column="46" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="866" column="46" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\third_party\disklrucache\src\test\java\com\bumptech\glide\disklrucache\StrictLineReaderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\third_party\gif_decoder\src\main\java\com\bumptech\glide\gifdecoder\GifDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\third_party\gif_decoder\src\main\java\com\bumptech\glide\gifdecoder\GifFrame.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\third_party\gif_decoder\src\main\java\com\bumptech\glide\gifdecoder\GifHeader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\third_party\gif_decoder\src\main\java\com\bumptech\glide\gifdecoder\GifHeaderParser.java">
+<error line="199" column="3" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\third_party\gif_decoder\src\main\java\com\bumptech\glide\gifdecoder\StandardGifDecoder.java">
+<error line="231" column="3" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="423" column="3" severity="warning" message="A complexidade ciclomática é de 22 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="550" column="3" severity="warning" message="A complexidade ciclomática é de 20 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="695" column="3" severity="warning" message="A complexidade ciclomática é de 22 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\third_party\gif_decoder\src\test\java\com\bumptech\glide\gifdecoder\GifDecoderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\third_party\gif_decoder\src\test\java\com\bumptech\glide\gifdecoder\GifHeaderParserTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\third_party\gif_decoder\src\test\java\com\bumptech\glide\gifdecoder\test\GifBytesTestUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\third_party\gif_decoder\src\test\java\com\bumptech\glide\gifdecoder\test\GifBytesTestUtilTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\third_party\gif_encoder\src\main\java\com\bumptech\glide\gifencoder\AnimatedGifEncoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\third_party\gif_encoder\src\main\java\com\bumptech\glide\gifencoder\LZWEncoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\bumptech_glide\third_party\gif_encoder\src\main\java\com\bumptech\glide\gifencoder\NeuQuant.java">
+<error line="233" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="311" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="429" column="39" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="438" column="39" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+</checkstyle>

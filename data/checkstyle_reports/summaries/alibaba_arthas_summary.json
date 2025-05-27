@@ -1,0 +1,13 @@
+{
+  "repository": "alibaba_arthas",
+  "code_smells": {
+    "Cyclomatic Complexity": 95,
+    "Potential God Class": 27,
+    "Too Many Fields": 15,
+    "Empty Catch Block": 11,
+    "Unused Imports": 18,
+    "Naming Conventions": 1,
+    "Empty Control Statement": 1
+  },
+  "total_smells": 168
+}

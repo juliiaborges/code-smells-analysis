@@ -1,0 +1,10 @@
+{
+  "repository": "PhilJay_MPAndroidChart",
+  "code_smells": {
+    "Cyclomatic Complexity": 64,
+    "Potential God Class": 12,
+    "Too Many Fields": 4,
+    "Unused Imports": 34
+  },
+  "total_smells": 114
+}

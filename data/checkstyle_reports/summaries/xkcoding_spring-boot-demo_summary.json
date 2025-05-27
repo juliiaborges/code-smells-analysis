@@ -1,0 +1,8 @@
+{
+  "repository": "xkcoding_spring-boot-demo",
+  "code_smells": {
+    "Cyclomatic Complexity": 6,
+    "Empty Catch Block": 2
+  },
+  "total_smells": 8
+}
