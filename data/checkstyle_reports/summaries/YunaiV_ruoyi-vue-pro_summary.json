@@ -1,0 +1,11 @@
+{
+  "repository": "YunaiV_ruoyi-vue-pro",
+  "code_smells": {
+    "Potential God Class": 216,
+    "Cyclomatic Complexity": 40,
+    "Too Many Fields": 9,
+    "Unused Imports": 125,
+    "Empty Catch Block": 2
+  },
+  "total_smells": 392
+}

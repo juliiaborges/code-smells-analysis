@@ -1,0 +1,12 @@
+{
+  "repository": "apache_dubbo",
+  "code_smells": {
+    "Cyclomatic Complexity": 353,
+    "Empty Catch Block": 138,
+    "Potential God Class": 105,
+    "Too Many Fields": 32,
+    "Naming Conventions": 12,
+    "Empty Control Statement": 5
+  },
+  "total_smells": 645
+}

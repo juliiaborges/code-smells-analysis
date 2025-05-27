@@ -1,0 +1,11 @@
+{
+  "repository": "alibaba_easyexcel",
+  "code_smells": {
+    "Unused Imports": 51,
+    "Potential God Class": 16,
+    "Cyclomatic Complexity": 40,
+    "Too Many Fields": 6,
+    "Empty Catch Block": 4
+  },
+  "total_smells": 117
+}

@@ -1,0 +1,11 @@
+{
+  "repository": "bumptech_glide",
+  "code_smells": {
+    "Potential God Class": 62,
+    "Cyclomatic Complexity": 30,
+    "Naming Conventions": 3,
+    "Too Many Fields": 13,
+    "Empty Catch Block": 14
+  },
+  "total_smells": 122
+}

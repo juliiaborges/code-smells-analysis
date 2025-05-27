@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.24.0">
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\content\BaseStrokeContent.java">
+<error line="38" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 31 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="116" column="3" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="151" column="3" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="225" column="3" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\content\CompoundTrimPathContent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\content\Content.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\content\ContentGroup.java">
+<error line="27" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 24 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="163" column="3" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\content\DrawingContent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\content\EllipseContent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\content\FillContent.java">
+<error line="32" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\content\GradientFillContent.java">
+<error line="40" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 31 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="112" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\content\GradientStrokeContent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\content\GreedyContent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\content\KeyPathElementContent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\content\MergePathsContent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\content\ModifierContent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\content\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\content\PathContent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\content\PolystarContent.java">
+<error line="146" column="3" severity="warning" message="A complexidade ciclomática é de 22 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\content\RectangleContent.java">
+<error line="86" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\content\RepeaterContent.java">
+<error line="26" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\content\RoundedCornersContent.java">
+<error line="78" column="3" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="181" column="3" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\content\ShapeContent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\content\ShapeModifierContent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\content\StrokeContent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\content\TrimPathContent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\keyframe\BaseKeyframeAnimation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\keyframe\ColorKeyframeAnimation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\keyframe\DropShadowKeyframeAnimation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\keyframe\FloatKeyframeAnimation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\keyframe\GradientColorKeyframeAnimation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\keyframe\IntegerKeyframeAnimation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\keyframe\KeyframeAnimation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\keyframe\MaskKeyframeAnimation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\keyframe\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\keyframe\PathKeyframe.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\keyframe\PathKeyframeAnimation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\keyframe\PointKeyframeAnimation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\keyframe\ScaleKeyframeAnimation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\keyframe\ShapeKeyframeAnimation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\keyframe\SplitDimensionPathKeyframeAnimation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\keyframe\TextKeyframeAnimation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\keyframe\TransformKeyframeAnimation.java">
+<error line="50" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="171" column="3" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="298" column="3" severity="warning" message="A complexidade ciclomática é de 23 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\keyframe\ValueCallbackKeyframeAnimation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\LPaint.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\animation\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\AsyncUpdates.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\Cancellable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\configurations\reducemotion\IgnoreDisabledSystemAnimationsOption.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\configurations\reducemotion\ReducedMotionMode.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\configurations\reducemotion\ReducedMotionOption.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\configurations\reducemotion\SystemReducedMotionOption.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\FontAssetDelegate.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\ImageAssetDelegate.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\L.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\Lottie.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\LottieAnimationView.java">
+<error line="65" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 45 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="158" column="3" severity="warning" message="A complexidade ciclomática é de 23 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="337" column="3" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\LottieComposition.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\LottieCompositionFactory.java">
+<error line="59" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 33 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="603" column="3" severity="warning" message="A complexidade ciclomática é de 33 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="775" column="3" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\LottieConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\LottieDrawable.java">
+<error line="72" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 17 classes [Canvas, CompositionLayer, FontAssetManager, Handler, ImageAssetManager, KeyPath, LPaint, LinkedBlockingQueue, LottieFeatureFlags, LottieThreadFactory, LottieValueAnimator, LottieValueCallback, Matrix, Rect, RectF, Semaphore, ThreadPoolExecutor] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="72" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 62 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="725" column="3" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\LottieFeatureFlag.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\LottieFeatureFlags.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\LottieImageAsset.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\LottieListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\LottieLogger.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\LottieOnCompositionLoadedListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\LottieProperty.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\LottieResult.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\LottieTask.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\LottieTaskIdleListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\manager\FontAssetManager.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\manager\ImageAssetManager.java">
+<error line="70" column="3" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\manager\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\animatable\AnimatableColorValue.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\animatable\AnimatableFloatValue.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\animatable\AnimatableGradientColorValue.java">
+<error line="9" column="8" severity="warning" message="Importação não utilizada - java.util.Collections." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\animatable\AnimatableIntegerValue.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\animatable\AnimatablePathValue.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\animatable\AnimatablePointValue.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\animatable\AnimatableScaleValue.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\animatable\AnimatableShapeValue.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\animatable\AnimatableSplitDimensionPathValue.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\animatable\AnimatableTextFrame.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\animatable\AnimatableTextProperties.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\animatable\AnimatableTextRangeSelector.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\animatable\AnimatableTextStyle.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\animatable\AnimatableTransform.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\animatable\AnimatableValue.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\animatable\BaseAnimatableValue.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\animatable\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\content\BlurEffect.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\content\CircleShape.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\content\ContentModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\content\GradientColor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\content\GradientFill.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\content\GradientStroke.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\content\GradientType.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\content\LBlendMode.java">
+<error line="31" column="3" severity="warning" message="A complexidade ciclomática é de 19 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\content\Mask.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\content\MergePaths.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\content\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\content\PolystarShape.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\content\RectangleShape.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\content\Repeater.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\content\RoundedCorners.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\content\ShapeData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\content\ShapeFill.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\content\ShapeGroup.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\content\ShapePath.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\content\ShapeStroke.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\content\ShapeTrimPath.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\content\TextRangeUnits.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\CubicCurveData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\DocumentData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\Font.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\FontCharacter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\KeyPath.java">
+<error line="156" column="3" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\KeyPathElement.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\layer\BaseLayer.java">
+<error line="45" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 14 classes [BlurMaskFilter, CompositionLayer, FloatKeyframeAnimation, ImageLayer, LPaint, MaskKeyframeAnimation, Matrix, NullLayer, Path, PorterDuffXfermode, RectF, ShapeLayer, SolidLayer, TextLayer] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="45" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 35 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="234" column="3" severity="warning" message="A complexidade ciclomática é de 35 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="413" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="490" column="3" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="641" column="3" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\layer\CompositionLayer.java">
+<error line="27" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="44" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="114" column="3" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="263" column="3" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\layer\ImageLayer.java">
+<error line="26" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="48" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="142" column="3" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\layer\Layer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\layer\NullLayer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\layer\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\layer\ShapeLayer.java">
+<error line="73" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\layer\SolidLayer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\layer\TextLayer.java">
+<error line="39" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 28 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="91" column="3" severity="warning" message="A complexidade ciclomática é de 27 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="187" column="3" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="308" column="3" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="370" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="439" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="634" column="3" severity="warning" message="A complexidade ciclomática é de 20 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\LottieCompositionCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\Marker.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\model\MutablePair.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\network\DefaultLottieFetchResult.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\network\DefaultLottieNetworkFetcher.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\network\FileExtension.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\network\LottieFetchResult.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\network\LottieNetworkCacheProvider.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\network\LottieNetworkFetcher.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\network\NetworkCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\network\NetworkFetcher.java">
+<error line="113" column="3" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\OnCompositionLoadedListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\AnimatablePathValueParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\AnimatableTextPropertiesParser.java">
+<error line="11" column="8" severity="warning" message="Importação não utilizada - com.airbnb.lottie.model.content.LBlendMode." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="64" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\AnimatableTransformParser.java">
+<error line="38" column="3" severity="warning" message="A complexidade ciclomática é de 24 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\AnimatableValueParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\BlurEffectParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\CircleShapeParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\ColorParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\ContentModelParser.java">
+<error line="22" column="3" severity="warning" message="A complexidade ciclomática é de 20 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\DocumentDataParser.java">
+<error line="33" column="3" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\DropShadowEffect.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\DropShadowEffectParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\FloatParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\FontCharacterParser.java">
+<error line="26" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\FontParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\GradientColorParser.java">
+<error line="45" column="3" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="241" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\GradientFillParser.java">
+<error line="36" column="3" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\GradientStrokeParser.java">
+<error line="48" column="3" severity="warning" message="A complexidade ciclomática é de 27 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\IntegerParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\JsonUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\KeyframeParser.java">
+<error line="12" column="8" severity="warning" message="Importação não utilizada - com.airbnb.lottie.Lottie." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="91" column="3" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="156" column="3" severity="warning" message="A complexidade ciclomática é de 35 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\KeyframesParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\LayerParser.java">
+<error line="79" column="3" severity="warning" message="A complexidade ciclomática é de 52 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\LottieCompositionMoshiParser.java">
+<error line="40" column="3" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="149" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\MaskParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\MergePathsParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\moshi\JsonDataException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\moshi\JsonEncodingException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\moshi\JsonReader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\moshi\JsonScope.java">
+<error line="73" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\moshi\JsonUtf8Reader.java">
+<error line="179" column="3" severity="warning" message="A complexidade ciclomática é de 20 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="219" column="3" severity="warning" message="A complexidade ciclomática é de 39 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="359" column="3" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="402" column="3" severity="warning" message="A complexidade ciclomática é de 36 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="492" column="3" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="657" column="3" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="768" column="3" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="831" column="3" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="886" column="3" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="987" column="3" severity="warning" message="A complexidade ciclomática é de 22 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\moshi\LinkedHashTreeMap.java">
+<error line="130" column="3" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="337" column="3" severity="warning" message="A complexidade ciclomática é de 22 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\moshi\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\PathKeyframeParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\PathParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\PointFParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\PolystarShapeParser.java">
+<error line="31" column="3" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\RectangleShapeParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\RepeaterParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\RoundedCornersParser.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - android.graphics.PointF." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="8" column="8" severity="warning" message="Importação não utilizada - com.airbnb.lottie.model.animatable.AnimatableFloatValue." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="10" column="8" severity="warning" message="Importação não utilizada - com.airbnb.lottie.model.content.RectangleShape." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\ScaleXYParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\ShapeDataParser.java">
+<error line="27" column="3" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\ShapeFillParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\ShapeGroupParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\ShapePathParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\ShapeStrokeParser.java">
+<error line="38" column="3" severity="warning" message="A complexidade ciclomática é de 22 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\ShapeTrimPathParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\parser\ValueParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\PerformanceTracker.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\RenderMode.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\SimpleColorFilter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\TextDelegate.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\utils\BaseLottieAnimator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\utils\DropShadow.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\utils\GammaEvaluator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\utils\LogcatLogger.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\utils\Logger.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\utils\LottieThreadFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\utils\LottieTrace.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\utils\LottieValueAnimator.java">
+<error line="87" column="3" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\utils\MeanCalculator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\utils\MiscUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\utils\OffscreenLayer.java">
+<error line="214" column="3" severity="warning" message="A complexidade ciclomática é de 27 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="349" column="3" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="420" column="3" severity="warning" message="A complexidade ciclomática é de 20 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\utils\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\utils\Utils.java">
+<error line="35" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="140" column="3" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\value\Keyframe.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\value\LottieFrameInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\value\LottieInterpolatedFloatValue.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\value\LottieInterpolatedIntegerValue.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\value\LottieInterpolatedPointValue.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\value\LottieInterpolatedValue.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\value\LottieRelativeFloatValueCallback.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\value\LottieRelativeIntegerValueCallback.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\value\LottieRelativePointValueCallback.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\value\LottieValueCallback.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\value\ScaleXY.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\main\java\com\airbnb\lottie\value\SimpleLottieValueCallback.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\test\java\com\airbnb\lottie\BaseTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\test\java\com\airbnb\lottie\Fixtures.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\test\java\com\airbnb\lottie\KeyPathTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\test\java\com\airbnb\lottie\LottieCompositionFactoryTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\test\java\com\airbnb\lottie\LottieCompositionTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\test\java\com\airbnb\lottie\LottieDrawableTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\test\java\com\airbnb\lottie\LottieInitializeTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\test\java\com\airbnb\lottie\LottieTaskTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\test\java\com\airbnb\lottie\LottieValueAnimatorUnitTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\test\java\com\airbnb\lottie\MeanCalculatorTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\test\java\com\airbnb\lottie\model\animatable\AnimatableGradientColorValueTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\test\java\com\airbnb\lottie\model\content\GradientColorTest.java">
+<error line="6" column="8" severity="warning" message="Importação não utilizada - java.util.Arrays." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\test\java\com\airbnb\lottie\model\LottieCompositionCacheTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\test\java\com\airbnb\lottie\model\MarkerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\test\java\com\airbnb\lottie\parser\GradientColorParserTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\test\java\com\airbnb\lottie\PerformanceTrackerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\test\java\com\airbnb\lottie\utils\GammaEvaluatorTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\test\java\com\airbnb\lottie\utils\LottieValueAnimatorTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\lottie\src\test\java\com\airbnb\lottie\value\KeyframeTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\airbnb_lottie-android\sample\src\release\java\com\airbnb\lotte\samples\Lotte.java">
+</file>
+</checkstyle>

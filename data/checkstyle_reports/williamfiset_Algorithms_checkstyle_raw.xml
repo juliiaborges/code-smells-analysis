@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.24.0">
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\ai\GeneticAlgorithm_knapsack_01.java">
+<error line="13" column="14" severity="warning" message="O nome &apos;GeneticAlgorithm_knapsack_01&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="30" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="188" column="16" severity="warning" message="O nome &apos;Knapsack_01&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\ai\GeneticAlgorithm_textSearch.java">
+<error line="11" column="14" severity="warning" message="O nome &apos;GeneticAlgorithm_textSearch&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="33" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\ai\GeneticAlgorithm_travelingSalesman.java">
+<error line="11" column="14" severity="warning" message="O nome &apos;GeneticAlgorithm_travelingSalesman&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="26" column="3" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\balancedtree\AVLTreeRecursive.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\balancedtree\AVLTreeRecursiveOptimized.java">
+<error line="220" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\balancedtree\RedBlackTree.java">
+<error line="279" column="3" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\balancedtree\TreapTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\binarysearchtree\BinarySearchTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\binarysearchtree\SplayTree.java">
+<error line="198" column="3" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\binarysearchtree\TreeTraversalOrder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\bloomfilter\AnagramSet.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\bloomfilter\BloomFilter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\bloomfilter\StringSet.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\dynamicarray\IntArray.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\fenwicktree\FenwickTreeRangeQueryPointUpdate.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\fenwicktree\FenwickTreeRangeUpdatePointQuery.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\fibonacciheap\FibonacciHeap.java">
+<error line="258" column="3" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\fibonacciheap\FibonacciNode.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\hashtable\DoubleHashingTestObject.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\hashtable\HashTableDoubleHashing.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\hashtable\HashTableLinearProbing.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\hashtable\HashTableOpenAddressingBase.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\hashtable\HashTableQuadraticProbing.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\hashtable\HashTableSeparateChaining.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\hashtable\SecondaryHash.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\kdtree\GeneralKDTree.java">
+<error line="76" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\linkedlist\DoublyLinkedList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\priorityqueue\BinaryHeap.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\priorityqueue\BinaryHeapQuickRemovals.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\priorityqueue\MinDHeap.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\priorityqueue\MinIndexedBinaryHeap.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\priorityqueue\MinIndexedDHeap.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\quadtree\QuadTree.java">
+<error line="166" column="5" severity="warning" message="A complexidade ciclomática é de 91 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\queue\ArrayQueue.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\queue\IntQueue.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\queue\LinkedQueue.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\queue\Queue.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\segmenttree\CompactSegmentTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\segmenttree\GenericSegmentTree.java">
+<error line="167" column="3" severity="warning" message="A complexidade ciclomática é de 24 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\segmenttree\GenericSegmentTree2.java">
+<error line="195" column="3" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\segmenttree\GenericSegmentTree3.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\segmenttree\MaxQuerySumUpdateSegmentTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\segmenttree\MinQueryAssignUpdateSegmentTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\segmenttree\MinQuerySumUpdateSegmentTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\segmenttree\Node.java">
+<error line="59" column="3" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\segmenttree\RangeQueryPointUpdateSegmentTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\segmenttree\SumQueryAssignUpdateSegmentTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\segmenttree\SumQueryMultiplicationUpdateSegmentTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\segmenttree\SumQuerySumUpdateSegmentTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\set\HSet.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\skiplist\SkipList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\sparsetable\examples\MinSparseTable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\sparsetable\SparseTable.java">
+<error line="70" column="3" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\stack\ArrayStack.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\stack\IntStack.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\stack\ListStack.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\stack\Stack.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\suffixarray\SuffixArray.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\suffixarray\SuffixArrayFast.java">
+<error line="31" column="3" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\suffixarray\SuffixArrayMed.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\suffixarray\SuffixArraySlow.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\trie\Trie.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\unionfind\UnionFind.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\utils\TestUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\datastructures\utils\TreePrinter.java">
+<error line="23" column="3" severity="warning" message="A complexidade ciclomática é de 27 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\dp\CoinChange.java">
+<error line="34" column="3" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="88" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\dp\EditDistanceIterative.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\dp\EditDistanceRecursive.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\dp\examples\boardtilings\BoardTilingsSolver.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\dp\examples\domino-and-tromino-tiling\Solution.java">
+<error line="15" column="3" severity="warning" message="A complexidade ciclomática é de 31 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\dp\examples\editdistance\EditDistance.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\dp\examples\houserobber\HouseRobber.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\dp\examples\magicalcows\MagicalCows.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\dp\examples\narrowartgallery\NarrowArtGalleryRecursive.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\dp\examples\scenes\Scenes.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\dp\examples\tilingdominoes\TilingDominoes.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\dp\JosephusProblem.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\dp\KnapsackUnbounded.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\dp\Knapsack_01.java">
+<error line="17" column="14" severity="warning" message="O nome &apos;Knapsack_01&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="26" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\dp\LongestCommonSubsequence.java">
+<error line="15" column="3" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\dp\LongestCommonSubstring.java">
+<error line="15" column="3" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\dp\LongestIncreasingSubsequence.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\dp\LongestPalindromeSubsequence.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\dp\MaximumSubarray.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\dp\MinimumWeightPerfectMatching.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\dp\MwpmInterface.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\dp\WeightedMaximumCardinalityMatchingIterative.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\dp\WeightedMaximumCardinalityMatchingRecursive.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\geometry\AngleBetweenVectors2D.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\geometry\AngleBetweenVectors3D.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\geometry\CircleCircleIntersectionArea.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\geometry\CircularSegmentArea.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\geometry\ClosestPairOfPoints.java">
+<error line="33" column="24" severity="warning" message="O nome &apos;X_Sort&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="42" column="24" severity="warning" message="O nome &apos;YX_Sort&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="54" column="3" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\geometry\CollinearPoints.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\geometry\ConvexHullGrahamScan.java">
+<error line="53" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\geometry\ConvexHullMonotoneChainsAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\geometry\ConvexPolygonArea.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\geometry\ConvexPolygonContainsPoint.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\geometry\ConvexPolygonCutWithLineSegment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\geometry\CoplanarPoints.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\geometry\Line.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\geometry\LineCircleIntersection.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\geometry\LineSegmentLineSegmentIntersection.java">
+<error line="41" column="3" severity="warning" message="A complexidade ciclomática é de 20 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="133" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\geometry\LineSegmentToGeneralForm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\geometry\LongitudeLatitudeGeographicDistance.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\geometry\MinimumCostConvexPolygonTriangulation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\geometry\PointCircleTangent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\geometry\PointInsideTriangle.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\geometry\PointRotation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\geometry\TriangleArea.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\analysis\PrimsGraphRepresentationAnaylsis.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\ArticulationPointsAdjacencyList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\AStar_GridHeuristic.java">
+<error line="6" column="14" severity="warning" message="O nome &apos;AStar_GridHeuristic&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\BellmanFordAdjacencyList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\BellmanFordAdjacencyMatrix.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\BellmanFordEdgeList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\Boruvkas.java">
+<error line="68" column="3" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="130" column="3" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\BreadthFirstSearchAdjacencyListIterative.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\BreadthFirstSearchAdjacencyListIterativeFastQueue.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\BreadthFirstSearchRecursive.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\BridgesAdjacencyList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\BridgesAdjacencyListIterative.java">
+<error line="36" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\ChinesePostmanProblem.java">
+<error line="35" column="3" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\ConnectedComponentsAdjacencyList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\ConnectedComponentsDfsSolverAdjacencyList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\DepthFirstSearchAdjacencyListIterative.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\DepthFirstSearchAdjacencyListIterativeFastStack.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\DepthFirstSearchAdjacencyListRecursive.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\DijkstrasShortestPathAdjacencyList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\DijkstrasShortestPathAdjacencyListWithDHeap.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\EagerPrimsAdjacencyList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\EulerianPathDirectedEdgesAdjacencyList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\EulerianPathUndirectedEdgesAdjacencyList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\examples\EagerPrimsExample.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\FloydWarshallSolver.java">
+<error line="63" column="3" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\GraphDiameter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\Kahns.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\Kosaraju.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\KruskalsEdgeList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\KruskalsEdgeListPartialSortSolver.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\LazyPrimsAdjacencyList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\LazyPrimsAdjacencyMatrix.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\networkflow\BipartiteGraphCheckAdjacencyList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\networkflow\CapacityScalingSolverAdjacencyList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\networkflow\Dinics.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\networkflow\EdmondsKarpAdjacencyList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\networkflow\examples\CapacityScalingExample.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\networkflow\examples\DinicsExample.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\networkflow\examples\EdmondsKarpExample.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\networkflow\examples\FordFulkersonExample.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\networkflow\examples\MiceAndOwls.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\networkflow\FordFulkersonDFSAdjacencyMatrix.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\networkflow\FordFulkersonDfsSolverAdjacencyList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\networkflow\MaximumCardinalityBipartiteMatchingAugmentingPathAdjacencyList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\networkflow\MinCostMaxFlowJohnsons.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\networkflow\MinCostMaxFlowWithBellmanFord.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\networkflow\NetworkFlowSolverBase.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\SteinerTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\TarjanAdjacencyMatrix.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\TarjanSccSolverAdjacencyList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\TopologicalSortAdjacencyList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\TopologicalSortAdjacencyMatrix.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\treealgorithms\examples\TreeHeight.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\treealgorithms\examples\TreeSum.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\treealgorithms\LowestCommonAncestor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\treealgorithms\LowestCommonAncestorEulerTour.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\treealgorithms\RootingTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\treealgorithms\TreeCenter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\treealgorithms\TreeCenterLongestPathImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\treealgorithms\TreeDiameter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\treealgorithms\TreeIsomorphism.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\treealgorithms\TreeIsomorphismWithBfs.java">
+<error line="63" column="3" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\TspBruteForce.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\TspDynamicProgrammingIterative.java">
+<error line="55" column="3" severity="warning" message="A complexidade ciclomática é de 23 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\TspDynamicProgrammingRecursive.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\graphtheory\TwoSatSolverAdjacencyList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\linearalgebra\FreivaldsAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\linearalgebra\GaussianElimination.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\linearalgebra\LinearRecurrenceSolver.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\linearalgebra\MatrixDeterminantLaplaceExpansion.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\linearalgebra\MatrixInverse.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\linearalgebra\MatrixMultiplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\linearalgebra\MatrixPower.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\linearalgebra\ModularLinearAlgebra.java">
+<error line="13" column="3" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\linearalgebra\RotateSquareMatrixInplace.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\linearalgebra\Simplex.java">
+<error line="30" column="3" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\math\ChineseRemainderTheorem.java">
+<error line="47" column="3" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\math\CompressedPrimeSieve.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\math\EulerTotientFunction.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\math\EulerTotientFunctionWithSieve.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\math\ExtendedEuclideanAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\math\FastFourierTransform.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\math\FastFourierTransformComplexNumbers.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\math\GCD.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\math\IsPrime.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\math\LCM.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\math\ModPow.java">
+<error line="58" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="155" column="39" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\math\ModularInverse.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\math\NChooseRModPrime.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\math\PrimeFactorization.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\math\RelativelyPrime.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\math\SieveOfEratosthenes.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\other\BitManipulations.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\other\Combinations.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\other\CombinationsWithRepetition.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\other\LazyRangeAdder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\other\Permutations.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\other\PowerSet.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\other\SlidingWindowMaximum.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\other\SquareRootDecomposition.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\other\UniqueCombinations.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\search\BinarySearch.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\search\InterpolationSearch.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\search\TernarySearch.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\search\TernarySearchDiscrete.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\sorting\BubbleSort.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\sorting\BucketSort.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\sorting\CountingSort.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\sorting\Heapsort.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\sorting\InplaceSort.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\sorting\InsertionSort.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\sorting\MergeSort.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\sorting\QuickSelect.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\sorting\QuickSort.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\sorting\QuickSort3.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\sorting\RadixSort.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\sorting\SelectionSort.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\strings\BoothsAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\strings\BoyerMooreStringSearch.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\strings\KMP.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\strings\LongestCommonPrefixArray.java">
+<error line="54" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\strings\LongestCommonSubstring.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\strings\LongestRepeatedSubstring.java">
+<error line="58" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\strings\ManachersAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\strings\RabinKarp.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\strings\SubstringVerificationSuffixArray.java">
+<error line="56" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\strings\ZAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\utils\graphutils\GraphGenerator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\utils\graphutils\Utils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\williamfiset_Algorithms\src\main\java\com\williamfiset\algorithms\utils\TestUtils.java">
+</file>
+</checkstyle>

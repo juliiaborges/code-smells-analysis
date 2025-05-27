@@ -1,0 +1,12 @@
+{
+  "repository": "Tencent_tinker",
+  "code_smells": {
+    "Cyclomatic Complexity": 119,
+    "Too Many Fields": 11,
+    "Potential God Class": 14,
+    "Unused Imports": 23,
+    "Naming Conventions": 52,
+    "Empty Catch Block": 1
+  },
+  "total_smells": 220
+}

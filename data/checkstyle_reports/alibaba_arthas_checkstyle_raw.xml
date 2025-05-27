@@ -1,0 +1,1611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.24.0">
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\agent\src\main\java\com\taobao\arthas\agent\ArthasClassloader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\agent\src\main\java\com\taobao\arthas\agent334\AgentBootstrap.java">
+<error line="90" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\arthas-agent-attach\src\main\java\com\taobao\arthas\agent\attach\ArthasAgent.java">
+<error line="77" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\arthas-agent-attach\src\main\java\com\taobao\arthas\agent\attach\AttachArthasClassloader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\arthas-spring-boot-starter\src\main\java\com\alibaba\arthas\spring\ArthasConfiguration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\arthas-spring-boot-starter\src\main\java\com\alibaba\arthas\spring\ArthasProperties.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\arthas-spring-boot-starter\src\main\java\com\alibaba\arthas\spring\endpoints\ArthasEndPoint.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\arthas-spring-boot-starter\src\main\java\com\alibaba\arthas\spring\endpoints\ArthasEndPointAutoConfiguration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\arthas-spring-boot-starter\src\main\java\com\alibaba\arthas\spring\StringUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\arthas-spring-boot-starter\src\test\java\com\alibaba\arthas\spring\StringUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\arthas-vmtool\src\main\java\arthas\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\arthas-vmtool\src\main\java\arthas\VmTool.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\arthas-vmtool\src\main\java\arthas\VmToolMXBean.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\arthas-vmtool\src\test\java\arthas\VmToolTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\boot\src\main\java\com\taobao\arthas\boot\Bootstrap.java">
+<error line="46" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="313" column="5" severity="warning" message="A complexidade ciclomática é de 61 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\boot\src\main\java\com\taobao\arthas\boot\DownloadUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\boot\src\main\java\com\taobao\arthas\boot\ProcessUtils.java">
+<error line="54" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="181" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\boot\src\test\java\com\taobao\arthas\boot\DownloadUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\client\src\main\java\com\taobao\arthas\client\IOUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\client\src\main\java\com\taobao\arthas\client\TelnetConsole.java">
+<error line="46" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 12 classes [ActionListener, BufferedReader, ConsoleReader, File, FileReader, InputStreamReader, LinkedBlockingQueue, Runnable, TelnetClient, Thread, UsageMessageFormatter, WindowSizeOptionHandler] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="46" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 29 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="203" column="5" severity="warning" message="A complexidade ciclomática é de 20 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\client\src\main\java\org\apache\commons\net\DatagramSocketClient.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\client\src\main\java\org\apache\commons\net\DatagramSocketFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\client\src\main\java\org\apache\commons\net\DefaultDatagramSocketFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\client\src\main\java\org\apache\commons\net\DefaultSocketFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\client\src\main\java\org\apache\commons\net\MalformedServerReplyException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\client\src\main\java\org\apache\commons\net\PrintCommandListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\client\src\main\java\org\apache\commons\net\ProtocolCommandEvent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\client\src\main\java\org\apache\commons\net\ProtocolCommandListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\client\src\main\java\org\apache\commons\net\ProtocolCommandSupport.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\client\src\main\java\org\apache\commons\net\SocketClient.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\client\src\main\java\org\apache\commons\net\telnet\EchoOptionHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\client\src\main\java\org\apache\commons\net\telnet\InvalidTelnetOptionException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\client\src\main\java\org\apache\commons\net\telnet\SimpleOptionHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\client\src\main\java\org\apache\commons\net\telnet\SuppressGAOptionHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\client\src\main\java\org\apache\commons\net\telnet\Telnet.java">
+<error line="415" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\client\src\main\java\org\apache\commons\net\telnet\TelnetClient.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\client\src\main\java\org\apache\commons\net\telnet\TelnetCommand.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\client\src\main\java\org\apache\commons\net\telnet\TelnetInputListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\client\src\main\java\org\apache\commons\net\telnet\TelnetInputStream.java">
+<error line="118" column="5" severity="warning" message="A complexidade ciclomática é de 30 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="350" column="5" severity="warning" message="A complexidade ciclomática é de 19 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="591" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\client\src\main\java\org\apache\commons\net\telnet\TelnetNotificationHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\client\src\main\java\org\apache\commons\net\telnet\TelnetOption.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\client\src\main\java\org\apache\commons\net\telnet\TelnetOptionHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\client\src\main\java\org\apache\commons\net\telnet\TelnetOutputStream.java">
+<error line="55" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\client\src\main\java\org\apache\commons\net\telnet\TerminalTypeOptionHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\client\src\main\java\org\apache\commons\net\telnet\WindowSizeOptionHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\client\src\main\java\org\apache\commons\net\util\ListenerList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\common\src\main\java\com\taobao\arthas\common\AnsiLog.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\common\src\main\java\com\taobao\arthas\common\ArthasConstants.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\common\src\main\java\com\taobao\arthas\common\concurrent\ConcurrentWeakKeyHashMap.java">
+<error line="565" column="9" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="793" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="884" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\common\src\main\java\com\taobao\arthas\common\concurrent\ReusableIterator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\common\src\main\java\com\taobao\arthas\common\ExecutingCommand.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\common\src\main\java\com\taobao\arthas\common\FileUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\common\src\main\java\com\taobao\arthas\common\IOUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\common\src\main\java\com\taobao\arthas\common\JavaVersionUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\common\src\main\java\com\taobao\arthas\common\OSUtils.java">
+<error line="79" column="9" severity="warning" message="A complexidade ciclomática é de 19 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\common\src\main\java\com\taobao\arthas\common\Pair.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\common\src\main\java\com\taobao\arthas\common\PidUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\common\src\main\java\com\taobao\arthas\common\PlatformEnum.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\common\src\main\java\com\taobao\arthas\common\ReflectException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\common\src\main\java\com\taobao\arthas\common\ReflectUtils.java">
+<error line="209" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="227" column="49" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="232" column="53" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="245" column="57" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="429" column="5" severity="warning" message="A complexidade ciclomática é de 30 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\common\src\main\java\com\taobao\arthas\common\SocketUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\common\src\main\java\com\taobao\arthas\common\UnsafeUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\common\src\main\java\com\taobao\arthas\common\UsageRender.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\common\src\main\java\com\taobao\arthas\common\VmToolUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\advisor\AccessPoint.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\advisor\Advice.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\advisor\AdviceListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\advisor\AdviceListenerAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\advisor\AdviceListenerManager.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\advisor\AdviceWeaver.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\advisor\ArthasMethod.java">
+<error line="26" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\advisor\Enhancer.java">
+<error line="68" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 11 classes [ClassNode, DefaultInterceptorClassParser, EnhancerAffect, File, GroupLocationFilter, InvokeCheckLocationFilter, InvokeContainLocationFilter, MethodProcessor, Pair, SpyImpl, WeakHashMap] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="68" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 26 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="111" column="5" severity="warning" message="A complexidade ciclomática é de 26 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="415" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\advisor\InvokeTraceable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\advisor\SpyImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\advisor\SpyInterceptors.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\advisor\TransformerManager.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\Arthas.java">
+<error line="88" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\basic1000\AuthCommand.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\basic1000\Base64Command.java">
+<error line="83" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\basic1000\CatCommand.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\basic1000\ClsCommand.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\basic1000\EchoCommand.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\basic1000\GrepCommand.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\basic1000\HelpCommand.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\basic1000\HistoryCommand.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\basic1000\JFRCommand.java">
+<error line="172" column="5" severity="warning" message="A complexidade ciclomática é de 43 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\basic1000\KeymapCommand.java">
+<error line="74" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\basic1000\OptionsCommand.java">
+<error line="122" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\basic1000\PwdCommand.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\basic1000\ResetCommand.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\basic1000\SessionCommand.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\basic1000\StopCommand.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\basic1000\SystemEnvCommand.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\basic1000\SystemPropertyCommand.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\basic1000\TeeCommand.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\basic1000\VersionCommand.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\basic1000\VMOptionCommand.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\BuiltinCommandPack.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\Constants.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\express\ArthasObjectPropertyAccessor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\express\ClassLoaderClassResolver.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\express\CustomClassResolver.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\express\DefaultMemberAccess.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\express\Express.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\express\ExpressException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\express\ExpressFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\express\OgnlExpress.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\hidden\JulyCommand.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\hidden\ThanksCommand.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\klass100\ClassDumpTransformer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\klass100\ClassLoaderCommand.java">
+<error line="45" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 13 classes [ClassLoaderInfo, ClassLoaderInterruptHandler, ClassLoaderModel, ClassLoaderStat, ClassLoaderUrlStat, ClassSetVO, Comparator, MessageModel, ResultUtils.PaginationHandler, RowAffect, RowAffectModel, SunReflectionClassLoaderFilter, ValueComparator] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="45" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 29 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="129" column="5" severity="warning" message="A complexidade ciclomática é de 20 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\klass100\DumpClassCommand.java">
+<error line="97" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\klass100\GetStaticCommand.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\klass100\JadCommand.java">
+<error line="124" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\klass100\MemoryCompilerCommand.java">
+<error line="84" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\klass100\OgnlCommand.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\klass100\RedefineCommand.java">
+<error line="72" column="5" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\klass100\RetransformCommand.java">
+<error line="51" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="147" column="5" severity="warning" message="A complexidade ciclomática é de 29 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\klass100\SearchClassCommand.java">
+<error line="111" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\klass100\SearchMethodCommand.java">
+<error line="104" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\logger\AsmRenameUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\logger\Log4j2Helper.java">
+<error line="45" column="31" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="83" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\logger\Log4jHelper.java">
+<error line="34" column="31" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="57" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\logger\LogbackHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\logger\LoggerCommand.java">
+<error line="148" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\logger\LoggerHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\ArgumentVO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\Base64Model.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\BlockingLockInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\BusyThreadInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\CatModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\ChangeResultVO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\ClassDetailVO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\ClassLoaderModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\ClassLoaderVO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\ClassSetVO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\ClassVO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\CommandOptionVO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\CommandRequestModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\CommandVO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\Countable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\DashboardModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\DumpClassModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\DumpClassVO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\EchoModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\EnhancerAffectVO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\EnhancerModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\FieldVO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\GcInfoVO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\GetStaticModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\HeapDumpModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\HelpModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\HistoryModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\InputStatus.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\InputStatusModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\JadModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\JFRModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\JvmItemVO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\JvmModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\LoggerModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\MBeanAttributeVO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\MBeanModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\MemoryCompilerModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\MemoryEntryVO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\MemoryModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\MessageModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\MethodNode.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\MethodVO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\MonitorModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\ObjectVO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\OgnlModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\OptionsModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\OptionVO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\PerfCounterModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\PerfCounterVO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\ProfilerModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\PwdModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\RedefineModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\ResetModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\ResultModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\RetransformModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\RowAffectModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\RuntimeInfoVO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\SearchClassModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\SearchMethodModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\SessionModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\ShutdownModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\StackModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\StatusModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\SystemEnvModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\SystemPropertyModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\ThreadModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\ThreadNode.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\ThreadVO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\ThrowNode.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\TimeFragmentVO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\TimeTunnelModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\TomcatInfoVO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\TraceModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\TraceNode.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\TraceTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\VersionModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\VMOptionModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\VmToolModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\WatchModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\model\WelcomeModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\monitor200\AbstractTraceAdviceListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\monitor200\DashboardCommand.java">
+<error line="39" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 12 classes [AtomicLong, DashboardInterruptHandler, DashboardTimerTask, GcInfoVO, Handler, QExitHandler, RuntimeInfoVO, SumRateCounter, Timer, TomcatInfoVO, TomcatInfoVO.ConnectorStats, TomcatInfoVO.ThreadPool] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="39" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\monitor200\DashboardInterruptHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\monitor200\EnhancerCommand.java">
+<error line="145" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\monitor200\GroovyAdviceListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\monitor200\GroovyScriptCommand.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\monitor200\HeapDumpCommand.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\monitor200\JvmCommand.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\monitor200\MBeanCommand.java">
+<error line="52" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 27 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="250" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="376" column="9" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\monitor200\MemoryCommand.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\monitor200\MonitorAdviceListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\monitor200\MonitorCommand.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\monitor200\MonitorData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\monitor200\PathTraceAdviceListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\monitor200\PerfCounterCommand.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\monitor200\ProfilerCommand.java">
+<error line="46" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="597" column="5" severity="warning" message="A complexidade ciclomática é de 38 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="731" column="5" severity="warning" message="A complexidade ciclomática é de 29 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\monitor200\StackAdviceListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\monitor200\StackCommand.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\monitor200\ThreadCommand.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\monitor200\ThreadSampler.java">
+<error line="34" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\monitor200\TimeFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\monitor200\TimeTunnelAdviceListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\monitor200\TimeTunnelCommand.java">
+<error line="39" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="233" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\monitor200\TimeTunnelTable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\monitor200\TraceAdviceListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\monitor200\TraceCommand.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\monitor200\TraceEntity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\monitor200\VmToolCommand.java">
+<error line="48" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="163" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\monitor200\WatchAdviceListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\monitor200\WatchCommand.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\ScriptSupportCommand.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\Base64View.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\CatView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\ClassLoaderView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\DashboardView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\DumpClassView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\EchoView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\EnhancerView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\GetStaticView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\HelpView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\JadView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\JFRView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\JvmView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\LoggerView.java">
+<error line="33" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\MBeanView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\MemoryCompilerView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\MemoryView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\MessageView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\MonitorView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\OgnlView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\OptionsView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\PerfCounterView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\ProfilerView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\PwdView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\RedefineView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\ResetView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\ResultView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\ResultViewResolver.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\RetransformView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\RowAffectView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\SearchClassView.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - com.taobao.arthas.core.command.model.FieldVO." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\SearchMethodView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\SessionView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\ShutdownView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\StackView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\StatusView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\SystemEnvView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\SystemPropertyView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\ThreadView.java">
+<error line="22" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\TimeTunnelView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\TraceView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\VersionView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\ViewRenderUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\VMOptionView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\VmToolView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\command\view\WatchView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\config\BinderUtils.java">
+<error line="23" column="5" severity="warning" message="A complexidade ciclomática é de 19 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\config\Config.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\config\Configure.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\config\FeatureCodec.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\config\NestedConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\distribution\CompositeResultDistributor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\distribution\DistributorOptions.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\distribution\impl\CompositeResultDistributorImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\distribution\impl\PackingResultDistributorImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\distribution\impl\ResultConsumerImpl.java">
+<error line="51" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\distribution\impl\SharingResultDistributorImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\distribution\impl\TermResultDistributorImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\distribution\PackingResultDistributor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\distribution\ResultConsumer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\distribution\ResultConsumerHelper.java">
+<error line="35" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\distribution\ResultDistributor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\distribution\SharingResultDistributor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\env\AbstractPropertyResolver.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\env\ArthasEnvironment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\env\ConfigurablePropertyResolver.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\env\ConversionService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\env\convert\ConfigurableConversionService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\env\convert\Converter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\env\convert\ConvertiblePair.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\env\convert\DefaultConversionService.java">
+<error line="96" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\env\convert\ObjectToStringConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\env\convert\StringToArrayConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\env\convert\StringToBooleanConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\env\convert\StringToEnumConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\env\convert\StringToInetAddressConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\env\convert\StringToIntegerConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\env\convert\StringToLongConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\env\EnumerablePropertySource.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\env\Environment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\env\MapPropertySource.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\env\MissingRequiredPropertiesException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\env\MutablePropertySources.java">
+<error line="256" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\env\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\env\PropertiesPropertySource.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\env\PropertyPlaceholderHelper.java">
+<error line="130" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\env\PropertyResolver.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\env\PropertySource.java">
+<error line="235" column="5" severity="warning" message="A complexidade ciclomática é de 19 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\env\PropertySources.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\env\PropertySourcesPropertyResolver.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\env\ReadOnlySystemAttributesMap.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\env\SystemEnvironmentPropertySource.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\env\SystemPropertyUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\GlobalOptions.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\Option.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\security\AuthUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\security\BasicPrincipal.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\security\LocalConnectionPrincipal.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\security\SecurityAuthenticator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\security\SecurityAuthenticatorImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\server\ArthasBootstrap.java">
+<error line="90" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 31 classes [ArthasEnvironment, AtomicBoolean, BindHandler, BuiltinCommandPack, Configure, DefaultThreadFactory, File, HistoryManagerImpl, HttpApiHandler, HttpSessionManager, HttpTelnetTermServer, HttpTermServer, InstrumentConfig, InstrumentParseResult, InstrumentTransformer, JarFile, MapPropertySource, NioEventLoopGroup, PropertiesPropertySource, ResultViewResolver, SecurityAuthenticatorImpl, SessionManagerImpl, ShellServerImpl, ShellServerOptions, SimpleClassMatcher, Thread, ThreadFactory, Timer, TransformerManager, TunnelClient, WildcardMatcher] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="90" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 49 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="348" column="5" severity="warning" message="A complexidade ciclomática é de 24 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="513" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\server\instrument\ClassLoader_Instrument.java">
+<error line="12" column="23" severity="warning" message="O nome &apos;ClassLoader_Instrument&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\cli\CliToken.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\cli\CliTokens.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\cli\Completion.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\cli\CompletionUtils.java">
+<error line="89" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="257" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\cli\impl\CliTokenImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\cli\OptionCompleteHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\command\AnnotatedCommand.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\command\Command.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\command\CommandBuilder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\command\CommandProcess.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\command\CommandRegistry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\command\CommandResolver.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\command\ExitStatus.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\command\impl\AnnotatedCommandImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\command\impl\CommandBuilderImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\command\internal\CloseFunction.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\command\internal\GrepHandler.java">
+<error line="100" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\command\internal\PlainTextHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\command\internal\RedirectHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\command\internal\StatisticsFunction.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\command\internal\StdoutHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\command\internal\TeeHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\command\internal\TermHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\command\internal\WordCountHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\future\Future.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\handlers\BindHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\handlers\command\CommandInterruptHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\handlers\Handler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\handlers\NoOpHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\handlers\server\SessionClosedHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\handlers\server\SessionsClosedHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\handlers\server\TermServerListenHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\handlers\server\TermServerTermHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\handlers\shell\CloseHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\handlers\shell\CommandManagerCompletionHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\handlers\shell\FutureHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\handlers\shell\InterruptHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\handlers\shell\QExitHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\handlers\shell\ShellForegroundUpdateHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\handlers\shell\ShellLineHandler.java">
+<error line="28" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="76" column="31" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\handlers\shell\SuspendHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\handlers\term\CloseHandlerWrapper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\handlers\term\DefaultTermStdinHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\handlers\term\EventHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\handlers\term\RequestHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\handlers\term\SizeHandlerWrapper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\handlers\term\StdinHandlerWrapper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\history\HistoryManager.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\history\impl\HistoryManagerImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\impl\BuiltinCommandResolver.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\impl\ShellImpl.java">
+<error line="53" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 32 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\impl\ShellServerImpl.java">
+<error line="44" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 14 classes [AtomicInteger, BuiltinCommandResolver, ConcurrentHashMap, CopyOnWriteArrayList, GlobalJobControllerImpl, InternalCommandManager, Runnable, SessionClosedHandler, SessionsClosedHandler, ShellImpl, TermServerListenHandler, TermServerTermHandler, Thread, ThreadFactory] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="44" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 27 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\session\impl\SessionImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\session\impl\SessionManagerImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\session\Session.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\session\SessionManager.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\Shell.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\ShellServer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\ShellServerOptions.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\system\ExecStatus.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\system\impl\CommandCompletion.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\system\impl\GlobalJobControllerImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\system\impl\InternalCommandManager.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\system\impl\JobControllerImpl.java">
+<error line="44" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="178" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\system\impl\JobImpl.java">
+<error line="85" column="48" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\system\impl\ProcessImpl.java">
+<error line="272" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\system\Job.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\system\JobController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\system\JobListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\system\Process.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\system\ProcessAware.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\term\impl\CompletionAdaptor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\term\impl\CompletionHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\term\impl\FunctionInvocationHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\term\impl\Helper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\term\impl\http\api\ApiAction.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\term\impl\http\api\ApiException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\term\impl\http\api\ApiRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\term\impl\http\api\ApiResponse.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\term\impl\http\api\ApiState.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\term\impl\http\api\HttpApiHandler.java">
+<error line="52" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 14 classes [ApiException, ApiJobHandler, ApiResponse, ApiTerm, CommandRequestModel, DefaultFullHttpResponse, InputStatusModel, MessageModel, ObjectVOFilter, PackingResultDistributorImpl, ResultConsumerImpl, SharingResultDistributorImpl, ValueFilter, WelcomeModel] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="52" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 36 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="116" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="303" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="515" column="46" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\term\impl\http\api\ObjectVOFilter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\term\impl\http\BasicHttpAuthenticatorHandler.java">
+<error line="52" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\term\impl\http\DirectoryBrowser.java">
+<error line="47" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 12 classes [ChannelProgressiveFutureListener, ChunkedFile, Date, DefaultFileRegion, DefaultFullHttpResponse, DefaultHttpResponse, File, FileInputStream, GregorianCalendar, HttpChunkedInput, RandomAccessFile, SimpleDateFormat] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="47" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="150" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\term\impl\http\ExtHttpTtyConnection.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\term\impl\http\HttpRequestHandler.java">
+<error line="52" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\term\impl\http\LocalTtyServerInitializer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\term\impl\http\NettyWebsocketTtyBootstrap.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\term\impl\http\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\term\impl\http\session\HttpSession.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\term\impl\http\session\HttpSessionManager.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\term\impl\http\session\LRUCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\term\impl\http\session\SimpleHttpSession.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\term\impl\http\TtyServerInitializer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\term\impl\http\TtyWebSocketFrameHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\term\impl\httptelnet\HttpTelnetTermServer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\term\impl\httptelnet\NettyHttpTelnetBootstrap.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\term\impl\httptelnet\NettyHttpTelnetTtyBootstrap.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\term\impl\httptelnet\ProtocolDetectHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\term\impl\HttpTermServer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\term\impl\TelnetTermServer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\term\impl\TermImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\term\SignalHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\term\Term.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\term\TermServer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\shell\term\Tty.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\affect\Affect.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\affect\EnhancerAffect.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\affect\RowAffect.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\ArrayUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\ArthasBanner.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\ArthasCheckUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\ClassLoaderUtils.java">
+<error line="93" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="130" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\ClassUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\collection\GaStack.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\collection\ThreadUnsafeFixGaStack.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\collection\ThreadUnsafeGaStack.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\CommandUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\Constants.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\DateUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\Decompiler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\FileUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\HttpUtils.java">
+<error line="50" column="50" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\InstrumentationUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\IOUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\IPUtils.java">
+<error line="31" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="64" column="31" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\LogUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\matcher\EqualsMatcher.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\matcher\FalseMatcher.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\matcher\GroupMatcher.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\matcher\Matcher.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\matcher\RegexMatcher.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\matcher\TrueMatcher.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\matcher\WildcardMatcher.java">
+<error line="30" column="5" severity="warning" message="A complexidade ciclomática é de 19 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\metrics\RateCounter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\metrics\SumRateCounter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\NetUtils.java">
+<error line="40" column="56" severity="warning" message="Instrução vazia." source="com.puppycrawl.tools.checkstyle.checks.coding.EmptyStatementCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\ObjectUtils.java">
+<error line="127" column="5" severity="warning" message="A complexidade ciclomática é de 25 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="179" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="410" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\reflect\ArthasReflectUtils.java">
+<error line="34" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\reflect\FieldUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\ResultUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\SearchUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\StringUtils.java">
+<error line="144" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="791" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\ThreadLocalWatch.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\ThreadUtil.java">
+<error line="99" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="180" column="5" severity="warning" message="A complexidade ciclomática é de 22 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="268" column="5" severity="warning" message="A complexidade ciclomática é de 25 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\TokenUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\TypeRenderUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\usage\StyledUsageFormatter.java">
+<error line="41" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\util\UserStatUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\view\Ansi.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\view\ClassInfoView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\view\KVView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\view\LadderView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\view\MethodInfoView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\view\ObjectView.java">
+<error line="113" column="5" severity="warning" message="A complexidade ciclomática é de 95 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\view\TableView.java">
+<error line="88" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="136" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\view\TreeView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\com\taobao\arthas\core\view\View.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\one\profiler\AsyncProfiler.java">
+<error line="88" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\one\profiler\AsyncProfilerMXBean.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\one\profiler\Counter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\one\profiler\Events.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\main\java\one\profiler\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\advisor\EnhancerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\advisor\SpyImplTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\bytecode\TestHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\command\basic1000\GrepCommandTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\command\express\FlowAttribute.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\command\express\FlowContext.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\command\express\OgnlExpressTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\command\express\OgnlTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\config\ErrorProperties.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\config\PropertiesInjectUtilTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\config\Server.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\config\ServerProperties.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\config\ServerPropertiesTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\config\Ssl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\config\SystemObject.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\env\ArthasEnvironmentTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\GlobalOptionsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\security\SecurityAuthenticatorImplTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\server\ArthasBootstrapTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\shell\cli\impl\CliTokenImplTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\shell\command\internal\GrepHandlerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\testtool\TestUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\util\ArrayUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\util\ArthasCheckUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\util\DateUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\util\DecompilerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\util\FileUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\util\IPUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\util\LogUtilTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\util\LongStackTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\util\matcher\EqualsMatcherTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\util\matcher\FalseMatcherTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\util\matcher\RegexMatcherTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\util\matcher\TrueMatcherTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\util\matcher\WildcardMatcherTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\util\StringUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\util\TokenUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\util\TypeRenderUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\core\src\test\java\com\taobao\arthas\core\view\ObjectViewTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-server\src\main\java\com\taobao\arthas\grpc\server\ArthasGrpcBootstrap.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-server\src\main\java\com\taobao\arthas\grpc\server\ArthasGrpcServer.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - com.alibaba.arthas.deps.ch.qos.logback.classic.Level." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="4" column="8" severity="warning" message="Importação não utilizada - com.alibaba.arthas.deps.ch.qos.logback.classic.LoggerContext." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="19" column="8" severity="warning" message="Importação não utilizada - io.netty.util.concurrent.DefaultEventExecutorGroup." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="20" column="8" severity="warning" message="Importação não utilizada - io.netty.util.concurrent.EventExecutorGroup." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-server\src\main\java\com\taobao\arthas\grpc\server\handler\annotation\GrpcMethod.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-server\src\main\java\com\taobao\arthas\grpc\server\handler\annotation\GrpcService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-server\src\main\java\com\taobao\arthas\grpc\server\handler\constant\GrpcInvokeTypeEnum.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-server\src\main\java\com\taobao\arthas\grpc\server\handler\executor\AbstractGrpcExecutor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-server\src\main\java\com\taobao\arthas\grpc\server\handler\executor\BiStreamExecutor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-server\src\main\java\com\taobao\arthas\grpc\server\handler\executor\ClientStreamExecutor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-server\src\main\java\com\taobao\arthas\grpc\server\handler\executor\GrpcExecutor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-server\src\main\java\com\taobao\arthas\grpc\server\handler\executor\GrpcExecutorFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-server\src\main\java\com\taobao\arthas\grpc\server\handler\executor\ServerStreamExecutor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-server\src\main\java\com\taobao\arthas\grpc\server\handler\executor\UnaryExecutor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-server\src\main\java\com\taobao\arthas\grpc\server\handler\GrpcDispatcher.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-server\src\main\java\com\taobao\arthas\grpc\server\handler\GrpcRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-server\src\main\java\com\taobao\arthas\grpc\server\handler\GrpcResponse.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-server\src\main\java\com\taobao\arthas\grpc\server\handler\Http2FrameRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-server\src\main\java\com\taobao\arthas\grpc\server\handler\Http2Handler.java">
+<error line="25" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-server\src\main\java\com\taobao\arthas\grpc\server\handler\StreamObserver.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-server\src\main\java\com\taobao\arthas\grpc\server\service\ArthasSampleService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-server\src\main\java\com\taobao\arthas\grpc\server\service\impl\ArthasSampleServiceImpl.java">
+<error line="12" column="8" severity="warning" message="Importação não utilizada - com.taobao.arthas.grpc.server.utils.ByteUtil." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-server\src\main\java\com\taobao\arthas\grpc\server\utils\ByteUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-server\src\main\java\com\taobao\arthas\grpc\server\utils\ReflectUtil.java">
+<error line="30" column="31" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-server\src\test\java\unittest\grpc\GrpcTest.java">
+<error line="17" column="8" severity="warning" message="Importação não utilizada - java.lang.invoke.MethodHandles." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-server\src\test\java\unittest\grpc\service\ArthasUnittestService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-server\src\test\java\unittest\grpc\service\impl\ArthasUnittestServiceImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\grpc\DemoBootstrap.java">
+<error line="28" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 11 classes [ComplexObject, ComplexObject.NestedObject, File, GrpcServer, GrpcWebProxyServer, JarFile, MathGame, NettyHttpServer, Thread, ThreadFactory, TransformerManager] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\grpc\distribution\GrpcResultDistributorImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\grpc\model\EnhancerRequestModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\grpc\model\WatchRequestModel.java">
+<error line="90" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\grpc\model\WatchResponseModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\grpc\objectUtils\ComplexObject.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\grpc\objectUtils\JavaObjectConverter.java">
+<error line="42" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\grpc\observer\ArthasStreamObserver.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\grpc\observer\impl\ArthasStreamObserverImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\grpc\observer\impl\GrpcProcess.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\grpc\server\GrpcServer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\grpc\server\httpServer\NettyHttpInitializer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\grpc\server\httpServer\NettyHttpServer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\grpc\server\httpServer\NettyHttpStaticFileHandler.java">
+<error line="32" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="42" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\grpc\service\advisor\AdviceListenerManager.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\grpc\service\advisor\Enhancer.java">
+<error line="54" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 11 classes [ClassNode, DefaultInterceptorClassParser, EnhancerAffect, File, GroupLocationFilter, InvokeCheckLocationFilter, InvokeContainLocationFilter, MethodProcessor, Pair, SpyImpl, WeakHashMap] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="54" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 26 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="97" column="5" severity="warning" message="A complexidade ciclomática é de 26 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="403" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\grpc\service\advisor\SpyImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\grpc\service\advisor\WatchRpcAdviceListener.java">
+<error line="9" column="8" severity="warning" message="Importação não utilizada - com.taobao.arthas.core.command.express.ExpressException." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="18" column="8" severity="warning" message="Importação não utilizada - java.lang.ref.SoftReference." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="19" column="8" severity="warning" message="Importação não utilizada - java.lang.ref.WeakReference." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\grpc\service\GrpcJobController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\grpc\service\ObjectService.java">
+<error line="52" column="5" severity="warning" message="A complexidade ciclomática é de 26 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\grpc\service\PwdCommandService.java">
+<error line="9" column="8" severity="warning" message="Importação não utilizada - com.taobao.arthas.core.shell.session.SessionManager." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="15" column="8" severity="warning" message="Importação não utilizada - java.lang.instrument.Instrumentation." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\grpc\service\SystemPropertyCommandService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\grpc\service\WatchCommandService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\grpc\view\GrpcEnhancerView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\grpc\view\GrpcMessageView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\grpc\view\GrpcPwdView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\grpc\view\GrpcResultView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\grpc\view\GrpcResultViewResolver.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\grpc\view\GrpcStatusView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\grpc\view\GrpcSystemPropertyView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\grpc\view\GrpcWatchView.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - com.taobao.arthas.core.view.ObjectView." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="4" column="8" severity="warning" message="Importação não utilizada - com.taobao.arthas.grpcweb.grpc.model.WatchRequestModel." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\proxy\CorsUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\proxy\GrpcServiceConnectionManager.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\proxy\GrpcWebClientInterceptor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\proxy\GrpcWebRequestHandler.java">
+<error line="38" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\proxy\MessageDeframer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\proxy\MessageFramer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\proxy\MessageUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\proxy\MetadataUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\proxy\SendGrpcWebResponse.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\proxy\server\GrpcWebProxyHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\proxy\server\GrpcWebProxyServer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\proxy\server\GrpcWebProxyServerInitializer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\proxy\SingleHttpChunkedInput.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\test\java\com\taobao\arthas\grpcweb\grpc\service\JavaObjectConverterTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\test\java\com\taobao\arthas\grpcweb\proxy\server\CorsUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\test\java\com\taobao\arthas\grpcweb\proxy\server\grpcService\EchoImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\test\java\com\taobao\arthas\grpcweb\proxy\server\grpcService\GreeterService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\test\java\com\taobao\arthas\grpcweb\proxy\server\grpcService\HelloImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\test\java\com\taobao\arthas\grpcweb\proxy\server\GrpcWebProxyServerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\test\java\com\taobao\arthas\grpcweb\proxy\server\MessageDeframerTest.java">
+<error line="9" column="8" severity="warning" message="Importação não utilizada - org.apache.http.entity.StringEntity." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="10" column="8" severity="warning" message="Importação não utilizada - org.apache.http.message.BasicHeader." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="11" column="8" severity="warning" message="Importação não utilizada - org.apache.http.protocol.HTTP." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="16" column="8" severity="warning" message="Importação não utilizada - java.util.Arrays." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\test\java\com\taobao\arthas\grpcweb\proxy\server\MessageUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\test\java\com\taobao\arthas\grpcweb\proxy\server\StartGrpcTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\arthas-grpc-web-proxy\src\test\java\com\taobao\arthas\grpcweb\proxy\server\StartGrpcWebProxyTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent\src\main\java\com\alibaba\arthas\nat\agent\core\ArthasHomeHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent\src\main\java\com\alibaba\arthas\nat\agent\core\JvmAttachmentHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent\src\main\java\com\alibaba\arthas\nat\agent\core\ListJvmProcessHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent\src\main\java\com\alibaba\arthas\nat\agent\core\MonitorTargetPidHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent\src\main\java\com\alibaba\arthas\nat\agent\factory\NativeAgentRegistryFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent\src\main\java\com\alibaba\arthas\nat\agent\registry\impl\EtcdNativeAgentRegistry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent\src\main\java\com\alibaba\arthas\nat\agent\registry\impl\ZookeeperNativeAgentRegistry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent\src\main\java\com\alibaba\arthas\nat\agent\registry\NativeAgentRegistry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent\src\main\java\com\alibaba\arthas\nat\agent\server\dto\JavaProcessInfoDTO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent\src\main\java\com\alibaba\arthas\nat\agent\server\forward\ForwardClientSocketClientHandler.java">
+<error line="29" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 11 classes [Bootstrap, ChannelInitializer, GenericFutureListener, HttpClientCodec, HttpObjectAggregator, LocalFrameHandler, LoggingHandler, NioEventLoopGroup, RelayHandler, URI, WebSocketClientProtocolHandler] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="29" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent\src\main\java\com\alibaba\arthas\nat\agent\server\forward\LocalFrameHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent\src\main\java\com\alibaba\arthas\nat\agent\server\forward\RelayHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent\src\main\java\com\alibaba\arthas\nat\agent\server\http\HttpNativeAgentHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent\src\main\java\com\alibaba\arthas\nat\agent\server\http\HttpRequestHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent\src\main\java\com\alibaba\arthas\nat\agent\server\NativeAgentBootstrap.java">
+<error line="42" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 13 classes [ChannelInitializer, ForwardClientSocketClientHandler, HttpObjectAggregator, HttpRequestDecoder, HttpRequestHandler, HttpResponseEncoder, HttpServerCodec, LoggingHandler, NioEventLoopGroup, ServerBootstrap, Thread, UsageMessageFormatter, WebSocketServerProtocolHandler] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="42" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 27 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent-common\src\main\java\com\alibaba\arthas\nat\agent\common\constants\NativeAgentConstants.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent-common\src\main\java\com\alibaba\arthas\nat\agent\common\dto\NativeAgentInfoDTO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent-common\src\main\java\com\alibaba\arthas\nat\agent\common\handler\HttpOptionRequestHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent-common\src\main\java\com\alibaba\arthas\nat\agent\common\utils\OkHttpUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent-common\src\main\java\com\alibaba\arthas\nat\agent\common\utils\WelcomeUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent-management-web\src\main\java\com\alibaba\arthas\nat\agent\management\web\discovery\impl\EtcdNativeAgentProxyDiscovery.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent-management-web\src\main\java\com\alibaba\arthas\nat\agent\management\web\discovery\impl\ZookeeperNativeAgentProxyDiscovery.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent-management-web\src\main\java\com\alibaba\arthas\nat\agent\management\web\discovery\NativeAgentProxyDiscovery.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent-management-web\src\main\java\com\alibaba\arthas\nat\agent\management\web\factory\NativeAgentProxyDiscoveryFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent-management-web\src\main\java\com\alibaba\arthas\nat\agent\management\web\server\http\HttpNativeAgentHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent-management-web\src\main\java\com\alibaba\arthas\nat\agent\management\web\server\http\HttpNativeAgentProxyHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent-management-web\src\main\java\com\alibaba\arthas\nat\agent\management\web\server\http\HttpRequestHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent-management-web\src\main\java\com\alibaba\arthas\nat\agent\management\web\server\http\HttpResourcesHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent-management-web\src\main\java\com\alibaba\arthas\nat\agent\management\web\server\NativeAgentManagementWebBootstrap.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent-proxy\src\main\java\com\alibaba\arthas\nat\agent\proxy\discovery\impl\EtcdNativeAgentDiscovery.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent-proxy\src\main\java\com\alibaba\arthas\nat\agent\proxy\discovery\impl\ZookeeperNativeAgentDiscovery.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent-proxy\src\main\java\com\alibaba\arthas\nat\agent\proxy\discovery\NativeAgentDiscovery.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent-proxy\src\main\java\com\alibaba\arthas\nat\agent\proxy\factory\NativeAgentDiscoveryFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent-proxy\src\main\java\com\alibaba\arthas\nat\agent\proxy\factory\NativeAgentProxyRegistryFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent-proxy\src\main\java\com\alibaba\arthas\nat\agent\proxy\registry\impl\EtcdNativeAgentProxyRegistry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent-proxy\src\main\java\com\alibaba\arthas\nat\agent\proxy\registry\impl\ZookeeperNativeAgentProxyRegistry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent-proxy\src\main\java\com\alibaba\arthas\nat\agent\proxy\registry\NativeAgentProxyRegistry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent-proxy\src\main\java\com\alibaba\arthas\nat\agent\proxy\server\handler\http\HttpNativeAgentHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent-proxy\src\main\java\com\alibaba\arthas\nat\agent\proxy\server\handler\http\HttpRequestHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent-proxy\src\main\java\com\alibaba\arthas\nat\agent\proxy\server\handler\RequestHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent-proxy\src\main\java\com\alibaba\arthas\nat\agent\proxy\server\handler\ws\WebSocketClientHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent-proxy\src\main\java\com\alibaba\arthas\nat\agent\proxy\server\handler\ws\WsRequestHandler.java">
+<error line="29" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\labs\cluster-management\native-agent-proxy\src\main\java\com\alibaba\arthas\nat\agent\proxy\server\NativeAgentProxyBootstrap.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\math-game\src\main\java\demo\MathGame.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\memorycompiler\src\main\java\com\taobao\arthas\compiler\ClassUriWrapper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\memorycompiler\src\main\java\com\taobao\arthas\compiler\CustomJavaFileObject.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\memorycompiler\src\main\java\com\taobao\arthas\compiler\DynamicClassLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\memorycompiler\src\main\java\com\taobao\arthas\compiler\DynamicCompiler.java">
+<error line="48" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="98" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\memorycompiler\src\main\java\com\taobao\arthas\compiler\DynamicCompilerException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\memorycompiler\src\main\java\com\taobao\arthas\compiler\DynamicJavaFileManager.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\memorycompiler\src\main\java\com\taobao\arthas\compiler\MemoryByteCode.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\memorycompiler\src\main\java\com\taobao\arthas\compiler\PackageInternalsFinder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\memorycompiler\src\main\java\com\taobao\arthas\compiler\StringSource.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\memorycompiler\src\test\java\com\taobao\arthas\compiler\DynamicCompilerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\memorycompiler\src\test\java\com\taobao\arthas\compiler\PackageInternalsFinderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\memorycompiler\src\test\resources\TestLogger1.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\memorycompiler\src\test\resources\TestLogger2.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\spy\src\main\java\java\arthas\SpyAPI.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\testcase\src\main\java\com\alibaba\arthas\Pojo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\testcase\src\main\java\com\alibaba\arthas\Test.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\testcase\src\main\java\com\alibaba\arthas\Type.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-client\src\main\java\com\alibaba\arthas\tunnel\client\ChannelUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-client\src\main\java\com\alibaba\arthas\tunnel\client\ForwardClient.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-client\src\main\java\com\alibaba\arthas\tunnel\client\ForwardClientSocketClientHandler.java">
+<error line="36" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 12 classes [Bootstrap, ChannelFutureListener, ChannelInitializer, DefaultThreadFactory, GenericFutureListener, HttpClientCodec, HttpObjectAggregator, LocalAddress, LocalFrameHandler, NioEventLoopGroup, RelayHandler, WebSocketClientProtocolHandler] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="36" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-client\src\main\java\com\alibaba\arthas\tunnel\client\LocalFrameHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-client\src\main\java\com\alibaba\arthas\tunnel\client\ProxyClient.java">
+<error line="48" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 11 classes [Bootstrap, ChannelFutureListener, ChannelInitializer, DefaultFullHttpRequest, DefaultThreadFactory, HttpClientCodec, HttpObjectAggregator, HttpProxyClientHandler, LocalAddress, NioEventLoopGroup, SimpleHttpResponse] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="48" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-client\src\main\java\com\alibaba\arthas\tunnel\client\RelayHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-client\src\main\java\com\alibaba\arthas\tunnel\client\TunnelClient.java">
+<error line="42" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 11 classes [Bootstrap, ChannelFutureListener, ChannelInitializer, DefaultThreadFactory, HttpClientCodec, HttpObjectAggregator, IdleStateHandler, NioEventLoopGroup, QueryStringEncoder, TunnelClientSocketClientHandler, WebSocketClientProtocolHandler] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="42" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="68" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-client\src\main\java\com\alibaba\arthas\tunnel\client\TunnelClientSocketClientHandler.java">
+<error line="55" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-common\src\main\java\com\alibaba\arthas\tunnel\common\MethodConstants.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-common\src\main\java\com\alibaba\arthas\tunnel\common\SimpleHttpResponse.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-common\src\main\java\com\alibaba\arthas\tunnel\common\URIConstans.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-common\src\test\java\com\alibaba\arthas\tunnel\common\SimpleHttpResponseTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-server\src\main\java\com\alibaba\arthas\tunnel\server\AgentClusterInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-server\src\main\java\com\alibaba\arthas\tunnel\server\AgentInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-server\src\main\java\com\alibaba\arthas\tunnel\server\app\ArthasTunnelApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-server\src\main\java\com\alibaba\arthas\tunnel\server\app\configuration\ArthasProperties.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-server\src\main\java\com\alibaba\arthas\tunnel\server\app\configuration\EmbeddedRedisConfiguration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-server\src\main\java\com\alibaba\arthas\tunnel\server\app\configuration\TunnelClusterStoreConfiguration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-server\src\main\java\com\alibaba\arthas\tunnel\server\app\configuration\TunnelServerConfiguration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-server\src\main\java\com\alibaba\arthas\tunnel\server\app\web\ClusterController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-server\src\main\java\com\alibaba\arthas\tunnel\server\app\web\DetailAPIController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-server\src\main\java\com\alibaba\arthas\tunnel\server\app\web\ProxyController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-server\src\main\java\com\alibaba\arthas\tunnel\server\app\web\StatController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-server\src\main\java\com\alibaba\arthas\tunnel\server\app\WebSecurityConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-server\src\main\java\com\alibaba\arthas\tunnel\server\ChannelUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-server\src\main\java\com\alibaba\arthas\tunnel\server\ClientConnectionInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-server\src\main\java\com\alibaba\arthas\tunnel\server\cluster\InMemoryClusterStore.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-server\src\main\java\com\alibaba\arthas\tunnel\server\cluster\RedisTunnelClusterStore.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-server\src\main\java\com\alibaba\arthas\tunnel\server\cluster\TunnelClusterStore.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-server\src\main\java\com\alibaba\arthas\tunnel\server\endpoint\ArthasEndpoint.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-server\src\main\java\com\alibaba\arthas\tunnel\server\endpoint\ArthasEndPointAutoconfiguration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-server\src\main\java\com\alibaba\arthas\tunnel\server\RelayHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-server\src\main\java\com\alibaba\arthas\tunnel\server\TunnelServer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-server\src\main\java\com\alibaba\arthas\tunnel\server\TunnelSocketFrameHandler.java">
+<error line="49" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 26 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="225" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-server\src\main\java\com\alibaba\arthas\tunnel\server\TunnelSocketServerInitializer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-server\src\main\java\com\alibaba\arthas\tunnel\server\utils\HttpUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-server\src\main\java\com\alibaba\arthas\tunnel\server\utils\InetAddressUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-server\src\test\java\com\alibaba\arthas\tunnel\server\app\ArthasTunnelApplicationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-server\src\test\java\com\alibaba\arthas\tunnel\server\URITest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_arthas\tunnel-server\src\test\java\com\alibaba\arthas\tunnel\server\utils\HttpUtilsTest.java">
+</file>
+</checkstyle>

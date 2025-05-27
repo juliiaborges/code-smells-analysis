@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.24.0">
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\AnotherBarActivity.java">
+<error line="129" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\BarChartActivity.java">
+<error line="46" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 27 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="206" column="5" severity="warning" message="A complexidade ciclomática é de 19 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\BarChartActivityMultiDataset.java">
+<error line="39" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="200" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\BarChartActivitySinus.java">
+<error line="149" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\BarChartPositiveNegative.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\BubbleChartActivity.java">
+<error line="159" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\CandleStickChartActivity.java">
+<error line="151" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\CombinedChartActivity.java">
+<error line="41" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 18 classes [BarData, BarDataSet, BarEntry, BubbleData, BubbleDataSet, BubbleEntry, CandleData, CandleDataSet, CandleEntry, CombinedData, DrawOrder, Entry, IAxisValueFormatter, Intent, LineData, LineDataSet, ScatterData, ScatterDataSet] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="41" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 28 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\CubicLineChartActivity.java">
+<error line="162" column="5" severity="warning" message="A complexidade ciclomática é de 29 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\custom\CustomScatterShapeRenderer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\custom\DayAxisValueFormatter.java">
+<error line="71" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\custom\MyAxisValueFormatter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\custom\MyCustomXAxisValueFormatter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\custom\MyFillFormatter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\custom\MyMarkerView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\custom\MyValueFormatter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\custom\RadarMarkerView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\custom\StackedBarsMarkerView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\custom\XYMarkerView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\custom\YearXAxisFormatter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\DrawChartActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\DynamicalAddingActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\FilledLineActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\fragments\BarChartFrag.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\fragments\ComplexityFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\fragments\PieChartFrag.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\fragments\ScatterChartFrag.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\fragments\SimpleChartDemo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\fragments\SimpleFragment.java">
+<error line="33" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 11 classes [BarData, BarDataSet, BarEntry, Entry, LineData, LineDataSet, PieData, PieDataSet, PieEntry, ScatterData, ScatterDataSet] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\fragments\SineCosineFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\HalfPieChartActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\HorizontalBarChartActivity.java">
+<error line="37" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="163" column="5" severity="warning" message="A complexidade ciclomática é de 19 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\HorizontalBarNegativeChartActivity.java">
+<error line="5" column="8" severity="warning" message="Importação não utilizada - android.annotation.SuppressLint." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="18" column="8" severity="warning" message="Importação não utilizada - android.widget.Toast." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="40" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="164" column="5" severity="warning" message="A complexidade ciclomática é de 19 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\InvertedLineChartActivity.java">
+<error line="151" column="5" severity="warning" message="A complexidade ciclomática é de 20 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\LineChartActivity1.java">
+<error line="50" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 24 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="266" column="5" severity="warning" message="A complexidade ciclomática é de 31 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\LineChartActivity2.java">
+<error line="229" column="5" severity="warning" message="A complexidade ciclomática é de 29 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\LineChartActivityColored.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\LineChartTime.java">
+<error line="167" column="5" severity="warning" message="A complexidade ciclomática é de 26 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\ListViewBarChartActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\listviewitems\BarChartItem.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\listviewitems\ChartItem.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\listviewitems\LineChartItem.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\listviewitems\PieChartItem.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\ListViewMultiChartActivity.java">
+<error line="44" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 14 classes [BarChartItem, BarData, BarDataSet, BarEntry, ChartDataAdapter, Entry, Intent, LineChartItem, LineData, LineDataSet, PieChartItem, PieData, PieDataSet, PieEntry] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\MultiLineChartActivity.java">
+<error line="147" column="5" severity="warning" message="A complexidade ciclomática é de 29 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\notimportant\ContentItem.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\notimportant\DemoBase.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\notimportant\MainActivity.java">
+<error line="135" column="5" severity="warning" message="A complexidade ciclomática é de 34 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\notimportant\MyAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\PerformanceLineChart.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\PieChartActivity.java">
+<error line="41" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="181" column="5" severity="warning" message="A complexidade ciclomática é de 26 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\PiePolylineChartActivity.java">
+<error line="40" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="182" column="5" severity="warning" message="A complexidade ciclomática é de 24 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\RadarChartActivity.java">
+<error line="159" column="5" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\RealtimeLineChartActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\ScatterChartActivity.java">
+<error line="158" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\ScrollViewActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\StackedBarActivity.java">
+<error line="38" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="161" column="5" severity="warning" message="A complexidade ciclomática é de 19 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartExample\src\main\java\com\xxmassdeveloper\mpchartexample\StackedBarActivityNegative.java">
+<error line="139" column="5" severity="warning" message="A complexidade ciclomática é de 19 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\animation\ChartAnimator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\animation\Easing.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\buffer\AbstractBuffer.java">
+<error line="4" column="8" severity="warning" message="Importação não utilizada - java.util.List." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\buffer\BarBuffer.java">
+<error line="43" column="5" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\buffer\HorizontalBarBuffer.java">
+<error line="13" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\charts\BarChart.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\charts\BarLineChartBase.java">
+<error line="44" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="188" column="5" severity="warning" message="A complexidade ciclomática é de 28 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="395" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\charts\BubbleChart.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\charts\CandleStickChart.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\charts\Chart.java">
+<error line="17" column="8" severity="warning" message="Importação não utilizada - android.os.Build." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="29" column="8" severity="warning" message="Importação não utilizada - com.github.mikephil.charting.animation.Easing." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="64" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 14 classes [AnimatorUpdateListener, Canvas, ChartAnimator, ContentValues, DefaultValueFormatter, Description, File, FileOutputStream, Highlight, Legend, LegendRenderer, Paint, ViewPortHandler, XAxis] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="64" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 44 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="1583" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\charts\CombinedChart.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\charts\HorizontalBarChart.java">
+<error line="63" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\charts\LineChart.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\charts\PieChart.java">
+<error line="214" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\charts\PieRadarChartBase.java">
+<error line="14" column="8" severity="warning" message="Importação não utilizada - com.github.mikephil.charting.animation.Easing." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="111" column="5" severity="warning" message="A complexidade ciclomática é de 26 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\charts\RadarChart.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\charts\ScatterChart.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\components\AxisBase.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\components\ComponentBase.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\components\Description.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\components\IMarker.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\components\Legend.java">
+<error line="652" column="5" severity="warning" message="A complexidade ciclomática é de 30 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\components\LegendEntry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\components\LimitLine.java">
+<error line="7" column="8" severity="warning" message="Importação não utilizada - android.graphics.Typeface." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\components\MarkerImage.java">
+<error line="4" column="8" severity="warning" message="Importação não utilizada - android.graphics.Bitmap." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="9" column="8" severity="warning" message="Importação não utilizada - android.view.LayoutInflater." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="10" column="8" severity="warning" message="Importação não utilizada - android.view.View." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="11" column="8" severity="warning" message="Importação não utilizada - android.widget.RelativeLayout." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="96" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\components\MarkerView.java">
+<error line="12" column="8" severity="warning" message="Importação não utilizada - com.github.mikephil.charting.utils.FSize." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\components\XAxis.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\components\YAxis.java">
+<error line="424" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\data\BarData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\data\BarDataSet.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\data\BarEntry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\data\BarLineScatterCandleBubbleData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\data\BarLineScatterCandleBubbleDataSet.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\data\BaseDataSet.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\data\BaseEntry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\data\BubbleData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\data\BubbleDataSet.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\data\BubbleEntry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\data\CandleData.java">
+<error line="5" column="8" severity="warning" message="Importação não utilizada - java.util.ArrayList." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\data\CandleDataSet.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\data\CandleEntry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\data\ChartData.java">
+<error line="130" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\data\CombinedData.java">
+<error line="56" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\data\DataSet.java">
+<error line="320" column="5" severity="warning" message="A complexidade ciclomática é de 22 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\data\Entry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\data\filter\Approximator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\data\filter\ApproximatorN.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\data\LineData.java">
+<error line="6" column="8" severity="warning" message="Importação não utilizada - java.util.ArrayList." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\data\LineDataSet.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\data\LineRadarDataSet.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\data\LineScatterCandleRadarDataSet.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\data\PieData.java">
+<error line="9" column="8" severity="warning" message="Importação não utilizada - java.util.ArrayList." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\data\PieDataSet.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\data\PieEntry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\data\RadarData.java">
+<error line="7" column="8" severity="warning" message="Importação não utilizada - java.util.ArrayList." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\data\RadarDataSet.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\data\RadarEntry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\data\ScatterData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\data\ScatterDataSet.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\exception\DrawingDataSetNotCreatedException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\formatter\ColorFormatter.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - com.github.mikephil.charting.data.DataSet." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\formatter\DefaultAxisValueFormatter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\formatter\DefaultFillFormatter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\formatter\DefaultValueFormatter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\formatter\IAxisValueFormatter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\formatter\IFillFormatter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\formatter\IndexAxisValueFormatter.java">
+<error line="5" column="8" severity="warning" message="Importação não utilizada - com.github.mikephil.charting.data.Entry." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="6" column="8" severity="warning" message="Importação não utilizada - com.github.mikephil.charting.utils.ViewPortHandler." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="8" column="8" severity="warning" message="Importação não utilizada - java.text.DecimalFormat." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="9" column="8" severity="warning" message="Importação não utilizada - java.util.Arrays." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\formatter\IValueFormatter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\formatter\LargeValueFormatter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\formatter\PercentFormatter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\formatter\StackedValueFormatter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\highlight\BarHighlighter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\highlight\ChartHighlighter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\highlight\CombinedHighlighter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\highlight\Highlight.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\highlight\HorizontalBarHighlighter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\highlight\IHighlighter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\highlight\PieHighlighter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\highlight\PieRadarHighlighter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\highlight\RadarHighlighter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\highlight\Range.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\interfaces\dataprovider\BarDataProvider.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\interfaces\dataprovider\BarLineScatterCandleBubbleDataProvider.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\interfaces\dataprovider\BubbleDataProvider.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\interfaces\dataprovider\CandleDataProvider.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\interfaces\dataprovider\ChartInterface.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\interfaces\dataprovider\CombinedDataProvider.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\interfaces\dataprovider\LineDataProvider.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\interfaces\dataprovider\ScatterDataProvider.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\interfaces\datasets\IBarDataSet.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\interfaces\datasets\IBarLineScatterCandleBubbleDataSet.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\interfaces\datasets\IBubbleDataSet.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\interfaces\datasets\ICandleDataSet.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\interfaces\datasets\IDataSet.java">
+<error line="4" column="8" severity="warning" message="Importação não utilizada - android.graphics.PointF." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\interfaces\datasets\ILineDataSet.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\interfaces\datasets\ILineRadarDataSet.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\interfaces\datasets\ILineScatterCandleRadarDataSet.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\interfaces\datasets\IPieDataSet.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\interfaces\datasets\IRadarDataSet.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\interfaces\datasets\IScatterDataSet.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\jobs\AnimatedMoveViewJob.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\jobs\AnimatedViewPortJob.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\jobs\AnimatedZoomJob.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\jobs\MoveViewJob.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\jobs\ViewPortJob.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\jobs\ZoomJob.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\listener\BarLineChartTouchListener.java">
+<error line="5" column="8" severity="warning" message="Importação não utilizada - android.graphics.PointF." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="95" column="5" severity="warning" message="A complexidade ciclomática é de 48 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="345" column="5" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\listener\ChartTouchListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\listener\OnChartGestureListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\listener\OnChartValueSelectedListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\listener\OnDrawLineChartTouchListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\listener\OnDrawListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\listener\PieRadarChartTouchListener.java">
+<error line="5" column="8" severity="warning" message="Importação não utilizada - android.graphics.PointF." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="40" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\matrix\Vector3.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\model\GradientColor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\renderer\AxisRenderer.java">
+<error line="149" column="5" severity="warning" message="A complexidade ciclomática é de 27 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\renderer\BarChartRenderer.java">
+<error line="88" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="203" column="5" severity="warning" message="A complexidade ciclomática é de 44 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\renderer\BarLineScatterCandleBubbleRenderer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\renderer\BubbleChartRenderer.java">
+<error line="118" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\renderer\CandleStickChartRenderer.java">
+<error line="56" column="5" severity="warning" message="A complexidade ciclomática é de 23 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="255" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\renderer\CombinedChartRenderer.java">
+<error line="12" column="8" severity="warning" message="Importação não utilizada - com.github.mikephil.charting.interfaces.dataprovider.BarLineScatterCandleBubbleDataProvider." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="41" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="108" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\renderer\DataRenderer.java">
+<error line="9" column="8" severity="warning" message="Importação não utilizada - android.graphics.drawable.Drawable." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="17" column="8" severity="warning" message="Importação não utilizada - com.github.mikephil.charting.utils.MPPointF." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\renderer\HorizontalBarChartRenderer.java">
+<error line="56" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="160" column="5" severity="warning" message="A complexidade ciclomática é de 50 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\renderer\LegendRenderer.java">
+<error line="83" column="5" severity="warning" message="A complexidade ciclomática é de 22 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="235" column="5" severity="warning" message="A complexidade ciclomática é de 54 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="490" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\renderer\LineChartRenderer.java">
+<error line="293" column="5" severity="warning" message="A complexidade ciclomática é de 26 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="535" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="621" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\renderer\LineRadarRenderer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\renderer\LineScatterCandleRadarRenderer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\renderer\PieChartRenderer.java">
+<error line="36" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="216" column="5" severity="warning" message="A complexidade ciclomática é de 32 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="407" column="5" severity="warning" message="A complexidade ciclomática é de 45 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="798" column="5" severity="warning" message="A complexidade ciclomática é de 34 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\renderer\RadarChartRenderer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\renderer\Renderer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\renderer\scatter\ChevronDownShapeRenderer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\renderer\scatter\ChevronUpShapeRenderer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\renderer\scatter\CircleShapeRenderer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\renderer\scatter\CrossShapeRenderer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\renderer\scatter\IShapeRenderer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\renderer\scatter\SquareShapeRenderer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\renderer\scatter\TriangleShapeRenderer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\renderer\scatter\XShapeRenderer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\renderer\ScatterChartRenderer.java">
+<error line="95" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\renderer\XAxisRenderer.java">
+<error line="180" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\renderer\XAxisRendererHorizontalBarChart.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\renderer\XAxisRendererRadarChart.java">
+<error line="5" column="8" severity="warning" message="Importação não utilizada - android.graphics.PointF." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\renderer\YAxisRenderer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\renderer\YAxisRendererHorizontalBarChart.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\renderer\YAxisRendererRadarChart.java">
+<error line="5" column="8" severity="warning" message="Importação não utilizada - android.graphics.PointF." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="26" column="5" severity="warning" message="A complexidade ciclomática é de 24 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\utils\ColorTemplate.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\utils\EntryXComparator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\utils\FileUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\utils\Fill.java">
+<error line="161" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="248" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\utils\FSize.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\utils\HorizontalViewPortHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\utils\MPPointD.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\utils\MPPointF.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\utils\ObjectPool.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\utils\Transformer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\utils\TransformerHorizontalBarChart.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\utils\Utils.java">
+<error line="10" column="8" severity="warning" message="Importação não utilizada - android.graphics.drawable.BitmapDrawable." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="18" column="8" severity="warning" message="Importação não utilizada - android.util.SizeF." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="269" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\main\java\com\github\mikephil\charting\utils\ViewPortHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\test\java\com\github\mikephil\charting\test\ApproximatorTest.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - com.github.mikephil.charting.data.Entry." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="8" column="8" severity="warning" message="Importação não utilizada - java.util.ArrayList." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="9" column="8" severity="warning" message="Importação não utilizada - java.util.List." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\test\java\com\github\mikephil\charting\test\AxisRendererTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\test\java\com\github\mikephil\charting\test\BarDataTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\test\java\com\github\mikephil\charting\test\ChartDataTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\test\java\com\github\mikephil\charting\test\DataSetTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\test\java\com\github\mikephil\charting\test\LargeValueFormatterTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\PhilJay_MPAndroidChart\MPChartLib\src\test\java\com\github\mikephil\charting\test\ObjectPoolTest.java">
+</file>
+</checkstyle>

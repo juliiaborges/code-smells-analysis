@@ -1,0 +1,1535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.24.0">
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-base\src\main\java\com\facebook\fresco\animation\factory\AnimatedFactoryV2Impl.java">
+<error line="43" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 27 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-base\src\main\java\com\facebook\fresco\animation\factory\DefaultBitmapAnimationDrawableFactory.java">
+<error line="59" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 15 classes [AnimatedDrawable2, AnimatedDrawableBackendAnimationInformation, AnimatedDrawableBackendFrameRenderer, AnimatedFrameCache, AnimationFrameCacheKey, BitmapAnimationBackend, DefaultBitmapFramePreparer, FixedNumberBitmapFramePreparationStrategy, FrameLoaderFactory, FrameLoaderStrategy, FrescoFrameCache, KAnimatedDrawable2, KeepLastFrameCache, NoOpCache, Rect] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="59" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 42 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-base\src\main\java\com\facebook\imagepipeline\animated\base\AnimatedDrawableBackend.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-base\src\main\java\com\facebook\imagepipeline\animated\base\AnimatedDrawableFrameInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-base\src\main\java\com\facebook\imagepipeline\animated\base\AnimatedDrawableOptions.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-base\src\main\java\com\facebook\imagepipeline\animated\base\AnimatedDrawableOptionsBuilder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-base\src\main\java\com\facebook\imagepipeline\animated\base\AnimatedImage.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-base\src\main\java\com\facebook\imagepipeline\animated\base\AnimatedImageFrame.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-base\src\main\java\com\facebook\imagepipeline\animated\base\AnimatedImageResult.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-base\src\main\java\com\facebook\imagepipeline\animated\base\AnimatedImageResultBuilder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-base\src\main\java\com\facebook\imagepipeline\animated\base\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-base\src\main\java\com\facebook\imagepipeline\animated\factory\AnimatedImageDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-base\src\main\java\com\facebook\imagepipeline\animated\factory\AnimatedImageFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-base\src\main\java\com\facebook\imagepipeline\animated\factory\AnimatedImageFactoryImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-base\src\main\java\com\facebook\imagepipeline\animated\impl\AnimatedDrawableBackendImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-base\src\main\java\com\facebook\imagepipeline\animated\impl\AnimatedDrawableBackendProvider.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-base\src\main\java\com\facebook\imagepipeline\animated\impl\AnimatedFrameCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-base\src\main\java\com\facebook\imagepipeline\animated\impl\AnimatedImageCompositor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-base\src\main\java\com\facebook\imagepipeline\animated\impl\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-base\src\main\java\com\facebook\imagepipeline\image\CloseableAnimatedImage.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-base\src\main\java\com\facebook\imagepipeline\image\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-base\src\test\java\android\net\http\AndroidHttpClient.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-base\src\test\java\com\facebook\fresco\animation\bitmap\cache\FrescoFrameCacheTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-base\src\test\java\com\facebook\fresco\animation\bitmap\wrapper\AnimatedDrawableBackendAnimationInformationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-base\src\test\java\com\facebook\fresco\animation\bitmap\wrapper\AnimatedDrawableBackendFrameRendererTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-base\src\test\java\com\facebook\imagepipeline\animated\impl\AnimatedDrawableBackendImplTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-base\src\test\java\com\facebook\imagepipeline\animated\impl\AnimatedFrameCacheTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-base\src\test\java\com\facebook\imagepipeline\animated\testing\TestAnimatedDrawableBackend.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-base\src\test\java\com\facebook\imagepipeline\animated\util\AnimatedDrawableUtilTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-base\src\test\java\com\facebook\imagepipeline\producers\AnimatedRepeatedPostprocessorProducerTest.java">
+<error line="42" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 27 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-base\src\test\java\com\facebook\imagepipeline\producers\AnimatedSingleUsePostprocessorProducerTest.java">
+<error line="37" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-drawable\src\main\java\com\facebook\fresco\animation\backend\AnimationBackend.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-drawable\src\main\java\com\facebook\fresco\animation\backend\AnimationBackendDelegateWithInactivityCheck.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-drawable\src\main\java\com\facebook\fresco\animation\backend\AnimationInformation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-drawable\src\main\java\com\facebook\fresco\animation\frame\FrameScheduler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-drawable\src\test\java\com\facebook\fresco\animation\backend\AnimationBackendDelegateTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-drawable\src\test\java\com\facebook\fresco\animation\backend\AnimationBackendDelegateWithInactivityCheckTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-drawable\src\test\java\com\facebook\fresco\animation\bitmap\BitmapAnimationBackendTest.java">
+<error line="42" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-drawable\src\test\java\com\facebook\fresco\animation\bitmap\preparation\DefaultBitmapFramePreparerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-drawable\src\test\java\com\facebook\fresco\animation\bitmap\preparation\FixedNumberBitmapFramePreparationStrategyTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-drawable\src\test\java\com\facebook\fresco\animation\frame\DropFramesFrameSchedulerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-drawable\src\test\java\javax\microedition\khronos\opengles\GL.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-gif\src\main\java\com\facebook\animated\gif\GifFrame.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-gif\src\main\java\com\facebook\animated\gif\GifImage.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-gif\src\test\java\com\facebook\imagepipeline\animated\factory\AnimatedImageFactoryGifImplTest.java">
+<error line="53" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 24 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-gif-lite\src\main\java\com\facebook\animated\giflite\decoder\GifMetadataDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-gif-lite\src\main\java\com\facebook\animated\giflite\GifDecoder.java">
+<error line="86" column="37" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-webp\src\main\java\com\facebook\animated\webp\WebPFrame.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-webp\src\main\java\com\facebook\animated\webp\WebPImage.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\animated-webp\src\test\java\com\facebook\imagepipeline\animated\factory\AnimatedImageFactoryWebPImplTest.java">
+<error line="53" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 24 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\components\DeferredReleaser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\components\DeferredReleaserConcurrentImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\components\DraweeEventTracker.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\components\RetryManager.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\controller\AbstractDraweeController.java">
+<error line="57" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 35 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="151" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="627" column="3" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="696" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\controller\AbstractDraweeControllerBuilder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\controller\BaseControllerListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\controller\ControllerListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\controller\ControllerViewportVisibilityListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\controller\ForwardingControllerListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\controller\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\debug\DebugControllerOverlayDrawable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\drawable\ArrayDrawable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\drawable\AutoRotateDrawable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\drawable\FadeDrawable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\drawable\ForwardingDrawable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\drawable\MatrixDrawable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\drawable\RoundedBitmapDrawable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\drawable\RoundedColorDrawable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\drawable\RoundedCornersDrawable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\drawable\RoundedDrawable.java">
+<error line="237" column="3" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\generic\GenericDraweeHierarchy.java">
+<error line="85" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\generic\GenericDraweeHierarchyBuilder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\generic\GenericDraweeHierarchyInflater.java">
+<error line="99" column="3" severity="warning" message="A complexidade ciclomática é de 49 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="274" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\generic\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\generic\RootDrawable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\generic\RoundingParams.java">
+<error line="297" column="3" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\generic\WrappingUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\gestures\GestureDetector.java">
+<error line="84" column="3" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\interfaces\DraweeController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\interfaces\DraweeHierarchy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\interfaces\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\interfaces\SettableDraweeHierarchy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\interfaces\SimpleDraweeControllerBuilder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\view\AspectRatioMeasure.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\view\DraweeHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\view\DraweeTransition.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\view\DraweeView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\view\GenericDraweeView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\view\MultiDraweeHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\view\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\main\java\com\facebook\drawee\view\SimpleDraweeView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\test\java\com\facebook\drawee\components\DeferredReleaserStressTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\test\java\com\facebook\drawee\controller\AbstractDraweeControllerTest.java">
+<error line="56" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\test\java\com\facebook\drawee\debug\DebugControllerOverlayDrawableInternalTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\test\java\com\facebook\drawee\debug\DebugControllerOverlayDrawableTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\test\java\com\facebook\drawee\debug\DebugControllerOverlayDrawableTestHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\test\java\com\facebook\drawee\drawable\AndroidGraphicsTestUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\test\java\com\facebook\drawee\drawable\ArrayDrawableTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\test\java\com\facebook\drawee\drawable\DrawableTestUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\test\java\com\facebook\drawee\drawable\DrawableUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\test\java\com\facebook\drawee\drawable\FadeDrawableAllOnTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\test\java\com\facebook\drawee\drawable\FadeDrawableOnFadeListenerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\test\java\com\facebook\drawee\drawable\FadeDrawableTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\test\java\com\facebook\drawee\drawable\ForwardingDrawableTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\test\java\com\facebook\drawee\drawable\MatrixDrawableTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\test\java\com\facebook\drawee\drawable\OrientedDrawableTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\test\java\com\facebook\drawee\drawable\RoundedBitmapDrawableTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\test\java\com\facebook\drawee\drawable\RoundedColorDrawableTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\test\java\com\facebook\drawee\drawable\RoundedCornersDrawableTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\test\java\com\facebook\drawee\drawable\ScaleTypeDrawableTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\test\java\com\facebook\drawee\drawable\ScalingUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\test\java\com\facebook\drawee\drawable\SettableDrawableTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\test\java\com\facebook\drawee\generic\GenericDraweeHierarchyBuilderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\test\java\com\facebook\drawee\generic\GenericDraweeHierarchyTest.java">
+<error line="36" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\test\java\com\facebook\drawee\generic\RoundingParamsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\test\java\com\facebook\drawee\testing\DraweeMocks.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\test\java\com\facebook\drawee\testing\DraweeMocksTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\test\java\com\facebook\drawee\view\AspectRatioMeasureTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\test\java\com\facebook\drawee\view\DraweeHolderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\test\java\com\facebook\drawee\view\DraweeViewTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\test\java\com\facebook\drawee\view\MultiDraweeHolderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee\src\test\java\javax\microedition\khronos\opengles\GL.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee-backends\drawee-pipeline\src\main\java\com\facebook\drawee\backends\pipeline\DefaultDrawableFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee-backends\drawee-pipeline\src\main\java\com\facebook\drawee\backends\pipeline\DraweeConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee-backends\drawee-pipeline\src\main\java\com\facebook\drawee\backends\pipeline\Fresco.java">
+<error line="58" column="3" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee-backends\drawee-pipeline\src\main\java\com\facebook\drawee\backends\pipeline\info\ForwardingImageOriginListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee-backends\drawee-pipeline\src\main\java\com\facebook\drawee\backends\pipeline\info\ForwardingImagePerfDataListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee-backends\drawee-pipeline\src\main\java\com\facebook\drawee\backends\pipeline\info\ImageOriginListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee-backends\drawee-pipeline\src\main\java\com\facebook\drawee\backends\pipeline\info\ImageOriginRequestListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee-backends\drawee-pipeline\src\main\java\com\facebook\drawee\backends\pipeline\info\ImageOriginUtils.java">
+<error line="51" column="3" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee-backends\drawee-pipeline\src\main\java\com\facebook\drawee\backends\pipeline\info\ImagePerfMonitor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee-backends\drawee-pipeline\src\main\java\com\facebook\drawee\backends\pipeline\info\internal\ImagePerfRequestListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee-backends\drawee-pipeline\src\main\java\com\facebook\drawee\backends\pipeline\info\internal\ImagePerfStateManager.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee-backends\drawee-pipeline\src\main\java\com\facebook\drawee\backends\pipeline\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee-backends\drawee-pipeline\src\main\java\com\facebook\drawee\backends\pipeline\PipelineDraweeController.java">
+<error line="64" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 37 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee-backends\drawee-pipeline\src\main\java\com\facebook\drawee\backends\pipeline\PipelineDraweeControllerBuilder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee-backends\drawee-pipeline\src\main\java\com\facebook\drawee\backends\pipeline\PipelineDraweeControllerBuilderSupplier.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee-backends\drawee-pipeline\src\main\java\com\facebook\drawee\backends\pipeline\PipelineDraweeControllerFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee-backends\drawee-pipeline\src\test\java\com\facebook\drawee\backends\pipeline\info\ImagePerfMonitorTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee-span\src\main\java\com\facebook\drawee\span\DraweeSpan.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee-span\src\main\java\com\facebook\drawee\span\DraweeSpanStringBuilder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee-span\src\main\java\com\facebook\drawee\span\SimpleDraweeSpanTextView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee-span\src\test\java\com\facebook\drawee\span\DraweeSpanStringBuilderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\drawee-span\src\test\java\com\facebook\drawee\span\DraweeSpanTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\activitylistener\ActivityListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\activitylistener\ActivityListenerManager.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\activitylistener\BaseActivityListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\activitylistener\ListenableActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\callercontext\ContextChain.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\callercontext\ImageAttribution.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\disk\DiskTrimmable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\disk\DiskTrimmableRegistry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\disk\NoOpDiskTrimmableRegistry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\disk\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\executors\CallerThreadExecutor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\executors\ConstrainedExecutorService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\executors\DefaultSerialExecutorService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\executors\HandlerExecutorService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\executors\HandlerExecutorServiceImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\executors\ScheduledFutureImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\executors\SerialExecutorService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\executors\StatefulRunnable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\executors\UiThreadImmediateExecutorService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\file\FileTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\file\FileTreeVisitor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\file\FileUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\internal\AndroidPredicates.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\internal\ByteStreams.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\internal\Closeables.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\internal\CountingOutputStream.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\internal\DoNotStrip.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\internal\Files.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\internal\Fn.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\internal\ImmutableList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\internal\ImmutableMap.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\internal\ImmutableSet.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\internal\Objects.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\internal\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\internal\Preconditions.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\internal\Predicate.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\internal\Sets.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\internal\Supplier.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\internal\Suppliers.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\internal\Throwables.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\lifecycle\AttachDetachListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\logging\FLog.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\logging\FLogDefaultLoggingDelegate.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\logging\LoggingDelegate.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\logging\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\media\MimeTypeMapWrapper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\memory\ByteArrayPool.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\memory\DecodeBufferHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\memory\MemoryTrimmable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\memory\MemoryTrimmableRegistry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\memory\MemoryTrimType.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\memory\NoOpMemoryTrimmableRegistry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\memory\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\memory\Pool.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\memory\PooledByteArrayBufferedInputStream.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\memory\PooledByteBuffer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\memory\PooledByteBufferFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\memory\PooledByteBufferInputStream.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\memory\PooledByteBufferOutputStream.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\memory\PooledByteStreams.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\references\CloseableReference.java">
+<error line="70" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\references\DefaultCloseableReference.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\references\FinalizerCloseableReference.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\references\HasBitmap.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\references\NoOpCloseableReference.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\references\OOMSoftReference.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\references\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\references\RefCountCloseableReference.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\references\ResourceReleaser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\references\SharedReference.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\statfs\StatFsHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\streams\LimitedInputStream.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\streams\TailAppendingInputStream.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\time\AwakeTimeSinceBootClock.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\time\Clock.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\time\CurrentThreadTimeClock.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\time\MonotonicClock.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\time\MonotonicNanoClock.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\time\RealtimeSinceBootClock.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\time\SystemClock.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\util\ByteConstants.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\util\ExceptionWithNoStacktrace.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\util\HashCodeUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\util\Hex.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\util\SecureHashUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\util\StreamUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\util\TriState.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\util\UriUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\webp\BitmapCreator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\webp\WebpBitmapFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\common\webp\WebpSupportStatus.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\datasource\AbstractDataSource.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\datasource\BaseBooleanSubscriber.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\datasource\BaseDataSubscriber.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\datasource\DataSource.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\datasource\DataSources.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\datasource\DataSubscriber.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\datasource\FirstAvailableDataSourceSupplier.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\datasource\IncreasingQualityDataSourceSupplier.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\datasource\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\datasource\RetainingDataSourceSupplier.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\datasource\SimpleDataSource.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\main\java\com\facebook\widget\text\span\BetterImageSpan.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\test\java\com\facebook\common\executors\HandlerExecutorServiceImplTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\test\java\com\facebook\common\executors\StatefulRunnableTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\test\java\com\facebook\common\file\FileUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\test\java\com\facebook\common\media\MediaUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\test\java\com\facebook\common\references\CloseableReferenceTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\test\java\com\facebook\common\references\SharedReferenceTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\test\java\com\facebook\common\streams\LimitedInputStreamTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\test\java\com\facebook\common\streams\TailAppendingInputStreamTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\test\java\com\facebook\common\util\HashCodeUtilTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\test\java\com\facebook\common\util\StreamUtilTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\test\java\com\facebook\common\util\TriStateTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\test\java\com\facebook\common\util\UriUtilTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\test\java\com\facebook\datasource\AbstractDataSourceTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\test\java\com\facebook\datasource\DataSourcesTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\test\java\com\facebook\datasource\DataSourceTestUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\test\java\com\facebook\datasource\FirstAvailableDataSourceSupplierTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\test\java\com\facebook\datasource\IncreasingQualityDataSourceSupplierTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\test\java\com\facebook\widget\text\span\BetterImageSpanMarginTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\fbcore\src\test\java\com\facebook\widget\text\span\BetterImageSpanTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\bitmaps\EmptyJpegGenerator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\cache\CacheKeyFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\cache\DefaultBitmapMemoryCacheParamsSupplier.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\cache\DefaultCacheKeyFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\cache\DefaultEncodedMemoryCacheParamsSupplier.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\cache\EncodedCountingMemoryCacheFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\cache\EncodedMemoryCacheFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\cache\InstrumentedMemoryCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\cache\InstrumentedMemoryCacheBitmapMemoryCacheFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\cache\NativeMemoryCacheTrimStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\cache\NoOpImageCacheStatsTracker.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\cache\StagingArea.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\core\CloseableReferenceFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\core\DiskStorageCacheFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\core\DynamicDefaultDiskStorageFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\core\ImagePipelineFactory.java">
+<error line="58" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 28 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\core\ImageTranscoderType.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\core\MemoryChunkType.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\core\NativeCodeSetup.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\core\ProducerFactory.java">
+<error line="71" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 34 classes [AddImageTransformMetaDataProducer, BitmapMemoryCacheGetProducer, BitmapMemoryCacheKeyMultiplexProducer, BitmapMemoryCacheProducer, BitmapPrepareProducer, BitmapProbeProducer, BoundedLinkedHashSet, BranchOnSeparateImagesProducer, DataFetchProducer, DecodeProducer, DelayProducer, DiskCacheReadProducer, DiskCacheWriteProducer, EncodedCacheKeyMultiplexProducer, EncodedMemoryCacheProducer, EncodedProbeProducer, LocalAssetFetchProducer, LocalContentUriFetchProducer, LocalContentUriThumbnailFetchProducer, LocalExifThumbnailProducer, LocalFileFetchProducer, LocalResourceFetchProducer, LocalThumbnailBitmapSdk29Producer, LocalVideoThumbnailProducer, NetworkFetchProducer, PartialDiskCacheProducer, PostprocessedBitmapMemoryCacheProducer, PostprocessorProducer, QualifiedResourceFetchProducer, ResizeAndRotateProducer, SwallowResultProducer, ThreadHandoffProducer, ThrottlingProducer, ThumbnailBranchProducer] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="71" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 56 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\datasource\BaseBitmapDataSubscriber.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\datasource\BaseBitmapReferenceDataSubscriber.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\datasource\BaseListBitmapDataSubscriber.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\datasource\CloseableProducerToDataSourceAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\datasource\ListDataSource.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\decoder\DefaultImageDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\decoder\ImageDecoderConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\decoder\ProgressiveJpegConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\decoder\ProgressiveJpegParser.java">
+<error line="140" column="3" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\decoder\SimpleProgressiveJpegConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\listener\ForwardingRequestListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\listener\RequestListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\listener\RequestListener2.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\memory\BasePool.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\memory\BitmapCounter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\memory\Bucket.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\memory\BucketMap.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\memory\BucketsBitmapPool.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\memory\FlexByteArrayPool.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\memory\LruBitmapPool.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\memory\LruBucketsPoolBackend.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\memory\MemoryChunkPool.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\memory\MemoryPooledByteBuffer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\memory\NoOpPoolStatsTracker.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\memory\OOMSoftReferenceBucket.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\memory\PoolConfig.java">
+<error line="43" column="3" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\memory\PoolFactory.java">
+<error line="30" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\memory\PoolParams.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\memory\SharedByteArray.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\multiuri\MultiUri.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\platform\DefaultDecoder.java">
+<error line="38" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="204" column="3" severity="warning" message="A complexidade ciclomática é de 31 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\producers\AddImageTransformMetaDataProducer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\producers\BaseConsumer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\producers\BaseProducerContext.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\producers\BitmapMemoryCacheKeyMultiplexProducer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\producers\BitmapMemoryCacheProducer.java">
+<error line="46" column="3" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="135" column="7" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\producers\BitmapPrepareProducer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\producers\BitmapProbeProducer.java">
+<error line="119" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\producers\BranchOnSeparateImagesProducer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\producers\CustomProducerSequenceFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\producers\DataFetchProducer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\producers\DiskCacheReadProducer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\producers\DiskCacheWriteProducer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\producers\EncodedCacheKeyMultiplexProducer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\producers\EncodedMemoryCacheProducer.java">
+<error line="144" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\producers\EncodedProbeProducer.java">
+<error line="105" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\producers\HttpUrlConnectionNetworkFetcher.java">
+<error line="161" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\producers\JobScheduler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\producers\LocalContentUriThumbnailFetchProducer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\producers\LocalExifThumbnailProducer.java">
+<error line="46" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 26 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\producers\LocalFetchProducer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\producers\LocalThumbnailBitmapSdk29Producer.java">
+<error line="37" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="83" column="11" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\producers\LocalVideoThumbnailProducer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\producers\MultiplexProducer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\producers\NetworkFetcher.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\producers\NetworkFetchProducer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\producers\PartialDiskCacheProducer.java">
+<error line="52" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="286" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\producers\PostprocessedBitmapMemoryCacheProducer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\producers\PostprocessorProducer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\producers\PriorityStarvingThrottlingProducer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\producers\ProducerListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\producers\ProducerListener2.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\producers\ResizeAndRotateProducer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\producers\SettableProducerContext.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\producers\SwallowResultProducer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\producers\ThreadHandoffProducerQueue.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\producers\ThrottlingProducer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\producers\ThumbnailBranchProducer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\request\BasePostprocessor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\request\ImageRequest.java">
+<error line="306" column="3" severity="warning" message="A complexidade ciclomática é de 27 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="492" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\request\ImageRequestBuilder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\request\Postprocessor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\main\java\com\facebook\imagepipeline\transcoder\SimpleImageTranscoderFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\common\memory\PooledByteArrayBufferedInputStreamTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\common\memory\PooledByteBufferInputStreamTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\common\memory\PooledByteStreamsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\cache\BufferedDiskCacheTest.java">
+<error line="58" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 31 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\cache\StagingAreaTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\core\ImagePipelineConfigTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\core\ImagePipelineTest.java">
+<error line="63" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 27 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\core\ProducerSequenceFactoryTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\datasource\CloseableProducerToDataSourceAdapterTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\datasource\ListDataSourceTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\datasource\ProducerToDataSourceAdapterTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\decoder\ProgressiveJpegParserTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\filter\InPlaceRoundFilterTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\filter\IterativeBoxBlurFilterTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\filter\RenderScriptBlurFilterTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\filter\XferRoundFilterTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\memory\BasePoolTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\memory\BitmapCounterTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\memory\BitmapPoolTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\memory\BucketMapTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\memory\CloseableReferences.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\memory\FlexByteArrayPoolTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\memory\GenericByteArrayPoolTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\memory\LruBitmapPoolTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\memory\SharedByteArrayTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\platform\ArtDecoderTest.java">
+<error line="64" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 29 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\producers\AddImageTransformMetaDataProducerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\producers\BaseConsumerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\producers\BitmapMemoryCacheGetProducerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\producers\BitmapMemoryCacheProducerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\producers\BitmapPrepareProducerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\producers\BranchOnSeparateImagesProducerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\producers\DataFetchProducerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\producers\DecodeProducerTest.java">
+<error line="55" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 36 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\producers\DiskCacheReadProducerTest.java">
+<error line="51" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 26 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\producers\DiskCacheWriteProducerTest.java">
+<error line="61" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 27 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\producers\DownsampleUtilTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\producers\EncodedMemoryCacheProducerTest.java">
+<error line="48" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\producers\HttpUrlConnectionNetworkFetcherTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\producers\JobSchedulerTest.java">
+<error line="41" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\producers\LocalAssetFetchProducerTest.java">
+<error line="37" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\producers\LocalContentUriFetchProducerTest.java">
+<error line="36" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\producers\LocalContentUriThumbnailFetchProducerTest.java">
+<error line="43" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\producers\LocalExifThumbnailProducerTest.java">
+<error line="45" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 26 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\producers\LocalFileFetchProducerTest.java">
+<error line="35" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\producers\LocalResourceFetchProducerTest.java">
+<error line="37" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\producers\LocalVideoThumbnailProducerTest.java">
+<error line="48" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\producers\MultiplexProducerTest.java">
+<error line="47" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\producers\NetworkFetchProducerTest.java">
+<error line="39" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 28 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\producers\PostprocessedBitmapMemoryCacheProducerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\producers\PriorityStarvingThrottlingProducerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\producers\QualifiedResourceFetchProducerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\producers\RemoveImageTransformMetaDataProducerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\producers\RepeatedPostprocessorProducerTest.java">
+<error line="42" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 27 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\producers\ResizeAndRotateProducerTest.java">
+<error line="66" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 34 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\producers\SettableProducerContextTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\producers\SingleUsePostprocessorProducerTest.java">
+<error line="37" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\producers\StatefulProducerRunnableTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\producers\SwallowResultProducerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\producers\ThreadHandoffProducerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\producers\ThrottlingProducerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\producers\ThumbnailBranchProducerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\producers\ThumbnailSizeCheckerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\request\ForwardingRequestListenerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\request\ImageRequestBuilderCacheEnabledTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\com\facebook\imagepipeline\request\ImageRequestTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline\src\test\java\org\mockito\configuration\MockitoConfiguration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-backends\imagepipeline-volley\src\main\java\com\facebook\imagepipeline\backends\volley\RawRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-backends\imagepipeline-volley\src\main\java\com\facebook\imagepipeline\backends\volley\VolleyImagePipelineConfigFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-backends\imagepipeline-volley\src\main\java\com\facebook\imagepipeline\backends\volley\VolleyNetworkFetcher.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\cache\common\BaseCacheEventListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\cache\common\CacheErrorLogger.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\cache\common\CacheEvent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\cache\common\CacheEventListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\cache\common\CacheKey.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\cache\common\DebuggingCacheKey.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\cache\common\MultiCacheKey.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\cache\common\NoOpCacheErrorLogger.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\cache\common\NoOpCacheEventListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\cache\common\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\cache\common\SimpleCacheKey.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\cache\common\WriterCallback.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\cache\common\WriterCallbacks.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\cache\disk\DefaultDiskStorage.java">
+<error line="40" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\cache\disk\DefaultEntryEvictionComparatorSupplier.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\cache\disk\DiskCacheConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\cache\disk\DiskStorage.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\cache\disk\DiskStorageCache.java">
+<error line="40" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 30 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="692" column="3" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\cache\disk\DynamicDefaultDiskStorage.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\cache\disk\EntryEvictionComparator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\cache\disk\EntryEvictionComparatorSupplier.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\cache\disk\FileCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\cache\disk\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\cache\disk\ScoreBasedEvictionComparatorSupplier.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\cache\disk\SettableCacheEvent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\imagepipeline\bitmaps\PlatformBitmapFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\imagepipeline\bitmaps\SimpleBitmapReleaser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\imagepipeline\cache\AbstractAdaptiveCountingMemoryCache.java">
+<error line="41" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\imagepipeline\cache\CountingLruBitmapMemoryCacheFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\imagepipeline\cache\CountingLruMap.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\imagepipeline\cache\CountingMemoryCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\imagepipeline\cache\LruCountingMemoryCache.java">
+<error line="41" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\imagepipeline\common\ImageDecodeOptions.java">
+<error line="112" column="3" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="135" column="3" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\imagepipeline\common\ImageDecodeOptionsBuilder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\imagepipeline\image\BaseCloseableImage.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\imagepipeline\image\BaseCloseableStaticBitmap.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\imagepipeline\image\CloseableBitmap.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\imagepipeline\image\CloseableImage.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\imagepipeline\image\CloseableStaticBitmap.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\imagepipeline\image\DefaultCloseableImage.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\imagepipeline\image\DefaultCloseableStaticBitmap.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\imagepipeline\image\EncodedImage.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\imagepipeline\image\HasImageMetadata.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\imagepipeline\image\ImageInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\imagepipeline\image\ImageInfoImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\imagepipeline\image\ImmutableQualityInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\main\java\com\facebook\imagepipeline\image\QualityInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\test\java\com\facebook\cache\common\CacheEventAssert.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\test\java\com\facebook\cache\disk\DefaultDiskStorageTest.java">
+<error line="48" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\test\java\com\facebook\cache\disk\DefaultEntryEvictionComparatorSupplierTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\test\java\com\facebook\cache\disk\DiskStorageCacheTest.java">
+<error line="65" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 16 classes [CyclicBarrier, DefaultEntryEvictionComparatorSupplier, DiskStorageCache, DiskStorageCache.Params, DiskStorageWithReadFailures, DuplicatingCacheEventListener, FakeClock, File, IOException, MultiCacheKey, RandomAccessFile, Runnable, SimpleCacheKey, TestExecutorService, Thread, WriterCallback] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="65" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 35 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\test\java\com\facebook\cache\disk\DynamicDefaultDiskStorageTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\test\java\com\facebook\cache\disk\ScoreBasedEvictionComparatorSupplierTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\test\java\com\facebook\cache\disk\SettableCacheEventTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\test\java\com\facebook\imagepipeline\cache\AbstractAdaptiveCountingMemoryCacheTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\test\java\com\facebook\imagepipeline\cache\BoundedLinkedHashSetTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\test\java\com\facebook\imagepipeline\cache\CountingLruMapTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\test\java\com\facebook\imagepipeline\cache\LruCountingMemoryCacheTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\test\java\com\facebook\imagepipeline\common\BytesRangeTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\test\java\com\facebook\imagepipeline\common\ImageDecodeOptionsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\test\java\com\facebook\imagepipeline\common\ResizeOptionsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\test\java\com\facebook\imagepipeline\image\CloseableBitmapTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\test\java\com\facebook\imagepipeline\image\CloseableStaticBitmapTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\test\java\com\facebook\imagepipeline\image\EncodedImageTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\test\java\com\facebook\imageutils\BitmapUtilTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\test\java\com\facebook\imageutils\JfifTestUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\test\java\com\facebook\imageutils\JfifTestUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\test\java\com\facebook\imageutils\JfifUtilTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\test\java\com\facebook\imageutils\WebPUtilTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base\src\test\java\org\mockito\configuration\MockitoConfiguration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base-test\src\main\java\com\facebook\imagepipeline\testing\DeltaQueue.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base-test\src\main\java\com\facebook\imagepipeline\testing\FakeClock.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base-test\src\main\java\com\facebook\imagepipeline\testing\ScheduledQueue.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base-test\src\main\java\com\facebook\imagepipeline\testing\TestExecutorService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base-test\src\main\java\com\facebook\imagepipeline\testing\TestScheduledExecutorService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base-test\src\main\java\com\facebook\imagepipeline\testing\TestScheduledFuture.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base-test\src\main\java\com\facebook\imagepipeline\testing\TrivialBufferPooledByteBuffer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-base-test\src\main\java\com\facebook\imagepipeline\testing\TrivialPooledByteBuffer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-native\src\main\java\com\facebook\imagepipeline\nativecode\Bitmaps.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-native\src\main\java\com\facebook\imagepipeline\nativecode\DalvikPurgeableDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-native\src\main\java\com\facebook\imagepipeline\nativecode\ImagePipelineNativeLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-native\src\main\java\com\facebook\imagepipeline\platform\KitKatPurgeableDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-test\src\main\java\com\facebook\imagepipeline\memory\IntPair.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-test\src\main\java\com\facebook\imagepipeline\memory\PoolStats.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\imagepipeline-test\src\main\java\com\facebook\imagepipeline\testing\MockBitmapFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\memory-types\ashmem\src\main\java\com\facebook\imagepipeline\memory\AshmemMemoryChunk.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\memory-types\ashmem\src\main\java\com\facebook\imagepipeline\memory\AshmemMemoryChunkPool.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\memory-types\ashmem\src\test\java\com\facebook\imagepipeline\memory\AshmemMemoryChunkPoolTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\memory-types\ashmem\src\test\java\com\facebook\imagepipeline\memory\MemoryPooledByteBufferFactoryTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\memory-types\ashmem\src\test\java\com\facebook\imagepipeline\memory\MemoryPooledByteBufferOutputStreamTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\memory-types\ashmem\src\test\java\com\facebook\imagepipeline\memory\MemoryPooledByteBufferTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\memory-types\ashmem\src\test\java\com\facebook\imagepipeline\testing\FakeAshmemMemoryChunk.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\memory-types\ashmem\src\test\java\com\facebook\imagepipeline\testing\FakeAshmemMemoryChunkPool.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\memory-types\nativememory\src\main\java\com\facebook\imagepipeline\memory\NativeMemoryChunk.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\memory-types\nativememory\src\main\java\com\facebook\imagepipeline\memory\NativeMemoryChunkPool.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\memory-types\nativememory\src\test\java\com\facebook\imagepipeline\memory\MemoryPooledByteBufferFactoryTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\memory-types\nativememory\src\test\java\com\facebook\imagepipeline\memory\MemoryPooledByteBufferOutputStreamTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\memory-types\nativememory\src\test\java\com\facebook\imagepipeline\memory\MemoryPooledByteBufferTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\memory-types\nativememory\src\test\java\com\facebook\imagepipeline\memory\NativeMemoryChunkPoolTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\memory-types\nativememory\src\test\java\com\facebook\imagepipeline\memory\TestUsingNativeMemoryChunk.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\memory-types\nativememory\src\test\java\com\facebook\imagepipeline\testing\FakeNativeMemoryChunk.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\memory-types\nativememory\src\test\java\com\facebook\imagepipeline\testing\FakeNativeMemoryChunkPool.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\memory-types\simple\src\main\java\com\facebook\imagepipeline\memory\BufferMemoryChunk.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\memory-types\simple\src\main\java\com\facebook\imagepipeline\memory\BufferMemoryChunkPool.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\memory-types\simple\src\test\java\com\facebook\imagepipeline\memory\BufferMemoryChunkPoolTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\memory-types\simple\src\test\java\com\facebook\imagepipeline\memory\MemoryPooledByteBufferFactoryTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\memory-types\simple\src\test\java\com\facebook\imagepipeline\memory\MemoryPooledByteBufferOutputStreamTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\memory-types\simple\src\test\java\com\facebook\imagepipeline\memory\MemoryPooledByteBufferTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\memory-types\simple\src\test\java\com\facebook\imagepipeline\testing\FakeBufferMemoryChunkPool.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\mockito-config\src\main\java\org\mockito\configuration\MockitoConfiguration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\native-filters\src\main\java\com\facebook\imagepipeline\nativecode\NativeBlurFilter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\native-filters\src\main\java\com\facebook\imagepipeline\nativecode\NativeFiltersLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\native-filters\src\main\java\com\facebook\imagepipeline\nativecode\NativeRoundingFilter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\native-filters\src\main\java\com\facebook\imagepipeline\postprocessors\IterativeBoxBlurPostProcessor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\native-filters\src\main\java\com\facebook\imagepipeline\postprocessors\RoundAsCirclePostprocessor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\native-filters\src\main\java\com\facebook\imagepipeline\postprocessors\RoundedCornersPostprocessor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\native-imagetranscoder\src\main\java\com\facebook\imagepipeline\nativecode\NativeJpegTranscoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\native-imagetranscoder\src\main\java\com\facebook\imagepipeline\nativecode\NativeJpegTranscoderFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\native-imagetranscoder\src\main\java\com\facebook\imagepipeline\nativecode\NativeJpegTranscoderSoLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\animation2\src\main\java\com\facebook\samples\animation2\AnimationApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\animation2\src\main\java\com\facebook\samples\animation2\bitmap\BitmapAnimationCacheSelectorConfigurator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\animation2\src\main\java\com\facebook\samples\animation2\bitmap\BitmapAnimationDebugFragment.java">
+<error line="38" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\animation2\src\main\java\com\facebook\samples\animation2\bitmap\BitmapAnimationFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\animation2\src\main\java\com\facebook\samples\animation2\bitmap\DebugBitmapAnimationFrameListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\animation2\src\main\java\com\facebook\samples\animation2\bitmap\ExampleBitmapAnimationFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\animation2\src\main\java\com\facebook\samples\animation2\bitmap\NaiveCacheAllFramesCachingBackend.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\animation2\src\main\java\com\facebook\samples\animation2\color\ExampleColorBackend.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\animation2\src\main\java\com\facebook\samples\animation2\color\SimpleColorFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\animation2\src\main\java\com\facebook\samples\animation2\local\LocalDrawableAnimationBackend.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\animation2\src\main\java\com\facebook\samples\animation2\MediaControlFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\animation2\src\main\java\com\facebook\samples\animation2\SampleData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\animation2\src\main\java\com\facebook\samples\animation2\StandaloneActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\animation2\src\main\java\com\facebook\samples\animation2\utils\AnimationBackendUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\animation2\src\main\java\com\facebook\samples\animation2\utils\AnimationControlsManager.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\animation2\src\main\java\com\facebook\samples\animation2\utils\SampleAnimationBackendConfigurator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\comparison\src\main\java\com\facebook\samples\comparison\adapters\AQueryAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\comparison\src\main\java\com\facebook\samples\comparison\adapters\FrescoAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\comparison\src\main\java\com\facebook\samples\comparison\adapters\GlideAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\comparison\src\main\java\com\facebook\samples\comparison\adapters\ImageListAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\comparison\src\main\java\com\facebook\samples\comparison\adapters\PicassoAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\comparison\src\main\java\com\facebook\samples\comparison\adapters\UilAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\comparison\src\main\java\com\facebook\samples\comparison\adapters\VolleyAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\comparison\src\main\java\com\facebook\samples\comparison\ComparisonApp.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\comparison\src\main\java\com\facebook\samples\comparison\configs\ConfigConstants.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\comparison\src\main\java\com\facebook\samples\comparison\configs\glide\SampleGlideModule.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\comparison\src\main\java\com\facebook\samples\comparison\configs\imagepipeline\ImagePipelineConfigFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\comparison\src\main\java\com\facebook\samples\comparison\configs\picasso\SamplePicassoFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\comparison\src\main\java\com\facebook\samples\comparison\configs\uil\SampleUilFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\comparison\src\main\java\com\facebook\samples\comparison\configs\volley\SampleVolleyFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\comparison\src\main\java\com\facebook\samples\comparison\configs\volley\VolleyMemoryCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\comparison\src\main\java\com\facebook\samples\comparison\Drawables.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\comparison\src\main\java\com\facebook\samples\comparison\holders\AQueryHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\comparison\src\main\java\com\facebook\samples\comparison\holders\BaseViewHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\comparison\src\main\java\com\facebook\samples\comparison\holders\FrescoHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\comparison\src\main\java\com\facebook\samples\comparison\holders\GlideHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\comparison\src\main\java\com\facebook\samples\comparison\holders\PicassoHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\comparison\src\main\java\com\facebook\samples\comparison\holders\UilHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\comparison\src\main\java\com\facebook\samples\comparison\holders\VolleyDraweeHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\comparison\src\main\java\com\facebook\samples\comparison\holders\VolleyHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\comparison\src\main\java\com\facebook\samples\comparison\instrumentation\Instrumentation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\comparison\src\main\java\com\facebook\samples\comparison\instrumentation\Instrumented.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\comparison\src\main\java\com\facebook\samples\comparison\instrumentation\InstrumentedDraweeView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\comparison\src\main\java\com\facebook\samples\comparison\instrumentation\InstrumentedImageView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\comparison\src\main\java\com\facebook\samples\comparison\instrumentation\InstrumentedNetworkImageView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\comparison\src\main\java\com\facebook\samples\comparison\instrumentation\PerfListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\comparison\src\main\java\com\facebook\samples\comparison\MainActivity.java">
+<error line="54" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 14 classes [AQueryAdapter, AdapterView.OnItemSelectedListener, FrescoAdapter, GlideAdapter, GridLayoutManager, Handler, ImageUrlsFetcher.Callback, ImageUrlsRequestBuilder, PerfListener, PicassoAdapter, Point, Runnable, UilAdapter, VolleyAdapter] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="54" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 32 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\comparison\src\main\java\com\facebook\samples\comparison\urlsfetcher\ImageFormat.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\comparison\src\main\java\com\facebook\samples\comparison\urlsfetcher\ImageSize.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\comparison\src\main\java\com\facebook\samples\comparison\urlsfetcher\ImageUrlsFetcher.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\comparison\src\main\java\com\facebook\samples\comparison\urlsfetcher\ImageUrlsRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\comparison\src\main\java\com\facebook\samples\comparison\urlsfetcher\ImageUrlsRequestBuilder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\contrib\com\facebook\drawee\drawable\CircleProgressBarDrawable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\gestures\src\main\java\com\facebook\samples\gestures\MultiPointerGestureDetector.java">
+<error line="164" column="3" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\gestures\src\main\java\com\facebook\samples\gestures\TransformGestureDetector.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\gestures\src\test\java\com\facebook\samples\gestures\MotionEventTestUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\gestures\src\test\java\com\facebook\samples\gestures\MultiPointerGestureDetectorTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\gestures\src\test\java\com\facebook\samples\gestures\TransformGestureDetectorTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\scrollperf\src\androidTest\java\com\facebook\samples\scrollperf\data\impl\InfiniteSimpleAdapterTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\scrollperf\src\androidTest\java\com\facebook\samples\scrollperf\data\impl\LocalResourceSimpleAdapterTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\scrollperf\src\main\java\com\facebook\samples\scrollperf\conf\Config.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\scrollperf\src\main\java\com\facebook\samples\scrollperf\conf\Const.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\scrollperf\src\main\java\com\facebook\samples\scrollperf\data\Decorator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\scrollperf\src\main\java\com\facebook\samples\scrollperf\data\impl\ContentProviderSimpleAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\scrollperf\src\main\java\com\facebook\samples\scrollperf\data\impl\DistinctUriDecorator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\scrollperf\src\main\java\com\facebook\samples\scrollperf\data\impl\LocalResourceSimpleAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\scrollperf\src\main\java\com\facebook\samples\scrollperf\data\SimpleAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\scrollperf\src\main\java\com\facebook\samples\scrollperf\fragments\MainFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\scrollperf\src\main\java\com\facebook\samples\scrollperf\fragments\recycler\VitoViewAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\scrollperf\src\main\java\com\facebook\samples\scrollperf\fragments\recycler\VitoViewHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\scrollperf\src\main\java\com\facebook\samples\scrollperf\fragments\recycler\VitoViewListAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\scrollperf\src\main\java\com\facebook\samples\scrollperf\fragments\SettingsFragment.java">
+<error line="110" column="3" severity="warning" message="A complexidade ciclomática é de 23 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\scrollperf\src\main\java\com\facebook\samples\scrollperf\instrumentation\Instrumentation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\scrollperf\src\main\java\com\facebook\samples\scrollperf\instrumentation\Instrumented.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\scrollperf\src\main\java\com\facebook\samples\scrollperf\instrumentation\InstrumentedVitoView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\scrollperf\src\main\java\com\facebook\samples\scrollperf\instrumentation\PerfListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\scrollperf\src\main\java\com\facebook\samples\scrollperf\internal\ScrollPerfExecutorSupplier.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\scrollperf\src\main\java\com\facebook\samples\scrollperf\MainActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\scrollperf\src\main\java\com\facebook\samples\scrollperf\postprocessor\DelayPostprocessor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\scrollperf\src\main\java\com\facebook\samples\scrollperf\preferences\SizePreferences.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\scrollperf\src\main\java\com\facebook\samples\scrollperf\ScrollPerfApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\scrollperf\src\main\java\com\facebook\samples\scrollperf\util\PipelineUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\scrollperf\src\main\java\com\facebook\samples\scrollperf\util\SizeUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\scrollperf\src\main\java\com\facebook\samples\scrollperf\util\TimeWaster.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\scrollperf\src\main\java\com\facebook\samples\scrollperf\util\UI.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\scrollperf\src\main\java\com\facebook\samples\scrollperf\util\VitoUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\scrollperf\src\test\java\com\facebook\samples\scrollperf\util\TimeWasterTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\androidTest\java\com\facebook\fresco\samples\showcase\ShowcaseRunTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\BaseShowcaseFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\common\CustomScaleTypes.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\common\SimpleScaleTypeAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\CustomImageFormatConfigurator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\imageformat\color\ColorImageExample.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\imageformat\color\ImageFormatColorFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\imageformat\datauri\ImageFormatDataUriFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\imageformat\gif\ImageFormatGifFragment.java">
+<error line="37" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 24 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\imageformat\keyframes\AnimatableKeyframesDrawable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\imageformat\keyframes\ImageFormatKeyframesFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\imageformat\keyframes\KeyframesDecoderExample.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\imageformat\override\ImageFormatOverrideExample.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\imageformat\pjpeg\ImageFormatProgressiveJpegFragment.java">
+<error line="43" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 30 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\imageformat\svg\ImageFormatSvgFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\imageformat\svg\SvgDecoderExample.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\imageformat\webp\ImageFormatWebpFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\imageformat\xml\ImageFormatXmlFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\imagepipeline\DurationCallback.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\imagepipeline\ImagePipelineBitmapFactoryFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\imagepipeline\ImagePipelineDownsampleFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\imagepipeline\ImagePipelineNotificationFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\imagepipeline\ImagePipelinePostProcessorFragment.java">
+<error line="51" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 18 classes [AdapterView.OnItemSelectedListener, BenchmarkPostprocessorForDuplicatedBitmap, BenchmarkPostprocessorForDuplicatedBitmapInPlace, BenchmarkPostprocessorForManualBitmapHandling, BlurPostProcessor, CachedWatermarkPostprocessor, Entry, FasterGreyScalePostprocessor, IterativeBoxBlurPostProcessor, RoundAsCirclePostprocessor, RoundPostprocessor, RoundedCornersPostprocessor, Runnable, ScalingBlurPostprocessor, SimplePostprocessorAdapter, SlowGreyScalePostprocessor, View.OnClickListener, WatermarkPostprocessor] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="51" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 32 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\imagepipeline\ImagePipelinePrefetchFragment.java">
+<error line="44" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\imagepipeline\ImagePipelineQualifiedResourceFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\imagepipeline\ImagePipelineRegionDecodingFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\imagepipeline\ImagePipelineResizingFragment.java">
+<error line="38" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\imagepipeline\PartialRequestFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\imagepipeline\widget\ResizableFrameLayout.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\misc\CheckerBoardDrawable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\misc\DebugOverlaySupplierSingleton.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\misc\LogcatImagePerfDataListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\misc\WelcomeFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\postprocessor\BasePostprocessorWithDurationCallback.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\postprocessor\BenchmarkPostprocessorForDuplicatedBitmap.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\postprocessor\BenchmarkPostprocessorForDuplicatedBitmapInPlace.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\postprocessor\BenchmarkPostprocessorForManualBitmapHandling.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\postprocessor\CachedWatermarkPostprocessor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\postprocessor\FasterGreyScalePostprocessor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\postprocessor\ScalingBlurPostprocessor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\postprocessor\SlowGreyScalePostprocessor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\postprocessor\WatermarkPostprocessor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\settings\SettingsFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\vito\FrescoVitoImageDecodeOptions.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\vito\FrescoVitoImageDecodeOptionsBuilder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\vito\FrescoVitoLithoGalleryFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\vito\FrescoVitoLithoRegionDecodeFragment.java">
+<error line="35" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\vito\FrescoVitoLithoSectionsFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\vito\FrescoVitoRegionDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\vito\ImageLayersFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\vito\ninepatch\NinePatchExample.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\vito\RetainingDataSourceSupplierFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\vito\SimpleGallerySectionSpec.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\vito\SimpleListItemSpec.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\vito\SimpleListSectionSpec.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\vito\transition\ImageDetailsActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\vito\transition\VitoTransitionFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\vito\VitoRotationFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\vito\VitoRoundedCornersFragment.java">
+<error line="39" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\vito\VitoScaleTypeFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\vito\VitoSimpleFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\vito\VitoViewRecyclerFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\showcase\src\main\java\com\facebook\fresco\samples\showcase\vito\VitoViewSimpleFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\zoomable\src\main\java\com\facebook\samples\zoomable\AbstractAnimatedZoomableController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\zoomable\src\main\java\com\facebook\samples\zoomable\AnimatedZoomableController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\zoomable\src\main\java\com\facebook\samples\zoomable\DefaultZoomableController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\zoomable\src\main\java\com\facebook\samples\zoomable\DoubleTapGestureListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\zoomable\src\main\java\com\facebook\samples\zoomable\GestureListenerWrapper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\zoomable\src\main\java\com\facebook\samples\zoomable\MultiGestureListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\zoomable\src\main\java\com\facebook\samples\zoomable\MultiZoomableControllerListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\zoomable\src\main\java\com\facebook\samples\zoomable\ZoomableController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\zoomable\src\main\java\com\facebook\samples\zoomable\ZoomableDraweeView.java">
+<error line="40" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\zoomableapp\src\main\java\com\facebook\samples\zoomableapp\MainActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\zoomableapp\src\main\java\com\facebook\samples\zoomableapp\MyPagerAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\samples\zoomableapp\src\main\java\com\facebook\samples\zoomableapp\ZoomableApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\static-webp\src\androidTest\java\com\facebook\webpsupport\WebpBitmapFactoryTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\static-webp\src\androidTest\java\com\facebook\webpsupport\WebpDecodingTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\static-webp\src\main\java\com\facebook\webpsupport\WebpBitmapFactoryImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\static-webp\src\main\java\com\facebook\webpsupport\WebPImageDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\tools\flipper-fresco-plugin\src\main\java\com\facebook\flipper\plugins\fresco\FrescoFlipperDebugPrefHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\tools\flipper-fresco-plugin\src\main\java\com\facebook\flipper\plugins\fresco\FrescoFlipperPlugin.java">
+<error line="68" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 16 classes [AtomicBoolean, ByteArrayOutputStream, Continuation, CountingMemoryCacheInspector, FlipperArray.Builder, FlipperImageTracker, FlipperObject.Builder, FlipperReceiver, FrescoFlipperDebugPrefHelper.Listener, NoOpDebugMemoryManager, NoOpFlipperPerfLogger, PooledByteBufferInputStream, Predicate, PrintWriter, SimpleCacheKey, StringWriter] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="68" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 52 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\tools\flipper-fresco-plugin\src\main\java\com\facebook\flipper\plugins\fresco\FrescoFlipperRequestListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\tools\flipper-fresco-plugin\src\main\java\com\facebook\flipper\plugins\fresco\objecthelper\FlipperObjectHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\facebook_fresco\ui-core\src\main\java\com\facebook\drawee\drawable\ScalingUtils.java">
+</file>
+</checkstyle>

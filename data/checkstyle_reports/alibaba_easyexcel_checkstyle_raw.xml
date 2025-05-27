@@ -1,0 +1,1186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.24.0">
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel\src\main\java\com\alibaba\excel\Empty.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\csv\CsvExcelReadExecutor.java">
+<error line="19" column="8" severity="warning" message="Importação não utilizada - com.alibaba.excel.exception.ExcelAnalysisStopException." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\ExcelAnalyser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\ExcelAnalyserImpl.java">
+<error line="42" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="139" column="5" severity="warning" message="A complexidade ciclomática é de 22 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\ExcelReadExecutor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v03\handlers\AbstractXlsRecordHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v03\handlers\BlankRecordHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v03\handlers\BofRecordHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v03\handlers\BoolErrRecordHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v03\handlers\BoundSheetRecordHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v03\handlers\DummyRecordHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v03\handlers\EofRecordHandler.java">
+<error line="7" column="8" severity="warning" message="Importação não utilizada - com.alibaba.excel.analysis.v03.IgnorableXlsRecordHandler." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v03\handlers\FormulaRecordHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v03\handlers\HyperlinkRecordHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v03\handlers\IndexRecordHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v03\handlers\LabelRecordHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v03\handlers\LabelSstRecordHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v03\handlers\MergeCellsRecordHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v03\handlers\NoteRecordHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v03\handlers\NumberRecordHandler.java">
+<error line="7" column="8" severity="warning" message="Importação não utilizada - com.alibaba.excel.constant.EasyExcelConstants." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v03\handlers\ObjRecordHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v03\handlers\RkRecordHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v03\handlers\SstRecordHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v03\handlers\StringRecordHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v03\handlers\TextObjectRecordHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v03\IgnorableXlsRecordHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v03\XlsListSheetListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v03\XlsRecordHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v03\XlsSaxAnalyser.java">
+<error line="15" column="8" severity="warning" message="Importação não utilizada - org.apache.poi.hssf.eventusermodel.dummyrecord.MissingRowDummyRecord." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="80" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 26 classes [BlankRecordHandler, BofRecordHandler, BoolErrRecordHandler, BoundSheetRecordHandler, DummyRecordHandler, EofRecordHandler, EventWorkbookBuilder.SheetRecordCollectingListener, ExcelAnalysisException, FormatTrackingHSSFListener, FormulaRecordHandler, HSSFEventFactory, HSSFRequest, HyperlinkRecordHandler, IndexRecordHandler, LabelRecordHandler, LabelSstRecordHandler, MergeCellsRecordHandler, MissingRecordAwareHSSFListener, NoteRecordHandler, NumberRecordHandler, ObjRecordHandler, RkRecordHandler, SstRecordHandler, StringRecordHandler, TextObjectRecordHandler, XlsListSheetListener] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="80" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 38 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v07\handlers\AbstractCellValueTagHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v07\handlers\AbstractXlsxTagHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v07\handlers\CellFormulaTagHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v07\handlers\CellInlineStringValueTagHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v07\handlers\CellTagHandler.java">
+<error line="56" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v07\handlers\CellValueTagHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v07\handlers\CountTagHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v07\handlers\HyperlinkTagHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v07\handlers\MergeCellTagHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v07\handlers\RowTagHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v07\handlers\sax\SharedStringsTableHandler.java">
+<error line="61" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="88" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v07\handlers\sax\XlsxRowHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v07\handlers\XlsxTagHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\analysis\v07\XlsxSaxAnalyser.java">
+<error line="25" column="8" severity="warning" message="Importação não utilizada - com.alibaba.excel.exception.ExcelAnalysisStopException." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="59" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 36 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="229" column="40" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="232" column="40" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="235" column="40" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\annotation\ExcelIgnore.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\annotation\ExcelIgnoreUnannotated.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\annotation\ExcelProperty.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\annotation\format\DateTimeFormat.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\annotation\format\NumberFormat.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\annotation\write\style\ColumnWidth.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\annotation\write\style\ContentFontStyle.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\annotation\write\style\ContentLoopMerge.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\annotation\write\style\ContentRowHeight.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\annotation\write\style\ContentStyle.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\annotation\write\style\HeadFontStyle.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\annotation\write\style\HeadRowHeight.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\annotation\write\style\HeadStyle.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\annotation\write\style\OnceAbsoluteMerge.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\cache\Ehcache.java">
+<error line="5" column="8" severity="warning" message="Importação não utilizada - java.util.Optional." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\cache\MapCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\cache\ReadCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\cache\selector\EternalReadCacheSelector.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\cache\selector\ReadCacheSelector.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\cache\selector\SimpleReadCacheSelector.java">
+<error line="5" column="8" severity="warning" message="Importação não utilizada - lombok.Data." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\cache\XlsCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\constant\BuiltinFormats.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\constant\EasyExcelConstants.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\constant\ExcelXmlConstants.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\constant\OrderConstant.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\context\AnalysisContext.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\context\AnalysisContextImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\context\csv\CsvReadContext.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\context\csv\DefaultCsvReadContext.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\context\WriteContext.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\context\WriteContextImpl.java">
+<error line="57" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 34 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="353" column="5" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\context\xls\DefaultXlsReadContext.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\context\xls\XlsReadContext.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\context\xlsx\DefaultXlsxReadContext.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\context\xlsx\XlsxReadContext.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\AutoConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\bigdecimal\BigDecimalBooleanConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\bigdecimal\BigDecimalNumberConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\bigdecimal\BigDecimalStringConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\biginteger\BigIntegerBooleanConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\biginteger\BigIntegerNumberConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\biginteger\BigIntegerStringConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\booleanconverter\BooleanBooleanConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\booleanconverter\BooleanNumberConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\booleanconverter\BooleanStringConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\bytearray\BoxingByteArrayImageConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\bytearray\ByteArrayImageConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\byteconverter\ByteBooleanConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\byteconverter\ByteNumberConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\byteconverter\ByteStringConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\Converter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\ConverterKeyBuild.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\date\DateDateConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\date\DateNumberConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\date\DateStringConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\DefaultConverterLoader.java">
+<error line="58" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 45 classes [BigDecimalBooleanConverter, BigDecimalNumberConverter, BigDecimalStringConverter, BigIntegerBooleanConverter, BigIntegerNumberConverter, BigIntegerStringConverter, BooleanBooleanConverter, BooleanNumberConverter, BooleanStringConverter, BoxingByteArrayImageConverter, ByteArrayImageConverter, ByteBooleanConverter, ByteNumberConverter, ByteStringConverter, DateDateConverter, DateNumberConverter, DateStringConverter, DoubleBooleanConverter, DoubleNumberConverter, DoubleStringConverter, FileImageConverter, FloatBooleanConverter, FloatNumberConverter, FloatStringConverter, InputStreamImageConverter, IntegerBooleanConverter, IntegerNumberConverter, IntegerStringConverter, LocalDateDateConverter, LocalDateNumberConverter, LocalDateStringConverter, LocalDateTimeDateConverter, LocalDateTimeNumberConverter, LocalDateTimeStringConverter, LongBooleanConverter, LongNumberConverter, LongStringConverter, ShortBooleanConverter, ShortNumberConverter, ShortStringConverter, StringBooleanConverter, StringErrorConverter, StringNumberConverter, StringStringConverter, UrlImageConverter] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="58" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 46 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\doubleconverter\DoubleBooleanConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\doubleconverter\DoubleNumberConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\doubleconverter\DoubleStringConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\file\FileImageConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\floatconverter\FloatBooleanConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\floatconverter\FloatNumberConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\floatconverter\FloatStringConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\inputstream\InputStreamImageConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\integer\IntegerBooleanConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\integer\IntegerNumberConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\integer\IntegerStringConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\localdate\LocalDateDateConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\localdate\LocalDateNumberConverter.java">
+<error line="5" column="8" severity="warning" message="Importação não utilizada - java.time.LocalDateTime." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\localdate\LocalDateStringConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\localdatetime\LocalDateTimeDateConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\localdatetime\LocalDateTimeNumberConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\localdatetime\LocalDateTimeStringConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\longconverter\LongBooleanConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\longconverter\LongNumberConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\longconverter\LongStringConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\NullableObjectConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\ReadConverterContext.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\shortconverter\ShortBooleanConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\shortconverter\ShortNumberConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\shortconverter\ShortStringConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\string\StringBooleanConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\string\StringErrorConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\string\StringImageConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\string\StringNumberConverter.java">
+<error line="16" column="8" severity="warning" message="Importação não utilizada - org.apache.poi.ss.usermodel.DateUtil." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\string\StringStringConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\url\UrlImageConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\converters\WriteConverterContext.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\EasyExcel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\EasyExcelFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\enums\BooleanEnum.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\enums\ByteOrderMarkEnum.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\enums\CacheLocationEnum.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\enums\CellDataTypeEnum.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\enums\CellExtraTypeEnum.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\enums\HeadKindEnum.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\enums\HolderEnum.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\enums\NumericCellTypeEnum.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\enums\poi\BorderStyleEnum.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\enums\poi\FillPatternTypeEnum.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\enums\poi\HorizontalAlignmentEnum.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\enums\poi\VerticalAlignmentEnum.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\enums\ReadDefaultReturnEnum.java">
+<error line="5" column="8" severity="warning" message="Importação não utilizada - java.util.HashMap." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="6" column="8" severity="warning" message="Importação não utilizada - java.util.Map." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="8" column="8" severity="warning" message="Importação não utilizada - com.alibaba.excel.metadata.data.CellData." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="9" column="8" severity="warning" message="Importação não utilizada - com.alibaba.excel.util.StringUtils." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\enums\RowTypeEnum.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\enums\WriteDirectionEnum.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\enums\WriteLastRowTypeEnum.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\enums\WriteTemplateAnalysisCellTypeEnum.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\enums\WriteTypeEnum.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\event\AbstractIgnoreExceptionReadListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\event\AnalysisEventListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\event\Handler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\event\Listener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\event\NotRepeatExecutor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\event\Order.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\event\SyncReadListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\ExcelReader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\ExcelWriter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\exception\ExcelAnalysisException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\exception\ExcelAnalysisStopException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\exception\ExcelAnalysisStopSheetException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\exception\ExcelCommonException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\exception\ExcelDataConvertException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\exception\ExcelGenerateException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\exception\ExcelRuntimeException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\exception\ExcelWriteDataConvertException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\AbstractCell.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\AbstractHolder.java">
+<error line="48" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\AbstractParameterBuilder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\BasicParameter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\Cell.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\CellExtra.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\CellRange.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\ConfigurationHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\csv\CsvCell.java">
+<error line="32" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\csv\CsvCellStyle.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\csv\CsvDataFormat.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\csv\CsvRichTextString.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\csv\CsvRow.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\csv\CsvSheet.java">
+<error line="6" column="8" severity="warning" message="Importação não utilizada - java.nio.charset.Charset." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="7" column="8" severity="warning" message="Importação não utilizada - java.nio.charset.StandardCharsets." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="19" column="8" severity="warning" message="Importação não utilizada - com.alibaba.excel.util.MapUtils." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="26" column="8" severity="warning" message="Importação não utilizada - org.apache.commons.collections4.CollectionUtils." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="29" column="8" severity="warning" message="Importação não utilizada - org.apache.commons.io.ByteOrderMark." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="58" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 35 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="783" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\csv\CsvWorkbook.java">
+<error line="34" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\data\CellData.java">
+<error line="4" column="8" severity="warning" message="Importação não utilizada - java.time.LocalDateTime." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\data\ClientAnchorData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\data\CommentData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\data\CoordinateData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\data\DataFormatData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\data\FormulaData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\data\HyperlinkData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\data\ImageData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\data\ReadCellData.java">
+<error line="4" column="8" severity="warning" message="Importação não utilizada - java.time.LocalDateTime." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\data\RichTextStringData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\data\WriteCellData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\FieldCache.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - java.lang.reflect.Field." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="5" column="8" severity="warning" message="Importação não utilizada - java.util.Set." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\FieldWrapper.java">
+<error line="4" column="8" severity="warning" message="Importação não utilizada - java.util.Map." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="5" column="8" severity="warning" message="Importação não utilizada - java.util.Set." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\Font.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\format\DataFormatter.java">
+<error line="41" column="8" severity="warning" message="Importação não utilizada - org.apache.poi.ss.usermodel.DateUtil." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="55" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="248" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="341" column="5" severity="warning" message="A complexidade ciclomática é de 35 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="468" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\format\ExcelGeneralNumberFormat.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\GlobalConfiguration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\Head.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\Holder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\NullObject.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\property\ColumnWidthProperty.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\property\DateTimeFormatProperty.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\property\ExcelContentProperty.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\property\ExcelHeadProperty.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - java.lang.reflect.Field." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="10" column="8" severity="warning" message="Importação não utilizada - com.alibaba.excel.annotation.ExcelProperty." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="16" column="8" severity="warning" message="Importação não utilizada - com.alibaba.excel.metadata.Holder." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="18" column="8" severity="warning" message="Importação não utilizada - com.alibaba.excel.util.FieldUtils." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="19" column="8" severity="warning" message="Importação não utilizada - com.alibaba.excel.util.MapUtils." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="26" column="8" severity="warning" message="Importação não utilizada - org.apache.commons.collections4.CollectionUtils." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\property\FontProperty.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\property\LoopMergeProperty.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\property\NumberFormatProperty.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\property\OnceAbsoluteMergeProperty.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\property\RowHeightProperty.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\metadata\property\StyleProperty.java">
+<error line="145" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="194" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\read\builder\AbstractExcelReaderParameterBuilder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\read\builder\ExcelReaderBuilder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\read\builder\ExcelReaderSheetBuilder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\read\listener\IgnoreExceptionReadListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\read\listener\ModelBuildEventListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\read\listener\PageReadListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\read\listener\ReadListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\read\metadata\holder\AbstractReadHolder.java">
+<error line="53" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\read\metadata\holder\csv\CsvReadSheetHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\read\metadata\holder\csv\CsvReadWorkbookHolder.java">
+<error line="13" column="8" severity="warning" message="Importação não utilizada - java.io.IOException." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="14" column="8" severity="warning" message="Importação não utilizada - java.nio.file.Files." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\read\metadata\holder\ReadHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\read\metadata\holder\ReadRowHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\read\metadata\holder\ReadSheetHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\read\metadata\holder\ReadWorkbookHolder.java">
+<error line="135" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\read\metadata\holder\xls\XlsReadSheetHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\read\metadata\holder\xls\XlsReadWorkbookHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\read\metadata\holder\xlsx\XlsxReadSheetHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\read\metadata\holder\xlsx\XlsxReadWorkbookHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\read\metadata\property\ExcelReadHeadProperty.java">
+<error line="6" column="8" severity="warning" message="Importação não utilizada - com.alibaba.excel.metadata.Holder." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\read\metadata\ReadBasicParameter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\read\metadata\ReadSheet.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\read\metadata\ReadWorkbook.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\read\processor\AnalysisEventProcessor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\read\processor\DefaultAnalysisEventProcessor.java">
+<error line="123" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\support\ExcelTypeEnum.java">
+<error line="47" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\util\BeanMapUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\util\BooleanUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\util\ClassUtils.java">
+<error line="302" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="453" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\util\ConverterUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\util\DateUtils.java">
+<error line="26" column="8" severity="warning" message="Importação não utilizada - java.time.LocalTime." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="27" column="8" severity="warning" message="Importação não utilizada - java.time.ZoneId." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="472" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="550" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\util\EasyExcelTempFileCreationStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\util\FieldUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\util\FileTypeUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\util\FileUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\util\IntUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\util\IoUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\util\ListUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\util\MapUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\util\MemberUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\util\NumberDataFormatterUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\util\NumberUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\util\PoiUtils.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - com.alibaba.excel.exception.ExcelRuntimeException." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="44" column="53" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\util\PositionUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\util\SheetUtils.java">
+<error line="27" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\util\StringUtils.java">
+<error line="154" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\util\StyleUtil.java">
+<error line="59" column="5" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="139" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\util\Validate.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\util\WorkBookUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\util\WriteHandlerUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\builder\AbstractExcelWriterParameterBuilder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\builder\ExcelWriterBuilder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\builder\ExcelWriterSheetBuilder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\builder\ExcelWriterTableBuilder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\ExcelBuilder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\ExcelBuilderImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\executor\AbstractExcelWriteExecutor.java">
+<error line="44" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\executor\ExcelWriteAddExecutor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\executor\ExcelWriteExecutor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\executor\ExcelWriteFillExecutor.java">
+<error line="192" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="483" column="5" severity="warning" message="A complexidade ciclomática é de 20 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\handler\AbstractCellWriteHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\handler\AbstractRowWriteHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\handler\AbstractSheetWriteHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\handler\AbstractWorkbookWriteHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\handler\CellWriteHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\handler\chain\CellHandlerExecutionChain.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\handler\chain\RowHandlerExecutionChain.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\handler\chain\SheetHandlerExecutionChain.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\handler\chain\WorkbookHandlerExecutionChain.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\handler\context\CellWriteHandlerContext.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\handler\context\RowWriteHandlerContext.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\handler\context\SheetWriteHandlerContext.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\handler\context\WorkbookWriteHandlerContext.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\handler\DefaultWriteHandlerLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\handler\impl\DefaultRowWriteHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\handler\impl\DimensionWorkbookWriteHandler.java">
+<error line="33" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\handler\impl\FillStyleCellWriteHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\handler\RowWriteHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\handler\SheetWriteHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\handler\WorkbookWriteHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\handler\WriteHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\merge\AbstractMergeStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\merge\LoopMergeStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\merge\OnceAbsoluteMergeStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\metadata\CollectionRowData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\metadata\fill\AnalysisCell.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\metadata\fill\FillConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\metadata\fill\FillWrapper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\metadata\holder\AbstractWriteHolder.java">
+<error line="55" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 33 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="142" column="5" severity="warning" message="A complexidade ciclomática é de 24 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="404" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="460" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\metadata\holder\WriteHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\metadata\holder\WriteSheetHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\metadata\holder\WriteTableHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\metadata\holder\WriteWorkbookHolder.java">
+<error line="14" column="8" severity="warning" message="Importação não utilizada - com.alibaba.excel.enums.CacheLocationEnum." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="47" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 27 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="167" column="5" severity="warning" message="A complexidade ciclomática é de 19 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\metadata\MapRowData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\metadata\RowData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\metadata\style\WriteCellStyle.java">
+<error line="152" column="5" severity="warning" message="A complexidade ciclomática é de 27 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="248" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="286" column="5" severity="warning" message="A complexidade ciclomática é de 24 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\metadata\style\WriteFont.java">
+<error line="86" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\metadata\WriteBasicParameter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\metadata\WriteSheet.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\metadata\WriteTable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\metadata\WriteWorkbook.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\property\ExcelWriteHeadProperty.java">
+<error line="21" column="8" severity="warning" message="Importação não utilizada - com.alibaba.excel.metadata.Holder." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="101" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\style\AbstractCellStyleStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\style\AbstractVerticalCellStyleStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\style\column\AbstractColumnWidthStyleStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\style\column\AbstractHeadColumnWidthStyleStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\style\column\LongestMatchColumnWidthStyleStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\style\column\SimpleColumnWidthStyleStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\style\DefaultStyle.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\style\HorizontalCellStyleStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\style\row\AbstractRowHeightStyleStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-core\src\main\java\com\alibaba\excel\write\style\row\SimpleRowHeightStyleStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-support\src\main\java\com\alibaba\excel\support\Empty.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\annotation\AnnotationData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\annotation\AnnotationDataListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\annotation\AnnotationDataTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\annotation\AnnotationIndexAndNameData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\annotation\AnnotationIndexAndNameDataListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\annotation\AnnotationIndexAndNameDataTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\annotation\AnnotationStyleData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\bom\BomData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\bom\BomDataTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\cache\CacheData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\cache\CacheDataTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\cache\CacheInvokeData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\cache\CacheInvokeMemoryData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\celldata\CellDataDataListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\celldata\CellDataDataTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\celldata\CellDataReadData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\celldata\CellDataWriteData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\charset\CharsetData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\charset\CharsetDataTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\compatibility\CompatibilityTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\converter\ConverterDataListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\converter\ConverterDataTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\converter\ConverterReadData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\converter\ConverterTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\converter\ConverterWriteData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\converter\ImageData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\converter\ReadAllConverterData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\converter\ReadAllConverterDataListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\dataformat\DateFormatData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\dataformat\DateFormatTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\encrypt\EncryptData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\encrypt\EncryptDataListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\encrypt\EncryptDataTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\exception\ExcelAnalysisStopSheetExceptionDataListener.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - java.util.ArrayList." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="4" column="8" severity="warning" message="Importação não utilizada - java.util.HashSet." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="7" column="8" severity="warning" message="Importação não utilizada - java.util.Set." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="11" column="8" severity="warning" message="Importação não utilizada - com.alibaba.excel.exception.ExcelAnalysisStopException." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="15" column="8" severity="warning" message="Importação não utilizada - com.alibaba.fastjson2.JSON." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="19" column="8" severity="warning" message="Importação não utilizada - org.apache.commons.collections4.CollectionUtils." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="20" column="8" severity="warning" message="Importação não utilizada - org.apache.commons.collections4.SetUtils." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="21" column="8" severity="warning" message="Importação não utilizada - org.assertj.core.internal.Maps." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="23" column="8" severity="warning" message="Importação não utilizada - org.slf4j.Logger." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="24" column="8" severity="warning" message="Importação não utilizada - org.slf4j.LoggerFactory." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\exception\ExceptionData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\exception\ExceptionDataListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\exception\ExceptionDataTest.java">
+<error line="10" column="8" severity="warning" message="Importação não utilizada - com.alibaba.easyexcel.test.demo.write.DemoData." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\exception\ExceptionThrowDataListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\excludeorinclude\ExcludeOrIncludeData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\excludeorinclude\ExcludeOrIncludeDataTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\extra\ExtraData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\extra\ExtraDataListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\extra\ExtraDataTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\fill\annotation\FillAnnotationData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\fill\annotation\FillAnnotationDataTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\fill\FillData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\fill\FillDataTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\fill\style\FillStyleAnnotatedData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\fill\style\FillStyleAnnotatedTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\fill\style\FillStyleData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\fill\style\FillStyleDataTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\handler\WriteHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\handler\WriteHandlerData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\handler\WriteHandlerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\head\ComplexDataListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\head\ComplexHeadData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\head\ComplexHeadDataTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\head\ListHeadDataListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\head\ListHeadDataTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\head\NoHeadData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\head\NoHeadDataListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\head\NoHeadDataTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\large\LargeData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\large\LargeDataListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\large\LargeDataTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\multiplesheets\MultipleSheetsData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\multiplesheets\MultipleSheetsDataTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\multiplesheets\MultipleSheetsListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\nomodel\NoModelDataTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\noncamel\UnCamelData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\noncamel\UnCamelDataListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\noncamel\UnCamelDataTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\parameter\ParameterData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\parameter\ParameterDataListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\parameter\ParameterDataTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\repetition\RepetitionData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\repetition\RepetitionDataListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\repetition\RepetitionDataTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\simple\SimpleData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\simple\SimpleDataListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\simple\SimpleDataSheetNameListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\simple\SimpleDataTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\skip\SkipData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\skip\SkipDataTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\sort\SortData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\sort\SortDataListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\sort\SortDataTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\style\StyleData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\style\StyleDataListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\style\StyleDataTest.java">
+<error line="45" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 11 classes [AbstractVerticalCellStyleStrategy, DataFormatData, HorizontalCellStyleStrategy, LoopMergeStrategy, OnceAbsoluteMergeStrategy, SimpleColumnWidthStyleStrategy, SimpleRowHeightStyleStrategy, StyleData, StyleDataListener, WriteCellStyle, WriteFont] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="45" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\StyleTestUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\template\TemplateData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\template\TemplateDataListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\core\template\TemplateDataTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\fill\FillData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\fill\FillTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\rare\WriteTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\read\CellDataDemoHeadDataListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\read\CellDataReadDemoData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\read\ConverterData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\read\ConverterDataListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\read\CustomStringStringConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\read\DemoDAO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\read\DemoData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\read\DemoDataListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\read\DemoExceptionListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\read\DemoExtraData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\read\DemoExtraListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\read\DemoHeadDataListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\read\ExceptionDemoData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\read\IndexOrNameData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\read\IndexOrNameDataListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\read\NoModelDataListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\read\ReadTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\web\DownloadData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\web\EasyexcelApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\web\UploadDAO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\web\UploadData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\web\UploadDataListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\web\WebTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\write\CommentWriteHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\write\ComplexHeadData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\write\ConverterData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\write\CustomCellWriteHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\write\CustomSheetWriteHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\write\CustomStringStringConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\write\DemoData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\write\DemoMergeData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\write\DemoStyleData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\write\ImageDataWithAnnotation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\write\ImageDemoData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\write\IndexData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\write\LongestMatchColumnWidthData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\write\WidthAndHeightData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\write\WriteCellDemoData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\demo\write\WriteTest.java">
+<error line="7" column="8" severity="warning" message="Importação não utilizada - java.util.Arrays." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="59" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 22 classes [CellWriteHandler, CommentData, CommentWriteHandler, CustomCellWriteHandler, CustomSheetWriteHandler, Date, DemoData, File, FormulaData, HorizontalCellStyleStrategy, HyperlinkData, ImageData, ImageDemoData, LongestMatchColumnWidthData, LongestMatchColumnWidthStyleStrategy, LoopMergeStrategy, RichTextStringData, URL, WriteCellData, WriteCellDemoData, WriteCellStyle, WriteFont] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="59" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 31 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\bug\DataType.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\bug\ExcelCreat.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\bug\HeadType.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\cache\CacheTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\CamlData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\csv\CsvData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\csv\CsvDataListeer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\csv\CsvReadTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\data\DataType.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\data\HeadType.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\dataformat\DataFormatData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\dataformat\DataFormatter1.java">
+<error line="121" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 29 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="330" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="402" column="5" severity="warning" message="A complexidade ciclomática é de 20 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="483" column="5" severity="warning" message="A complexidade ciclomática é de 35 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="610" column="5" severity="warning" message="A complexidade ciclomática é de 23 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\dataformat\DataFormatTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\DemoData2.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\DemoData3.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\fill\FillData2.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\fill\FillTempTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\FillTempTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\issue1662\Data1662.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\issue1662\Issue1662Test.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\issue1663\FillData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\issue1663\FillTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\issue2443\Issue2443.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\issue2443\Issue2443Test.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\large\LargeData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\large\LargeDataListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\large\NoModelLargeDataListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\large\TempLargeDataTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\Lock2Test.java">
+<error line="43" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 14 classes [BigDecimal, CellReference, Date, DecimalFormat, DemoData, DemoData2, DemoData3, File, HorizontalCellStyleStrategy, LockDataListener, MathContext, SimpleDateFormat, WriteCellStyle, WriteFont] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\LockData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\LockDataListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\LockTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\poi\Poi2Test.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\poi\Poi3Test.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\poi\PoiDateFormatTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\poi\PoiEncryptTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\poi\PoiFormatTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\poi\PoiTest.java">
+<error line="41" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\poi\PoiWriteTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\poi\TestCell.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\read\CommentTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\read\HDListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\read\HeadListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\read\HeadReadData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\read\HeadReadTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\read\TestListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\simple\DemoData1.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\simple\DemoData2.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\simple\HgListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\simple\HgTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\simple\JsonData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\simple\RepeatListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\simple\RepeatTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\simple\Write.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\simple\WriteCellHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\simple\WriteData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\simple\WriteHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\StyleData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\StyleTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\TempFillData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\write\TempWriteData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\write\TempWriteTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\WriteLargeTest.java">
+<error line="45" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 11 classes [EventExample, File, FileInputStream, HSSFEventFactory, HSSFRequest, HSSFWorkbook, HorizontalCellStyleStrategy, POIFSFileSystem, PageReadListener, WriteCellStyle, WriteFont] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\WriteV33Test.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\WriteV34Test.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\temp\Xls03Test.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\util\TestFileUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\easyexcel-test\src\test\java\com\alibaba\easyexcel\test\util\TestUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\src\test\java\com\alibaba\easyexcel\test\demo\fill\FillTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\src\test\java\com\alibaba\easyexcel\test\demo\read\ReadTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\src\test\java\com\alibaba\easyexcel\test\demo\web\WebTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\alibaba_easyexcel\src\test\java\com\alibaba\easyexcel\test\demo\write\WriteTest.java">
+</file>
+</checkstyle>

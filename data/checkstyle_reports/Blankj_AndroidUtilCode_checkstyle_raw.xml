@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.24.0">
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\feature\launcher\app\src\main\java\com\blankj\launcher\app\LauncherApp.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\feature\main\app\src\main\java\com\blankj\main\app\MainApp.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\feature\mock\src\main\java\com\blankj\mock\subutil\SubUtilApiMock.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\feature\mock\src\main\java\com\blankj\mock\utilcode\UtilCodeApiMock.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\feature\subutil\export\src\main\java\com\blankj\subutil\export\api\SubUtilApi.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\feature\subutil\pkg\src\main\java\com\blankj\subutil\pkg\SubUtilApiImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\feature\utilcode\export\src\main\java\com\blankj\utilcode\export\api\UtilCodeApi.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\feature\utilcode\pkg\src\main\java\com\blankj\utilcode\pkg\feature\api\other\export\OtherModuleApi.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\feature\utilcode\pkg\src\main\java\com\blankj\utilcode\pkg\feature\api\other\pkg\OtherPkgApiImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\feature\utilcode\pkg\src\main\java\com\blankj\utilcode\pkg\feature\mvp\MvpActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\feature\utilcode\pkg\src\main\java\com\blankj\utilcode\pkg\feature\mvp\MvpModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\feature\utilcode\pkg\src\main\java\com\blankj\utilcode\pkg\feature\mvp\MvpMvp.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\feature\utilcode\pkg\src\main\java\com\blankj\utilcode\pkg\feature\mvp\MvpPresenter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\feature\utilcode\pkg\src\main\java\com\blankj\utilcode\pkg\feature\mvp\MvpView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\feature\utilcode\pkg\src\main\java\com\blankj\utilcode\pkg\feature\reflect\TestPrivateStaticFinal.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\feature\utilcode\pkg\src\main\java\com\blankj\utilcode\pkg\UtilCodeApiImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\base\src\main\java\com\blankj\base\BaseActivity.java">
+<error line="8" column="8" severity="warning" message="Importação não utilizada - androidx.annotation.LayoutRes." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\base\src\main\java\com\blankj\base\BaseApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\base\src\main\java\com\blankj\base\BaseFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\base\src\main\java\com\blankj\base\dialog\BaseDialog.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\base\src\main\java\com\blankj\base\dialog\BaseDialogFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\base\src\main\java\com\blankj\base\dialog\DialogCallback.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\base\src\main\java\com\blankj\base\dialog\DialogLayoutCallback.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\base\src\main\java\com\blankj\base\IBaseView.java">
+<error line="6" column="8" severity="warning" message="Importação não utilizada - androidx.annotation.LayoutRes." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\base\src\main\java\com\blankj\base\mvp\BaseModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\base\src\main\java\com\blankj\base\mvp\BasePresenter.java">
+<error line="9" column="8" severity="warning" message="Importação não utilizada - androidx.lifecycle.ViewModel." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="10" column="8" severity="warning" message="Importação não utilizada - androidx.lifecycle.ViewModelProvider." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\base\src\main\java\com\blankj\base\mvp\BaseView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\base\src\main\java\com\blankj\base\rv\BaseItem.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\base\src\main\java\com\blankj\base\rv\BaseItemAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\base\src\main\java\com\blankj\base\rv\ItemViewHolder.java">
+<error line="8" column="8" severity="warning" message="Importação não utilizada - java.util.List." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\base\src\main\java\com\blankj\base\rv\RecycleViewDivider.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\base\src\main\java\com\blankj\base\view\EmptyGoneTextView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\common\src\main\java\com\blankj\common\activity\CommonActivity.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - android.content.Context." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="18" column="8" severity="warning" message="Importação não utilizada - com.blankj.utilcode.util.LanguageUtils." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="38" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\common\src\main\java\com\blankj\common\activity\CommonActivityDrawerView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\common\src\main\java\com\blankj\common\activity\CommonActivityItemsView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\common\src\main\java\com\blankj\common\activity\CommonActivityTitleView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\common\src\main\java\com\blankj\common\CommonApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\common\src\main\java\com\blankj\common\dialog\CommonDialogContent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\common\src\main\java\com\blankj\common\dialog\CommonDialogLoading.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\common\src\main\java\com\blankj\common\fragment\CommonFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\common\src\main\java\com\blankj\common\item\CommonItem.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\common\src\main\java\com\blankj\common\item\CommonItemClick.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\common\src\main\java\com\blankj\common\item\CommonItemImage.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\common\src\main\java\com\blankj\common\item\CommonItemSeekBar.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\common\src\main\java\com\blankj\common\item\CommonItemSwitch.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\common\src\main\java\com\blankj\common\item\CommonItemTitle.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\common\src\main\java\com\blankj\common\view\RotateView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\subutil\src\main\java\com\blankj\subutil\util\AppStoreUtils.java">
+<error line="66" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\subutil\src\main\java\com\blankj\subutil\util\BatteryUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\subutil\src\main\java\com\blankj\subutil\util\BitUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\subutil\src\main\java\com\blankj\subutil\util\CameraUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\subutil\src\main\java\com\blankj\subutil\util\CoordinateUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\subutil\src\main\java\com\blankj\subutil\util\CountryUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\subutil\src\main\java\com\blankj\subutil\util\DangerousUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\subutil\src\main\java\com\blankj\subutil\util\GlideUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\subutil\src\main\java\com\blankj\subutil\util\http\Chain.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\subutil\src\main\java\com\blankj\subutil\util\http\ExecutorFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\subutil\src\main\java\com\blankj\subutil\util\http\Headers.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\subutil\src\main\java\com\blankj\subutil\util\http\HttpUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\subutil\src\main\java\com\blankj\subutil\util\http\Interceptor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\subutil\src\main\java\com\blankj\subutil\util\http\Request.java">
+<error line="84" column="9" severity="warning" message="A complexidade ciclomática é de 20 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\subutil\src\main\java\com\blankj\subutil\util\http\Response.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\subutil\src\main\java\com\blankj\subutil\util\http\ResponseCallback.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\subutil\src\main\java\com\blankj\subutil\util\http\SSLConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\subutil\src\main\java\com\blankj\subutil\util\HttpsUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\subutil\src\main\java\com\blankj\subutil\util\LocationUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\subutil\src\main\java\com\blankj\subutil\util\LunarUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\subutil\src\main\java\com\blankj\subutil\util\PinyinUtils.java">
+<error line="96" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\subutil\src\main\java\com\blankj\subutil\util\RetrofitUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\subutil\src\main\java\com\blankj\subutil\util\TemperatureUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\subutil\src\main\java\com\blankj\subutil\util\Utils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\subutil\src\test\java\com\blankj\subutil\util\BaseTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\subutil\src\test\java\com\blankj\subutil\util\CoordinateUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\subutil\src\test\java\com\blankj\subutil\util\http\HttpUtilsTest.java">
+<error line="4" column="8" severity="warning" message="Importação não utilizada - com.blankj.subutil.util.TestConfig." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="5" column="8" severity="warning" message="Importação não utilizada - com.blankj.utilcode.util.FileIOUtils." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="6" column="8" severity="warning" message="Importação não utilizada - com.blankj.utilcode.util.GsonUtils." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="7" column="8" severity="warning" message="Importação não utilizada - com.blankj.utilcode.util.TimeUtils." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="9" column="8" severity="warning" message="Importação não utilizada - org.apache.tools.ant.util.FileUtils." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="10" column="8" severity="warning" message="Importação não utilizada - org.junit.Test." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="12" column="8" severity="warning" message="Importação não utilizada - java.io.File." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="13" column="8" severity="warning" message="Importação não utilizada - java.util.List." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\subutil\src\test\java\com\blankj\subutil\util\http\UserBean.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\subutil\src\test\java\com\blankj\subutil\util\LunarUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\subutil\src\test\java\com\blankj\subutil\util\TemperatureUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\subutil\src\test\java\com\blankj\subutil\util\TestConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\constant\CacheConstants.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\constant\MemoryConstants.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\constant\PermissionConstants.java">
+<error line="78" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\constant\RegexConstants.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\constant\TimeConstants.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\ActivityUtils.java">
+<error line="138" column="40" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\AdaptScreenUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\ApiUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\AppUtils.java">
+<error line="212" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\ArrayUtils.java">
+<error line="2048" column="5" severity="warning" message="A complexidade ciclomática é de 22 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="2115" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\BarUtils.java">
+<error line="578" column="44" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\BrightnessUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\BusUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\CacheDiskStaticUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\CacheDiskUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\CacheDoubleStaticUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\CacheDoubleUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\CacheMemoryStaticUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\CacheMemoryUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\CleanUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\ClickUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\ClipboardUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\CloneUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\CloseUtils.java">
+<error line="49" column="47" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\CollectionUtils.java">
+<error line="707" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\ColorUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\ConvertUtils.java">
+<error line="39" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\CrashUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\DebouncingUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\DeviceUtils.java">
+<error line="359" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="427" column="39" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="523" column="36" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\DialogUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\EncodeUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\EncryptUtils.java">
+<error line="936" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1076" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\FileIOUtils.java">
+<error line="36" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 11 classes [BufferedInputStream, BufferedOutputStream, BufferedReader, BufferedWriter, ByteArrayInputStream, ByteArrayOutputStream, FileInputStream, FileOutputStream, FileWriter, InputStreamReader, RandomAccessFile] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="36" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="664" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\FileUtils.java">
+<error line="93" column="46" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="421" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="446" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="504" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="602" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="983" column="5" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1060" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\FlashlightUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\FragmentUtils.java">
+<error line="1459" column="5" severity="warning" message="A complexidade ciclomática é de 27 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\GsonUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\ImageUtils.java">
+<error line="67" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 22 classes [BitmapDrawable, BitmapFactory.Options, BitmapShader, BufferedOutputStream, ByteArrayOutputStream, Canvas, ColorMatrix, ColorMatrixColorFilter, ContentValues, ExifInterface, File, FileInputStream, FileOutputStream, LinearGradient, Matrix, Paint, Path, PorterDuffColorFilter, PorterDuffXfermode, Rect, RectF, RenderScript.RSMessageHandler] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="67" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 43 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="1294" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1403" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1878" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="2021" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="2185" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\IntentUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\JsonUtils.java">
+<error line="184" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\KeyboardUtils.java">
+<error line="360" column="40" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\LanguageUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\LogUtils.java">
+<error line="212" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="252" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="956" column="9" severity="warning" message="A complexidade ciclomática é de 27 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\MapUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\MessengerUtils.java">
+<error line="23" column="8" severity="warning" message="Importação não utilizada - java.lang.annotation.ElementType." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="24" column="8" severity="warning" message="Importação não utilizada - java.lang.annotation.Retention." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="25" column="8" severity="warning" message="Importação não utilizada - java.lang.annotation.RetentionPolicy." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="26" column="8" severity="warning" message="Importação não utilizada - java.lang.annotation.Target." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\MetaDataUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\NetworkUtils.java">
+<error line="54" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 27 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="439" column="5" severity="warning" message="A complexidade ciclomática é de 28 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="546" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\NotificationUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\NumberUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\ObjectUtils.java">
+<error line="40" column="5" severity="warning" message="A complexidade ciclomática é de 26 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\PathUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\PermissionUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\PhoneUtils.java">
+<error line="110" column="5" severity="warning" message="A complexidade ciclomática é de 26 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="200" column="31" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="265" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\ProcessUtils.java">
+<error line="54" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\ReflectUtils.java">
+<error line="251" column="55" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="327" column="56" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="484" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\RegexUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\ResourceUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\RomUtils.java">
+<error line="249" column="5" severity="warning" message="A complexidade ciclomática é de 23 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="351" column="36" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="361" column="36" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="376" column="40" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="405" column="38" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="410" column="46" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="424" column="36" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="434" column="31" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\ScreenUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\SDCardUtils.java">
+<error line="55" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\ServiceUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\ShadowUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\ShellUtils.java">
+<error line="281" column="5" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\SizeUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\SnackbarUtils.java">
+<error line="203" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\SpanUtils.java">
+<error line="73" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 27 classes [AbsoluteSizeSpan, AlignmentSpan.Standard, BackgroundColorSpan, BlurMaskFilter, ClickableSpan, CustomBulletSpan, CustomImageSpan, CustomLineHeightSpan, CustomQuoteSpan, CustomTypefaceSpan, ForegroundColorSpan, LeadingMarginSpan.Standard, MaskFilterSpan, RelativeSizeSpan, ScaleXSpan, SerializableSpannableStringBuilder, ShaderSpan, ShadowSpan, SpaceSpan, StrikethroughSpan, StyleSpan, SubscriptSpan, SuperscriptSpan, TypefaceSpan, URLSpan, UnderlineSpan, VerticalAlignSpan] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="73" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 46 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="857" column="5" severity="warning" message="A complexidade ciclomática é de 31 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\SPStaticUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\SPUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\StringUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\ThreadUtils.java">
+<error line="1197" column="9" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\ThrowableUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\TimeUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\ToastUtils.java">
+<error line="339" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="548" column="45" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="632" column="41" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="649" column="41" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="716" column="57" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\TouchUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\UiMessageUtils.java">
+<error line="193" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\UriUtils.java">
+<error line="97" column="5" severity="warning" message="A complexidade ciclomática é de 40 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="224" column="48" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="271" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\Utils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\UtilsActivityLifecycleImpl.java">
+<error line="326" column="52" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="331" column="36" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\UtilsBridge.java">
+<error line="48" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 35 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\UtilsFileProvider.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\UtilsTransActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\UtilsTransActivity4MainProcess.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\VibrateUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\ViewUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\VolumeUtils.java">
+<error line="70" column="44" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\main\java\com\blankj\utilcode\util\ZipUtils.java">
+<error line="284" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\ApiUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\ArrayUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\BaseTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\BusUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\BusUtilsVsEventBusTest.java">
+<error line="6" column="8" severity="warning" message="Importação não utilizada - org.junit.Test." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\CacheDiskStaticUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\CacheDiskUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\CacheDoubleStaticUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\CacheDoubleUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\CacheMemoryStaticUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\CacheMemoryUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\CloneUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\CollectionUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\ColorUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\ConvertUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\EncodeUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\EncryptUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\FileIOUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\FileUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\GsonUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\ImageUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\LogUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\MapUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\NumberUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\ObjectUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\PathUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\reflect\PrivateConstructors.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\reflect\ReflectUtilsTest.java">
+<error line="521" column="57" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\reflect\Test1.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\reflect\Test10.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\reflect\Test2.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\reflect\Test3.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\reflect\Test4.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\reflect\Test5.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\reflect\Test6.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\reflect\Test7.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\reflect\Test8.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\reflect\Test9.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\reflect\TestHierarchicalMethodsBase.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\reflect\TestHierarchicalMethodsSubclass.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\reflect\TestPrivateStaticFinal.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\RegexUtilsTest.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - com.blankj.utilcode.constant.RegexConstants." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\StringUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\TestConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\ThreadUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\TimeUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\UiMessageUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utilcode\src\test\java\com\blankj\utilcode\util\ZipUtilsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\base\drawable\PolygonDrawable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\base\rv\BaseItem.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\base\rv\BaseItemAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\base\rv\ItemViewHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\base\rv\RecycleViewDivider.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\base\view\BaseContentFloatView.java">
+<error line="39" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 24 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\base\view\BaseContentView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\base\view\BaseFloatView.java">
+<error line="66" column="36" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\base\view\EmptyGoneTextView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\base\view\FloatEditText.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\base\view\FloatToast.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\base\view\FloatViewManager.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\base\view\listener\OnBackListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\base\view\listener\OnRefreshListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\base\view\SearchEditText.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\base\view\SwipeRightMenu.java">
+<error line="116" column="5" severity="warning" message="A complexidade ciclomática é de 20 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\config\DebugConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\debug\IDebug.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\debug\tool\AbsToolDebug.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\debug\tool\appInfo\AppInfoDebug.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\debug\tool\appInfo\AppInfoFloatView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\debug\tool\appInfo\AppInfoItem.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\debug\tool\clearCache\ClearCacheDebug.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\debug\tool\clearStorage\ClearStorageDebug.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\debug\tool\deviceInfo\DeviceInfoDebug.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\debug\tool\deviceInfo\DeviceInfoFloatView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\debug\tool\deviceInfo\DeviceInfoItem.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\debug\tool\fileExplorer\FileContentView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\debug\tool\fileExplorer\FileExplorerDebug.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\debug\tool\fileExplorer\FileExplorerFloatView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\debug\tool\fileExplorer\FileItem.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\debug\tool\fileExplorer\image\ImageViewer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\debug\tool\fileExplorer\sp\SpItem.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\debug\tool\fileExplorer\sp\SpModifyContentView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\debug\tool\fileExplorer\sp\SpViewerContentView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\debug\tool\fileExplorer\text\TextViewer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\debug\tool\logcat\LogcatDebug.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\debug\tool\restartApp\RestartAppDebug.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\DebugUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\helper\FileHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\helper\ImageLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\helper\ShadowHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\helper\SpHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\helper\WindowHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\icon\DebugIcon.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\menu\DebugItem.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\menu\DebugMenu.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\menu\DebugMenuItem.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug\src\main\java\com\blankj\utildebug\menu\ReminderView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug-no-op\src\main\java\com\blankj\utildebug\debug\IDebug.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\lib\utildebug-no-op\src\main\java\com\blankj\utildebug\DebugUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\plugin\api-gradle-plugin\src\main\java\com\blankj\api\ApiClassVisitor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\plugin\api-gradle-plugin\src\main\java\com\blankj\api\ApiInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\plugin\api-gradle-plugin\src\main\java\com\blankj\api\ApiUtilsClassVisitor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\plugin\api-gradle-plugin\src\test\java\com\blankj\api\ApiTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\plugin\api-gradle-plugin\src\test\java\com\blankj\api\ApiUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\plugin\bus-gradle-plugin\src\main\java\com\blankj\bus\BusClassVisitor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\plugin\bus-gradle-plugin\src\main\java\com\blankj\bus\BusInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\plugin\bus-gradle-plugin\src\main\java\com\blankj\bus\BusUtilsClassVisitor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\plugin\bus-gradle-plugin\src\test\java\com\blankj\bus\BusTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\plugin\bus-gradle-plugin\src\test\java\com\blankj\bus\BusUtils.java">
+<error line="254" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\Blankj_AndroidUtilCode\plugin\lib\base-transform\src\main\java\com\blankj\base_transform\util\ZipUtils.java">
+<error line="282" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+</checkstyle>

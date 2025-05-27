@@ -1,0 +1,11 @@
+{
+  "repository": "Blankj_AndroidUtilCode",
+  "code_smells": {
+    "Unused Imports": 21,
+    "Potential God Class": 8,
+    "Cyclomatic Complexity": 49,
+    "Empty Catch Block": 27,
+    "Too Many Fields": 3
+  },
+  "total_smells": 108
+}

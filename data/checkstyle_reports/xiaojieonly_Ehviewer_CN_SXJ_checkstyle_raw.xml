@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.24.0">
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\annotation\Implemented.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\beerbelly\BeerBelly.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\beerbelly\DiskLruCache.java">
+<error line="88" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 16 classes [BufferedWriter, Callable, Editor, Entry, File, FileInputStream, FileOutputStream, IOException, InputStream, InputStreamReader, LinkedBlockingQueue, OutputStream, OutputStreamWriter, Snapshot, StrictLineReader, ThreadPoolExecutor] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="88" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 24 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="309" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="532" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="868" column="47" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\beerbelly\SimpleDiskCache.java">
+<error line="315" column="43" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\beerbelly\StrictLineReader.java">
+<error line="126" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\beerbelly\Util.java">
+<error line="78" column="41" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\conaco\Conaco.java">
+<error line="139" column="77" severity="warning" message="Instrução vazia." source="com.puppycrawl.tools.checkstyle.checks.coding.EmptyStatementCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\conaco\ConacoTask.java">
+<error line="215" column="9" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="332" column="9" severity="warning" message="A complexidade ciclomática é de 22 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\conaco\DataContainer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\conaco\ProgressNotifier.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\conaco\Register.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\conaco\Unikery.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\conaco\ValueCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\conaco\ValueHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\content\ContextLocalWrapper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\content\FileProvider.java">
+<error line="585" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\content\RecordingApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\database\MSQLiteBuilder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\database\MSQLiteOpenHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\drawable\AddDeleteDrawable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\drawable\BatteryDrawable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\drawable\BitmapPool.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\drawable\DrawerArrowDrawable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\drawable\RoundDrawable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\drawable\RoundSideRectDrawable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\drawable\TriangleDrawable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\drawable\UnikeryDrawable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\drawable\WrapDrawable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\Analytics.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\AppConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\callBack\DownloadSearchCallback.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\callBack\ImageChangeCallBack.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\callBack\PermissionCallBack.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\callBack\SpiderInfoReadCallBack.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\callBack\SubscriptionCallback.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\callBack\TorrentDownloadCallBack.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\data\ArchiverData.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\data\EhNewsDetail.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\data\EhTopListDetail.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\data\FavListUrlBuilder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\data\GalleryApiInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\data\GalleryComment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\data\GalleryCommentList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\data\GalleryDetail.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\data\GalleryInfo.java">
+<error line="29" column="8" severity="warning" message="Importação não utilizada - java.util.Arrays." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="314" column="49" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="324" column="49" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\data\GalleryPreview.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\data\GalleryTagGroup.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\data\HomeDetail.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\data\LargePreviewSet.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\data\ListUrlBuilder.java">
+<error line="334" column="5" severity="warning" message="A complexidade ciclomática é de 61 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="553" column="5" severity="warning" message="A complexidade ciclomática é de 41 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\data\NewVersion.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\data\NormalPreviewSet.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\data\PreviewSet.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\data\Tag.java">
+<error line="8" column="8" severity="warning" message="Importação não utilizada - java.util.List." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\data\topList\TopListInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\data\topList\TopListItem.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\data\topList\TopListItemArray.java">
+<error line="6" column="8" severity="warning" message="Importação não utilizada - java.util.ArrayList." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\data\userTag\TagPushParam.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\data\userTag\UserTag.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\data\userTag\UserTagList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\data\wifi\WiFiDataHand.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\EhCacheKeyFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\EhClient.java">
+<error line="150" column="9" severity="warning" message="A complexidade ciclomática é de 29 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\EhConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\EhCookieStore.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\EhEngine.java">
+<error line="93" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 11 classes [CancelledException, EhException, EhNewsDetail, EhRequestBuilder, File, FormBody.Builder, JSONArray, JSONObject, MultipartBody.Builder, NoHAtHClientException, StatusCodeException] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="93" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 45 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="115" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="207" column="5" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1053" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1393" column="9" severity="warning" message="Instrução vazia." source="com.puppycrawl.tools.checkstyle.checks.coding.EmptyStatementCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\EhFilter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\EhHosts.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\EhRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\EhRequestBuilder.java">
+<error line="19" column="8" severity="warning" message="Importação não utilizada - android.net.Uri." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="23" column="8" severity="warning" message="Importação não utilizada - java.util.Iterator." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\EhTagDatabase.java">
+<error line="60" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="112" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="339" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\EhUrl.java">
+<error line="20" column="8" severity="warning" message="Importação não utilizada - androidx.annotation.Nullable." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="23" column="8" severity="warning" message="Importação não utilizada - com.hippo.ehviewer.client.data.GalleryInfo." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="289" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\EhUrlOpener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\EhUtils.java">
+<error line="26" column="8" severity="warning" message="Importação não utilizada - com.hippo.util.AppHelper." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="105" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\exception\CancelledException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\exception\EhException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\exception\EmptyGalleryException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\exception\GalleryUnavailableException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\exception\Image509Exception.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\exception\NoHAtHClientException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\exception\OffensiveException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\exception\ParseException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\exception\PiningException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\parser\ArchiveParser.java">
+<error line="24" column="8" severity="warning" message="Importação não utilizada - com.hippo.network.UrlBuilder." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="29" column="8" severity="warning" message="Importação não utilizada - org.w3c.dom.NodeList." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="78" column="40" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="94" column="40" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\parser\EhEventParse.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - com.hippo.ehviewer.client.data.EhNewsDetail." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\parser\EhHomeParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\parser\FavoritesParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\parser\ForumsParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\parser\GalleryApiParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\parser\GalleryDetailParser.java">
+<error line="68" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 16 classes [Date, EhException, GalleryComment, GalleryCommentList, GalleryDetail, GalleryTagGroup, GalleryUnavailableException, LargePreviewSet, MutableBoolean, NewVersion, NodeVisitor, NormalPreviewSet, OffensiveException, ParseException, PiningException, SimpleDateFormat] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="68" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 29 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="145" column="5" severity="warning" message="A complexidade ciclomática é de 29 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="325" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="467" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="477" column="52" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\parser\GalleryDetailUrlParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\parser\GalleryListParser.java">
+<error line="102" column="5" severity="warning" message="A complexidade ciclomática é de 26 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="283" column="5" severity="warning" message="A complexidade ciclomática é de 41 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\parser\GalleryListUrlParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\parser\GalleryPageApiParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\parser\GalleryPageParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\parser\GalleryPageUrlParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\parser\GalleryTokenApiParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\parser\MyTagLitParser.java">
+<error line="47" column="35" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\parser\ParserUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\parser\ProfileParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\parser\RateGalleryParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\parser\SignInParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\parser\TopListParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\parser\TorrentParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\parser\VoteCommentParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\wifi\ConnectThread.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\client\wifi\ListenerThread.java">
+<error line="9" column="8" severity="warning" message="Importação não utilizada - com.hippo.ehviewer.ui.wifi.WiFiServerActivity." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="46" column="50" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\Crash.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\dao\BlackList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\dao\BlackListDao.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\dao\BookmarkInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\dao\BookmarksBao.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\dao\DaoMaster.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\dao\DaoSession.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\dao\DownloadDirname.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\dao\DownloadDirnameDao.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\dao\DownloadInfo.java">
+<error line="7" column="8" severity="warning" message="Importação não utilizada - com.alibaba.fastjson.JSONArray." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="8" column="8" severity="warning" message="Importação não utilizada - java.util.ArrayList." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\dao\DownloadLabel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\dao\DownloadLabelDao.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\dao\DownloadsDao.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\dao\Filter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\dao\FilterDao.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\dao\GalleryTags.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\dao\GalleryTagsDao.java">
+<error line="80" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="161" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="247" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="270" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\dao\HistoryDao.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\dao\HistoryInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\dao\LocalFavoriteInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\dao\LocalFavoritesDao.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\dao\QuickSearch.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\dao\QuickSearchDao.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\download\DownloadManager.java">
+<error line="59" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="393" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1155" column="9" severity="warning" message="A complexidade ciclomática é de 25 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1318" column="9" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\EhApplication.java">
+<error line="78" column="8" severity="warning" message="Importação não utilizada - java.io.IOException." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="97" column="8" severity="warning" message="Importação não utilizada - okhttp3.Interceptor." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="101" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 21 classes [AlertDialog.Builder, AsyncTask, Cache, Conaco.Builder, DownloadManager, EhClient, EhCookieStore, EhHosts, EhProxySelector, EhSSLSocketFactory, EhSSLSocketFactoryLowSDK, EhX509TrustManager, FavouriteStatusRouter, File, Hosts, ImageBitmapHelper, IntIdGenerator, LruCache, OkHttpClient.Builder, Runnable, SimpleDiskCache] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="101" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 50 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="162" column="41" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="368" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="449" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\EhDB.java">
+<error line="78" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 16 classes [Bundle, DBOpenHelper, DaoMaster, Date, DownloadDirname, DownloadInfo, DownloadLabel, FileInputStream, FileOutputStream, GalleryInfo, HistoryInfo, LocalFavoriteInfo, Message, OldDBHelper, QuickSearch, SparseJLArray] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="78" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 43 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="211" column="5" severity="warning" message="A complexidade ciclomática é de 34 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="842" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="903" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\EhProxySelector.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\event\GalleryActivityEvent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\event\SomethingNeedRefresh.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\FavouriteStatusRouter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\gallery\A7ZipArchive.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\gallery\ArchiveGalleryProvider.java">
+<error line="20" column="8" severity="warning" message="Importação não utilizada - android.graphics.Bitmap." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="21" column="8" severity="warning" message="Importação não utilizada - android.graphics.BitmapFactory." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="23" column="8" severity="warning" message="Importação não utilizada - android.graphics.drawable.Drawable." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="25" column="8" severity="warning" message="Importação não utilizada - android.os.Build." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="30" column="8" severity="warning" message="Importação não utilizada - com.hippo.ehviewer.EhApplication." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="40" column="8" severity="warning" message="Importação não utilizada - java.io.FileInputStream." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="162" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\gallery\DirGalleryProvider.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\gallery\EhGalleryProvider.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\gallery\GalleryProvider2.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\GetText.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\Hosts.java">
+<error line="172" column="3" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="214" column="3" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="264" column="3" severity="warning" message="A complexidade ciclomática é de 25 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ImageBitmapHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\preference\CleanRedundancyPreference.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\preference\ClearDownloadPathCachePreference.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\preference\DefaultCategoryPreference.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\preference\ExcludedTagNamespacesPreference.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\preference\ExportDataPreference.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\preference\IdentityCookiePreference.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\preference\ProxyPreference.java">
+<error line="136" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\preference\RestoreDownloadPreference.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\preference\SignInRequiredActivityPreference.java">
+<error line="22" column="8" severity="warning" message="Importação não utilizada - android.view.ViewGroup." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\preference\TaskPreference.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\preference\VersionPreference.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\Settings.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\shortcuts\ShortcutsActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\spider\SpiderDen.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\spider\SpiderInfo.java">
+<error line="111" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\spider\SpiderQueen.java">
+<error line="97" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 18 classes [AsyncTask, AtomicInteger, AtomicReference, BitmapFactory.Options, ConcurrentHashMap, ConcurrentLinkedQueue, EhRequestBuilder, LinkedBlockingDeque, PriorityThread, PriorityThreadFactory, SparseArray, SparseJLArray, SpiderDecoder, SpiderDen, SpiderInfo, SpiderWorker, Thread, ThreadPoolExecutor] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="97" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 44 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="518" column="5" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="736" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="889" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1029" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1132" column="5" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="1187" column="9" severity="warning" message="A complexidade ciclomática é de 57 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1533" column="9" severity="warning" message="A complexidade ciclomática é de 29 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1693" column="17" severity="warning" message="Instrução vazia." source="com.puppycrawl.tools.checkstyle.checks.coding.EmptyStatementCheck"/>
+<error line="1742" column="9" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\sync\DownloadListInfosExecutor.java">
+<error line="76" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="154" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\sync\DownloadSpiderInfoExecutor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\sync\GalleryDetailTagsSyncTask.java">
+<error line="10" column="8" severity="warning" message="Importação não utilizada - java.util.ArrayList." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="52" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\sync\GalleryListTagsSyncTask.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - android.util.Log." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="5" column="8" severity="warning" message="Importação não utilizada - com.hippo.ehviewer.EhDB." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="6" column="8" severity="warning" message="Importação não utilizada - com.hippo.ehviewer.client.data.GalleryDetail." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="8" column="8" severity="warning" message="Importação não utilizada - com.hippo.ehviewer.client.data.GalleryTagGroup." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="62" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\annotation\DrawerLifeCircle.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\annotation\ViewLifeCircle.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\annotation\WholeLifeCircle.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\BlackListActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\CommonOperations.java">
+<error line="141" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\dialog\ArchiverDownloadDialog.java">
+<error line="326" column="9" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="375" column="50" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\dialog\EhDistributeListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\dialog\SelectItemWithIconAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\DirPickerActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\EhActivity.java">
+<error line="20" column="8" severity="warning" message="Importação não utilizada - android.content.res.Configuration." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="22" column="8" severity="warning" message="Importação não utilizada - android.os.Build." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="24" column="8" severity="warning" message="Importação não utilizada - android.util.Log." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="25" column="8" severity="warning" message="Importação não utilizada - android.view.InputDevice." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="26" column="8" severity="warning" message="Importação não utilizada - android.view.MotionEvent." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="27" column="8" severity="warning" message="Importação não utilizada - android.view.View." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="33" column="8" severity="warning" message="Importação não utilizada - com.hippo.android.resource.AttrResources." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="37" column="8" severity="warning" message="Importação não utilizada - com.hippo.ehviewer.R." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\ExcludedLanguagesActivity.java">
+<error line="277" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\FilterActivity.java">
+<error line="396" column="9" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\fragment\AboutFragment.java">
+<error line="38" column="8" severity="warning" message="Importação não utilizada - androidx.preference.PreferenceFragmentCompat." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\fragment\AdvancedFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\fragment\BasePreference.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\fragment\BasePreferenceFragmentCompat.java">
+<error line="13" column="8" severity="warning" message="Importação não utilizada - java.util.ArrayList." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="14" column="8" severity="warning" message="Importação não utilizada - java.util.List." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\fragment\DownloadFragment.java">
+<error line="29" column="8" severity="warning" message="Importação não utilizada - androidx.preference.PreferenceFragmentCompat." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\fragment\EhFragment.java">
+<error line="20" column="8" severity="warning" message="Importação não utilizada - android.os.Build." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="25" column="8" severity="warning" message="Importação não utilizada - androidx.preference.PreferenceFragmentCompat." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="67" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\fragment\PrivacyFragment.java">
+<error line="8" column="8" severity="warning" message="Importação não utilizada - androidx.preference.PreferenceFragmentCompat." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\fragment\ReadFragment.java">
+<error line="22" column="8" severity="warning" message="Importação não utilizada - androidx.preference.PreferenceFragmentCompat." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\fragment\SettingsHeaders.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - android.content.SharedPreferences." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="5" column="8" severity="warning" message="Importação não utilizada - android.util.Log." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="12" column="8" severity="warning" message="Importação não utilizada - androidx.recyclerview.widget.RecyclerView." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\GalleryActivity.java">
+<error line="40" column="8" severity="warning" message="Importação não utilizada - android.util.Log." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="47" column="8" severity="warning" message="Importação não utilizada - android.view.WindowInsets." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="63" column="8" severity="warning" message="Importação não utilizada - androidx.core.view.ViewCompat." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="64" column="8" severity="warning" message="Importação não utilizada - androidx.core.view.WindowCompat." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="65" column="8" severity="warning" message="Importação não utilizada - androidx.core.view.WindowInsetsCompat." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="66" column="8" severity="warning" message="Importação não utilizada - androidx.core.view.WindowInsetsControllerCompat." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="111" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 19 classes [AlertDialog.Builder, ArchiveGalleryProvider, CharSequence, ConcurrentPool, DirGalleryProvider, EhGalleryProvider, File, FileInputStream, GalleryAdapter, GalleryGuideView, GalleryView.Builder, Handler, Intent, NotifyTask, Runnable, SimpleAnimatorListener, StrictMode.VmPolicy.Builder, SystemUiHelper, ValueAnimator.AnimatorUpdateListener] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="111" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 56 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="342" column="5" severity="warning" message="A complexidade ciclomática é de 19 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="529" column="5" severity="warning" message="A complexidade ciclomática é de 20 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="589" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="641" column="55" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="1177" column="9" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\HostsActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\LicenseActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\main\UserImageChange.java">
+<error line="42" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\MainActivity.java">
+<error line="121" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 11 classes [AlertDialog.Builder, Announcer, BitmapDrawable, Bundle, FileOutputStream, GifHandler, Handler, Intent, ListUrlBuilder, UniFileInputStreamPipe, UserImageChange] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="121" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 51 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="620" column="43" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="860" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\MyTagsActivity.java">
+<error line="21" column="8" severity="warning" message="Importação não utilizada - android.os.Build." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="26" column="8" severity="warning" message="Importação não utilizada - android.webkit.CookieSyncManager." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\AnalyticsScene.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\BaseScene.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\CookieSignInScene.java">
+<error line="48" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="187" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\download\DownloadLabelAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\download\DownloadLabelDraw.java">
+<error line="45" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\download\DownloadLabelItem.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\download\DownloadLabelsScene.java">
+<error line="53" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\download\DownloadsScene.java">
+<error line="134" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 27 classes [ActivityResultContracts.StartActivityForResult, AddDeleteDrawable, AlertDialog.Builder, AsyncTask, AutoStaggeredGridLayoutManager, CheckBoxDialogBuilder, ColorDrawable, DeleteRangeDialogHelper, DownloadAdapter, DownloadChoiceListener, DownloadLabelDraw, DownloadListInfosExecutor, DownloadSpiderInfoExecutor, HandlerDrawable, Intent, LongList, MarginItemDecoration, MoveDialogHelper, MyPageChangeListener, Point, PointTarget, SearchBarMover, ShowcaseView.Builder, SimpleShowcaseEventListener, ViewTarget, ViewTransition, ViewTreeObserver.OnGlobalLayoutListener] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="134" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 80 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="589" column="5" severity="warning" message="A complexidade ciclomática é de 26 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="839" column="5" severity="warning" message="A complexidade ciclomática é de 28 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1563" column="9" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\EhCallback.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\gallery\detail\GalleryDetailScene.java">
+<error line="157" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 27 classes [AlertDialog.Builder, Announcer, ArchiveListDialogHelper, ArchiverDownloadDialog, AutoWrapLayout, Bundle, Date, DrawerLayout.GestureBlocker, EhRequest, ExitTransaction, FileOutputStream, Filter, GalleryListSceneDialog, GalleryUpdateDialog, GetGalleryDetailListener, Handler, Intent, ListUrlBuilder, ModifyFavoritesListener, PopupMenu, RateDialogHelper, RoundSideRectDrawable, SimpleDateFormat, TorrentDownloadHandler, TorrentListDialogHelper, URLImageGetter, ViewTransition] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="157" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 79 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="884" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="975" column="5" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1072" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1204" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1374" column="5" severity="warning" message="A complexidade ciclomática é de 50 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1886" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\gallery\detail\GalleryUpdateDialog.java">
+<error line="5" column="8" severity="warning" message="Importação não utilizada - android.os.Bundle." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="6" column="8" severity="warning" message="Importação não utilizada - android.view.View." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="10" column="8" severity="warning" message="Importação não utilizada - com.hippo.ehviewer.client.data.GalleryInfo." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="12" column="8" severity="warning" message="Importação não utilizada - com.hippo.ehviewer.ui.scene.gallery.list.EnterGalleryDetailTransaction." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\gallery\list\BookmarksDraw.java">
+<error line="53" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\gallery\list\DrawViewPagerAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\gallery\list\EnterGalleryDetailTransaction.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\gallery\list\GalleryAdapter.java">
+<error line="55" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="200" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\gallery\list\GalleryAdapterNew.java">
+<error line="59" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="209" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\gallery\list\GalleryListScene.java">
+<error line="141" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 36 classes [AddDeleteDrawable, AddToFavoriteListener, AlertDialog.Builder, Announcer, BookmarksDraw, Bundle, CharSequence, CheckBoxDialogBuilder, ColorDrawable, DownloadManager.DownloadInfoListener, DrawViewPagerAdapter, DrawerArrowDrawable, EditTextDialogBuilder, EnterGalleryDetailTransaction, GalleryDetailUrlSuggestion, GalleryListAdapter, GalleryListHelper, GalleryListSceneDialog, GalleryPageUrlSuggestion, ImageSpan, Intent, ListUrlBuilder, Point, PointTarget, PopupWindow, RecyclerView.OnScrollListener, RemoveFromFavoriteListener, SearchBarMover, SelectItemWithIconAdapter, ShowcaseView.Builder, SimpleAnimatorListener, SimpleShowcaseEventListener, SpannableStringBuilder, SubscriptionDraw, View, ViewTransition] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="141" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 102 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="491" column="5" severity="warning" message="A complexidade ciclomática é de 19 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="546" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="937" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1169" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1251" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1427" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1460" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1623" column="5" severity="warning" message="A complexidade ciclomática é de 22 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="1797" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\gallery\list\QuickSearchScene.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\gallery\list\SubscriptionDraw.java">
+<error line="42" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 28 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\gallery\list\SubscriptionItemAdapter.java">
+<error line="13" column="8" severity="warning" message="Importação não utilizada - com.hippo.ehviewer.Settings." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\gallery\list\SubscriptionsScene.java">
+<error line="60" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\gallery\list\TestThread.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\GalleryCommentsScene.java">
+<error line="98" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 16 classes [AlertDialog.Builder, Bundle, ColorDrawable, CommentAdapter, CommentGalleryListener, DialogInterface.OnClickListener, EhRequest, InfoHolder, IntList, LinearDividerItemDecoration, LinearLayoutManager, RecyclerView.Adapter, RefreshCommentListener, SimpleAnimatorListener, ViewTransition, VoteCommentListener] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="98" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 48 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="373" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="407" column="21" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="631" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\GalleryHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\GalleryInfoScene.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\GalleryPreviewsScene.java">
+<error line="68" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 27 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="310" column="56" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\history\HistoryScene.java">
+<error line="80" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 15 classes [AlertDialog.Builder, Announcer, AutoStaggeredGridLayoutManager, Bundle, ColorDrawable, DialogInterface.OnClickListener, EnterGalleryDetailTransaction, HandlerDrawable, HistoryAdapter, MarginItemDecoration, RecyclerViewSwipeManager, RecyclerViewTouchActionGuardManager, SwipeDismissItemAnimator, ViewTransition, addToFavoriteListener] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="80" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 35 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="448" column="26" severity="warning" message="O nome &apos;addToFavoriteListener&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\news\NewsScene.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\ProgressScene.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\SecurityScene.java">
+<error line="45" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\SelectSiteScene.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\SignInScene.java">
+<error line="51" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\SolidScene.java">
+<error line="42" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\ThumbSpanHelper.java">
+<error line="129" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\ToolbarScene.java">
+<error line="24" column="8" severity="warning" message="Importação não utilizada - android.view.MotionEvent." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\topList\EhTopListAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\topList\EhTopListScene.java">
+<error line="42" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\TransitionNameFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\scene\WarningScene.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\SetSecurityActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\SettingsActivity.java">
+<error line="22" column="8" severity="warning" message="Importação não utilizada - android.os.PersistableBundle." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="25" column="8" severity="warning" message="Importação não utilizada - androidx.annotation.NonNull." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="26" column="8" severity="warning" message="Importação não utilizada - androidx.annotation.Nullable." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="29" column="8" severity="warning" message="Importação não utilizada - androidx.preference.Preference." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="30" column="8" severity="warning" message="Importação não utilizada - androidx.preference.PreferenceFragmentCompat." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\ToolbarActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\UConfigActivity.java">
+<error line="205" column="9" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\wifi\WiFiClientActivity.java">
+<error line="62" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\ui\wifi\WiFiServerActivity.java">
+<error line="59" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 26 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\UrlOpener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\util\ClipboardUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\util\GZIPUtils.java">
+<error line="6" column="8" severity="warning" message="Importação não utilizada - android.content.Context." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="8" column="8" severity="warning" message="Importação não utilizada - android.widget.Toast." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="10" column="8" severity="warning" message="Importação não utilizada - com.hippo.ehviewer.R." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="12" column="8" severity="warning" message="Importação não utilizada - java.io.BufferedInputStream." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="13" column="8" severity="warning" message="Importação não utilizada - java.io.BufferedOutputStream." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="18" column="8" severity="warning" message="Importação não utilizada - java.io.FileNotFoundException." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="22" column="8" severity="warning" message="Importação não utilizada - java.io.OutputStream." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="24" column="8" severity="warning" message="Importação não utilizada - java.util.Enumeration." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="33" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 11 classes [ByteArrayInputStream, ByteArrayOutputStream, File, FileInputStream, FileOutputStream, GZIPInputStream, GZIPOutputStream, ZipEntry, ZipFile, ZipInputStream, ZipOutputStream] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="93" column="41" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="99" column="41" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="105" column="41" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\util\TagTranslationUtil.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - android.content.res.AssetManager." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="11" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="55" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\widget\AdvanceSearchTable.java">
+<error line="143" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\widget\ArchiverDownloadProgress.java">
+<error line="8" column="8" severity="warning" message="Importação não utilizada - android.os.Handler." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="9" column="8" severity="warning" message="Importação não utilizada - android.os.Looper." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="24" column="8" severity="warning" message="Importação não utilizada - java.util.logging.LogRecord." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="67" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\widget\CategoryTable.java">
+<error line="130" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\widget\DialogWebChromeClient.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\widget\DividerView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\widget\EhDrawerLayout.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\widget\EhDrawerView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\widget\EhNavigationView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\widget\EhStageLayout.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\widget\FixedThumb.java">
+<error line="23" column="8" severity="warning" message="Importação não utilizada - android.util.Log." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\widget\FixedThumbNew.java">
+<error line="25" column="8" severity="warning" message="Importação não utilizada - com.hippo.widget.LoadImageView." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\widget\GalleryGuideView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\widget\GalleryHeader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\widget\GalleryInfoContentHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\widget\GalleryRatingBar.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\widget\ImageSearchLayout.java">
+<error line="54" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 24 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\widget\JumpDateSelector.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\widget\LimitsCountView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\widget\MyEasyRecyclerView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\widget\MyRadioGroup.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\widget\ProgressHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\widget\ReversibleSeekBar.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\widget\SearchBar.java">
+<error line="61" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 36 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="172" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="391" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\widget\SearchDatabase.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\widget\SearchEditText.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\widget\SearchLayout.java">
+<error line="52" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 31 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\widget\SeekBarPanel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\widget\SimpleRatingView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\widget\StrokeTextView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\widget\TileThumb.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\ehviewer\widget\TileThumbNew.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\hardware\ShakeDetector.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\io\FileInputStreamPipe.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\io\FileOutputStreamPipe.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\io\UniFileInputStreamPipe.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\io\UniFileOutputStreamPipe.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glgallery\DownUpDetector.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glgallery\Fling.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glgallery\GalleryPageView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glgallery\GalleryProvider.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glgallery\GalleryView.java">
+<error line="52" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 30 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="695" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="920" column="5" severity="warning" message="A complexidade ciclomática é de 26 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glgallery\GestureRecognizer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glgallery\ImageView.java">
+<error line="356" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="461" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glgallery\PagerLayoutManager.java">
+<error line="308" column="5" severity="warning" message="A complexidade ciclomática é de 25 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="629" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="987" column="9" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glgallery\ScrollLayoutManager.java">
+<error line="223" column="5" severity="warning" message="A complexidade ciclomática é de 34 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="415" column="5" severity="warning" message="A complexidade ciclomática é de 23 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="619" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="922" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glgallery\SimpleAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\anim\AlphaAnimation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\anim\Animation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\anim\CanvasAnimation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\anim\FloatAnimation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\annotation\RenderThread.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\glrenderer\BasicTexture.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\glrenderer\BitmapTexture.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\glrenderer\CanvasTexture.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\glrenderer\ColorTexture.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\glrenderer\ExtTexture.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\glrenderer\FadeInTexture.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\glrenderer\FadeOutTexture.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\glrenderer\FadeTexture.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\glrenderer\GLCanvas.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\glrenderer\GLES11Canvas.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\glrenderer\GLES11IdImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\glrenderer\GLES20Canvas.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\glrenderer\GLES20IdImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\glrenderer\GLId.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\glrenderer\GLPaint.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\glrenderer\MovableTextTexture.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\glrenderer\MultiLineTexture.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\glrenderer\NativeTexture.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\glrenderer\NinePatchChunk.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\glrenderer\NinePatchTexture.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\glrenderer\RawTexture.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\glrenderer\ResourceTexture.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\glrenderer\SpriteTexture.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\glrenderer\StringTexture.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\glrenderer\Texture.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\glrenderer\TextureUploader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\glrenderer\TiledTexture.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\glrenderer\UploadedTexture.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\glrenderer\XmlResourceTexture.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\image\GLImageMovableTextView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\image\ImageMovableTextTexture.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\image\ImageSpriteTexture.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\image\ImageTexture.java">
+<error line="580" column="9" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\image\ImageWrapper.java">
+<error line="19" column="8" severity="warning" message="Importação não utilizada - android.graphics.Bitmap." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\util\ApiHelper.java">
+<error line="30" column="22" severity="warning" message="O nome &apos;VERSION_CODES&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="105" column="31" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\util\GalleryUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\util\MotionEventHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\view\AnimationTime.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\view\GLRoot.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\view\GLRootView.java">
+<error line="67" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="292" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\view\GLView.java">
+<error line="977" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\view\Gravity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\view\OrientationSource.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\view\TouchHelper.java">
+<error line="53" column="5" severity="warning" message="A complexidade ciclomática é de 25 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\view\TouchOwner.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\widget\GLEdgeEffect.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\widget\GLEdgeView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\widget\GLFrameLayout.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\widget\GLLinearLayout.java">
+<error line="64" column="5" severity="warning" message="A complexidade ciclomática é de 19 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\widget\GLMovableTextView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\widget\GLProgressView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\glview\widget\GLTextureView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\AnimationUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\AssertError.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\AssertException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\AssertUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\collect\AbstractMultimap.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\collect\CollectionUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\collect\ContainerHelpers.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\collect\IntList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\collect\LongList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\collect\Multimap.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\collect\MultimapSet.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\collect\SparseIJArray.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\collect\SparseILArray.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\collect\SparseJBArray.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\collect\SparseJLArray.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\ColorUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\ConcurrentPool.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\FileUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\IntIdGenerator.java">
+<error line="37" column="60" severity="warning" message="Instrução vazia." source="com.puppycrawl.tools.checkstyle.checks.coding.EmptyStatementCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\IOUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\LayoutUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\LongIdGenerator.java">
+<error line="37" column="60" severity="warning" message="Instrução vazia." source="com.puppycrawl.tools.checkstyle.checks.coding.EmptyStatementCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\MathUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\Messenger.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\NumberUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\ObjectUtils.java">
+<error line="101" column="5" severity="warning" message="A complexidade ciclomática é de 26 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="182" column="5" severity="warning" message="A complexidade ciclomática é de 22 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\OSUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\Pool.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\ResourcesUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\SimpleAnimationListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\SimpleAnimatorListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\SimpleHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\StringUtils.java">
+<error line="118" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="226" column="5" severity="warning" message="A complexidade ciclomática é de 34 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\thread\InfiniteThreadExecutor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\thread\PriorityThread.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\thread\PriorityThreadFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\thread\PVLock.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\thread\SerialThreadExecutor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\Utilities.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\lib\yorozuya\ViewUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\network\CookieDatabase.java">
+<error line="32" column="8" severity="warning" message="Importação não utilizada - com.hippo.ehviewer.Settings." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\network\CookieRepository.java">
+<error line="45" column="3" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\network\CookieSet.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\network\EhSSLSocketFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\network\EhSSLSocketFactoryLowSDK.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\network\EhX509TrustManager.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\network\InetValidator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\network\Network.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\network\StatusCodeException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\network\Tls12SocketFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\network\UrlBuilder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\okhttp\ChromeRequestBuilder.java">
+<error line="19" column="8" severity="warning" message="Importação não utilizada - com.hippo.ehviewer.Settings." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\preference\ActivityPreference.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\preference\DialogPreference.java">
+<error line="30" column="8" severity="warning" message="Importação não utilizada - androidx.preference.PreferenceManager." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\preference\ListPreference.java">
+<error line="28" column="8" severity="warning" message="Importação não utilizada - androidx.annotation.NonNull." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="30" column="8" severity="warning" message="Importação não utilizada - androidx.preference.Preference." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\preference\MessagePreference.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\preference\SeekBarPreference.java">
+<error line="29" column="8" severity="warning" message="Importação não utilizada - android.view.View." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\preference\SwitchPreference.java">
+<error line="32" column="8" severity="warning" message="Importação não utilizada - java.lang.reflect.InvocationTargetException." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\preference\UrlPreference.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\reveal\Reveal.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\reveal\RevealLinearLayout.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\reveal\RevealView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\reveal\ViewAnimationUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\scene\Announcer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\scene\SceneApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\scene\SceneFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\scene\StageActivity.java">
+<error line="270" column="5" severity="warning" message="A complexidade ciclomática é de 20 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="401" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\scene\StageLayout.java">
+<error line="81" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\scene\TransitionHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\text\Html.java">
+<error line="66" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 26 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="279" column="5" severity="warning" message="A complexidade ciclomática é de 32 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="403" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="439" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 28 classes [Big, Blockquote, Bold, Font, ForegroundColorSpan, Header, Href, ImageSpan, InputSource, Italic, Monospace, QuoteSpan, RelativeSizeSpan, Small, SpannableStringBuilder, Strike, StrikethroughSpan, StringReader, StyleSpan, Sub, SubscriptSpan, Super, SuperscriptSpan, TextAppearanceSpan, TypefaceSpan, URLSpan, Underline, UnderlineSpan] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="439" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 43 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="498" column="5" severity="warning" message="A complexidade ciclomática é de 29 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="557" column="5" severity="warning" message="A complexidade ciclomática é de 28 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="909" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\text\LinkMovementMethod2.java">
+<error line="103" column="5" severity="warning" message="A complexidade ciclomática é de 20 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\text\URLImageGetter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\unifile\Contracts.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\unifile\DocumentsContractApi19.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\unifile\DocumentsContractApi21.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\unifile\FileDescriptorRandomAccessFile.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\unifile\FilenameFilter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\unifile\MediaContract.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\unifile\MediaFile.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\unifile\RawFile.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\unifile\RawRandomAccessFile.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\unifile\SingleDocumentFile.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\unifile\TreeDocumentFile.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\unifile\UniFile.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\unifile\UniRandomAccessFile.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\unifile\UriHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\unifile\UriOutputStream.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\unifile\Utils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\util\BitmapUtils.java">
+<error line="48" column="5" severity="warning" message="A complexidade ciclomática é de 25 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\util\BlackListUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\util\DataUtils.java">
+<error line="6" column="8" severity="warning" message="Importação não utilizada - com.hippo.ehviewer.dao.DownloadInfo." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\util\DrawableManager.java">
+<error line="20" column="8" severity="warning" message="Importação não utilizada - android.content.res.Resources." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="22" column="8" severity="warning" message="Importação não utilizada - android.os.Build." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="25" column="8" severity="warning" message="Importação não utilizada - androidx.annotation.Nullable." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="27" column="8" severity="warning" message="Importação não utilizada - androidx.vectordrawable.graphics.drawable.VectorDrawableCompat." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\util\ExceptionUtils.java">
+<error line="31" column="8" severity="warning" message="Importação não utilizada - java.util.Objects." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="41" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\util\FastBlur.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - android.annotation.TargetApi." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="9" column="8" severity="warning" message="Importação não utilizada - android.os.Build." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="60" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\util\GifHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\util\HashCodeUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\util\IoThreadPoolExecutor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\util\JsoupUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\util\LogCat.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\util\MutableBoolean.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\util\NaturalComparator.java">
+<error line="26" column="3" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\util\PackageUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\util\PathNaturalComparator.java">
+<error line="19" column="3" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\util\PermissionRequester.java">
+<error line="20" column="8" severity="warning" message="Importação não utilizada - android.content.DialogInterface." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\util\ReadableTime.java">
+<error line="93" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\util\RSBlur.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\util\SqlUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\util\SystemUiHelper.java">
+<error line="20" column="8" severity="warning" message="Importação não utilizada - android.os.Build." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\util\SystemUiHelperImplHC.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\util\SystemUiHelperImplICS.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\util\SystemUiHelperImplJB.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\util\SystemUiHelperImplKK.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\util\TextUrl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\util\TimeUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\view\ViewTransition.java">
+<error line="64" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\AutoWrapLayout.java">
+<error line="123" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\AvatarImageView.java">
+<error line="61" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 30 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\BatteryView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\CheckTextView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\ColorView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\ContentLayout.java">
+<error line="173" column="5" severity="warning" message="A complexidade Fan-Out da classe é de 27 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="559" column="9" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="670" column="9" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\CuteSpinner.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\DateUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\DirExplorer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\DrawerView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\FabLayout.java">
+<error line="227" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\FixedAspectImageView.java">
+<error line="24" column="8" severity="warning" message="Importação não utilizada - androidx.appcompat.widget.AppCompatImageView." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="186" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\FlowLayout.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\HackyTextInputEditText.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\IndicatingListView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\IndicatingScrollView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\LinkifyTextView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\LoadImageView.java">
+<error line="51" column="8" severity="warning" message="Importação não utilizada - com.hippo.ehviewer.ui.scene.download.DownloadsScene." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="59" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 27 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\LoadImageViewNew.java">
+<error line="50" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\lockpattern\LockPatternUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\lockpattern\LockPatternView.java">
+<error line="53" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 24 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="531" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="757" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="890" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\MaxSizeContainer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\MyScrollView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\ObservedTextView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\OffsetLayout.java">
+<error line="47" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\ProgressView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\RadioGridGroup.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\recyclerview\AutoGridLayoutManager.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\recyclerview\AutoStaggeredGridLayoutManager.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\recyclerview\MyEasyRecyclerView.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\SafeCoordinatorLayout.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\SearchBarMover.java">
+<error line="76" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\SensitiveCheckBox.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\ShadowLinearLayout.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\SimpleGridAutoSpanLayout.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\SimpleGridLayout.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\Slider.java">
+<error line="398" column="5" severity="warning" message="A complexidade ciclomática é de 19 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\main\java\com\hippo\widget\TextClock.java">
+<error line="26" column="8" severity="warning" message="Importação não utilizada - android.os.Build." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\test\java\com\hippo\database\MSQLiteBuilderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\test\java\com\hippo\ehviewer\client\EhTagDatabaseTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\test\java\com\hippo\ehviewer\client\parser\GalleryDetailUrlParserTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\test\java\com\hippo\ehviewer\client\parser\GalleryListParserTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\test\java\com\hippo\ehviewer\client\parser\GalleryPageApiParserTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\test\java\com\hippo\ehviewer\client\parser\GalleryPageParserTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\test\java\com\hippo\ehviewer\client\parser\GalleryPageUrlParserTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\test\java\com\hippo\ehviewer\HostsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\test\java\com\hippo\network\CookieRepositoryTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\test\java\com\hippo\trashtest\trash.java">
+<error line="3" column="14" severity="warning" message="O nome &apos;trash&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\test\java\com\hippo\util\NaturalComparatorTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\app\src\test\java\com\hippo\util\PathNaturalComparatorTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\daogenerator\src\main\java\com\hippo\ehviewer\daogenerator\EhDaoGenerator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\daogenerator\src\main\java\com\hippo\ehviewer\daogenerator\Main.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xiaojieonly_Ehviewer_CN_SXJ\daogenerator\src\main\java\com\hippo\ehviewer\daogenerator\Utilities.java">
+</file>
+</checkstyle>

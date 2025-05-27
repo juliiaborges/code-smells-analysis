@@ -1,0 +1,8 @@
+{
+  "repository": "justauth_JustAuth",
+  "code_smells": {
+    "Empty Catch Block": 3,
+    "Cyclomatic Complexity": 3
+  },
+  "total_smells": 6
+}

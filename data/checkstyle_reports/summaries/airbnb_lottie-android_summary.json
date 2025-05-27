@@ -1,0 +1,10 @@
+{
+  "repository": "airbnb_lottie-android",
+  "code_smells": {
+    "Potential God Class": 13,
+    "Cyclomatic Complexity": 72,
+    "Too Many Fields": 2,
+    "Unused Imports": 7
+  },
+  "total_smells": 94
+}

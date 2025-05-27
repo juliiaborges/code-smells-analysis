@@ -1,0 +1,11 @@
+{
+  "repository": "TeamNewPipe_NewPipe",
+  "code_smells": {
+    "Cyclomatic Complexity": 95,
+    "Too Many Fields": 15,
+    "Potential God Class": 38,
+    "Empty Catch Block": 3,
+    "Unused Imports": 2
+  },
+  "total_smells": 153
+}

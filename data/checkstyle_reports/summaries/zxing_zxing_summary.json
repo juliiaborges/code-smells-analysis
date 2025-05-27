@@ -1,0 +1,9 @@
+{
+  "repository": "zxing_zxing",
+  "code_smells": {
+    "Too Many Fields": 7,
+    "Potential God Class": 8,
+    "Cyclomatic Complexity": 146
+  },
+  "total_smells": 161
+}

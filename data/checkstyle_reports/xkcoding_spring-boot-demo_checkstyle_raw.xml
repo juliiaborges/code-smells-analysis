@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.24.0">
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-activiti\src\main\java\com\xkcoding\activiti\config\SecurityConfiguration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-activiti\src\main\java\com\xkcoding\activiti\SpringBootDemoActivitiApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-activiti\src\main\java\com\xkcoding\activiti\util\SecurityUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-activiti\src\test\java\com\xkcoding\activiti\SpringBootDemoActivitiApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-actuator\src\main\java\com\xkcoding\actuator\SpringBootDemoActuatorApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-actuator\src\test\java\com\xkcoding\actuator\SpringBootDemoActuatorApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-admin\admin-client\src\main\java\com\xkcoding\admin\client\controller\IndexController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-admin\admin-client\src\main\java\com\xkcoding\admin\client\SpringBootDemoAdminClientApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-admin\admin-client\src\test\java\com\xkcoding\admin\client\SpringBootDemoAdminClientApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-admin\admin-server\src\main\java\com\xkcoding\admin\server\SpringBootDemoAdminServerApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-admin\admin-server\src\test\java\com\xkcoding\admin\server\SpringBootDemoAdminServerApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-async\src\main\java\com\xkcoding\async\SpringBootDemoAsyncApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-async\src\main\java\com\xkcoding\async\task\TaskFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-async\src\test\java\com\xkcoding\async\SpringBootDemoAsyncApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-async\src\test\java\com\xkcoding\async\task\TaskFactoryTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-cache-ehcache\src\main\java\com\xkcoding\cache\ehcache\entity\User.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-cache-ehcache\src\main\java\com\xkcoding\cache\ehcache\service\impl\UserServiceImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-cache-ehcache\src\main\java\com\xkcoding\cache\ehcache\service\UserService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-cache-ehcache\src\main\java\com\xkcoding\cache\ehcache\SpringBootDemoCacheEhcacheApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-cache-ehcache\src\test\java\com\xkcoding\cache\ehcache\service\UserServiceTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-cache-ehcache\src\test\java\com\xkcoding\cache\ehcache\SpringBootDemoCacheEhcacheApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-cache-redis\src\main\java\com\xkcoding\cache\redis\config\RedisConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-cache-redis\src\main\java\com\xkcoding\cache\redis\entity\User.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-cache-redis\src\main\java\com\xkcoding\cache\redis\service\impl\UserServiceImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-cache-redis\src\main\java\com\xkcoding\cache\redis\service\UserService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-cache-redis\src\main\java\com\xkcoding\cache\redis\SpringBootDemoCacheRedisApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-cache-redis\src\test\java\com\xkcoding\cache\redis\RedisTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-cache-redis\src\test\java\com\xkcoding\cache\redis\service\UserServiceTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-cache-redis\src\test\java\com\xkcoding\cache\redis\SpringBootDemoCacheRedisApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-codegen\src\main\java\com\xkcoding\codegen\common\IResultCode.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-codegen\src\main\java\com\xkcoding\codegen\common\PageResult.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-codegen\src\main\java\com\xkcoding\codegen\common\R.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-codegen\src\main\java\com\xkcoding\codegen\common\ResultCode.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-codegen\src\main\java\com\xkcoding\codegen\constants\GenConstants.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-codegen\src\main\java\com\xkcoding\codegen\controller\CodeGenController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-codegen\src\main\java\com\xkcoding\codegen\entity\ColumnEntity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-codegen\src\main\java\com\xkcoding\codegen\entity\GenConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-codegen\src\main\java\com\xkcoding\codegen\entity\TableEntity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-codegen\src\main\java\com\xkcoding\codegen\entity\TableRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-codegen\src\main\java\com\xkcoding\codegen\service\CodeGenService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-codegen\src\main\java\com\xkcoding\codegen\service\impl\CodeGenServiceImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-codegen\src\main\java\com\xkcoding\codegen\SpringBootDemoCodegenApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-codegen\src\main\java\com\xkcoding\codegen\utils\CodeGenUtil.java">
+<error line="65" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-codegen\src\main\java\com\xkcoding\codegen\utils\DbUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-codegen\src\test\java\com\xkcoding\codegen\CodeGenServiceTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-codegen\src\test\java\com\xkcoding\codegen\SpringBootDemoCodegenApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-docker\src\main\java\com\xkcoding\docker\controller\HelloController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-docker\src\main\java\com\xkcoding\docker\SpringBootDemoDockerApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-docker\src\test\java\com\xkcoding\docker\SpringBootDemoDockerApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-dubbo\dubbo-common\src\main\java\com\xkcoding\dubbo\common\service\HelloService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-dubbo\dubbo-consumer\src\main\java\com\xkcoding\dubbo\consumer\controller\HelloController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-dubbo\dubbo-consumer\src\main\java\com\xkcoding\dubbo\consumer\SpringBootDemoDubboConsumerApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-dubbo\dubbo-consumer\src\test\java\com\xkcoding\dubbo\consumer\SpringBootDemoDubboConsumerApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-dubbo\dubbo-provider\src\main\java\com\xkcoding\dubbo\provider\service\HelloServiceImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-dubbo\dubbo-provider\src\main\java\com\xkcoding\dubbo\provider\SpringBootDemoDubboProviderApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-dubbo\dubbo-provider\src\test\java\com\xkcoding\dubbo\provider\SpringBootDemoDubboProviderApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-dynamic-datasource\src\main\java\com\xkcoding\dynamic\datasource\annotation\DefaultDatasource.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-dynamic-datasource\src\main\java\com\xkcoding\dynamic\datasource\aspect\DatasourceSelectorAspect.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-dynamic-datasource\src\main\java\com\xkcoding\dynamic\datasource\config\DatasourceConfiguration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-dynamic-datasource\src\main\java\com\xkcoding\dynamic\datasource\config\MybatisConfiguration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-dynamic-datasource\src\main\java\com\xkcoding\dynamic\datasource\config\MyMapper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-dynamic-datasource\src\main\java\com\xkcoding\dynamic\datasource\controller\DatasourceConfigController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-dynamic-datasource\src\main\java\com\xkcoding\dynamic\datasource\controller\UserController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-dynamic-datasource\src\main\java\com\xkcoding\dynamic\datasource\datasource\DatasourceConfigCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-dynamic-datasource\src\main\java\com\xkcoding\dynamic\datasource\datasource\DatasourceConfigContextHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-dynamic-datasource\src\main\java\com\xkcoding\dynamic\datasource\datasource\DatasourceHolder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-dynamic-datasource\src\main\java\com\xkcoding\dynamic\datasource\datasource\DatasourceManager.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-dynamic-datasource\src\main\java\com\xkcoding\dynamic\datasource\datasource\DatasourceScheduler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-dynamic-datasource\src\main\java\com\xkcoding\dynamic\datasource\datasource\DynamicDataSource.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-dynamic-datasource\src\main\java\com\xkcoding\dynamic\datasource\mapper\DatasourceConfigMapper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-dynamic-datasource\src\main\java\com\xkcoding\dynamic\datasource\mapper\UserMapper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-dynamic-datasource\src\main\java\com\xkcoding\dynamic\datasource\model\DatasourceConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-dynamic-datasource\src\main\java\com\xkcoding\dynamic\datasource\model\User.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-dynamic-datasource\src\main\java\com\xkcoding\dynamic\datasource\SpringBootDemoDynamicDatasourceApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-dynamic-datasource\src\main\java\com\xkcoding\dynamic\datasource\utils\SpringUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-dynamic-datasource\src\test\java\com\xkcoding\dynamic\datasource\SpringBootDemoDynamicDatasourceApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-elasticsearch\src\main\java\com\xkcoding\elasticsearch\constants\EsConsts.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-elasticsearch\src\main\java\com\xkcoding\elasticsearch\model\Person.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-elasticsearch\src\main\java\com\xkcoding\elasticsearch\repository\PersonRepository.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-elasticsearch\src\main\java\com\xkcoding\elasticsearch\SpringBootDemoElasticsearchApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-elasticsearch\src\test\java\com\xkcoding\elasticsearch\repository\PersonRepositoryTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-elasticsearch\src\test\java\com\xkcoding\elasticsearch\SpringBootDemoElasticsearchApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-elasticsearch\src\test\java\com\xkcoding\elasticsearch\template\TemplateTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-elasticsearch-rest-high-level-client\src\main\java\com\xkcoding\elasticsearch\common\Result.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-elasticsearch-rest-high-level-client\src\main\java\com\xkcoding\elasticsearch\common\ResultCode.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-elasticsearch-rest-high-level-client\src\main\java\com\xkcoding\elasticsearch\config\ElasticsearchAutoConfiguration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-elasticsearch-rest-high-level-client\src\main\java\com\xkcoding\elasticsearch\config\ElasticsearchProperties.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-elasticsearch-rest-high-level-client\src\main\java\com\xkcoding\elasticsearch\contants\ElasticsearchConstant.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-elasticsearch-rest-high-level-client\src\main\java\com\xkcoding\elasticsearch\ElasticsearchApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-elasticsearch-rest-high-level-client\src\main\java\com\xkcoding\elasticsearch\exception\ElasticsearchException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-elasticsearch-rest-high-level-client\src\main\java\com\xkcoding\elasticsearch\model\Person.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-elasticsearch-rest-high-level-client\src\main\java\com\xkcoding\elasticsearch\service\base\BaseElasticsearchService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-elasticsearch-rest-high-level-client\src\main\java\com\xkcoding\elasticsearch\service\impl\PersonServiceImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-elasticsearch-rest-high-level-client\src\main\java\com\xkcoding\elasticsearch\service\PersonService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-elasticsearch-rest-high-level-client\src\test\java\com\xkcoding\elasticsearch\ElasticsearchApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-email\src\main\java\com\xkcoding\email\service\impl\MailServiceImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-email\src\main\java\com\xkcoding\email\service\MailService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-email\src\main\java\com\xkcoding\email\SpringBootDemoEmailApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-email\src\test\java\com\xkcoding\email\PasswordTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-email\src\test\java\com\xkcoding\email\service\MailServiceTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-email\src\test\java\com\xkcoding\email\SpringBootDemoEmailApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-exception-handler\src\main\java\com\xkcoding\exception\handler\constant\Status.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-exception-handler\src\main\java\com\xkcoding\exception\handler\controller\TestController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-exception-handler\src\main\java\com\xkcoding\exception\handler\exception\BaseException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-exception-handler\src\main\java\com\xkcoding\exception\handler\exception\JsonException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-exception-handler\src\main\java\com\xkcoding\exception\handler\exception\PageException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-exception-handler\src\main\java\com\xkcoding\exception\handler\handler\DemoExceptionHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-exception-handler\src\main\java\com\xkcoding\exception\handler\model\ApiResponse.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-exception-handler\src\main\java\com\xkcoding\exception\handler\SpringBootDemoExceptionHandlerApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-exception-handler\src\test\java\com\xkcoding\exception\handler\SpringBootDemoExceptionHandlerApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-flyway\src\main\java\com\xkcoding\flyway\SpringBootDemoFlywayApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-flyway\src\test\java\com\xkcoding\AppTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-graylog\src\main\java\com\xkcoding\graylog\SpringBootDemoGraylogApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-graylog\src\test\java\com\xkcoding\graylog\SpringBootDemoGraylogApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-helloworld\src\main\java\com\xkcoding\helloworld\SpringBootDemoHelloworldApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-helloworld\src\test\java\com\xkcoding\helloworld\SpringBootDemoHelloworldApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-https\src\main\java\com\xkcoding\https\config\HttpsConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-https\src\main\java\com\xkcoding\https\SpringBootDemoHttpsApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-https\src\test\java\com\xkcoding\https\SpringBootDemoHttpsApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-ldap\src\main\java\com\xkcoding\ldap\api\Result.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-ldap\src\main\java\com\xkcoding\ldap\api\ResultCode.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-ldap\src\main\java\com\xkcoding\ldap\entity\Person.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-ldap\src\main\java\com\xkcoding\ldap\exception\ServiceException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-ldap\src\main\java\com\xkcoding\ldap\LdapDemoApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-ldap\src\main\java\com\xkcoding\ldap\repository\PersonRepository.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-ldap\src\main\java\com\xkcoding\ldap\request\LoginRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-ldap\src\main\java\com\xkcoding\ldap\service\impl\PersonServiceImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-ldap\src\main\java\com\xkcoding\ldap\service\PersonService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-ldap\src\main\java\com\xkcoding\ldap\util\LdapUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-ldap\src\test\java\com\xkcoding\ldap\LdapDemoApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-log-aop\src\main\java\com\xkcoding\log\aop\aspectj\AopLog.java">
+<error line="121" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-log-aop\src\main\java\com\xkcoding\log\aop\controller\TestController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-log-aop\src\main\java\com\xkcoding\log\aop\SpringBootDemoLogAopApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-log-aop\src\test\java\com\xkcoding\log\aop\SpringBootDemoLogAopApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-logback\src\main\java\com\xkcoding\logback\SpringBootDemoLogbackApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-logback\src\test\java\com\xkcoding\logback\SpringBootDemoLogbackApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-mongodb\src\main\java\com\xkcoding\mongodb\model\Article.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-mongodb\src\main\java\com\xkcoding\mongodb\repository\ArticleRepository.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-mongodb\src\main\java\com\xkcoding\mongodb\SpringBootDemoMongodbApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-mongodb\src\test\java\com\xkcoding\mongodb\repository\ArticleRepositoryTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-mongodb\src\test\java\com\xkcoding\mongodb\SpringBootDemoMongodbApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-mq-kafka\src\main\java\com\xkcoding\mq\kafka\config\KafkaConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-mq-kafka\src\main\java\com\xkcoding\mq\kafka\constants\KafkaConsts.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-mq-kafka\src\main\java\com\xkcoding\mq\kafka\handler\MessageHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-mq-kafka\src\main\java\com\xkcoding\mq\kafka\SpringBootDemoMqKafkaApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-mq-kafka\src\test\java\com\xkcoding\mq\kafka\SpringBootDemoMqKafkaApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-mq-rabbitmq\src\main\java\com\xkcoding\mq\rabbitmq\config\RabbitMqConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-mq-rabbitmq\src\main\java\com\xkcoding\mq\rabbitmq\constants\RabbitConsts.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-mq-rabbitmq\src\main\java\com\xkcoding\mq\rabbitmq\handler\DelayQueueHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-mq-rabbitmq\src\main\java\com\xkcoding\mq\rabbitmq\handler\DirectQueueOneHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-mq-rabbitmq\src\main\java\com\xkcoding\mq\rabbitmq\handler\QueueThreeHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-mq-rabbitmq\src\main\java\com\xkcoding\mq\rabbitmq\handler\QueueTwoHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-mq-rabbitmq\src\main\java\com\xkcoding\mq\rabbitmq\message\MessageStruct.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-mq-rabbitmq\src\main\java\com\xkcoding\mq\rabbitmq\SpringBootDemoMqRabbitmqApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-mq-rabbitmq\src\test\java\com\xkcoding\mq\rabbitmq\SpringBootDemoMqRabbitmqApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-mq-rocketmq\src\main\java\com\xkcoding\mq\rocketmq\SpringBootDemoMqRocketmqApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-mq-rocketmq\src\test\java\com\xkcoding\mq\rocketmq\SpringBootDemoMqRocketmqApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-multi-datasource-jpa\src\main\java\com\xkcoding\multi\datasource\jpa\config\PrimaryDataSourceConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-multi-datasource-jpa\src\main\java\com\xkcoding\multi\datasource\jpa\config\PrimaryJpaConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-multi-datasource-jpa\src\main\java\com\xkcoding\multi\datasource\jpa\config\SecondDataSourceConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-multi-datasource-jpa\src\main\java\com\xkcoding\multi\datasource\jpa\config\SecondJpaConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-multi-datasource-jpa\src\main\java\com\xkcoding\multi\datasource\jpa\config\SnowflakeConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-multi-datasource-jpa\src\main\java\com\xkcoding\multi\datasource\jpa\entity\primary\PrimaryMultiTable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-multi-datasource-jpa\src\main\java\com\xkcoding\multi\datasource\jpa\entity\second\SecondMultiTable.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-multi-datasource-jpa\src\main\java\com\xkcoding\multi\datasource\jpa\repository\primary\PrimaryMultiTableRepository.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-multi-datasource-jpa\src\main\java\com\xkcoding\multi\datasource\jpa\repository\second\SecondMultiTableRepository.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-multi-datasource-jpa\src\main\java\com\xkcoding\multi\datasource\jpa\SpringBootDemoMultiDatasourceJpaApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-multi-datasource-jpa\src\test\java\com\xkcoding\multi\datasource\jpa\SpringBootDemoMultiDatasourceJpaApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-multi-datasource-mybatis\src\main\java\com\xkcoding\multi\datasource\mybatis\mapper\UserMapper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-multi-datasource-mybatis\src\main\java\com\xkcoding\multi\datasource\mybatis\model\User.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-multi-datasource-mybatis\src\main\java\com\xkcoding\multi\datasource\mybatis\service\impl\UserServiceImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-multi-datasource-mybatis\src\main\java\com\xkcoding\multi\datasource\mybatis\service\UserService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-multi-datasource-mybatis\src\main\java\com\xkcoding\multi\datasource\mybatis\SpringBootDemoMultiDatasourceMybatisApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-multi-datasource-mybatis\src\test\java\com\xkcoding\multi\datasource\mybatis\service\impl\UserServiceImplTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-multi-datasource-mybatis\src\test\java\com\xkcoding\multi\datasource\mybatis\SpringBootDemoMultiDatasourceMybatisApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-neo4j\src\main\java\com\xkcoding\neo4j\config\CustomIdStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-neo4j\src\main\java\com\xkcoding\neo4j\constants\NeoConsts.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-neo4j\src\main\java\com\xkcoding\neo4j\model\Class.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-neo4j\src\main\java\com\xkcoding\neo4j\model\Lesson.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-neo4j\src\main\java\com\xkcoding\neo4j\model\Student.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-neo4j\src\main\java\com\xkcoding\neo4j\model\Teacher.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-neo4j\src\main\java\com\xkcoding\neo4j\payload\ClassmateInfoGroupByLesson.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-neo4j\src\main\java\com\xkcoding\neo4j\payload\TeacherStudent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-neo4j\src\main\java\com\xkcoding\neo4j\repository\ClassRepository.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-neo4j\src\main\java\com\xkcoding\neo4j\repository\LessonRepository.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-neo4j\src\main\java\com\xkcoding\neo4j\repository\StudentRepository.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-neo4j\src\main\java\com\xkcoding\neo4j\repository\TeacherRepository.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-neo4j\src\main\java\com\xkcoding\neo4j\service\NeoService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-neo4j\src\main\java\com\xkcoding\neo4j\SpringBootDemoNeo4jApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-neo4j\src\test\java\com\xkcoding\neo4j\Neo4jTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-neo4j\src\test\java\com\xkcoding\neo4j\SpringBootDemoNeo4jApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-oauth\oauth-authorization-server\src\main\java\com\xkcoding\oauth\config\ClientLoginFailureHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-oauth\oauth-authorization-server\src\main\java\com\xkcoding\oauth\config\ClientLogoutSuccessHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-oauth\oauth-authorization-server\src\main\java\com\xkcoding\oauth\config\Oauth2AuthorizationServerConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-oauth\oauth-authorization-server\src\main\java\com\xkcoding\oauth\config\Oauth2AuthorizationTokenConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-oauth\oauth-authorization-server\src\main\java\com\xkcoding\oauth\config\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-oauth\oauth-authorization-server\src\main\java\com\xkcoding\oauth\config\WebSecurityConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-oauth\oauth-authorization-server\src\main\java\com\xkcoding\oauth\controller\AuthorizationController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-oauth\oauth-authorization-server\src\main\java\com\xkcoding\oauth\controller\Oauth2Controller.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-oauth\oauth-authorization-server\src\main\java\com\xkcoding\oauth\controller\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-oauth\oauth-authorization-server\src\main\java\com\xkcoding\oauth\entity\SysClientDetails.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-oauth\oauth-authorization-server\src\main\java\com\xkcoding\oauth\entity\SysRole.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-oauth\oauth-authorization-server\src\main\java\com\xkcoding\oauth\entity\SysUser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-oauth\oauth-authorization-server\src\main\java\com\xkcoding\oauth\repostiory\SysClientDetailsRepository.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-oauth\oauth-authorization-server\src\main\java\com\xkcoding\oauth\repostiory\SysUserRepository.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-oauth\oauth-authorization-server\src\main\java\com\xkcoding\oauth\service\impl\SysClientDetailsServiceImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-oauth\oauth-authorization-server\src\main\java\com\xkcoding\oauth\service\impl\SysUserServiceImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-oauth\oauth-authorization-server\src\main\java\com\xkcoding\oauth\service\package-info.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-oauth\oauth-authorization-server\src\main\java\com\xkcoding\oauth\service\SysClientDetailsService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-oauth\oauth-authorization-server\src\main\java\com\xkcoding\oauth\service\SysUserService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-oauth\oauth-authorization-server\src\main\java\com\xkcoding\oauth\SpringBootDemoOauthApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-oauth\oauth-authorization-server\src\test\java\com\xkcoding\oauth\oauth\AuthorizationCodeGrantTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-oauth\oauth-authorization-server\src\test\java\com\xkcoding\oauth\oauth\AuthorizationServerInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-oauth\oauth-authorization-server\src\test\java\com\xkcoding\oauth\oauth\ResourceOwnerPasswordGrantTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-oauth\oauth-authorization-server\src\test\java\com\xkcoding\oauth\PasswordEncodeTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-oauth\oauth-authorization-server\src\test\java\com\xkcoding\oauth\repostiory\SysClientDetailsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-oauth\oauth-authorization-server\src\test\java\com\xkcoding\oauth\repostiory\SysUserRepositoryTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-oauth\oauth-resource-server\src\main\java\com\xkcoding\oauth\config\OauthResourceServerConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-oauth\oauth-resource-server\src\main\java\com\xkcoding\oauth\config\OauthResourceTokenConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-oauth\oauth-resource-server\src\main\java\com\xkcoding\oauth\controller\TestController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-oauth\oauth-resource-server\src\main\java\com\xkcoding\oauth\SpringBootDemoResourceApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-oauth\oauth-resource-server\src\test\java\com\xkcoding\oauth\AuthorizationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-oauth\oauth-resource-server\src\test\java\com\xkcoding\oauth\controller\TestControllerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-beetlsql\src\main\java\com\xkcoding\orm\beetlsql\config\BeetlConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-beetlsql\src\main\java\com\xkcoding\orm\beetlsql\dao\UserDao.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-beetlsql\src\main\java\com\xkcoding\orm\beetlsql\entity\User.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-beetlsql\src\main\java\com\xkcoding\orm\beetlsql\service\impl\UserServiceImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-beetlsql\src\main\java\com\xkcoding\orm\beetlsql\service\UserService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-beetlsql\src\main\java\com\xkcoding\orm\beetlsql\SpringBootDemoOrmBeetlsqlApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-beetlsql\src\test\java\com\xkcoding\orm\beetlsql\service\UserServiceTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-beetlsql\src\test\java\com\xkcoding\orm\beetlsql\SpringBootDemoOrmBeetlsqlApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-jdbctemplate\src\main\java\com\xkcoding\orm\jdbctemplate\annotation\Column.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-jdbctemplate\src\main\java\com\xkcoding\orm\jdbctemplate\annotation\Ignore.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-jdbctemplate\src\main\java\com\xkcoding\orm\jdbctemplate\annotation\Pk.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-jdbctemplate\src\main\java\com\xkcoding\orm\jdbctemplate\annotation\Table.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-jdbctemplate\src\main\java\com\xkcoding\orm\jdbctemplate\constant\Const.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-jdbctemplate\src\main\java\com\xkcoding\orm\jdbctemplate\controller\UserController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-jdbctemplate\src\main\java\com\xkcoding\orm\jdbctemplate\dao\base\BaseDao.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-jdbctemplate\src\main\java\com\xkcoding\orm\jdbctemplate\dao\UserDao.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-jdbctemplate\src\main\java\com\xkcoding\orm\jdbctemplate\entity\User.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-jdbctemplate\src\main\java\com\xkcoding\orm\jdbctemplate\service\impl\UserServiceImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-jdbctemplate\src\main\java\com\xkcoding\orm\jdbctemplate\service\IUserService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-jdbctemplate\src\main\java\com\xkcoding\orm\jdbctemplate\SpringBootDemoOrmJdbctemplateApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-jdbctemplate\src\test\java\com\xkcoding\orm\jdbctemplate\SpringBootDemoOrmJdbctemplateApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-jpa\src\main\java\com\xkcoding\orm\jpa\config\JpaConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-jpa\src\main\java\com\xkcoding\orm\jpa\entity\base\AbstractAuditModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-jpa\src\main\java\com\xkcoding\orm\jpa\entity\Department.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-jpa\src\main\java\com\xkcoding\orm\jpa\entity\User.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-jpa\src\main\java\com\xkcoding\orm\jpa\repository\DepartmentDao.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-jpa\src\main\java\com\xkcoding\orm\jpa\repository\UserDao.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-jpa\src\main\java\com\xkcoding\orm\jpa\SpringBootDemoOrmJpaApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-jpa\src\test\java\com\xkcoding\orm\jpa\repository\DepartmentDaoTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-jpa\src\test\java\com\xkcoding\orm\jpa\repository\UserDaoTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-jpa\src\test\java\com\xkcoding\orm\jpa\SpringBootDemoOrmJpaApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-mybatis\src\main\java\com\xkcoding\orm\mybatis\entity\User.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-mybatis\src\main\java\com\xkcoding\orm\mybatis\mapper\UserMapper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-mybatis\src\main\java\com\xkcoding\orm\mybatis\SpringBootDemoOrmMybatisApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-mybatis\src\test\java\com\xkcoding\orm\mybatis\mapper\UserMapperTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-mybatis\src\test\java\com\xkcoding\orm\mybatis\SpringBootDemoOrmMybatisApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-mybatis-mapper-page\src\main\java\com\xkcoding\orm\mybatis\MapperAndPage\entity\User.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-mybatis-mapper-page\src\main\java\com\xkcoding\orm\mybatis\MapperAndPage\mapper\UserMapper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-mybatis-mapper-page\src\main\java\com\xkcoding\orm\mybatis\MapperAndPage\SpringBootDemoOrmMybatisMapperPageApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-mybatis-mapper-page\src\test\java\com\xkcoding\orm\mybatis\MapperAndPage\mapper\UserMapperTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-mybatis-mapper-page\src\test\java\com\xkcoding\orm\mybatis\MapperAndPage\SpringBootDemoOrmMybatisMapperPageApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-mybatis-plus\src\main\java\com\xkcoding\orm\mybatis\plus\config\CommonFieldHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-mybatis-plus\src\main\java\com\xkcoding\orm\mybatis\plus\config\MybatisPlusConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-mybatis-plus\src\main\java\com\xkcoding\orm\mybatis\plus\entity\Role.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-mybatis-plus\src\main\java\com\xkcoding\orm\mybatis\plus\entity\User.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-mybatis-plus\src\main\java\com\xkcoding\orm\mybatis\plus\mapper\RoleMapper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-mybatis-plus\src\main\java\com\xkcoding\orm\mybatis\plus\mapper\UserMapper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-mybatis-plus\src\main\java\com\xkcoding\orm\mybatis\plus\service\impl\UserServiceImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-mybatis-plus\src\main\java\com\xkcoding\orm\mybatis\plus\service\UserService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-mybatis-plus\src\main\java\com\xkcoding\orm\mybatis\plus\SpringBootDemoOrmMybatisPlusApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-mybatis-plus\src\test\java\com\xkcoding\orm\mybatis\plus\activerecord\ActiveRecordTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-mybatis-plus\src\test\java\com\xkcoding\orm\mybatis\plus\service\UserServiceTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-orm-mybatis-plus\src\test\java\com\xkcoding\orm\mybatis\plus\SpringBootDemoOrmMybatisPlusApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-pay\src\main\java\com\xkcoding\pay\SpringBootDemoPayApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-pay\src\test\java\com\xkcoding\pay\SpringBootDemoPayApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-properties\src\main\java\com\xkcoding\properties\controller\PropertyController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-properties\src\main\java\com\xkcoding\properties\property\ApplicationProperty.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-properties\src\main\java\com\xkcoding\properties\property\DeveloperProperty.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-properties\src\main\java\com\xkcoding\properties\SpringBootDemoPropertiesApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-properties\src\test\java\com\xkcoding\properties\SpringBootDemoPropertiesApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-ratelimit-guava\src\main\java\com\xkcoding\ratelimit\guava\annotation\RateLimiter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-ratelimit-guava\src\main\java\com\xkcoding\ratelimit\guava\aspect\RateLimiterAspect.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-ratelimit-guava\src\main\java\com\xkcoding\ratelimit\guava\controller\TestController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-ratelimit-guava\src\main\java\com\xkcoding\ratelimit\guava\handler\GlobalExceptionHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-ratelimit-guava\src\main\java\com\xkcoding\ratelimit\guava\SpringBootDemoRatelimitGuavaApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-ratelimit-guava\src\test\java\com\xkcoding\ratelimit\guava\SpringBootDemoRatelimitGuavaApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-ratelimit-redis\src\main\java\com\xkcoding\ratelimit\redis\annotation\RateLimiter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-ratelimit-redis\src\main\java\com\xkcoding\ratelimit\redis\aspect\RateLimiterAspect.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-ratelimit-redis\src\main\java\com\xkcoding\ratelimit\redis\config\RedisConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-ratelimit-redis\src\main\java\com\xkcoding\ratelimit\redis\controller\TestController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-ratelimit-redis\src\main\java\com\xkcoding\ratelimit\redis\handler\GlobalExceptionHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-ratelimit-redis\src\main\java\com\xkcoding\ratelimit\redis\SpringBootDemoRatelimitRedisApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-ratelimit-redis\src\main\java\com\xkcoding\ratelimit\redis\util\IpUtil.java">
+<error line="28" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-ratelimit-redis\src\test\java\com\xkcoding\ratelimit\redis\SpringBootDemoRatelimiterRedisApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\common\ApiResponse.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\common\BaseException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\common\Consts.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\common\IStatus.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\common\PageResult.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\common\Status.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\config\CustomConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\config\IdConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\config\IgnoreConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\config\JwtAuthenticationFilter.java">
+<error line="85" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\config\JwtConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\config\RbacAuthorityService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\config\RedisConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\config\SecurityConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\config\SecurityHandlerConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\config\WebMvcConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\controller\AuthController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\controller\MonitorController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\controller\TestController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\exception\handler\GlobalExceptionHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\exception\SecurityException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\model\Permission.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\model\Role.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\model\RolePermission.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\model\unionkey\RolePermissionKey.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\model\unionkey\UserRoleKey.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\model\User.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\model\UserRole.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\payload\LoginRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\payload\PageCondition.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\repository\PermissionDao.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\repository\RoleDao.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\repository\RolePermissionDao.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\repository\UserDao.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\repository\UserRoleDao.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\service\CustomUserDetailsService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\service\MonitorService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\SpringBootDemoRbacSecurityApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\util\JwtUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\util\PageUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\util\RedisUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\util\ResponseUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\util\SecurityUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\vo\JwtResponse.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\vo\OnlineUser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\main\java\com\xkcoding\rbac\security\vo\UserPrincipal.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\test\java\com\xkcoding\rbac\security\repository\DataInitTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\test\java\com\xkcoding\rbac\security\repository\UserDaoTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\test\java\com\xkcoding\rbac\security\SpringBootDemoRbacSecurityApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-security\src\test\java\com\xkcoding\rbac\security\util\RedisUtilTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-shiro\src\main\java\com\xkcoding\rbac\shiro\common\IResultCode.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-shiro\src\main\java\com\xkcoding\rbac\shiro\common\R.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-shiro\src\main\java\com\xkcoding\rbac\shiro\common\ResultCode.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-shiro\src\main\java\com\xkcoding\rbac\shiro\config\MybatisPlusConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-shiro\src\main\java\com\xkcoding\rbac\shiro\controller\TestController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-shiro\src\main\java\com\xkcoding\rbac\shiro\SpringBootDemoRbacShiroApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-rbac-shiro\src\test\java\com\xkcoding\rbac\shiro\SpringBootDemoRbacShiroApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-session\src\main\java\com\xkcoding\session\config\WebMvcConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-session\src\main\java\com\xkcoding\session\constants\Consts.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-session\src\main\java\com\xkcoding\session\controller\PageController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-session\src\main\java\com\xkcoding\session\interceptor\SessionInterceptor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-session\src\main\java\com\xkcoding\session\SpringBootDemoSessionApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-session\src\test\java\com\xkcoding\session\SpringBootDemoSessionApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-sharding-jdbc\src\main\java\com\xkcoding\sharding\jdbc\config\CustomSnowflakeKeyGenerator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-sharding-jdbc\src\main\java\com\xkcoding\sharding\jdbc\config\DataSourceShardingConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-sharding-jdbc\src\main\java\com\xkcoding\sharding\jdbc\mapper\OrderMapper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-sharding-jdbc\src\main\java\com\xkcoding\sharding\jdbc\model\Order.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-sharding-jdbc\src\main\java\com\xkcoding\sharding\jdbc\SpringBootDemoShardingJdbcApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-sharding-jdbc\src\test\java\com\xkcoding\sharding\jdbc\SpringBootDemoShardingJdbcApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-social\src\main\java\com\xkcoding\social\controller\OauthController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-social\src\main\java\com\xkcoding\social\SpringBootDemoSocialApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-social\src\test\java\com\xkcoding\social\SpringBootDemoSocialApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-swagger\src\main\java\com\xkcoding\swagger\common\ApiResponse.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-swagger\src\main\java\com\xkcoding\swagger\common\DataType.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-swagger\src\main\java\com\xkcoding\swagger\common\ParamType.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-swagger\src\main\java\com\xkcoding\swagger\config\Swagger2Config.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-swagger\src\main\java\com\xkcoding\swagger\controller\UserController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-swagger\src\main\java\com\xkcoding\swagger\entity\User.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-swagger\src\main\java\com\xkcoding\swagger\SpringBootDemoSwaggerApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-swagger\src\test\java\com\xkcoding\swagger\SpringBootDemoSwaggerApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-swagger-beauty\src\main\java\com\xkcoding\swagger\beauty\common\ApiResponse.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-swagger-beauty\src\main\java\com\xkcoding\swagger\beauty\controller\UserController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-swagger-beauty\src\main\java\com\xkcoding\swagger\beauty\entity\User.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-swagger-beauty\src\main\java\com\xkcoding\swagger\beauty\SpringBootDemoSwaggerBeautyApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-swagger-beauty\src\test\java\com\xkcoding\swagger\beauty\SpringBootDemoSwaggerBeautyApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-task\src\main\java\com\xkcoding\task\config\TaskConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-task\src\main\java\com\xkcoding\task\job\TaskJob.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-task\src\main\java\com\xkcoding\task\SpringBootDemoTaskApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-task\src\test\java\com\xkcoding\task\SpringBootDemoTaskApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-task-quartz\src\main\java\com\xkcoding\task\quartz\common\ApiResponse.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-task-quartz\src\main\java\com\xkcoding\task\quartz\controller\JobController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-task-quartz\src\main\java\com\xkcoding\task\quartz\entity\domain\JobAndTrigger.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-task-quartz\src\main\java\com\xkcoding\task\quartz\entity\form\JobForm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-task-quartz\src\main\java\com\xkcoding\task\quartz\job\base\BaseJob.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-task-quartz\src\main\java\com\xkcoding\task\quartz\job\HelloJob.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-task-quartz\src\main\java\com\xkcoding\task\quartz\job\TestJob.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-task-quartz\src\main\java\com\xkcoding\task\quartz\mapper\JobMapper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-task-quartz\src\main\java\com\xkcoding\task\quartz\service\impl\JobServiceImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-task-quartz\src\main\java\com\xkcoding\task\quartz\service\JobService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-task-quartz\src\main\java\com\xkcoding\task\quartz\SpringBootDemoTaskQuartzApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-task-quartz\src\main\java\com\xkcoding\task\quartz\util\JobUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-task-quartz\src\test\java\com\xkcoding\task\quartz\SpringBootDemoTaskQuartzApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-task-xxl-job\src\main\java\com\xkcoding\task\xxl\job\config\props\XxlJobProps.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-task-xxl-job\src\main\java\com\xkcoding\task\xxl\job\config\XxlJobConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-task-xxl-job\src\main\java\com\xkcoding\task\xxl\job\controller\ManualOperateController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-task-xxl-job\src\main\java\com\xkcoding\task\xxl\job\SpringBootDemoTaskXxlJobApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-task-xxl-job\src\main\java\com\xkcoding\task\xxl\job\task\DemoTask.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-template-beetl\src\main\java\com\xkcoding\template\beetl\controller\IndexController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-template-beetl\src\main\java\com\xkcoding\template\beetl\controller\UserController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-template-beetl\src\main\java\com\xkcoding\template\beetl\model\User.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-template-beetl\src\main\java\com\xkcoding\template\beetl\SpringBootDemoTemplateBeetlApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-template-beetl\src\test\java\com\xkcoding\template\beetl\SpringBootDemoTemplateBeetlApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-template-enjoy\src\main\java\com\xkcoding\template\enjoy\config\EnjoyConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-template-enjoy\src\main\java\com\xkcoding\template\enjoy\controller\IndexController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-template-enjoy\src\main\java\com\xkcoding\template\enjoy\controller\UserController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-template-enjoy\src\main\java\com\xkcoding\template\enjoy\model\User.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-template-enjoy\src\main\java\com\xkcoding\template\enjoy\SpringBootDemoTemplateEnjoyApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-template-enjoy\src\test\java\com\xkcoding\template\enjoy\SpringBootDemoTemplateEnjoyApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-template-freemarker\src\main\java\com\xkcoding\template\freemarker\controller\IndexController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-template-freemarker\src\main\java\com\xkcoding\template\freemarker\controller\UserController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-template-freemarker\src\main\java\com\xkcoding\template\freemarker\model\User.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-template-freemarker\src\main\java\com\xkcoding\template\freemarker\SpringBootDemoTemplateFreemarkerApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-template-freemarker\src\test\java\com\xkcoding\template\freemarker\SpringBootDemoTemplateFreemarkerApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-template-thymeleaf\src\main\java\com\xkcoding\template\thymeleaf\controller\IndexController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-template-thymeleaf\src\main\java\com\xkcoding\template\thymeleaf\controller\UserController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-template-thymeleaf\src\main\java\com\xkcoding\template\thymeleaf\model\User.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-template-thymeleaf\src\main\java\com\xkcoding\template\thymeleaf\SpringBootDemoTemplateThymeleafApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-template-thymeleaf\src\test\java\com\xkcoding\template\thymeleaf\SpringBootDemoTemplateThymeleafApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-tio\src\main\java\com\xkcoding\springbootdemotio\SpringBootDemoTioApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-tio\src\test\java\com\xkcoding\springbootdemotio\SpringBootDemoTioApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-uflo\src\main\java\com\xkcoding\uflo\SpringBootDemoUfloApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-uflo\src\test\java\com\xkcoding\uflo\SpringBootDemoUfloApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-upload\src\main\java\com\xkcoding\upload\config\UploadConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-upload\src\main\java\com\xkcoding\upload\controller\IndexController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-upload\src\main\java\com\xkcoding\upload\controller\UploadController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-upload\src\main\java\com\xkcoding\upload\service\impl\QiNiuServiceImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-upload\src\main\java\com\xkcoding\upload\service\IQiNiuService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-upload\src\main\java\com\xkcoding\upload\SpringBootDemoUploadApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-upload\src\test\java\com\xkcoding\upload\SpringBootDemoUploadApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-ureport2\src\main\java\com\xkcoding\ureport2\config\InnerDatasource.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-ureport2\src\main\java\com\xkcoding\ureport2\SpringBootDemoUreport2Application.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-ureport2\src\test\java\com\xkcoding\ureport2\SpringBootDemoUreport2ApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-urule\src\main\java\com\xkcoding\urule\SpringBootDemoUruleApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-urule\src\test\java\com\xkcoding\urule\SpringBootDemoUruleApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-war\src\main\java\com\xkcoding\war\SpringBootDemoWarApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-war\src\test\java\com\xkcoding\war\SpringBootDemoWarApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-websocket\src\main\java\com\xkcoding\websocket\common\WebSocketConsts.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-websocket\src\main\java\com\xkcoding\websocket\config\WebSocketConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-websocket\src\main\java\com\xkcoding\websocket\controller\ServerController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-websocket\src\main\java\com\xkcoding\websocket\model\server\Cpu.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-websocket\src\main\java\com\xkcoding\websocket\model\server\Jvm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-websocket\src\main\java\com\xkcoding\websocket\model\server\Mem.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-websocket\src\main\java\com\xkcoding\websocket\model\server\Sys.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-websocket\src\main\java\com\xkcoding\websocket\model\server\SysFile.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-websocket\src\main\java\com\xkcoding\websocket\model\Server.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-websocket\src\main\java\com\xkcoding\websocket\payload\KV.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-websocket\src\main\java\com\xkcoding\websocket\payload\server\CpuVO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-websocket\src\main\java\com\xkcoding\websocket\payload\server\JvmVO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-websocket\src\main\java\com\xkcoding\websocket\payload\server\MemVO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-websocket\src\main\java\com\xkcoding\websocket\payload\server\SysFileVO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-websocket\src\main\java\com\xkcoding\websocket\payload\server\SysVO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-websocket\src\main\java\com\xkcoding\websocket\payload\ServerVO.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-websocket\src\main\java\com\xkcoding\websocket\SpringBootDemoWebsocketApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-websocket\src\main\java\com\xkcoding\websocket\task\ServerTask.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-websocket\src\main\java\com\xkcoding\websocket\util\IpUtil.java">
+<error line="16" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="81" column="5" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="152" column="42" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="160" column="42" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-websocket\src\main\java\com\xkcoding\websocket\util\ServerUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-websocket\src\test\java\com\xkcoding\websocket\SpringBootDemoWebsocketApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-websocket-socketio\src\main\java\com\xkcoding\websocket\socketio\config\DbTemplate.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-websocket-socketio\src\main\java\com\xkcoding\websocket\socketio\config\Event.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-websocket-socketio\src\main\java\com\xkcoding\websocket\socketio\config\ServerConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-websocket-socketio\src\main\java\com\xkcoding\websocket\socketio\config\WsConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-websocket-socketio\src\main\java\com\xkcoding\websocket\socketio\controller\MessageController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-websocket-socketio\src\main\java\com\xkcoding\websocket\socketio\handler\MessageEventHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-websocket-socketio\src\main\java\com\xkcoding\websocket\socketio\init\ServerRunner.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-websocket-socketio\src\main\java\com\xkcoding\websocket\socketio\payload\BroadcastMessageRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-websocket-socketio\src\main\java\com\xkcoding\websocket\socketio\payload\GroupMessageRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-websocket-socketio\src\main\java\com\xkcoding\websocket\socketio\payload\JoinRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-websocket-socketio\src\main\java\com\xkcoding\websocket\socketio\payload\SingleMessageRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-websocket-socketio\src\main\java\com\xkcoding\websocket\socketio\SpringBootDemoWebsocketSocketioApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-websocket-socketio\src\test\java\com\xkcoding\websocket\socketio\SpringBootDemoWebsocketSocketioApplicationTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-zookeeper\src\main\java\com\xkcoding\zookeeper\annotation\LockKeyParam.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-zookeeper\src\main\java\com\xkcoding\zookeeper\annotation\ZooLock.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-zookeeper\src\main\java\com\xkcoding\zookeeper\aspectj\ZooLockAspect.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-zookeeper\src\main\java\com\xkcoding\zookeeper\config\props\ZkProps.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-zookeeper\src\main\java\com\xkcoding\zookeeper\config\ZkConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-zookeeper\src\main\java\com\xkcoding\zookeeper\SpringBootDemoZookeeperApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\xkcoding_spring-boot-demo\demo-zookeeper\src\test\java\com\xkcoding\zookeeper\SpringBootDemoZookeeperApplicationTests.java">
+</file>
+</checkstyle>
