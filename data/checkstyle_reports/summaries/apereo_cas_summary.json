@@ -1,0 +1,10 @@
+{
+  "repository": "apereo_cas",
+  "code_smells": {
+    "Cyclomatic Complexity": 74,
+    "Too Many Fields": 95,
+    "Potential God Class": 296,
+    "Unused Imports": 2
+  },
+  "total_smells": 467
+}

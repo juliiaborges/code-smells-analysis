@@ -1,0 +1,1156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.24.0">
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\AdditiveNumber.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\ArrayAddition.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\BestMeetingPoint.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\BuySellStockProfit.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\CheckIfArrayElementsAreConsecutive.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\ChunkMerge.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\CommonThreeSortedArray.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\ConvertAnArrayIntoDecreaseIncreaseFashion.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\CountInversionOfSize3.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\CountSmallerOnRight.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\DivideNumbersInEqualGroupWithClosestSum.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\DuplicateNumberDetection.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\DuplicateWithinkIndices.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\FindElementsOccurringNByKTimesTetris.java">
+<error line="19" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\FirstPositiveMissing.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\Flip0sMaximum1s.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\FourSum.java">
+<error line="23" column="5" severity="warning" message="A complexidade ciclomática é de 19 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\GasStationCircle.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\GreedyTextJustification.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\GroupElementsInSizeM.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\HIndex.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\IncreasingSubsequnceOfLength3WithMaxProduct.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\IncreasingTripletSubsequence.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\JumpGame.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\KadaneWrapArray.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\KthElementInArray.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\KthLargestInTwoSortedArray.java">
+<error line="49" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\LargerElementOnRight.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\LargestMountain.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\LargestSubArrayWithEqual0sAnd1s.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\LeetCodeCandy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\LongestConsecutiveSubsequence.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\LongestIncreasingSubSequenceOlogNMethod.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - java.util.Arrays." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\LongestSameSumSpan.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\LongestSubstringWithAtMost2Char.java">
+<error line="8" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\MaximumGap.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\MaximumIminusJSuchThatAiGTAj.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - java.util.Iterator." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="4" column="8" severity="warning" message="Importação não utilizada - java.util.LinkedList." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\MaximumMinimumArrangement.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\MaximumOfSubarrayOfSizeK.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\MaximumSumPathTwoArrays.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\MaximumSumThreeNonOverlappingSubarray.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - java.util.Arrays." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="4" column="8" severity="warning" message="Importação não utilizada - java.util.Deque." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="5" column="8" severity="warning" message="Importação não utilizada - java.util.LinkedList." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="6" column="8" severity="warning" message="Importação não utilizada - java.util.List." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\MaxNumberFromTwoArray.java">
+<error line="4" column="8" severity="warning" message="Importação não utilizada - java.util.Deque." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="5" column="8" severity="warning" message="Importação não utilizada - java.util.LinkedList." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\MaxProductSubarray.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\MaxRepeatingNumber.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\MeetingRooms.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\MinimumDistanceBetweenTwoNumbers.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\MinimumNumberFromSequence.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\MinimumSortedWhichSortsEntireArray.java">
+<error line="8" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\MissingRanges.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\MoveAllZerosToEnd.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\MultiplyAllFieldsExceptOwnPosition.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\NthElementOfCountNumberSequence.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\NumberOfTrianglesInUnsortedArray.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\PositiveAndNegativeNumberAlternatively.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\PositiveAndNegativeNumberAlternativelyMaintainingOrder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\RearrangeArrayPerIndex.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\RearrangeSuchThatArriBecomesArrArri.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\ReorderArrayByIndex.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\RepeatingAndMissingNumber.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\RotationWithMaxSum.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\SelfCrossing.java">
+<error line="8" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\ShortestPalindrome.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\SmallestIntegerNotRepresentedBySubsetSum.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\SmallestSubarrayWithAtleastKSum.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\SortedArrayTransformation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\StableMarriageProblem.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\SubarrayWithGivenSum.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\SummaryRanges.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\ThreeSumSmallerThanTarget.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\TrappingWater.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\TripletInArray.java">
+<error line="50" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\TripletSumLessThanTotal.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\TugOfWar.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\WaterContainer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\WiggleSort.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\array\ZigZagArrangement.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\binarysearch\ArithmeticProgressionSearch.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\binarysearch\BinarySearch.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\binarysearch\CircularBinarySearch.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\binarysearch\CountNDistinctPairsWithDifferenceK.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\binarysearch\FirstOccurrenceOfNumberInSortedArray.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\binarysearch\FloorAndCeilingSortedArray.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\binarysearch\MedianOfTwoSortedArray.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\binarysearch\MedianOfTwoSortedArrayOfDifferentLength.java">
+<error line="20" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\binarysearch\MinimumInSortedRotatedArray.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\binarysearch\MissingNumberInConsecutiveNumbers.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\binarysearch\MonotonicallyIncreasingFunctionBecomesPositive.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\binarysearch\NumberOfPairWithXPowerYGreaterThanYPowerX.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\binarysearch\PeakElement.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\binarysearch\SearchForRange.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\binarysearch\SearchInsertPosition.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\binarysearch\SortedAndRotatedArraySearch.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\binarysearch\SquareRootOfNumber.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\bits\AddTwoNumberInBinaryRepresentation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\bits\BitRotation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\bits\ByteAsStorage.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\bits\CountBits.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\bits\CountingBitsTillNum.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\bits\DrawHorizontalLine.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\bits\FindNumberOccurringOnceOtherNumbers3Times.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\bits\GrayCode.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\bits\InsertMintoNiTojBits.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\bits\MaxProductWordLength.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\bits\MissingNumbers.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\bits\NextHigherAndNextLowerWithSameNumberBits.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\bits\NextPowerOf2.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\bits\NumberOccuringOddTimes.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\bits\NumberOfBitsFlipToConvertNToM.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\bits\RealNumberToBinary.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\bits\RepeatedDnaSequence.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\bits\ReverseBits.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\bits\SquareOfNumber.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\bits\SwapOddEvenBits.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\bits\SwapTwoBits.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\bits\WinnerWithBeautifulNumber.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\BitonicSequence.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\BoxStacking.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\BreakMultipleWordsWithNoSpaceIntoSpace.java">
+<error line="60" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\BurstBalloons.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\CoinChanging.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\CoinChangingMinimumCoin.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - java.text.Format." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\CountAs.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\CountNumberOfBinaryWithoutConsecutive1s.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\CountNumberOfTreePreorder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\CountNumberOfTreesInBST.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\CutRodToMinimizeCost.java">
+<error line="27" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\CuttingRod.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\DecodeWays.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\DiceThrowWays.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\DistinctSubsequence.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\DungeonGame.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\EditDistance.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - java.util.List." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\EggDropping.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\ExpressionEvaluation.java">
+<error line="19" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\FibonacciSeries.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\Immutable2DSumRangeQuery.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\Knapsack01.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\LongestCommonSubsequence.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\LongestCommonSubstring.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\LongestEvenLengthSubstringOfEqualHalf.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\LongestIncreasingPath.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\LongestIncreasingSubsequence.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\LongestPalindromicSubsequence.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\MatrixMultiplicationCost.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\MaximizeSkiGates.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\MaximumLengthChainPair.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\MaximumProductCutting.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\MaximumRectangularSubmatrixOf1s.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\MaximumSizeSubMatrix.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\MaximumSumSubsequence.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\MaxSumForNonAdjacentElements.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\MinCostPath.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\MinimumCostTrainTicket.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\MinimumNumberOfPerfectSquares.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\MinimumTriangleSum.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\MinJumpToReachEnd.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\NPotGold.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\NumberOfPathsInMxNMatrix.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\NumberOfWaysToScorePoints.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\OptimalTreeSearch.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\PaintHouse.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\PalindromePartition.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\PhoneDialNumberOfCombinationOfSizeK.java">
+<error line="24" column="9" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\RegexMatching.java">
+<error line="16" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\RemoveFromEndToMake2IntoMinGreaterThanMax.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\ScrambledString.java">
+<error line="45" column="5" severity="warning" message="A complexidade ciclomática é de 19 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\StockBuySellKTransactions.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\SubRectangularMatrixWithMaximumSum.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\SubsetSum.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\SubsquareSurrounedByXs.java">
+<error line="36" column="5" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\SymbolExpressionEvaluation.java">
+<error line="20" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\TextJustification.java">
+<error line="36" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\TwoStringInterleavingToFormThird.java">
+<error line="23" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\UglyNumbers.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\WeightedJobSchedulingMaximumProfit.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\dynamic\WildCardMatching.java">
+<error line="13" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\geometry\ClosestPairOfPoints.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\geometry\GrahamScanConvexHull.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\geometry\JarvisMarchConvexHull.java">
+<error line="40" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\geometry\MaximumPointsOnSameLine.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\geometry\SkylineDrawing.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\AlientDictionary.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\AllCyclesInDirectedGraphJohnson.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\AllCyclesInDirectedGraphTarjan.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\ArticulationPoint.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\BellmanFordShortestPath.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\BinaryMaxHeap.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\BinaryMinHeap.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\BiparteGraph.java">
+<error line="14" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\Boggle.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\Bridge.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\CloneDirectedGraph.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\CloneGraph.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\ConvertOneWordToAnother.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\CourseSchedule.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\CycleInDirectedGraph.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\CycleUndirectedGraph.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\DAGShortestPathTopological.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\DijkstraShortestPath.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\DirectedGraphConnectivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\DisjointSet.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\EulerianPathAndCircuit.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\EvaluateDivison.java">
+<error line="24" column="5" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\FillOsWIthXsIfSurroundedByXs.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\FloodFillAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\FloydWarshallAllPairShortestPath.java">
+<error line="4" column="8" severity="warning" message="Importação não utilizada - java.util.HashMap." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="6" column="8" severity="warning" message="Importação não utilizada - java.util.Map." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="28" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\FordFulkerson.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\Graph.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\GraphColoring.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\GraphTraversal.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\HamiltonianCycle.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\KruskalMST.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\MaximumBiparteMatching.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\MinimumHeightTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\NumberOfIsland.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\NumberOfIslandDynamic.java">
+<error line="14" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\NumberofTriangles.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\PrimMST.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\PrintAllPathFromSourceToDestination.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\ShortestDistanceFromExit.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\StronglyConnectedComponent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\TarjanStronglyConnectedComponent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\TopologicalSort.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\TransitiveClosure.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\TravelingSalesmanHeldKarp.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\ValidTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\WallsAndGates.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\graph\WordLadder.java">
+<error line="19" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\linklist\AddNumberRepresentedByLinkList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\linklist\CopyLinkListWIthArbitPointer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\linklist\DeleteDuplicateNodes.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\linklist\DeleteNAfterMNodes.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\linklist\DeleteNodeWithGreaterValueOnRight.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\linklist\DoubleLinkList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\linklist\Flatten2DList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\linklist\FlattenLinkList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\linklist\InsertionSortLinkList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\linklist\LinkList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\linklist\LinkListIsPalindrome.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\linklist\LinkListToCompleteBinaryTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\linklist\LoopInLinkList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\linklist\LRUCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\linklist\LRUCacheLeetCode.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\linklist\MergeForLargestSum.java">
+<error line="13" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\linklist\MergeSortLinkList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\linklist\MiddleElementOfLinkList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\linklist\MultiplyTwoNumbersLinkList.java">
+<error line="58" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\linklist\QuickSortSingleLinkList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\linklist\RemoveDuplicatesSortedList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\linklist\RemoveMiddleElementsOfLineSegment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\linklist\ReorderList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\linklist\ReverseAlternateKNodes.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\linklist\ReverseAlternateNodeAndAppendAtEnd.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\linklist\ReverseKNodes.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\linklist\RotateList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\linklist\ShuffleMerge.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\linklist\SortedCircularLinkList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\linklist\SortedLLToBalancedBST.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\linklist\SortNearlySortedList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\linklist\StackWithLinkListMiddleOperation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\linklist\SwapTwoNodesInDoubleLL.java">
+<error line="13" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\linklist\TripletToSumInLinkList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\misc\AddingTwoSetOfIntervals.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\misc\AngleBetweenHourAndMinuteHand.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\misc\BulbSwitcher.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\misc\CandiesProblem.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\misc\ContainsNumberWithinKDistance.java">
+<error line="25" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\misc\ConvertNumberIntoBase26.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\misc\CountRanges.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\misc\DayDifferenceBetweenTwoDates.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\misc\DifferenceBetweenTwoTime.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\misc\FindingCelebrity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\misc\FloatPointConversion.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\misc\FourPointsFormSquare.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\misc\GetKthPermutation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\misc\HammingDistanceBetweenPair.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\misc\InsertInterval.java">
+<error line="4" column="8" severity="warning" message="Importação não utilizada - java.util.Collections." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="5" column="8" severity="warning" message="Importação não utilizada - java.util.LinkedList." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\misc\IntegerListParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\misc\KthLargestInRowiseColumnWiseSorted2DArray.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\misc\LoadBalancers.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\misc\NestedIterator.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - java.util.Deque." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="5" column="8" severity="warning" message="Importação não utilizada - java.util.LinkedList." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\misc\NumberToWord.java">
+<error line="81" column="5" severity="warning" message="A complexidade ciclomática é de 33 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\misc\PrimeNumbersBeforeN.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\misc\Read4Function.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\misc\RomanNumberToDecimal.java">
+<error line="35" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\misc\SparseTableRangeMinimumQuery.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\multiarray\Fill2DMatrixWith1.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\multiarray\GameOfLife.java">
+<error line="48" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\multiarray\LongestConsecutiveIntegerInUnsorted2DArray.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\multiarray\MatrixCalculation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\multiarray\MatrixFindAllSubSquareRectangleMatrix.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\multiarray\MatrixInDiagonalOrder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\multiarray\MatrixOf0sAnd1s.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\multiarray\MoveCellPerCellValue.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\multiarray\Mutable2DSumRangeQuery.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\multiarray\RotateImage.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\multiarray\ShortestDistanceFromAllBuildings.java">
+<error line="4" column="8" severity="warning" message="Importação não utilizada - java.util.Deque." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="5" column="8" severity="warning" message="Importação não utilizada - java.util.HashSet." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="9" column="8" severity="warning" message="Importação não utilizada - java.util.Set." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="64" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\multiarray\SmallestRectangleBlackPixel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\multiarray\SpiralGeneration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\multiarray\SpiralPrinting.java">
+<error line="29" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\multiarray\TilingProblem.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\multithreaded\BoundedBlockingQueue.java">
+<error line="132" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\multithreaded\CountingWord.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\multithreaded\DependencyTaskExecutor.java">
+<error line="13" column="8" severity="warning" message="Importação não utilizada - java.util.concurrent.RunnableFuture." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="41" column="82" severity="warning" message="Instrução vazia." source="com.puppycrawl.tools.checkstyle.checks.coding.EmptyStatementCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\multithreaded\FillupMatrix.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\multithreaded\MinMaxKeeper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\multithreaded\PrintInSequence.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\multithreaded\RealTimeCounter.java">
+<error line="90" column="28" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\multithreaded\SingleQueueDomainTableUpdate.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\multithreaded\SpinLockMutex.java">
+<error line="28" column="31" severity="warning" message="Instrução vazia." source="com.puppycrawl.tools.checkstyle.checks.coding.EmptyStatementCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\multithreaded\ThreadPoolExample.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\multithreaded\ThreadPoolImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\number\AggregateNumber.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\number\AllStrobogrammaticNumber.java">
+<error line="24" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\number\ArithemeticProgressionExists.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\number\ArrayMultiplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\number\BasicCalculator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\number\BinomialCoefficient.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\number\ConvertToBaseN.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\number\CountNoOf2s.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\number\CountNumbersNotIncluding4.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\number\DivisionWithoutDivisionOperator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\number\EuclideanAlgoForGCD.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\number\FactorialOfLargeNumber.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\number\GenerateSignature.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\number\LargestMultipleOf3inArray.java">
+<error line="23" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\number\LuckyNumbers.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\number\MedianOf3Number.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\number\MthNumberInNSizeArray.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\number\NBy2PairSumToK.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\number\NextLargestPalindrome.java">
+<error line="8" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\number\NotIncluding4.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\number\NumberOfCombinationsForStairs.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\number\PermutationBiggerThanNumber.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - com.interview.sort.QuickSort." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\number\PermutationLargerThanGivenArray.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\number\PowerFunction.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\number\RearrangeNumberInArrayToFormLargestNumber.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\number\RussianPeasantMultiplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\number\SmallestNumberGreaterThanGiveNumberIncreasingSequence.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\number\SquareRoot.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\number\StrobogrammaticNumber.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\number\Trailing0sinFactorial.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\number\UniquePartitionOfInteger.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\playground\TestInnerClass.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\random\Rand7UsingRand5.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\random\RandomCountrySelectionByPopluation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\random\SelectMRandomNumbersInStream.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\random\ShuffleArray.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\recursion\AllAdjacentCombination.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\recursion\Bracketology.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\recursion\ChainWordsToFormCircle.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\recursion\Combination.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\recursion\CombinationOfSizeK.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\recursion\CombinationWithStar.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\recursion\DifferentWaysToAddParentheses.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\recursion\FancyShuffle.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\recursion\InterpretationOfArray.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\recursion\KeyPadPermutation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\recursion\LongestAbsolutePath.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\recursion\MinimumEditForReversePolishNotation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\recursion\NQueenProblem.java">
+<error line="5" column="8" severity="warning" message="Importação não utilizada - java.util.Collection." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="75" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\recursion\OneEditApart.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\recursion\OperatorAdditionForTarget.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\recursion\OptimalDivision.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\recursion\PrintAllPathFromTopLeftToBottomRight.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\recursion\PrintAllSubsequence.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\recursion\PrintArrayInAdjacentWay.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\recursion\PrintArrayInCustomizedFormat.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\recursion\PrintSumCombination.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\recursion\ReconstructItinerary.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\recursion\RemoveInvalidParenthesis.java">
+<error line="31" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\recursion\RestoreIPAddresses.java">
+<error line="22" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\recursion\SetPairTogether.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\recursion\StringInterleaving.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\recursion\StringPermutation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\recursion\StringPermutationRotation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\recursion\SudokuSolver.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - java.util.Arrays." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\recursion\WordCombination.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\recursion\WordPattern.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\regex\MultiSpaceReplacement.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\sort\CountingSort.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\sort\HeapSort.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\sort\IterativeQuickSort.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\sort\MergeSort.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\sort\PanCakeSorting.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\sort\QuickSort.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\sort\RadixSort.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\sort\Sort0toN3.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\sort\SortArrayByFrequence.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\stackqueue\CircularQueue.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\stackqueue\MaximumHistogram.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\stackqueue\MedianFinder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\stackqueue\RealTimeCounter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\stackqueue\RealTimeCounterUsingCircularQueue.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\stackqueue\RemoveDuplicateMaintainingOrder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\stackqueue\RemoveExtraBrackets.java">
+<error line="41" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="81" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\stackqueue\ReverseStackUsingRecursion.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\stackqueue\SimplyPath.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\stackqueue\StockSpanProblem.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\string\AnagramOfFirstAsSubstring.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\string\CycleLeaderIteration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\string\GroupAnagramsTogether.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\string\InPlaceTransformationOfString.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\string\LexicographicRankInPermutation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\string\LongestPalindromeSubstring.java">
+<error line="60" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\string\LongestSubstringWithKDistinctCharacters.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\string\LongestSubstringWithoutRepetingCharacter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\string\MultiplyStrings.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\string\NTMatch.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\string\PalindromePair.java">
+<error line="22" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\string\PrintAnagramTogether.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\string\RabinKarpSearch.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\string\RearrangeDuplicateCharsdDistanceAway.java">
+<error line="61" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="83" column="61" severity="warning" message="Instrução vazia." source="com.puppycrawl.tools.checkstyle.checks.coding.EmptyStatementCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\string\RemoveConsecutiveDuplicate.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\string\RunLengthEncoding.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\string\SmallestWindowContaingAllCharacters.java">
+<error line="13" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\string\StringEncoderDecoder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\string\SubstringSearch.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\string\SubtringWithConcatentationOfWords.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\string\ValidPalindrome.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\string\ValidWordAbbreviation.java">
+<error line="4" column="8" severity="warning" message="Importação não utilizada - java.util.HashSet." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="6" column="8" severity="warning" message="Importação não utilizada - java.util.Set." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\string\WordAbbreviationCombination.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\string\ZAlgorithm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\suffixprefix\SuffixArray.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\suffixprefix\SuffixTree.java">
+<error line="114" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\suffixprefix\TernaryTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\suffixprefix\Trie.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\AddGreaterValueNodeToEveryNode.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\ArbitaryTreeToChildSumTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\AVLTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\BinaryTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\BinaryTreeFromParentRepresentation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\BinaryTreeMaximumPathSum.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\BinaryTreeToCircularLinkList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\BinaryTreeToDoubleLinkList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\BinaryTreeToSortedLinkList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\BoundaryTraversal.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\BSTOneChildPreOrderTraversal.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\BSTSearch.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\BTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\ClosestValueBinaryTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\ConnectNodesAtSameLevel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\ConstructAllBinaryTreeFromInorderTraversal.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\ConstructBSTFromPreOrderArray.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\ConstructFullTreeFromPreOrderPostOrder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\ConstructTreeFromInOrderPreOrder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\ConstructTreeFromLevelOrderInOrder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\ConstructTreeFromPreOrderTraversalWith0or2Child.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\ContructTreeFromInorderPostOrder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\ContructTreeFromInOrderTraversalRootGreaterThanChild.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\CountNodesCompleteTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\CountNumberOfSmallerElementOnRight.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\CountPathSum.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\CountUnivalueTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\CousinNodes.java">
+<error line="19" column="5" severity="warning" message="A complexidade ciclomática é de 14 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\DegenerateBinaryTreeToSortedLL.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\DiameterOfTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\FenwickTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\FlattenLinkListToBinaryTreePreorder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\HeightBalanced.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\HuffmanEncoding.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\IdenticalTrees.java">
+<error line="98" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\InorderSuccessor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\IntervalTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\IsBST.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\IsCompleteBinaryTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\IsPreOrderArrayBST.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\KClosestValueInBinaryTree.java">
+<error line="19" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\LargestBSTInBinaryTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\LargestIndependentSetInTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\LeavesOfBinaryTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\LevelOrderTraversal.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\LevelOrderTraversalInReverse.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\LongestConsecutiveSequence.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\LowestCommonAncestorInBinaryTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\LowestCommonAncestoryBinarySearchTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\MorrisTraversal.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\NextInorderSuccessorIterator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\NextInorderSuccessorOfTwoTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\NodesAtDistanceK.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\NodesWithNoSibling.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\PathSum.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\PopulateInOrderSuccessor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\PrintPostOrderFromPreOrderInOrder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\PrintTwoBSTInSortedForm.java">
+<error line="18" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\RedBlackTree.java">
+<error line="177" column="5" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\RootToLeafToSum.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\SameTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\SegmentTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\SegmentTreeMinimumRangeQuery.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\SerializeDeserializeBinaryTree.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - javax.swing.tree.TreeNode." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\SinkNegativeToBottom.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\SizeOfBinaryTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\SortedArrayToBST.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\SortedOrderPrintCompleteTreeArray.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\SuccinctTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\SumTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\TreeIsomorphism.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\TreeTraversalInSpiralOrder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\TreeTraversalLevelByLevel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\TreeTraversals.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\UpsidedownBinaryTree.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\VertexCoverBinaryTreeDP.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\VerticalOrder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\src\com\interview\tree\VerticalTreePrinting.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\test\com\interview\array\AdditiveNumberTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\test\com\interview\array\ArrayAdditionTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\test\com\interview\array\MaximumMinimumArrangementTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\test\com\interview\array\MeetingRoomsTest.java">
+<error line="6" column="8" severity="warning" message="Importação não utilizada - java.util.Arrays." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\test\com\interview\array\MultiplyAllFieldsExceptOwnPositionTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\test\com\interview\array\NumberOfTriangledInUnsortedArrayTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\test\com\interview\array\ThreeSumSmallerThanTargetTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\test\com\interview\bits\CountingBitsTillNumTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\test\com\interview\bits\MaxProductWordLengthTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\test\com\interview\dynamic\DecodeWaysTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\test\com\interview\dynamic\PalindromePartitionTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\test\com\interview\graph\CourseScheduleTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\test\com\interview\graph\TravelingSalesmanHeldKarpTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\test\com\interview\graph\WallsAndGatesTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\test\com\interview\linklist\DeleteDuplicateNodesTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\test\com\interview\misc\IntegerListParserTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\test\com\interview\multiarray\Mutable2DSumRangeQueryTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\test\com\interview\number\AllStrobogrammaticNumberTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\test\com\interview\number\BasicCalculatorTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\test\com\interview\recursion\RestoreIPAddressesTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\test\com\interview\string\LongestSubstringWithKDistinctCharactersTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\test\com\interview\string\PalindromePairTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\test\com\interview\string\StringEncoderDecoderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\test\com\interview\string\ValidPalindromeTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\test\com\interview\string\ValidWordAbbreviationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\test\com\interview\suffixprefix\TrieTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\test\com\interview\TestUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\test\com\interview\tree\KClosestValueInBinaryTreeTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\mission-peace_interview\test\com\interview\tree\VerticalOrderTest.java">
+</file>
+</checkstyle>

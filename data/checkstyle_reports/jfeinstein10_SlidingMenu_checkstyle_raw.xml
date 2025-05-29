@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.24.0">
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\jfeinstein10_SlidingMenu\example\src\com\jeremyfeinstein\slidingmenu\example\anim\CustomAnimation.java">
+<error line="4" column="8" severity="warning" message="Importação não utilizada - android.view.Menu." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="9" column="8" severity="warning" message="Importação não utilizada - com.jeremyfeinstein.slidingmenu.example.R.id." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="10" column="8" severity="warning" message="Importação não utilizada - com.jeremyfeinstein.slidingmenu.example.R.layout." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="11" column="8" severity="warning" message="Importação não utilizada - com.jeremyfeinstein.slidingmenu.example.R.menu." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\jfeinstein10_SlidingMenu\example\src\com\jeremyfeinstein\slidingmenu\example\anim\CustomScaleAnimation.java">
+<error line="6" column="8" severity="warning" message="Importação não utilizada - com.jeremyfeinstein.slidingmenu.example.R.string." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\jfeinstein10_SlidingMenu\example\src\com\jeremyfeinstein\slidingmenu\example\anim\CustomSlideAnimation.java">
+<error line="7" column="8" severity="warning" message="Importação não utilizada - com.jeremyfeinstein.slidingmenu.example.R.string." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\jfeinstein10_SlidingMenu\example\src\com\jeremyfeinstein\slidingmenu\example\anim\CustomZoomAnimation.java">
+<error line="6" column="8" severity="warning" message="Importação não utilizada - com.jeremyfeinstein.slidingmenu.example.R.string." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\jfeinstein10_SlidingMenu\example\src\com\jeremyfeinstein\slidingmenu\example\AttachExample.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\jfeinstein10_SlidingMenu\example\src\com\jeremyfeinstein\slidingmenu\example\BaseActivity.java">
+<error line="3" column="8" severity="warning" message="Importação não utilizada - java.util.ArrayList." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="4" column="8" severity="warning" message="Importação não utilizada - java.util.List." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="7" column="8" severity="warning" message="Importação não utilizada - android.support.v4.app.Fragment." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="8" column="8" severity="warning" message="Importação não utilizada - android.support.v4.app.FragmentManager." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="9" column="8" severity="warning" message="Importação não utilizada - android.support.v4.app.FragmentPagerAdapter." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="12" column="8" severity="warning" message="Importação não utilizada - android.support.v4.view.ViewPager." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\jfeinstein10_SlidingMenu\example\src\com\jeremyfeinstein\slidingmenu\example\ExampleListActivity.java">
+<error line="6" column="8" severity="warning" message="Importação não utilizada - android.content.Context." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="13" column="8" severity="warning" message="Importação não utilizada - android.view.View." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="14" column="8" severity="warning" message="Importação não utilizada - android.view.ViewGroup." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="15" column="8" severity="warning" message="Importação não utilizada - android.widget.ArrayAdapter." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="16" column="8" severity="warning" message="Importação não utilizada - android.widget.ImageView." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="17" column="8" severity="warning" message="Importação não utilizada - android.widget.ListView." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="18" column="8" severity="warning" message="Importação não utilizada - android.widget.TextView." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="24" column="8" severity="warning" message="Importação não utilizada - com.crittercism.app.Crittercism." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="42" column="9" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\jfeinstein10_SlidingMenu\example\src\com\jeremyfeinstein\slidingmenu\example\fragments\BirdActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\jfeinstein10_SlidingMenu\example\src\com\jeremyfeinstein\slidingmenu\example\fragments\BirdGridFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\jfeinstein10_SlidingMenu\example\src\com\jeremyfeinstein\slidingmenu\example\fragments\BirdMenuFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\jfeinstein10_SlidingMenu\example\src\com\jeremyfeinstein\slidingmenu\example\fragments\ColorFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\jfeinstein10_SlidingMenu\example\src\com\jeremyfeinstein\slidingmenu\example\fragments\ColorMenuFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\jfeinstein10_SlidingMenu\example\src\com\jeremyfeinstein\slidingmenu\example\fragments\FragmentChangeActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\jfeinstein10_SlidingMenu\example\src\com\jeremyfeinstein\slidingmenu\example\fragments\ResponsiveUIActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\jfeinstein10_SlidingMenu\example\src\com\jeremyfeinstein\slidingmenu\example\LeftAndRightActivity.java">
+<error line="4" column="8" severity="warning" message="Importação não utilizada - android.view.KeyEvent." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="5" column="8" severity="warning" message="Importação não utilizada - android.view.View." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="6" column="8" severity="warning" message="Importação não utilizada - android.view.ViewGroup." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="8" column="8" severity="warning" message="Importação não utilizada - com.jeremyfeinstein.slidingmenu.example.fragments.ColorFragment." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="10" column="8" severity="warning" message="Importação não utilizada - com.jeremyfeinstein.slidingmenu.lib.SlidingMenu.OnClosedListener." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="11" column="8" severity="warning" message="Importação não utilizada - com.jeremyfeinstein.slidingmenu.lib.SlidingMenu.OnOpenedListener." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\jfeinstein10_SlidingMenu\example\src\com\jeremyfeinstein\slidingmenu\example\PropertiesActivity.java">
+<error line="4" column="8" severity="warning" message="Importação não utilizada - android.view.View." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="5" column="8" severity="warning" message="Importação não utilizada - android.view.View.OnClickListener." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="6" column="8" severity="warning" message="Importação não utilizada - android.widget.Button." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\jfeinstein10_SlidingMenu\example\src\com\jeremyfeinstein\slidingmenu\example\SampleListFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\jfeinstein10_SlidingMenu\example\src\com\jeremyfeinstein\slidingmenu\example\SlidingContent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\jfeinstein10_SlidingMenu\example\src\com\jeremyfeinstein\slidingmenu\example\SlidingTitleBar.java">
+<error line="4" column="8" severity="warning" message="Importação não utilizada - android.support.v4.view.ViewPager." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\jfeinstein10_SlidingMenu\example\src\com\jeremyfeinstein\slidingmenu\example\Util.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\jfeinstein10_SlidingMenu\example\src\com\jeremyfeinstein\slidingmenu\example\ViewPagerActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\jfeinstein10_SlidingMenu\library\src\com\jeremyfeinstein\slidingmenu\lib\app\SlidingActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\jfeinstein10_SlidingMenu\library\src\com\jeremyfeinstein\slidingmenu\lib\app\SlidingActivityBase.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\jfeinstein10_SlidingMenu\library\src\com\jeremyfeinstein\slidingmenu\lib\app\SlidingActivityHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\jfeinstein10_SlidingMenu\library\src\com\jeremyfeinstein\slidingmenu\lib\app\SlidingFragmentActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\jfeinstein10_SlidingMenu\library\src\com\jeremyfeinstein\slidingmenu\lib\app\SlidingListActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\jfeinstein10_SlidingMenu\library\src\com\jeremyfeinstein\slidingmenu\lib\app\SlidingPreferenceActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\jfeinstein10_SlidingMenu\library\src\com\jeremyfeinstein\slidingmenu\lib\CanvasTransformerBuilder.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\jfeinstein10_SlidingMenu\library\src\com\jeremyfeinstein\slidingmenu\lib\CustomViewAbove.java">
+<error line="613" column="9" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="667" column="9" severity="warning" message="A complexidade ciclomática é de 23 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="958" column="9" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\jfeinstein10_SlidingMenu\library\src\com\jeremyfeinstein\slidingmenu\lib\CustomViewBehind.java">
+<error line="215" column="9" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\jfeinstein10_SlidingMenu\library\src\com\jeremyfeinstein\slidingmenu\lib\MenuInterface.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\jfeinstein10_SlidingMenu\library\src\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu.java">
+<error line="17" column="8" severity="warning" message="Importação não utilizada - android.os.Handler." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="32" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 29 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\jfeinstein10_SlidingMenu\library-maps-support\src\com\jeremyfeinstein\slidingmenu\lib\app\SlidingMapActivity.java">
+</file>
+</checkstyle>

@@ -1,0 +1,11 @@
+{
+  "repository": "lingochamp_FileDownloader",
+  "code_smells": {
+    "Unused Imports": 1,
+    "Potential God Class": 4,
+    "Cyclomatic Complexity": 22,
+    "Empty Catch Block": 3,
+    "Too Many Fields": 3
+  },
+  "total_smells": 33
+}

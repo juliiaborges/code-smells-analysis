@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.24.0">
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\demo\src\main\java\com\liulishuo\filedownloader\demo\Constant.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\demo\src\main\java\com\liulishuo\filedownloader\demo\DemoApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\demo\src\main\java\com\liulishuo\filedownloader\demo\GlobalMonitor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\demo\src\main\java\com\liulishuo\filedownloader\demo\HybridTestActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\demo\src\main\java\com\liulishuo\filedownloader\demo\MainActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\demo\src\main\java\com\liulishuo\filedownloader\demo\MultitaskTestActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\demo\src\main\java\com\liulishuo\filedownloader\demo\NotificationSampleActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\demo\src\main\java\com\liulishuo\filedownloader\demo\performance\IntParcel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\demo\src\main\java\com\liulishuo\filedownloader\demo\performance\LongParcel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\demo\src\main\java\com\liulishuo\filedownloader\demo\performance\PerformanceTestActivity.java">
+<error line="37" column="8" severity="warning" message="Importação não utilizada - java.nio.ByteBuffer." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="47" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="112" column="5" severity="warning" message="A complexidade ciclomática é de 45 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\demo\src\main\java\com\liulishuo\filedownloader\demo\SingleTaskTestActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\demo\src\main\java\com\liulishuo\filedownloader\demo\TasksManagerDemoActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\demo\src\main\java\com\liulishuo\filedownloader\demo\Utils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\BaseDownloadTask.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\connection\DefaultConnectionCountAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\connection\FileDownloadConnection.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\connection\FileDownloadUrlConnection.java">
+<error line="125" column="39" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\connection\RedirectHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\database\FileDownloadDatabase.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\database\NoDatabaseImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\database\RemitDatabase.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\database\SqliteDatabaseImpl.java">
+<error line="290" column="9" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\database\SqliteDatabaseOpenHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\download\ConnectionProfile.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\download\ConnectTask.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\download\CustomComponentHolder.java">
+<error line="171" column="5" severity="warning" message="A complexidade ciclomática é de 22 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\download\DownloadLaunchRunnable.java">
+<error line="75" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 13 classes [AtomicBoolean, ConnectTask.Builder, ConnectionModel, DiscardSafely, DownloadRunnable.Builder, DownloadStatusCallback, File, FileDownloadGiveUpRetryException, FileDownloadHttpException, FileDownloadNetworkPolicyException, FileDownloadOutOfSpaceException, IllegalAccessException, RetryDirectly] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="75" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 29 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="200" column="5" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="447" column="5" severity="warning" message="A complexidade ciclomática é de 24 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="662" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\download\DownloadRunnable.java">
+<error line="71" column="5" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\download\DownloadStatusCallback.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\download\FetchDataTask.java">
+<error line="80" column="5" severity="warning" message="A complexidade ciclomática é de 24 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\download\ProcessCallback.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\DownloadSpeedMonitor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\DownloadTask.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\DownloadTaskHunter.java">
+<error line="126" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="565" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\event\DownloadEventPoolImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\event\DownloadEventSampleListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\event\DownloadServiceConnectChangedEvent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\event\IDownloadEvent.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\event\IDownloadEventPool.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\event\IDownloadListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\exception\FileDownloadGiveUpRetryException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\exception\FileDownloadHttpException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\exception\FileDownloadNetworkPolicyException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\exception\FileDownloadOutOfSpaceException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\exception\FileDownloadSecurityException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\exception\PathConflictException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\FileDownloadConnectListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\FileDownloader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\FileDownloadEventPool.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\FileDownloadLargeFileListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\FileDownloadLine.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\FileDownloadLineAsync.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\FileDownloadList.java">
+<error line="174" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\FileDownloadListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\FileDownloadMessageStation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\FileDownloadMessenger.java">
+<error line="243" column="5" severity="warning" message="A complexidade ciclomática é de 22 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\FileDownloadMonitor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\FileDownloadQueueSet.java">
+<error line="120" column="5" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\FileDownloadSampleListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\FileDownloadServiceProxy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\FileDownloadServiceSharedTransmit.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\FileDownloadServiceUIGuard.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\FileDownloadTaskLauncher.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\IDownloadSpeed.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\IFileDownloadMessenger.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\IFileDownloadServiceProxy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\ILostServiceConnectedHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\IQueuesHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\ITaskHunter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\IThreadPoolMonitor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\LostServiceConnectedHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\message\BlockCompleteMessage.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\message\IFlowDirectly.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\message\IMessageSnapshot.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\message\LargeMessageSnapshot.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\message\MessageSnapshot.java">
+<error line="28" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 17 classes [Creator, LargeMessageSnapshot.CompletedSnapshot, LargeMessageSnapshot.ConnectedMessageSnapshot, LargeMessageSnapshot.ErrorMessageSnapshot, LargeMessageSnapshot.PendingMessageSnapshot, LargeMessageSnapshot.ProgressMessageSnapshot, LargeMessageSnapshot.RetryMessageSnapshot, LargeMessageSnapshot.WarnMessageSnapshot, NoFieldException, SmallMessageSnapshot.CompletedSnapshot, SmallMessageSnapshot.ConnectedMessageSnapshot, SmallMessageSnapshot.ErrorMessageSnapshot, SmallMessageSnapshot.PendingMessageSnapshot, SmallMessageSnapshot.ProgressMessageSnapshot, SmallMessageSnapshot.RetryMessageSnapshot, SmallMessageSnapshot.WarnMessageSnapshot, StartedMessageSnapshot] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="120" column="9" severity="warning" message="A complexidade ciclomática é de 17 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\message\MessageSnapshotFlow.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\message\MessageSnapshotTaker.java">
+<error line="31" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 22 classes [BlockCompleteMessage.BlockCompleteMessageImpl, LargeMessageSnapshot.CompletedFlowDirectlySnapshot, LargeMessageSnapshot.CompletedSnapshot, LargeMessageSnapshot.ConnectedMessageSnapshot, LargeMessageSnapshot.ErrorMessageSnapshot, LargeMessageSnapshot.PausedSnapshot, LargeMessageSnapshot.PendingMessageSnapshot, LargeMessageSnapshot.ProgressMessageSnapshot, LargeMessageSnapshot.RetryMessageSnapshot, LargeMessageSnapshot.WarnFlowDirectlySnapshot, LargeMessageSnapshot.WarnMessageSnapshot, MessageSnapshot.StartedMessageSnapshot, SmallMessageSnapshot.CompletedFlowDirectlySnapshot, SmallMessageSnapshot.CompletedSnapshot, SmallMessageSnapshot.ConnectedMessageSnapshot, SmallMessageSnapshot.ErrorMessageSnapshot, SmallMessageSnapshot.PausedSnapshot, SmallMessageSnapshot.PendingMessageSnapshot, SmallMessageSnapshot.ProgressMessageSnapshot, SmallMessageSnapshot.RetryMessageSnapshot, SmallMessageSnapshot.WarnFlowDirectlySnapshot, SmallMessageSnapshot.WarnMessageSnapshot] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="31" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 27 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="102" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\message\MessageSnapshotThreadPool.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\message\SmallMessageSnapshot.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\MessageSnapshotGate.java">
+<error line="32" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\model\ConnectionModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\model\FileDownloadHeader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\model\FileDownloadModel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\model\FileDownloadStatus.java">
+<error line="136" column="5" severity="warning" message="A complexidade ciclomática é de 26 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="202" column="5" severity="warning" message="A complexidade ciclomática é de 26 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\model\FileDownloadTaskAtom.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\notification\BaseNotificationItem.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\notification\FileDownloadNotificationHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\notification\FileDownloadNotificationListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\PauseAllMarker.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\QueuesHandler.java">
+<error line="170" column="9" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\services\BaseFileServiceUIGuard.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\services\DefaultIdGenerator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\services\DownloadMgrInitialParams.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\services\FDServiceSeparateHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\services\FDServiceSharedHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\services\FileDownloadBroadcastHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\services\FileDownloadManager.java">
+<error line="59" column="5" severity="warning" message="A complexidade ciclomática é de 29 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\services\FileDownloadService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\services\FileDownloadThreadPool.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\services\ForegroundServiceConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\services\IFileDownloadServiceHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\stream\FileDownloadOutputStream.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\stream\FileDownloadRandomAccessFile.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\util\DownloadServiceNotConnectedHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\util\ExtraKeys.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\util\FileDownloadExecutors.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\util\FileDownloadHelper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\util\FileDownloadLog.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\util\FileDownloadProperties.java">
+<error line="160" column="5" severity="warning" message="A complexidade ciclomática é de 27 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\util\FileDownloadSerialQueue.java">
+<error line="180" column="60" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\main\java\com\liulishuo\filedownloader\util\FileDownloadUtils.java">
+<error line="58" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="739" column="5" severity="warning" message="A complexidade ciclomática é de 19 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="888" column="48" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\test\java\com\liulishuo\filedownloader\connection\FileDownloadUrlConnectionTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\test\java\com\liulishuo\filedownloader\download\DownloadLaunchRunnableTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\test\java\com\liulishuo\filedownloader\download\DownloadRunnableTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\test\java\com\liulishuo\filedownloader\FileDownloaderTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\lingochamp_FileDownloader\library\src\test\java\com\liulishuo\filedownloader\util\FileDownloadUtilsTest.java">
+</file>
+</checkstyle>

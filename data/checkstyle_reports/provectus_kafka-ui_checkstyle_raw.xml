@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.24.0">
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\client\RetryingKafkaConnectClient.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\config\auth\AbstractAuthSecurityConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\config\auth\AuthenticatedUser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\config\auth\BasicAuthSecurityConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\config\auth\condition\ActiveDirectoryCondition.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\config\auth\condition\CognitoCondition.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\config\auth\DisabledAuthSecurityConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\config\auth\LdapProperties.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\config\auth\LdapSecurityConfig.java">
+<error line="43" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 30 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\config\auth\logout\CognitoLogoutSuccessHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\config\auth\logout\LogoutSuccessHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\config\auth\logout\OAuthLogoutSuccessHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\config\auth\OAuthProperties.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\config\auth\OAuthPropertiesConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\config\auth\OAuthSecurityConfig.java">
+<error line="38" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 28 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\config\auth\RbacLdapUser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\config\auth\RbacOAuth2User.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\config\auth\RbacOidcUser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\config\auth\RbacUser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\config\auth\RoleBasedAccessControlProperties.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\config\ClustersProperties.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\config\Config.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\config\CorsGlobalConfiguration.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\config\CustomWebFilter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\config\ReadOnlyModeFilter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\config\WebclientProperties.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\controller\AbstractController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\controller\AccessController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\controller\AclsController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\controller\ApplicationConfigController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\controller\AuthController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\controller\BrokersController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\controller\ClustersController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\controller\ConsumerGroupsController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\controller\KafkaConnectController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\controller\KsqlController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\controller\MessagesController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\controller\SchemasController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\controller\StaticController.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\controller\TopicsController.java">
+<error line="171" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\emitter\AbstractEmitter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\emitter\BackwardEmitter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\emitter\ConsumingStats.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\emitter\EnhancedConsumer.java">
+<error line="8" column="8" severity="warning" message="Importação não utilizada - java.util.List." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="13" column="8" severity="warning" message="Importação não utilizada - lombok.RequiredArgsConstructor." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="14" column="8" severity="warning" message="Importação não utilizada - lombok.experimental.Delegate." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="15" column="8" severity="warning" message="Importação não utilizada - org.apache.kafka.clients.consumer.Consumer." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\emitter\ForwardEmitter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\emitter\MessageFilters.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\emitter\MessagesProcessing.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\emitter\OffsetsInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\emitter\PolledRecords.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\emitter\PollingSettings.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\emitter\PollingThrottler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\emitter\RangePollingEmitter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\emitter\ResultSizeLimiter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\emitter\SeekOperations.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\emitter\TailingEmitter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\exception\ClusterNotFoundException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\exception\ConnectNotFoundException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\exception\CustomBaseException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\exception\DuplicateEntityException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\exception\ErrorCode.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\exception\FileUploadException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\exception\GlobalErrorWebExceptionHandler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\exception\IllegalEntityStateException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\exception\InvalidRequestApiException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\exception\JsonAvroConversionException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\exception\KafkaConnectConflictReponseException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\exception\KsqlApiException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\exception\KsqlDbNotFoundException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\exception\LogDirNotFoundApiException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\exception\NotFoundException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\exception\ReadOnlyModeException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\exception\SchemaCompatibilityException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\exception\SchemaFailedToDeleteException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\exception\SchemaNotFoundException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\exception\TopicAnalysisException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\exception\TopicMetadataException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\exception\TopicNotFoundException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\exception\TopicOrPartitionNotFoundException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\exception\TopicRecreationException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\exception\UnprocessableEntityException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\exception\ValidationException.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\KafkaUiApplication.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\mapper\ClusterMapper.java">
+<error line="49" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 41 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="133" column="3" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\mapper\ConsumerGroupMapper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\mapper\DescribeLogDirsMapper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\mapper\KafkaConnectMapper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\mapper\KafkaSrMapper.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\BrokerMetrics.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\CleanupPolicy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\ClusterFeature.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\connect\InternalConnectInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\ConsumerPosition.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\InternalBroker.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\InternalBrokerConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\InternalBrokerDiskUsage.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\InternalClusterMetrics.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\InternalClusterState.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\InternalConsumerGroup.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\InternalLogDirStats.java">
+<error line="6" column="15" severity="warning" message="Importação não utilizada - java.util.stream.Collectors.toList." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\InternalPartition.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\InternalPartitionsOffsets.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\InternalReplica.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\InternalSegmentSizeDto.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\InternalTopic.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\InternalTopicConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\InternalTopicConsumerGroup.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\KafkaCluster.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\Metrics.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\MetricsConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\PartitionDistributionStats.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\PartitionsStats.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\rbac\AccessContext.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\rbac\permission\AclAction.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\rbac\permission\ApplicationConfigAction.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\rbac\permission\AuditAction.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\rbac\permission\ClusterConfigAction.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\rbac\permission\ConnectAction.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\rbac\permission\ConsumerGroupAction.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\rbac\permission\KsqlAction.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\rbac\permission\PermissibleAction.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\rbac\permission\SchemaAction.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\rbac\permission\TopicAction.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\rbac\Permission.java">
+<error line="76" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\rbac\provider\Provider.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\rbac\Resource.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\rbac\Role.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\rbac\Subject.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\schemaregistry\ErrorResponse.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\schemaregistry\InternalCompatibilityCheck.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\schemaregistry\InternalCompatibilityLevel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\schemaregistry\InternalNewSchema.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\schemaregistry\SubjectIdResponse.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\model\Statistics.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\serdes\builtin\AvroEmbeddedSerde.java">
+<error line="4" column="8" severity="warning" message="Importação não utilizada - com.provectus.kafka.ui.serde.api.PropertyResolver." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\serdes\builtin\Base64Serde.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\serdes\builtin\ConsumerOffsetsSerde.java">
+<error line="5" column="8" severity="warning" message="Importação não utilizada - com.fasterxml.jackson.databind.ObjectMapper." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="133" column="3" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\serdes\builtin\HexSerde.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\serdes\builtin\Int32Serde.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\serdes\builtin\Int64Serde.java">
+<error line="5" column="8" severity="warning" message="Importação não utilizada - com.provectus.kafka.ui.serde.api.PropertyResolver." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="6" column="8" severity="warning" message="Importação não utilizada - com.provectus.kafka.ui.serde.api.RecordHeaders." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\serdes\builtin\ProtobufFileSerde.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\serdes\builtin\ProtobufRawSerde.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\serdes\builtin\sr\MessageFormatter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\serdes\builtin\sr\SchemaRegistrySerde.java">
+<error line="41" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 29 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\serdes\builtin\sr\SchemaType.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\serdes\builtin\sr\Serialize.java">
+<error line="32" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\serdes\builtin\StringSerde.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\serdes\builtin\UInt32Serde.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\serdes\builtin\UInt64Serde.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\serdes\builtin\UuidBinarySerde.java">
+<error line="6" column="8" severity="warning" message="Importação não utilizada - com.provectus.kafka.ui.serde.api.RecordHeaders." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\serdes\BuiltInSerde.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\serdes\ClassloaderUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\serdes\ClusterSerdes.java">
+<error line="30" column="3" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\serdes\ConsumerRecordDeserializer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\serdes\CustomSerdeLoader.java">
+<error line="17" column="8" severity="warning" message="Importação não utilizada - java.util.Locale." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\serdes\ProducerRecordCreator.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\serdes\PropertyResolverImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\serdes\RecordHeaderImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\serdes\RecordHeadersImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\serdes\SerdeInstance.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\serdes\SerdesInitializer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\acl\AclCsv.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\acl\AclsService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\AdminClientService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\AdminClientServiceImpl.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\analyze\AnalysisTasksStore.java">
+<error line="17" column="8" severity="warning" message="Importação não utilizada - lombok.Value." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\analyze\TopicAnalysisService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\analyze\TopicAnalysisStats.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\analyze\TopicIdentity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\ApplicationInfoService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\audit\AuditRecord.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\audit\AuditService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\audit\AuditWriter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\BrokerService.java">
+<error line="20" column="8" severity="warning" message="Importação não utilizada - javax.annotation.Nullable." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\ClusterService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\ClustersStatisticsScheduler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\ClustersStorage.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\ConsumerGroupService.java">
+<error line="132" column="3" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\DeserializationService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\FeatureService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\integration\odd\ConnectorInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\integration\odd\ConnectorsExporter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\integration\odd\OddExporter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\integration\odd\OddExporterScheduler.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\integration\odd\OddIntegrationConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\integration\odd\OddIntegrationProperties.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\integration\odd\Oddrn.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\integration\odd\schema\AvroExtractor.java">
+<error line="234" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\integration\odd\schema\DataSetFieldsExtractors.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\integration\odd\schema\JsonSchemaExtractor.java">
+<error line="4" column="8" severity="warning" message="Importação não utilizada - com.provectus.kafka.ui.sr.model.SchemaSubject." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\integration\odd\schema\ProtoExtractor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\integration\odd\SchemaReferencesResolver.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\integration\odd\TopicsExporter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\KafkaClusterFactory.java">
+<error line="35" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\KafkaConfigSanitizer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\KafkaConnectService.java">
+<error line="42" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\ksql\KsqlApiClient.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\ksql\KsqlGrammar.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\ksql\KsqlServiceV2.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\ksql\response\DynamicParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\ksql\response\ResponseParser.java">
+<error line="44" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="96" column="3" severity="warning" message="A complexidade ciclomática é de 21 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\masking\DataMasking.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\masking\policies\FieldsSelector.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\masking\policies\Mask.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\masking\policies\MaskingPolicy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\masking\policies\Remove.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\masking\policies\Replace.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\MessagesService.java">
+<error line="49" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 11 classes [BackwardEmitter, ClustersProperties.PollingProperties, CompletableFuture, ForwardEmitter, KafkaProducer, Properties, SmartFilterTestExecutionResultDTO, TailingEmitter, TopicMessageDTO, TopicNotFoundException, ValidationException] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="49" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 32 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\metrics\JmxMetricsFormatter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\metrics\JmxMetricsRetriever.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\metrics\JmxSslSocketFactory.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\metrics\MetricsCollector.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\metrics\MetricsRetriever.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\metrics\PrometheusEndpointMetricsParser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\metrics\PrometheusMetricsRetriever.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\metrics\RawMetric.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\metrics\WellKnownMetrics.java">
+<error line="37" column="3" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\OffsetsResetService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\rbac\AbstractProviderCondition.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\rbac\AccessControlService.java">
+<error line="48" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="98" column="3" severity="warning" message="A complexidade ciclomática é de 15 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\rbac\extractor\CognitoAuthorityExtractor.java">
+<error line="13" column="8" severity="warning" message="Importação não utilizada - java.util.stream.Stream." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\rbac\extractor\GithubAuthorityExtractor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\rbac\extractor\GoogleAuthorityExtractor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\rbac\extractor\OauthAuthorityExtractor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\rbac\extractor\ProviderAuthorityExtractor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\rbac\extractor\RbacLdapAuthoritiesExtractor.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\ReactiveAdminClient.java">
+<error line="91" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 16 classes [AclBindingFilter, AlterConfigOp, ClusterDescription, Config, ConfigEntry, ConfigResource, DescribeClusterOptions, DescribeConfigsOptions, IllegalEntityStateException, ListConsumerGroupOffsetsSpec, ListTopicsOptions, NewTopic, NotFoundException, OffsetAndMetadata, TopicPartition, ValidationException] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="91" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 45 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\SchemaRegistryService.java">
+<error line="17" column="8" severity="warning" message="Importação não utilizada - java.nio.charset.Charset." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\StatisticsCache.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\StatisticsService.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\service\TopicsService.java">
+<error line="52" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 28 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="283" column="3" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\util\annotation\KafkaClientInternalsDependant.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\util\ApplicationMetrics.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\util\ApplicationRestarter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\util\DynamicConfigOperations.java">
+<error line="42" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 26 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\util\EmptyRedirectStrategy.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\util\GithubReleaseInfo.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\util\jsonschema\AnyFieldSchema.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\util\jsonschema\ArrayFieldSchema.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\util\jsonschema\AvroJsonSchemaConverter.java">
+<error line="42" column="3" severity="warning" message="A complexidade ciclomática é de 12 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\util\jsonschema\EnumJsonType.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\util\jsonschema\FieldSchema.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\util\jsonschema\JsonAvroConversion.java">
+<error line="61" column="3" severity="warning" message="A complexidade ciclomática é de 33 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="197" column="3" severity="warning" message="A complexidade ciclomática é de 23 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\util\jsonschema\JsonSchema.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\util\jsonschema\JsonSchemaConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\util\jsonschema\JsonType.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\util\jsonschema\MapFieldSchema.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\util\jsonschema\ObjectFieldSchema.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\util\jsonschema\OneOfFieldSchema.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\util\jsonschema\ProtobufSchemaConverter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\util\jsonschema\RefFieldSchema.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\util\jsonschema\SimpleFieldSchema.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\util\jsonschema\SimpleJsonType.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\util\KafkaServicesValidation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\util\KafkaVersion.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\util\ReactiveFailover.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\util\ResourceUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\util\SslPropertiesUtil.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\main\java\com\provectus\kafka\ui\util\WebClientConfigurator.java">
+<error line="28" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\AbstractIntegrationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\config\ClustersPropertiesTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\container\KafkaConnectContainer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\container\KsqlDbContainer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\container\SchemaRegistryContainer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\controller\ApplicationConfigControllerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\emitter\MessageFiltersTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\emitter\MessagesProcessingTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\emitter\OffsetsInfoTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\emitter\SeekOperationsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\emitter\TailingEmitterTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\KafkaConnectServiceTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\KafkaConsumerGroupTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\KafkaConsumerTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\KafkaTopicCreateTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\model\PartitionDistributionStatsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\producer\KafkaTestProducer.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\ReadOnlyModeTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\SchemaRegistryServiceTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\serdes\builtin\AvroEmbeddedSerdeTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\serdes\builtin\Base64SerdeTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\serdes\builtin\ConsumerOffsetsSerdeTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\serdes\builtin\HexSerdeTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\serdes\builtin\Int32SerdeTest.java">
+<error line="10" column="8" severity="warning" message="Importação não utilizada - org.apache.kafka.common.header.internals.RecordHeaders." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\serdes\builtin\Int64SerdeTest.java">
+<error line="10" column="8" severity="warning" message="Importação não utilizada - org.apache.kafka.common.header.internals.RecordHeaders." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\serdes\builtin\ProtobufFileSerdeTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\serdes\builtin\ProtobufRawSerdeTest.java">
+<error line="6" column="8" severity="warning" message="Importação não utilizada - com.google.protobuf.DescriptorProtos." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="7" column="8" severity="warning" message="Importação não utilizada - com.google.protobuf.Descriptors." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\serdes\builtin\sr\SchemaRegistrySerdeTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\serdes\builtin\UInt32SerdeTest.java">
+<error line="12" column="8" severity="warning" message="Importação não utilizada - org.apache.kafka.common.header.internals.RecordHeaders." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\serdes\builtin\UInt64SerdeTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\serdes\builtin\UuidBinarySerdeTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\serdes\ConsumerRecordDeserializerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\serdes\PropertyResolverImplTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\serdes\SerdesInitializerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\service\acl\AclCsvTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\service\acl\AclsServiceTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\service\analyze\TopicAnalysisServiceTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\service\audit\AuditIntegrationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\service\audit\AuditServiceTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\service\audit\AuditWriterTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\service\BrokerServiceTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\service\ConfigTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\service\integration\odd\ConnectorsExporterTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\service\integration\odd\schema\AvroExtractorTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\service\integration\odd\schema\JsonSchemaExtractorTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\service\integration\odd\schema\ProtoExtractorTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\service\integration\odd\SchemaReferencesResolverTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\service\integration\odd\TopicsExporterTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\service\KafkaConfigSanitizerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\service\ksql\KsqlApiClientTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\service\ksql\KsqlServiceV2Test.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\service\ksql\response\ResponseParserTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\service\LogDirsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\service\masking\DataMaskingTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\service\masking\policies\FieldsSelectorTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\service\masking\policies\MaskTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\service\masking\policies\RemoveTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\service\masking\policies\ReplaceTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\service\MessagesServiceTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\service\metrics\JmxMetricsFormatterTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\service\metrics\PrometheusEndpointMetricsParserTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\service\metrics\PrometheusMetricsRetrieverTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\service\metrics\WellKnownMetricsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\service\OffsetsResetServiceTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\service\ReactiveAdminClientTest.java">
+<error line="41" column="8" severity="warning" message="Importação não utilizada - org.assertj.core.api.ThrowableAssert." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="48" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 14 classes [AlterConfigOp, ConfigEntry, ConfigResource, KafkaConsumer, KafkaFutureImpl, NewTopic, Node, OffsetAndMetadata, ProducerRecord, Properties, TopicDescription, TopicPartition, TopicPartitionInfo, UnknownTopicOrPartitionException] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="48" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 27 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\service\RecordEmitterTest.java">
+<error line="50" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 12 classes [BackwardEmitter, ConsumerPosition, ConsumerRecordDeserializer, EnhancedConsumer, ForwardEmitter, NewTopic, ProducerRecord, Properties, Record, RecordHeader, StringSerde, TopicPartition] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="50" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\service\SchemaRegistryPaginationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\service\SendAndReadTests.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\service\TopicsServicePaginationTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\util\AccessControlServiceMock.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\util\DynamicConfigOperationsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\util\GithubReleaseInfoTest.java">
+<error line="6" column="8" severity="warning" message="Importação não utilizada - java.time.Duration." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="12" column="8" severity="warning" message="Importação não utilizada - reactor.test.StepVerifier." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\util\jsonschema\AvroJsonSchemaConverterTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\util\jsonschema\JsonAvroConversionTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\util\jsonschema\ProtobufSchemaConverterTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\util\PollingThrottlerTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-api\src\test\java\com\provectus\kafka\ui\util\ReactiveFailoverTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\models\Connector.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\models\Schema.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\models\Topic.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\pages\BasePage.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\pages\brokers\BrokersConfigTab.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\pages\brokers\BrokersDetails.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\pages\brokers\BrokersList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\pages\connectors\ConnectorCreateForm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\pages\connectors\ConnectorDetails.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\pages\connectors\KafkaConnectList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\pages\consumers\ConsumersDetails.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\pages\consumers\ConsumersList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\pages\ksqldb\enums\KsqlMenuTabs.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\pages\ksqldb\enums\KsqlQueryConfig.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\pages\ksqldb\KsqlDbList.java">
+<error line="95" column="35" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="144" column="35" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\pages\ksqldb\KsqlQueryForm.java">
+<error line="114" column="33" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="154" column="35" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\pages\ksqldb\models\Stream.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\pages\ksqldb\models\Table.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\pages\panels\enums\MenuItem.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\pages\panels\NaviSideBar.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\pages\panels\TopPanel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\pages\schemas\SchemaCreateForm.java">
+<error line="137" column="33" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\pages\schemas\SchemaDetails.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\pages\schemas\SchemaRegistryList.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\pages\topics\enums\CleanupPolicyValue.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\pages\topics\enums\CustomParameterType.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\pages\topics\enums\MaxSizeOnDisk.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\pages\topics\enums\TimeToRetain.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\pages\topics\ProduceMessagePanel.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\pages\topics\TopicCreateEditForm.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\pages\topics\TopicDetails.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\pages\topics\TopicSettingsTab.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\pages\topics\TopicsList.java">
+<error line="249" column="35" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\services\ApiService.java">
+<error line="36" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 12 classes [ApiClient, CreateTopicMessage, KafkaConnectApi, KsqlApi, KsqlCommandV2, MessagesApi, NewConnector, NewSchemaSubject, ObjectMapper, SchemasApi, TopicCreation, TopicsApi] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="36" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="90" column="50" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="123" column="50" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="137" column="50" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="161" column="50" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\settings\BaseSource.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\settings\configs\Config.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\settings\configs\Profiles.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\settings\drivers\WebDriver.java">
+<error line="90" column="33" severity="warning" message="Bloco catch vazio." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\settings\listeners\AllureListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\settings\listeners\LoggerListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\settings\listeners\QaseCreateListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\settings\listeners\QaseResultListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\utilities\FileUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\utilities\qase\annotations\Automation.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\utilities\qase\annotations\Status.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\utilities\qase\annotations\Suite.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\utilities\qase\enums\State.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\utilities\qase\enums\Status.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\utilities\qase\QaseSetup.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\utilities\StringUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\utilities\TimeUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\utilities\WebUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\variables\Browser.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\variables\Expected.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\variables\Suite.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\main\java\com\provectus\kafka\ui\variables\Url.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\test\java\com\provectus\kafka\ui\BaseTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\test\java\com\provectus\kafka\ui\Facade.java">
+<error line="25" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 21 classes [ApiService, BrokersConfigTab, BrokersDetails, BrokersList, ConnectorCreateForm, ConnectorDetails, ConsumersDetails, ConsumersList, KafkaConnectList, KsqlDbList, KsqlQueryForm, NaviSideBar, ProduceMessagePanel, SchemaCreateForm, SchemaDetails, SchemaRegistryList, TopPanel, TopicCreateEditForm, TopicDetails, TopicSettingsTab, TopicsList] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="25" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\test\java\com\provectus\kafka\ui\manualsuite\backlog\SanityBacklog.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\test\java\com\provectus\kafka\ui\manualsuite\backlog\SmokeBacklog.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\test\java\com\provectus\kafka\ui\manualsuite\BaseManualTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\test\java\com\provectus\kafka\ui\manualsuite\suite\DataMaskingTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\test\java\com\provectus\kafka\ui\manualsuite\suite\RbacTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\test\java\com\provectus\kafka\ui\manualsuite\suite\TopicsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\test\java\com\provectus\kafka\ui\manualsuite\suite\WizardTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\test\java\com\provectus\kafka\ui\qasesuite\BaseQaseTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\test\java\com\provectus\kafka\ui\qasesuite\Template.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\test\java\com\provectus\kafka\ui\sanitysuite\TopicsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\test\java\com\provectus\kafka\ui\smokesuite\brokers\BrokersTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\test\java\com\provectus\kafka\ui\smokesuite\connectors\ConnectorsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\test\java\com\provectus\kafka\ui\smokesuite\ksqldb\KsqlDbTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\test\java\com\provectus\kafka\ui\smokesuite\schemas\SchemasTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\test\java\com\provectus\kafka\ui\smokesuite\SmokeTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\test\java\com\provectus\kafka\ui\smokesuite\topics\MessagesTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-e2e-checks\src\test\java\com\provectus\kafka\ui\smokesuite\topics\TopicsTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-serde-api\src\main\java\com\provectus\kafka\ui\serde\api\DeserializeResult.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-serde-api\src\main\java\com\provectus\kafka\ui\serde\api\PropertyResolver.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-serde-api\src\main\java\com\provectus\kafka\ui\serde\api\RecordHeader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-serde-api\src\main\java\com\provectus\kafka\ui\serde\api\RecordHeaders.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-serde-api\src\main\java\com\provectus\kafka\ui\serde\api\SchemaDescription.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\provectus_kafka-ui\kafka-ui-serde-api\src\main\java\com\provectus\kafka\ui\serde\api\Serde.java">
+</file>
+</checkstyle>

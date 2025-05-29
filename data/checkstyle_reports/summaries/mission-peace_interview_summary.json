@@ -1,0 +1,10 @@
+{
+  "repository": "mission-peace_interview",
+  "code_smells": {
+    "Cyclomatic Complexity": 53,
+    "Unused Imports": 28,
+    "Empty Control Statement": 3,
+    "Empty Catch Block": 1
+  },
+  "total_smells": 85
+}

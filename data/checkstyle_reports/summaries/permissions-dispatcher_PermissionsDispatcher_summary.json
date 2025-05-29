@@ -1,0 +1,7 @@
+{
+  "repository": "permissions-dispatcher_PermissionsDispatcher",
+  "code_smells": {
+    "Cyclomatic Complexity": 1
+  },
+  "total_smells": 1
+}

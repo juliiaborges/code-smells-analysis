@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.24.0">
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\H07000223_FlycoTabLayout\app\src\main\java\com\flyco\tablayoutsamples\adapter\SimpleHomeAdapter.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\H07000223_FlycoTabLayout\app\src\main\java\com\flyco\tablayoutsamples\entity\TabEntity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\H07000223_FlycoTabLayout\app\src\main\java\com\flyco\tablayoutsamples\ui\CommonTabActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\H07000223_FlycoTabLayout\app\src\main\java\com\flyco\tablayoutsamples\ui\SegmentTabActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\H07000223_FlycoTabLayout\app\src\main\java\com\flyco\tablayoutsamples\ui\SimpleCardFragment.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\H07000223_FlycoTabLayout\app\src\main\java\com\flyco\tablayoutsamples\ui\SimpleHomeActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\H07000223_FlycoTabLayout\app\src\main\java\com\flyco\tablayoutsamples\ui\SlidingTabActivity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\H07000223_FlycoTabLayout\app\src\main\java\com\flyco\tablayoutsamples\utils\ViewFindUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\H07000223_FlycoTabLayout\FlycoTabLayout_Lib\src\main\java\com\flyco\tablayout\CommonTabLayout.java">
+<error line="39" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 13 classes [Bundle, FragmentChangeManager, GradientDrawable, IndicatorPoint, LinearLayout, LinearLayout.LayoutParams, OnClickListener, OvershootInterpolator, Paint, Path, PointEvaluator, Rect, SparseArray] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="39" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 29 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="268" column="5" severity="warning" message="A complexidade ciclomática é de 13 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="391" column="5" severity="warning" message="A complexidade ciclomática é de 18 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\H07000223_FlycoTabLayout\FlycoTabLayout_Lib\src\main\java\com\flyco\tablayout\listener\CustomTabEntity.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\H07000223_FlycoTabLayout\FlycoTabLayout_Lib\src\main\java\com\flyco\tablayout\listener\OnTabSelectListener.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\H07000223_FlycoTabLayout\FlycoTabLayout_Lib\src\main\java\com\flyco\tablayout\SegmentTabLayout.java">
+<error line="34" column="1" severity="warning" message="O acoplamento de abstração de dados da classe é de 12 classes [Bundle, FragmentChangeManager, GradientDrawable, IndicatorPoint, LinearLayout, LinearLayout.LayoutParams, OnClickListener, OvershootInterpolator, Paint, PointEvaluator, Rect, SparseArray] (o máximo permitido é de 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="34" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 26 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="348" column="5" severity="warning" message="A complexidade ciclomática é de 11 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\H07000223_FlycoTabLayout\FlycoTabLayout_Lib\src\main\java\com\flyco\tablayout\SlidingTabLayout.java">
+<error line="38" column="1" severity="warning" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="439" column="5" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\H07000223_FlycoTabLayout\FlycoTabLayout_Lib\src\main\java\com\flyco\tablayout\utils\FragmentChangeManager.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\H07000223_FlycoTabLayout\FlycoTabLayout_Lib\src\main\java\com\flyco\tablayout\utils\UnreadMsgUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\H07000223_FlycoTabLayout\FlycoTabLayout_Lib\src\main\java\com\flyco\tablayout\widget\MsgView.java">
+</file>
+</checkstyle>

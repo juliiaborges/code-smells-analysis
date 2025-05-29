@@ -1,0 +1,9 @@
+{
+  "repository": "jfeinstein10_SlidingMenu",
+  "code_smells": {
+    "Unused Imports": 32,
+    "Cyclomatic Complexity": 5,
+    "Potential God Class": 1
+  },
+  "total_smells": 38
+}

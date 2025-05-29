@@ -1,0 +1,6 @@
+2025-05-29 12:54:42,177 - INFO - Encontrados 82 repositórios já clonados.
+2025-05-29 12:54:42,177 - INFO - Buscando repositórios populares (página 5)...
+2025-05-29 12:54:43,445 - ERROR - Erro ao buscar repositórios: 401 Client Error: Unauthorized for url: https://api.github.com/search/repositories?q=language%3Ajava+stars%3A%3E100&sort=stars&order=desc&page=5&per_page=50
+2025-05-29 12:54:43,448 - WARNING - Nenhum repositório encontrado na página 5.
+2025-05-29 12:54:43,459 - INFO - Clonados 0 novos repositórios.
+2025-05-29 12:54:43,461 - INFO - Resultados salvos em ../data/clone_logs\clone_results.json

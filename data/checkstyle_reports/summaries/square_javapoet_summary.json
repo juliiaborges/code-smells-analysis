@@ -1,0 +1,9 @@
+{
+  "repository": "square_javapoet",
+  "code_smells": {
+    "Cyclomatic Complexity": 9,
+    "Potential God Class": 1,
+    "Empty Catch Block": 1
+  },
+  "total_smells": 11
+}

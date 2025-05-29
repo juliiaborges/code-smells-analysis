@@ -654,5 +654,93 @@
     "message": "Clonado com sucesso.",
     "url": "https://github.com/cryptomator/cryptomator",
     "stars": 12887
+  },
+  {
+    "owner": "permissions-dispatcher",
+    "name": "PermissionsDispatcher",
+    "success": true,
+    "message": "Clonado com sucesso.",
+    "url": "https://github.com/permissions-dispatcher/PermissionsDispatcher",
+    "stars": 11228
+  },
+  {
+    "owner": "jhy",
+    "name": "jsoup",
+    "success": true,
+    "message": "Clonado com sucesso.",
+    "url": "https://github.com/jhy/jsoup",
+    "stars": 11174
+  },
+  {
+    "owner": "mission-peace",
+    "name": "interview",
+    "success": true,
+    "message": "Clonado com sucesso.",
+    "url": "https://github.com/mission-peace/interview",
+    "stars": 11167
+  },
+  {
+    "owner": "apereo",
+    "name": "cas",
+    "success": false,
+    "message": "Cloning into '../data/repositories\\apereo_cas'...\nerror: unable to create file api/cas-server-core-api-configuration-model/src/main/java/org/apereo/cas/configuration/model/core/authentication/RegisteredServiceAuthenticationHandlerResolutionProperties.java: Filename too long\nerror: unable to create file api/cas-server-core-api-configuration-model/src/main/java/org/apereo/cas/configuration/model/core/authentication/policy/RequiredAttributesAuthenticationPolicyProperties.java: Filename too long\nerror: unable to create file api/cas-server-core-api-configuration-model/src/main/java/org/apereo/cas/configuration/model/core/authentication/policy/RequiredAuthenticationHandlerAuthenticationPolicyProperties.java: Filename too long\nerror: unable to create file api/cas-server-core-api-configuration-model/src/main/java/org/apereo/cas/configuration/model/core/authentication/risk/RiskBasedAuthenticationDeviceFingerprintProperties.java: Filename too long\nerror: unable to create file api/cas-server-core-api-configuration-model/src/main/java/org/apereo/cas/configuration/model/support/account/provision/AccountManagementRegistrationProvisioningProperties.java: Filename too long\nerror: unable to create file api/cas-server-core-api-configuration-model/src/main/java/org/apereo/cas/configuration/model/support/account/provision/GroovyAccountManagementRegistrationProvisioningProperties.java: Filename too long\nerror: unable to create file api/cas-server-core-api-configuration-model/src/main/java/org/apereo/cas/configuration/model/support/account/provision/RestfulAccountManagementRegistrationProvisioningProperties.java: Filename too long\nerror: unable to create file api/cas-server-core-api-configuration-model/src/main/java/org/apereo/cas/configuration/model/support/account/provision/ScimAccountManagementRegistrationProvisioningProperties.java: Filename too long\nUpdating files:   3% (409/11575)\nerror: unable to create file api/cas-server-core-api-configuration-model/src/main/java/org/apereo/cas/configuration/model/support/hazelcast/discovery/HazelcastGoogleCloudPlatformDiscoveryProperties.java: Filename too long\nUpdating files:   4% (463/11575)\nerror: unable to create file api/cas-server-core-api-configuration-model/src/main/java/org/apereo/cas/configuration/model/support/mfa/duo/DuoSecurityMultifactorAuthenticationRegistrationProperties.java: Filename too long\nerror: unable to create file api/cas-server-core-api-configuration-model/src/main/java/org/apereo/cas/configuration/model/support/mfa/simple/RestfulCasSimpleMultifactorAuthenticationTokenProperties.java: Filename too long\nerror: unable to create file api/cas-server-core-api-configuration-model/src/main/java/org/apereo/cas/configuration/model/support/mfa/webauthn/WebAuthnMultifactorAttestationTrustSourceFidoProperties.java: Filename too long\nUpdating files:   5% (579/11575)\nerror: unable to create file api/cas-server-core-api-configuration-model/src/main/java/org/apereo/cas/configuration/model/support/pac4j/Pac4jDelegatedAuthenticationDiscoverySelectionJsonProperties.java: Filename too long\nerror: unable to create file api/cas-server-core-api-configuration-model/src/main/java/org/apereo/cas/configuration/model/support/passwordless/account/PasswordlessAuthenticationGroovyAccountsProperties.java: Filename too long\nerror: unable to create file api/cas-server-core-api-configuration-model/src/main/java/org/apereo/cas/configuration/model/support/passwordless/account/PasswordlessAuthenticationJsonAccountsProperties.java: Filename too long\nerror: unable to create file api/cas-server-core-api-configuration-model/src/main/java/org/apereo/cas/configuration/model/support/passwordless/account/PasswordlessAuthenticationLdapAccountsProperties.java: Filename too long\nerror: unable to create file api/cas-server-core-api-configuration-model/src/main/java/org/apereo/cas/configuration/model/support/passwordless/account/PasswordlessAuthenticationMongoDbAccountsProperties.java: Filename too long\nerror: unable to create file api/cas-server-core-api-configuration-model/src/main/java/org/apereo/cas/configuration/model/support/passwordless/account/PasswordlessAuthenticationRestAccountsProperties.java: Filename too long\nerror: unable to create file api/cas-server-core-api-configuration-model/src/main/java/org/apereo/cas/configuration/model/support/passwordless/account/PasswordlessAuthenticationSyncopeAccountsProperties.java: Filename too long\nerror: unable to create file api/cas-server-core-api-configuration-model/src/main/java/org/apereo/cas/configuration/model/support/passwordless/token/PasswordlessAuthenticationMongoDbTokensProperties.java: Filename too long\nUpdating files:   6% (695/11575)\nerror: unable to create file api/cas-server-core-api-configuration-model/src/main/java/org/apereo/cas/configuration/model/support/syncope/SyncopeAccountManagementRegistrationProvisioningProperties.java: Filename too long\nUpdating files:   6% (788/11575)\nUpdating files:   7% (811/11575)\nUpdating files:   8% (926/11575)\nUpdating files:   9% (1042/11575)\nUpdating files:  10% (1158/11575)\nUpdating files:  10% (1160/11575)\nUpdating files:  11% (1274/11575)\nUpdating files:  12% (1389/11575)\nUpdating files:  13% (1505/11575)\nUpdating files:  13% (1515/11575)\nUpdating files:  14% (1621/11575)\nUpdating files:  15% (1737/11575)\nUpdating files:  16% (1852/11575)\nUpdating files:  16% (1915/11575)\nUpdating files:  17% (1968/11575)\nUpdating files:  18% (2084/11575)\nUpdating files:  19% (2200/11575)\nUpdating files:  20% (2315/11575)\nUpdating files:  21% (2431/11575)\nUpdating files:  22% (2547/11575)\nUpdating files:  23% (2663/11575)\nUpdating files:  23% (2723/11575)\nUpdating files:  24% (2778/11575)\nUpdating files:  25% (2894/11575)\nUpdating files:  26% (3010/11575)\nUpdating files:  27% (3126/11575)\nUpdating files:  27% (3128/11575)\nUpdating files:  28% (3241/11575)\nUpdating files:  29% (3357/11575)\nerror: unable to create file core/cas-server-core-authentication-mfa-api/src/main/java/org/apereo/cas/authentication/bypass/RegisteredServicePrincipalAttributeMultifactorAuthenticationProviderBypassEvaluator.java: Filename too long\nerror: unable to create file core/cas-server-core-authentication-mfa-api/src/main/java/org/apereo/cas/authentication/mfa/trigger/RegisteredServicePrincipalAttributeMultifactorAuthenticationTrigger.java: Filename too long\nerror: unable to create file core/cas-server-core-authentication-mfa-api/src/test/java/org/apereo/cas/authentication/mfa/bypass/audit/MultifactorAuthenticationProviderBypassAuditResourceResolverTests.java: Filename too long\nUpdating files:  30% (3473/11575)\nUpdating files:  30% (3497/11575)\nerror: unable to create file core/cas-server-core-authentication-mfa/src/test/java/org/apereo/cas/authentication/bypass/RegisteredServicePrincipalAttributeMultifactorAuthenticationProviderBypassEvaluatorTests.java: Filename too long\nerror: unable to create file core/cas-server-core-authentication-mfa/src/test/java/org/apereo/cas/authentication/mfa/trigger/RegisteredServicePrincipalAttributeMultifactorAuthenticationTriggerTests.java: Filename too long\nUpdating files:  31% (3589/11575)\nUpdating files:  32% (3704/11575)\nUpdating files:  32% (3728/11575)\nUpdating files:  33% (3820/11575)\nUpdating files:  34% (3936/11575)\nUpdating files:  35% (4052/11575)\nUpdating files:  35% (4089/11575)\nUpdating files:  36% (4167/11575)\nUpdating files:  37% (4283/11575)\nUpdating files:  38% (4399/11575)\nUpdating files:  38% (4499/11575)\nUpdating files:  39% (4515/11575)\nUpdating files:  40% (4630/11575)\nUpdating files:  41% (4746/11575)\nUpdating files:  41% (4844/11575)\nUpdating files:  42% (4862/11575)\nUpdating files:  43% (4978/11575)\nUpdating files:  44% (5093/11575)\nUpdating files:  45% (5209/11575)\nUpdating files:  46% (5325/11575)\nUpdating files:  46% (5356/11575)\nUpdating files:  47% (5441/11575)\nUpdating files:  48% (5556/11575)\nUpdating files:  49% (5672/11575)\nUpdating files:  50% (5788/11575)\nUpdating files:  50% (5791/11575)\nUpdating files:  51% (5904/11575)\nUpdating files:  52% (6019/11575)\nUpdating files:  52% (6033/11575)\nerror: unable to create file support/cas-server-support-configuration-cloud-gcp-secretsmanager/src/main/java/org/apereo/cas/config/CasGoogleCloudSecretsManagerCloudConfigBootstrapAutoConfiguration.java: Filename too long\nUpdating files:  53% (6135/11575)\nerror: unable to create file support/cas-server-support-configuration-metadata-repository/src/main/java/org/springframework/boot/configurationmetadata/CasConfigurationMetadataRepositoryJsonBuilder.java: Filename too long\nUpdating files:  53% (6231/11575)\nUpdating files:  54% (6251/11575)\nUpdating files:  55% (6367/11575)\nUpdating files:  55% (6464/11575)\nUpdating files:  56% (6482/11575)\nUpdating files:  57% (6598/11575)\nUpdating files:  57% (6672/11575)\nUpdating files:  58% (6714/11575)\nUpdating files:  59% (6830/11575)\nUpdating files:  59% (6880/11575)\nUpdating files:  60% (6945/11575)\nUpdating files:  61% (7061/11575)\nUpdating files:  61% (7146/11575)\nUpdating files:  62% (7177/11575)\nUpdating files:  63% (7293/11575)\nUpdating files:  63% (7400/11575)\nUpdating files:  64% (7408/11575)\nUpdating files:  65% (7524/11575)\nerror: unable to create file support/cas-server-support-oauth-core-api/src/main/java/org/apereo/cas/support/oauth/validator/authorization/OAuth20AuthorizationCodeResponseTypeAuthorizationRequestValidator.java: Filename too long\nerror: unable to create file support/cas-server-support-oauth-core-api/src/main/java/org/apereo/cas/support/oauth/validator/authorization/OAuth20IdTokenAndTokenResponseTypeAuthorizationRequestValidator.java: Filename too long\nerror: unable to create file support/cas-server-support-oauth-core-api/src/main/java/org/apereo/cas/support/oauth/validator/authorization/OAuth20ProofKeyCodeExchangeResponseTypeAuthorizationRequestValidator.java: Filename too long\nerror: unable to create file support/cas-server-support-oauth-core-api/src/main/java/org/apereo/cas/support/oauth/validator/token/OAuth20AuthorizationCodeGrantTypeProofKeyCodeExchangeTokenRequestValidator.java: Filename too long\nerror: unable to create file support/cas-server-support-oauth-core-api/src/main/java/org/apereo/cas/support/oauth/web/response/accesstoken/ext/AccessTokenProofKeyCodeExchangeAuthorizationCodeGrantRequestExtractor.java: Filename too long\nerror: unable to create file support/cas-server-support-oauth-core-api/src/main/java/org/apereo/cas/support/oauth/web/response/accesstoken/response/OAuth20RegisteredServiceJwtAccessTokenCipherExecutor.java: Filename too long\nUpdating files:  66% (7640/11575)\nUpdating files:  66% (7719/11575)\nUpdating files:  67% (7756/11575)\nerror: unable to create file support/cas-server-support-oauth/src/test/java/org/apereo/cas/support/oauth/validator/authorization/OAuth20AuthorizationCodeResponseTypeAuthorizationRequestValidatorTests.java: Filename too long\nerror: unable to create file support/cas-server-support-oauth/src/test/java/org/apereo/cas/support/oauth/validator/authorization/OAuth20IdTokenAndTokenResponseTypeAuthorizationRequestValidatorTests.java: Filename too long\nerror: unable to create file support/cas-server-support-oauth/src/test/java/org/apereo/cas/support/oauth/validator/authorization/OAuth20ProofKeyCodeExchangeResponseTypeAuthorizationRequestValidatorTests.java: Filename too long\nerror: unable to create file support/cas-server-support-oauth/src/test/java/org/apereo/cas/support/oauth/web/response/accesstoken/ext/AccessTokenProofKeyCodeExchangeAuthorizationCodeGrantRequestExtractorTests.java: Filename too long\nUpdating files:  68% (7871/11575)\nerror: unable to create file support/cas-server-support-oauth/src/test/java/org/apereo/cas/support/oauth/web/response/accesstoken/response/OAuth20RegisteredServiceJwtAccessTokenCipherExecutorTests.java: Filename too long\nUpdating files:  69% (7987/11575)\nUpdating files:  69% (8069/11575)\nUpdating files:  70% (8103/11575)\nUpdating files:  71% (8219/11575)\nUpdating files:  72% (8334/11575)\nUpdating files:  72% (8364/11575)\nUpdating files:  73% (8450/11575)\nUpdating files:  74% (8566/11575)\nUpdating files:  74% (8632/11575)\nUpdating files:  75% (8682/11575)\nUpdating files:  76% (8797/11575)\nUpdating files:  77% (8913/11575)\nUpdating files:  77% (8948/11575)\nUpdating files:  78% (9029/11575)\nUpdating files:  79% (9145/11575)\nUpdating files:  79% (9214/11575)\nUpdating files:  80% (9260/11575)\nUpdating files:  81% (9376/11575)\nerror: unable to create file support/cas-server-support-saml-idp-metadata/src/main/java/org/apereo/cas/support/saml/services/idp/metadata/plan/SamlRegisteredServiceMetadataResolutionPlanConfigurer.java: Filename too long\nerror: unable to create file support/cas-server-support-saml-idp-metadata/src/test/java/org/apereo/cas/support/saml/services/idp/metadata/cache/SamlRegisteredServiceDefaultCachingMetadataResolverTests.java: Filename too long\nerror: unable to create file support/cas-server-support-saml-idp-metadata/src/test/java/org/apereo/cas/support/saml/services/idp/metadata/cache/SamlRegisteredServiceMetadataResolverCacheLoaderTests.java: Filename too long\nUpdating files:  81% (9467/11575)\nerror: unable to create file support/cas-server-support-saml-idp-metadata/src/test/java/org/apereo/cas/support/saml/services/idp/metadata/cache/resolver/SamlRegisteredServiceMetadataExpirationPolicyTests.java: Filename too long\nUpdating files:  82% (9492/11575)\nerror: unable to create file support/cas-server-support-saml-idp-web/src/main/java/org/apereo/cas/support/saml/web/idp/profile/builders/response/query/SamlProfileAttributeQueryFaultResponseBuilder.java: Filename too long\nUpdating files:  83% (9608/11575)\nUpdating files:  84% (9723/11575)\nUpdating files:  84% (9746/11575)\nUpdating files:  85% (9839/11575)\nUpdating files:  86% (9955/11575)\nUpdating files:  86% (9975/11575)\nUpdating files:  87% (10071/11575)\nUpdating files:  88% (10186/11575)\nUpdating files:  88% (10209/11575)\nUpdating files:  89% (10302/11575)\nUpdating files:  90% (10418/11575)\nUpdating files:  90% (10498/11575)\nUpdating files:  91% (10534/11575)\nUpdating files:  92% (10649/11575)\nUpdating files:  93% (10765/11575)\nUpdating files:  93% (10794/11575)\nUpdating files:  94% (10881/11575)\nUpdating files:  95% (10997/11575)\nUpdating files:  95% (11089/11575)\nUpdating files:  96% (11112/11575)\nerror: unable to create file support/cas-server-support-wsfederation/src/test/java/org/apereo/cas/support/wsfederation/authentication/principal/WsFederationCredentialsToPrincipalResolverAllResolutionTests.java: Filename too long\nerror: unable to create file support/cas-server-support-wsfederation/src/test/java/org/apereo/cas/support/wsfederation/authentication/principal/WsFederationCredentialsToPrincipalResolverCasResolutionTests.java: Filename too long\nUpdating files:  97% (11228/11575)\nUpdating files:  98% (11344/11575)\nUpdating files:  98% (11441/11575)\nUpdating files:  99% (11460/11575)\nUpdating files: 100% (11575/11575)\nUpdating files: 100% (11575/11575), done.\nfatal: unable to checkout working tree\nwarning: Clone succeeded, but checkout failed.\nYou can inspect what was checked out with 'git status'\nand retry with 'git restore --source=HEAD :/'\n\n",
+    "url": "https://github.com/apereo/cas",
+    "stars": 11112
+  },
+  {
+    "owner": "H07000223",
+    "name": "FlycoTabLayout",
+    "success": true,
+    "message": "Clonado com sucesso.",
+    "url": "https://github.com/H07000223/FlycoTabLayout",
+    "stars": 11100
+  },
+  {
+    "owner": "lingochamp",
+    "name": "FileDownloader",
+    "success": true,
+    "message": "Clonado com sucesso.",
+    "url": "https://github.com/lingochamp/FileDownloader",
+    "stars": 11086
+  },
+  {
+    "owner": "xpipe-io",
+    "name": "xpipe",
+    "success": true,
+    "message": "Clonado com sucesso.",
+    "url": "https://github.com/xpipe-io/xpipe",
+    "stars": 11070
+  },
+  {
+    "owner": "PaperMC",
+    "name": "Paper",
+    "success": true,
+    "message": "Clonado com sucesso.",
+    "url": "https://github.com/PaperMC/Paper",
+    "stars": 11069
+  },
+  {
+    "owner": "jfeinstein10",
+    "name": "SlidingMenu",
+    "success": true,
+    "message": "Clonado com sucesso.",
+    "url": "https://github.com/jfeinstein10/SlidingMenu",
+    "stars": 11056
+  },
+  {
+    "owner": "square",
+    "name": "javapoet",
+    "success": true,
+    "message": "Clonado com sucesso.",
+    "url": "https://github.com/square/javapoet",
+    "stars": 10865
+  },
+  {
+    "owner": "provectus",
+    "name": "kafka-ui",
+    "success": true,
+    "message": "Clonado com sucesso.",
+    "url": "https://github.com/provectus/kafka-ui",
+    "stars": 10849
   }
 ]

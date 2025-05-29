@@ -1,0 +1,11 @@
+{
+  "repository": "provectus_kafka-ui",
+  "code_smells": {
+    "Potential God Class": 17,
+    "Cyclomatic Complexity": 15,
+    "Unused Imports": 24,
+    "Too Many Fields": 6,
+    "Empty Catch Block": 11
+  },
+  "total_smells": 73
+}

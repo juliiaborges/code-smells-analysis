@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.24.0">
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\permissions-dispatcher_PermissionsDispatcher\annotation\src\main\java\permissions\dispatcher\GrantableRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\permissions-dispatcher_PermissionsDispatcher\annotation\src\main\java\permissions\dispatcher\NeedsPermission.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\permissions-dispatcher_PermissionsDispatcher\annotation\src\main\java\permissions\dispatcher\OnNeverAskAgain.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\permissions-dispatcher_PermissionsDispatcher\annotation\src\main\java\permissions\dispatcher\OnPermissionDenied.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\permissions-dispatcher_PermissionsDispatcher\annotation\src\main\java\permissions\dispatcher\OnShowRationale.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\permissions-dispatcher_PermissionsDispatcher\annotation\src\main\java\permissions\dispatcher\PermissionRequest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\permissions-dispatcher_PermissionsDispatcher\annotation\src\main\java\permissions\dispatcher\RuntimePermissions.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\permissions-dispatcher_PermissionsDispatcher\library\src\main\java\permissions\dispatcher\PermissionUtils.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\permissions-dispatcher_PermissionsDispatcher\library\src\test\java\permissions\dispatcher\ApiLevelTestSuite.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\permissions-dispatcher_PermissionsDispatcher\lint\src\main\java\permissions\dispatcher\CallNeedsPermissionDetector.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\permissions-dispatcher_PermissionsDispatcher\lint\src\main\java\permissions\dispatcher\CallOnRequestPermissionsResultDetector.java">
+<error line="101" column="9" severity="warning" message="A complexidade ciclomática é de 16 (o máximo permitido é 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\permissions-dispatcher_PermissionsDispatcher\lint\src\main\java\permissions\dispatcher\NoCorrespondingNeedsPermissionDetector.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\permissions-dispatcher_PermissionsDispatcher\lint\src\main\java\permissions\dispatcher\NoDelegateOnResumeDetector.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\permissions-dispatcher_PermissionsDispatcher\lint\src\main\java\permissions\dispatcher\PermissionsDispatcherIssueRegistry.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\permissions-dispatcher_PermissionsDispatcher\processor\src\test\java\permissions\dispatcher\processor\base\AndroidAwareClassLoader.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\permissions-dispatcher_PermissionsDispatcher\processor\src\test\java\permissions\dispatcher\processor\base\BaseTest.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\permissions-dispatcher_PermissionsDispatcher\processor\src\test\java\permissions\dispatcher\processor\base\StringEquals.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\permissions-dispatcher_PermissionsDispatcher\processor\src\test\java\permissions\dispatcher\processor\base\TestSuite.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\permissions-dispatcher_PermissionsDispatcher\processor\src\test\java\permissions\dispatcher\processor\data\Source.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\permissions-dispatcher_PermissionsDispatcher\processor\src\test\java\permissions\dispatcher\processor\ProcessorTestSuite.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\permissions-dispatcher_PermissionsDispatcher\test\src\main\java\permissions\dispatcher\test\ActivityOnlyNeedsPermission.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\permissions-dispatcher_PermissionsDispatcher\test\src\main\java\permissions\dispatcher\test\ActivityWithAllAnnotations.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\permissions-dispatcher_PermissionsDispatcher\test\src\main\java\permissions\dispatcher\test\ActivityWithOnNeverAskAgain.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\permissions-dispatcher_PermissionsDispatcher\test\src\main\java\permissions\dispatcher\test\ActivityWithOnPermissionDenied.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\permissions-dispatcher_PermissionsDispatcher\test\src\main\java\permissions\dispatcher\test\ActivityWithShowRationale.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\permissions-dispatcher_PermissionsDispatcher\test\src\main\java\permissions\dispatcher\test\ActivityWithSystemAlertWindow.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\permissions-dispatcher_PermissionsDispatcher\test\src\main\java\permissions\dispatcher\test\ActivityWithSystemAlertWindowAllAnnotations.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\permissions-dispatcher_PermissionsDispatcher\test\src\main\java\permissions\dispatcher\test\ActivityWithWriteSetting.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\permissions-dispatcher_PermissionsDispatcher\test\src\main\java\permissions\dispatcher\test\ActivityWithWriteSettingAllAnnotations.java">
+</file>
+<file name="C:\Users\dtiDigital\Desktop\Faculdade\code-smells-analysis\scripts\..\data\repositories\permissions-dispatcher_PermissionsDispatcher\test\src\main\java\permissions\dispatcher\test\FragmentWithAllAnnotations.java">
+</file>
+</checkstyle>

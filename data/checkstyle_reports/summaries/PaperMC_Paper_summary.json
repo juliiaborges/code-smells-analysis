@@ -1,0 +1,13 @@
+{
+  "repository": "PaperMC_Paper",
+  "code_smells": {
+    "Unused Imports": 161,
+    "Cyclomatic Complexity": 159,
+    "Empty Control Statement": 8,
+    "Potential God Class": 103,
+    "Too Many Fields": 31,
+    "Empty Catch Block": 56,
+    "Naming Conventions": 4
+  },
+  "total_smells": 522
+}
