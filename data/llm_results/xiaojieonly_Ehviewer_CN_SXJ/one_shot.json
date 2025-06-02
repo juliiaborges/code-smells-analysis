@@ -1,0 +1,15 @@
+{
+  "repository": "xiaojieonly_Ehviewer_CN_SXJ",
+  "code_smells": {
+    "Empty Catch Block": 19,
+    "Unnecessary Import (Unused Imports)": 10,
+    "Unnecessary Local Before Return (Unused Local Variables)": 186,
+    "Cyclomatic Complexity": 8217,
+    "God Class": 15,
+    "Class Naming Conventions": 29,
+    "Empty Control Statement": 0,
+    "Too Many Fields": 20,
+    "Too Many Methods": 49
+  },
+  "total_smells": 8545
+}

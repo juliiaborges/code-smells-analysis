@@ -1,0 +1,15 @@
+{
+  "repository": "redisson_redisson",
+  "code_smells": {
+    "Empty Catch Block": 105,
+    "Unnecessary Import (Unused Imports)": 0,
+    "Unnecessary Local Before Return (Unused Local Variables)": 0,
+    "Cyclomatic Complexity": 601,
+    "God Class": 12,
+    "Class Naming Conventions": 115,
+    "Empty Control Statement": 1,
+    "Too Many Fields": 19,
+    "Too Many Methods": 256
+  },
+  "total_smells": 1109
+}

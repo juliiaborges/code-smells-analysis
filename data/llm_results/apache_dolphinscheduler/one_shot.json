@@ -1,0 +1,15 @@
+{
+  "repository": "apache_dolphinscheduler",
+  "code_smells": {
+    "Empty Catch Block": 0,
+    "Unnecessary Import (Unused Imports)": 0,
+    "Unnecessary Local Before Return (Unused Local Variables)": 1153,
+    "Cyclomatic Complexity": 11444,
+    "God Class": 6,
+    "Class Naming Conventions": 53,
+    "Empty Control Statement": 2,
+    "Too Many Fields": 37,
+    "Too Many Methods": 19
+  },
+  "total_smells": 12714
+}

@@ -1,0 +1,15 @@
+{
+  "repository": "qiurunze123_miaosha",
+  "code_smells": {
+    "Empty Catch Block": 1,
+    "Unnecessary Import (Unused Imports)": 14,
+    "Unnecessary Local Before Return (Unused Local Variables)": 12,
+    "Cyclomatic Complexity": 10312,
+    "God Class": 2,
+    "Class Naming Conventions": 1,
+    "Empty Control Statement": 0,
+    "Too Many Fields": 2,
+    "Too Many Methods": 5
+  },
+  "total_smells": 10349
+}

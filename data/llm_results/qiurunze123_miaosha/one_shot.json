@@ -1,15 +1,15 @@
 {
-  "repository": "proxyee-down-org_proxyee-down",
+  "repository": "qiurunze123_miaosha",
   "code_smells": {
-    "Empty Catch Block": 15,
+    "Empty Catch Block": 1,
     "Unnecessary Import (Unused Imports)": 0,
-    "Unnecessary Local Before Return (Unused Local Variables)": 101,
-    "Cyclomatic Complexity": 316,
-    "God Class": 0,
+    "Unnecessary Local Before Return (Unused Local Variables)": 88,
+    "Cyclomatic Complexity": 461,
+    "God Class": 2,
     "Class Naming Conventions": 0,
     "Empty Control Statement": 0,
-    "Too Many Fields": 0,
-    "Too Many Methods": 1
+    "Too Many Fields": 2,
+    "Too Many Methods": 5
   },
-  "total_smells": 433
+  "total_smells": 559
 }

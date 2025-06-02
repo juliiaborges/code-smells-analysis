@@ -1,0 +1,15 @@
+{
+  "repository": "Bigkoo_Android-PickerView",
+  "code_smells": {
+    "Empty Catch Block": 0,
+    "Unnecessary Import (Unused Imports)": 0,
+    "Unnecessary Local Before Return (Unused Local Variables)": 25,
+    "Cyclomatic Complexity": 373,
+    "God Class": 4,
+    "Class Naming Conventions": 0,
+    "Empty Control Statement": 0,
+    "Too Many Fields": 3,
+    "Too Many Methods": 7
+  },
+  "total_smells": 412
+}

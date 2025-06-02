@@ -1,0 +1,15 @@
+{
+  "repository": "pinpoint-apm_pinpoint",
+  "code_smells": {
+    "Empty Catch Block": 151,
+    "Unnecessary Import (Unused Imports)": 0,
+    "Unnecessary Local Before Return (Unused Local Variables)": 659,
+    "Cyclomatic Complexity": 24791,
+    "God Class": 28,
+    "Class Naming Conventions": 406,
+    "Empty Control Statement": 6,
+    "Too Many Fields": 23,
+    "Too Many Methods": 104
+  },
+  "total_smells": 28168
+}

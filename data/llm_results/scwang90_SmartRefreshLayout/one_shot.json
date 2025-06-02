@@ -1,0 +1,15 @@
+{
+  "repository": "scwang90_SmartRefreshLayout",
+  "code_smells": {
+    "Empty Catch Block": 0,
+    "Unnecessary Import (Unused Imports)": 0,
+    "Unnecessary Local Before Return (Unused Local Variables)": 6,
+    "Cyclomatic Complexity": 1676,
+    "God Class": 3,
+    "Class Naming Conventions": 2,
+    "Empty Control Statement": 0,
+    "Too Many Fields": 9,
+    "Too Many Methods": 6
+  },
+  "total_smells": 1702
+}
