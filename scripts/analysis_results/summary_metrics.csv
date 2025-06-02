@@ -1,0 +1,24 @@
+Questão,Métrica,Valor
+Questão 1,1.1 - Total LLM Zero-Shot,569279.0
+Questão 1,1.1 - Total PMD,13953.0
+Questão 1,1.1 - Total CheckStyle,16300.0
+Questão 1,1.2 - Dif. Média LLM_ZS-PMD,7119.5641025641025
+Questão 1,1.2 - Dif. Média LLM_ZS-CS,7089.474358974359
+Questão 1,1.3 - Similaridade LLM_ZS vs PMD,2.1921394166326453
+Questão 1,1.4 - Divergência LLM_ZS vs PMD,97.55519772358122
+Questão 1,1.5 - Similaridade LLM_ZS vs CS,1.987752670830387
+Questão 1,1.6 - Divergência LLM_ZS vs CS,97.16109975163977
+Questão 2,2.1 - Total LLM One-Shot,524396.0
+Questão 2,2.1 - Total PMD,13953.0
+Questão 2,2.1 - Total CheckStyle,16300.0
+Questão 2,2.2 - Dif. Média LLM_OS-PMD,6544.141025641025
+Questão 2,2.2 - Dif. Média LLM_OS-CS,6514.051282051282
+Questão 2,2.3 - Similaridade LLM_OS vs PMD,2.283742678058781
+Questão 2,2.4 - Divergência LLM_OS vs PMD,97.34899654018683
+Questão 2,2.5 - Similaridade LLM_OS vs CS,2.340582590426438
+Questão 2,2.6 - Divergência LLM_OS vs CS,96.91480703348286
+Questão 3,3.1 - Total LLM Calibrado,28060.0
+Questão 3,3.1 - Total PMD,13953.0
+Questão 3,3.2 - Dif. Média LLM_Cal-PMD,180.85897435897436
+Questão 3,3.3 - Similaridade LLM_Cal vs PMD,37.07788182322425
+Questão 3,3.4 - Divergência LLM_Cal vs PMD,54.474860517472024
