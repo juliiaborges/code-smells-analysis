@@ -4,7 +4,7 @@ import tiktoken
 import time
 from openai import OpenAI
 
-client = OpenAI(api_key="COLOCA_O_TOKEN_ARROMBADO")
+client = OpenAI(api_key="TOKEN")
 
 REPO_NAME = "TheAlgorithms_Java"
 REPO_PATH = "C:\\Users\\GUILHERME\\PycharmProjects\\code-smells-analysis\\data\\repositories\\TheAlgorithms_Java"
